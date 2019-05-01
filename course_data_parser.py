@@ -74,7 +74,10 @@ def associate_time_with_course(course_time_list):
                     i = i + 3
                 else:
                     i = i + 1
-            course_data[key] = times
+            if key in course_data:
+                course_data[key].extend(times)
+            else:
+                course_data[key] = times
         else:
             i = i + 1
     return course_data
@@ -119,7 +122,7 @@ def is_time(token):
 
 
 def is_class_type(token):
-    types = set(["SEM", "LEC", "REC"])
+    types = set(["LEC", "REC", "LAB", "SEM", "SRT", "STU", "CLN", "ONL", "IND", "DIS"])
     if token in types:
         return True
     else:

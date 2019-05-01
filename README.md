@@ -6,18 +6,19 @@ The data is obtained from parsing PDFs from the course register, which is public
 https://www.registrar.upenn.edu/archives/index.html.
 
 # Setup
-Run `pip install pdfminer` (Python 2) or `pip install pdfminer.six` (Python 3).
+Run `pip install pdfminer` (Python 2) or `pip install pdfminer.six` (Python 3). And check out `search_course.py` to see 
+how you can search for a particular course (currently prints raw JSON data).
 
 # TODO
+* Create user interface
 * Database design (to support lookup by course over multiple semesters)
     * SQLite
 * Define API and data structures
 * Make parsing more efficient (perhaps look into PDFMiner utils or replace tokenization with another parsing process)
-* Fetch all data from Penn Course Register
-* Download and parse all PDFs from web, check for missing data
+* Fetch and parse older PDFs from Penn Course Register
 
 # Course Data
-Example data: 
+Example data (see `/data` folder for more):
 ```
 {
   "AFRC-240": [
@@ -59,11 +60,13 @@ Example data:
 }
 ```
 
-# Possible Issues
-* More class types than LEC, SEM, REC?
+# Issues
+* Parsing two or three-letter course codes (BE 100 renders as BE -100 in the PDF), and many CIS courses are not being
+properly separated
 
 # Solved Issues
+* Class types - LEC, REC, LAB, SEM, SRT, STU, CLN, ONL, IND
 * Day combinations - instead of hard-coding MW or TR, used a regex that accepts strings which are some combination of 
 M, T, W, R, F, S, U
 * Page splits - convert entire document to text at once
-* Parsing two or three-letter course codes (BE 100 renders as BE -100 in the PDF)
+

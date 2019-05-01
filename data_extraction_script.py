@@ -1,5 +1,10 @@
 import json
+import os
 from course_data_parser import get_course_info
+
+BIN_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/bin/"
+DATA_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/data/"
+MISSING_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/missing/"
 
 
 # Parse the given course timetable PDF and identify any courses that are missing time data
@@ -25,5 +30,10 @@ def extract_and_write_course_data(pdf_path, output_path, missing_path):
 
 
 if __name__ == '__main__':
-    extract_and_write_course_data("bin/sample.pdf", "data/sample.txt", "data/sample-missing.txt")
-    extract_and_write_course_data("bin/18C-Course-Timetable.pdf", "data/18C-course-data.txt", "data/18C-missing.txt")
+    for filename in os.listdir(BIN_DIRECTORY):
+        print("Starting to parse " + filename)
+        extract_and_write_course_data(
+            BIN_DIRECTORY + filename,
+            DATA_DIRECTORY + filename[:3] + "-data.txt",
+            MISSING_DIRECTORY + filename[:3] + "-missing.txt"
+        )
