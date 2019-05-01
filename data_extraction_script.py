@@ -25,5 +25,5 @@ def extract_and_write_course_data(pdf_path, output_path, missing_path):
 
 
 if __name__ == '__main__':
-    extract_and_write_course_data("bin/sample.pdf", "bin/sample.txt", "bin/sample-missing.txt")
-    extract_and_write_course_data("bin/18C-Course-Timetable.pdf", "bin/18C-course-data.txt", "bin/18C-missing.txt")
+    extract_and_write_course_data("bin/sample.pdf", "data/sample.txt", "data/sample-missing.txt")
+    extract_and_write_course_data("bin/18C-Course-Timetable.pdf", "data/18C-course-data.txt", "data/18C-missing.txt")

@@ -20,44 +20,50 @@ Run `pip install pdfminer` (Python 2) or `pip install pdfminer.six` (Python 3).
 Example data: 
 ```
 {
-    "AFRC-240": [
-        {
-            "day": "MW",
-            "time": "5:30-7:30PM",
-            "type": "LEC"
-        }
-    ],
-    "AFRC-248": [
-        {
-            "day": "W",
-            "time": "2-5PM",
-            "type": "SEM"
-        }
-    ],
-    "AFRC-269": [
-        {
-            "day": "MW",
-            "time": "3-4PM",
-            "type": "LEC"
-        },
-        {
-          "day": "T",
-          "time": "4:30-5:30PM",
-          "type": "REC"
-        },
-        {
-          "day": "W",
-          "time": "4-5PM",
-          "type": "REC"
-        },
-        {
-          "day": "R",
-          "time": "3:30-4:30PM",
-          "type": "REC"
-        }
-    ]
+  "AFRC-240": [
+    {
+      "day": "MW",
+      "time": "5:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-248": [
+    {
+      "day": "W",
+      "time": "2-5PM",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-269": [
+    {
+      "day": "MW",
+      "time": "3-4PM",
+      "type": "LEC"
+    },
+    {
+      "day": "T",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "day": "W",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "3:30-4:30PM",
+      "type": "REC"
+    }
+  ]
 }
 ```
 
 # Possible Issues
 * More class types than LEC, SEM, REC?
+
+# Solved Issues
+* Day combinations - instead of hard-coding MW or TR, used a regex that accepts strings which are some combination of 
+M, T, W, R, F, S, U
+* Page splits - convert entire document to text at once
+* Parsing two or three-letter course codes (BE 100 renders as BE -100 in the PDF)
