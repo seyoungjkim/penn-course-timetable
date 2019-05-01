@@ -1,17 +1,13 @@
 import re
-import time
 from pdf_parser import extract_text
 
 
 # Returns JSON representation of course time info
 def get_course_info(pdf_path):
-    start = time.time()
     page_text = extract_text(pdf_path)
     tokens = page_text.split()
     time_info = parse_register(tokens)
     course_data = associate_time_with_course(time_info)
-    duration = time.time() - start
-    print(duration)
     return course_data
 
 
