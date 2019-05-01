@@ -1,0 +1,598 @@
+{
+  "AAMW-525": [
+    {
+      "day": "T",
+      "time": "1:30-4:30PM",
+      "type": "SEM"
+    }
+  ],
+  "AAMW-526": [
+    {
+      "day": "M",
+      "time": "2-5PM",
+      "type": "SEM"
+    }
+  ],
+  "AAMW-534": [
+    {
+      "day": "M",
+      "time": "2-5PM",
+      "type": "SEM"
+    }
+  ],
+  "AAMW-538": [
+    {
+      "day": "R",
+      "time": "4:30-7:30PM",
+      "type": "SEM"
+    }
+  ],
+  "AAMW-562": [
+    {
+      "day": "MW",
+      "time": "5-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AAMW-619": [
+    {
+      "day": "T",
+      "time": "1:30-4:30PM",
+      "type": "SEM"
+    }
+  ],
+  "AAMW-715": [
+    {
+      "day": "R",
+      "time": "1-4PM",
+      "type": "SEM"
+    }
+  ],
+  "AAMW-720": [
+    {
+      "day": "M",
+      "time": "10-1PM",
+      "type": "SEM"
+    }
+  ],
+  "ACCT-101": [
+    {
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-102": [
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-212": [
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-242": [
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-243": [
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-611": [
+    {
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-612": [
+    {
+      "day": "TR",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-613": [
+    {
+      "day": "TR",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-742": [
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-743": [
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-910": [
+    {
+      "day": "T",
+      "time": "9-12NOON",
+      "type": "SEM"
+    }
+  ],
+  "ACCT-981": [
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "ACCT-982": [
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-001": [
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-002": [
+    {
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "T",
+      "time": "9:30-10:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "T",
+      "time": "10:30-11:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "9:30-10:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "10:30-11:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    }
+  ],
+  "AFRC-003": [
+    {
+      "day": "MW",
+      "time": "2-3:30PM",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-006": [
+    {
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-050": [
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "MUSC-050": [
+    {
+      "day": "MWF",
+      "time": "12-1PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-054": [
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-056": [
+    {
+      "day": "F",
+      "time": "2-5PM",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-074": [
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-076": [
+    {
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    }
+  ],
+  "AFRC-077": [
+    {
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-078": [
+    {
+      "day": "W",
+      "time": "2-5PM",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-120": [
+    {
+      "day": "MW",
+      "time": "10-11AM",
+      "type": "LEC"
+    },
+    {
+      "day": "R",
+      "time": "9:30-10:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "10:30-11:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    }
+  ],
+  "AFRC-134": [
+    {
+      "day": "W",
+      "time": "2-5PM",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-135": [
+    {
+      "day": "TR",
+      "time": "4:30-6PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-151": [
+    {
+      "day": "MW",
+      "time": "3-5PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-154": [
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-162": [
+    {
+      "day": "TR",
+      "time": "4:30-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-168": [
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-170": [
+    {
+      "day": "MW",
+      "time": "5-7PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-174": [
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-176": [
+    {
+      "day": "MW",
+      "time": "2-3:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-180": [
+    {
+      "day": "T",
+      "time": "12-2PM,",
+      "type": "LEC"
+    },
+    {
+      "day": "R",
+      "time": "12-2PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-186": [
+    {
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-190": [
+    {
+      "day": "TR",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-215": [
+    {
+      "day": "R",
+      "time": "1:30-4:30PM",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-229": [
+    {
+      "day": "T",
+      "time": "1:30-4:30PM",
+      "type": "SEM"
+    },
+    {
+      "day": "W",
+      "time": "3:30-6:30PM",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-233": [
+    {
+      "day": "M",
+      "time": "2-5PM",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-236": [
+    {
+      "day": "M",
+      "time": "2-5PM",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-240": [
+    {
+      "day": "MW",
+      "time": "5:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-248": [
+    {
+      "day": "W",
+      "time": "2-5PM",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-269": [
+    {
+      "day": "MW",
+      "time": "3-4PM",
+      "type": "LEC"
+    },
+    {
+      "day": "T",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "day": "W",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "3:30-4:30PM",
+      "type": "REC"
+    }
+  ]
+}
