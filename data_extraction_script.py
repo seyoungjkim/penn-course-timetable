@@ -19,10 +19,12 @@ def find_missing_course_data(pdf_path):
 
 
 # Write extracted data to a file as well as course codes that are missing time data, if they exist
-def extract_and_write_course_data(pdf_path, output_path, missing_path):
+def extract_and_write_course_data(pdf_path, output_path, js_path, missing_path, variable):
     missing_courses, course_data = find_missing_course_data(pdf_path)
     with open(output_path, "w+") as file:
         file.write(json.dumps(course_data, indent=2))
+    with open(js_path, "w+") as file:
+        file.write("var data" + variable + " = " + json.dumps(course_data, indent=2))
     if len(missing_courses) > 0:
         with open(missing_path, "w+") as file:
             for course in missing_courses:
@@ -34,6 +36,8 @@ if __name__ == '__main__':
         print("Starting to parse " + filename)
         extract_and_write_course_data(
             BIN_DIRECTORY + filename,
-            DATA_DIRECTORY + filename[:3] + "-data.txt",
-            MISSING_DIRECTORY + filename[:3] + "-missing.txt"
+            DATA_DIRECTORY + filename[:3] + "-data.json",
+            DATA_DIRECTORY + filename[:3] + "-data.js",
+            MISSING_DIRECTORY + filename[:3] + "-missing.txt",
+            filename[:3]
         )

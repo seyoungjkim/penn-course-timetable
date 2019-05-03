@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Penn Course Timetable</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <h1>Penn Course Timetable</h1>
+    <p>Search for a course!</p>
+    <form id="course-search">
+        <input id="course-name" type='text' name='course-name'/>
+        <input type='button' value='Search' onclick='displayFormContents(this.form);return false;' />
+    </form>
+
+    <div id="course-data"></div>
+
+    <script type="text/javascript" src="data/16C-data.js"></script>
+    <script type="text/javascript" src="data/17A-data.js"></script>
+    <script type="text/javascript" src="data/17C-data.js"></script>
+    <script type="text/javascript" src="data/18A-data.js"></script>
+    <script type="text/javascript" src="data/18C-data.js"></script>
+    <script type="text/javascript" src="js/search.js"></script>
+</body>
+</html>

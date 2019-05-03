@@ -29,8 +29,8 @@ def stringify_course_info(course_info_list):
 
 
 if __name__ == '__main__':
-    search("CIS-677", DATA_DIRECTORY)
+    search("EAS-203", DATA_DIRECTORY)
     print("==============================================================================================")
-    search("CIS-120", DATA_DIRECTORY)
+    search("CIS-380", DATA_DIRECTORY)
     print("==============================================================================================")
     search("NETS-412", DATA_DIRECTORY)
