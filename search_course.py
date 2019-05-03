@@ -18,12 +18,19 @@ def search(course, directory):
             course_data = json.load(file)
             if course in course_data:
                 print("Results from " + semester(filename) + ":")
-                print(course_data[course])
+                print(stringify_course_info(course_data[course]))
+
+
+def stringify_course_info(course_info_list):
+    text = ""
+    for class_time in course_info_list:
+        text = text + class_time["type"] + " offered on " + class_time["day"] + " at " + class_time["time"] + "\n"
+    return text[:-1]
 
 
 if __name__ == '__main__':
-    search("CHEM-221", DATA_DIRECTORY)
+    search("CIS-677", DATA_DIRECTORY)
     print("==============================================================================================")
-    search("MATH-360", DATA_DIRECTORY)
+    search("CIS-120", DATA_DIRECTORY)
     print("==============================================================================================")
-    search("BIOL-221", DATA_DIRECTORY)
+    search("NETS-412", DATA_DIRECTORY)

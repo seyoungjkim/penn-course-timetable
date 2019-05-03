@@ -11,22 +11,22 @@ def get_course_info(pdf_path):
     return course_data
 
 
-# Parse course register text info
+# Parse course register text info for all course, day, and time tokens
 def parse_register(tokens):
     time_info = []
     i = 0
     while i < len(tokens):
-        if is_course_code(tokens[i]) and i > 0 and tokens[i - 1] != "LISTED:":
+        if is_course_code(tokens[i]) and i > 0:
             time_info.append(tokens[i])
             i = i + 1
-        elif is_dangling_course_number(tokens[i]) and i - 1 > 0 and tokens[i - 2] != "LISTED:":
+        elif is_dangling_course_number(tokens[i]) and i - 1 > 0:
             time_info.append((tokens[i - 1] + tokens[i]))
             i = i + 1
         elif is_class_type(tokens[i]):
             time_info.append(tokens[i])
             i = i + 1
             while i < len(tokens):
-                if is_course_code(tokens[i]) or is_class_type(tokens[i]):
+                if is_course_code(tokens[i]) or is_class_type(tokens[i]) or is_dangling_course_number(tokens[i]):
                     break
                 if is_day(tokens[i]) or is_time(tokens[i]):
                     time_info.append(tokens[i])
@@ -36,24 +36,20 @@ def parse_register(tokens):
     return time_info
 
 
-# Traverse a list of course and time info
+# Create structured data from a list of course, day, and time info and
 def associate_time_with_course(course_time_list):
     course_data = {}
     i = 0
     while i < len(course_time_list):
-        if is_course_code(course_time_list[i]) or is_dangling_course_number(course_time_list[i]):
-            # cross-listed courses
-            if i + 1 < len(course_time_list) and (is_course_code(course_time_list[i + 1]) or
-                                                  is_dangling_course_number(course_time_list[i + 2])):
+        if is_course_code(course_time_list[i]):
+            # handle cross-listed courses
+            if i + 1 < len(course_time_list) and is_course_code(course_time_list[i + 1]):
                 i = i + 1
                 continue
             key = course_time_list[i]
-            if is_dangling_course_number(course_time_list[i]) and i > 0:
-                key = course_time_list[i - 1] + key
             times = []
             i = i + 1
-            while i < len(course_time_list) and not is_course_code(course_time_list[i]) and not \
-                    is_dangling_course_number(course_time_list[i]):
+            while i < len(course_time_list) and not is_course_code(course_time_list[i]):
                 if i + 1 < len(course_time_list) and is_class_type(course_time_list[i]) and \
                         course_time_list[i + 1] == "TBA":
                     class_info = {
@@ -122,7 +118,7 @@ def is_time(token):
 
 
 def is_class_type(token):
-    types = set(["LEC", "REC", "LAB", "SEM", "SRT", "STU", "CLN", "ONL", "IND", "DIS"])
+    types = {"LEC", "REC", "LAB", "SEM", "SRT", "STU", "CLN", "ONL", "IND", "DIS"}
     if token in types:
         return True
     else:

@@ -6,8 +6,12 @@ The data is obtained from parsing PDFs from the course register, which is public
 https://www.registrar.upenn.edu/archives/index.html.
 
 # Setup
-Run `pip install pdfminer` (Python 2) or `pip install pdfminer.six` (Python 3). And check out `search_course.py` to see 
-how you can search for a particular course (currently prints raw JSON data).
+Run `pip install pdfminer` (Python 2) or `pip install pdfminer.six` (Python 3). 
+
+Download the desired course timetable PDFs and place in the `/bin` folder. 
+Run `data_extraction_script.py` to parse the data (this may take up to 3 minutes per PDF).
+
+Finally, check out `search_course.py` to see how you can search for a particular course (currently prints raw JSON data).
 
 # TODO
 * Create user interface
@@ -60,13 +64,13 @@ Example data (see `/data` folder for more):
 }
 ```
 
-# Issues
+# Solved Issues
 * Parsing two or three-letter course codes (BE 100 renders as BE -100 in the PDF), and many CIS courses are not being
 properly separated
-
-# Solved Issues
 * Class types - LEC, REC, LAB, SEM, SRT, STU, CLN, ONL, IND
-* Day combinations - instead of hard-coding MW or TR, used a regex that accepts strings which are some combination of 
+* Day combinations - instead of hard-coding combinations like MW or TR, used a regex that accepts strings which are some combination of 
 M, T, W, R, F, S, U
 * Page splits - convert entire document to text at once
 
+# Future Directions
+* Integrate into some kind of scheduler or course planning tool

@@ -229,6 +229,23 @@
       "type": "LEC"
     }
   ],
+  "ACCT-742": [
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
   "ACCT-297": [
     {
       "day": "MW",
@@ -243,6 +260,23 @@
     {
       "day": "MW",
       "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-897": [
+    {
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
@@ -277,23 +311,6 @@
       "type": "LEC"
     }
   ],
-  "ACCT-742": [
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
   "ACCT-747": [
     {
       "day": "MW",
@@ -303,23 +320,6 @@
     {
       "day": "MW",
       "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    }
-  ],
-  "ACCT-897": [
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1:30PM",
       "type": "LEC"
     },
     {
@@ -412,6 +412,48 @@
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
+    },
+    {
+      "day": "M",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "SOCI-001": [
+    {
+      "day": "T",
+      "time": "9:30-10:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "T",
+      "time": "10:30-11:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "9:30-10:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "10:30-11:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
     },
     {
       "day": "M",
@@ -541,6 +583,36 @@
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
     }
   ],
   "AFRC-112": [
@@ -779,6 +851,33 @@
       "type": "REC"
     }
   ],
+  "SOCI-307": [
+    {
+      "day": "R",
+      "time": "9-10AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "4-5PM",
+      "type": "LEC"
+    }
+  ],
   "AFRC-312": [
     {
       "day": "W",
@@ -858,7 +957,49 @@
     },
     {
       "day": "TR",
+      "time": "5-7PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
       "time": "1-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "5-7PM",
+      "type": "LEC"
+    }
+  ],
+  "AFST-491": [
+    {
+      "day": "TR",
+      "time": "1-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "7-9PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "5-7PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "1-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "7-9PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "5-7PM",
       "type": "LEC"
     }
   ],
@@ -874,6 +1015,43 @@
       "type": "LEC"
     },
     {
+      "day": "MW",
+      "time": "7-9PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "7-8:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "5-6:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "7-9PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "AFST-493": [
+    {
+      "day": "MW",
+      "time": "5-6:30PM",
+      "type": "LEC"
+    },
+    {
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -884,8 +1062,18 @@
       "type": "LEC"
     },
     {
+      "day": "MW",
+      "time": "5-7PM",
+      "type": "LEC"
+    },
+    {
       "day": "TR",
       "time": "7-8:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
       "type": "LEC"
     },
     {
@@ -901,6 +1089,21 @@
     {
       "day": "MW",
       "time": "7-9PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "5-7PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "7-8:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
       "type": "LEC"
     }
   ],
@@ -921,6 +1124,11 @@
       "type": "LEC"
     },
     {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
       "day": "TR",
       "time": "7-9PM",
       "type": "LEC"
@@ -933,6 +1141,53 @@
     {
       "day": "TBA",
       "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "AFST-495": [
+    {
+      "day": "TR",
+      "time": "4:30-6PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "7-9PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "4:30-6PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "7-9PM",
       "type": "LEC"
     }
   ],
@@ -1064,6 +1319,11 @@
       "day": "R",
       "time": "5-7PM",
       "type": "SEM"
+    },
+    {
+      "day": "M",
+      "time": "2-4PM",
+      "type": "SEM"
     }
   ],
   "AFRC-605": [
@@ -1077,6 +1337,11 @@
     {
       "day": "T",
       "time": "1:30-4:30PM",
+      "type": "SEM"
+    },
+    {
+      "day": "W",
+      "time": "2-5PM",
       "type": "SEM"
     }
   ],
@@ -1309,80 +1574,6 @@
       "type": "LEC"
     }
   ],
-  "AFST-491": [
-    {
-      "day": "TR",
-      "time": "7-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "1-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "7-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "1-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "5-7PM",
-      "type": "LEC"
-    }
-  ],
-  "AFST-493": [
-    {
-      "day": "MW",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "7-8:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "7-8:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "5-6:30PM",
-      "type": "LEC"
-    }
-  ],
   "AFST-597": [
     {
       "day": "TR",
@@ -1390,16 +1581,6 @@
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "7-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
       "day": "TR",
       "time": "6:30-8PM",
       "type": "LEC"
@@ -1407,11 +1588,6 @@
     {
       "day": "MW",
       "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
       "type": "LEC"
     },
     {
@@ -1420,16 +1596,6 @@
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "7-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
       "day": "TR",
       "time": "6:30-8PM",
       "type": "LEC"
@@ -1437,63 +1603,6 @@
     {
       "day": "MW",
       "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    }
-  ],
-  "AFST-495": [
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "7-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "4:30-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "7-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "4:30-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
       "type": "LEC"
     }
   ],
@@ -2197,6 +2306,33 @@
       "type": "REC"
     }
   ],
+  "SAST-063": [
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    }
+  ],
   "ANTH-086": [
     {
       "day": "M",
@@ -2666,6 +2802,48 @@
       "type": "LEC"
     }
   ],
+  "ARAB-632": [
+    {
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
   "ARAB-034": [
     {
       "day": "MW",
@@ -2685,6 +2863,28 @@
     {
       "day": "TR",
       "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ARAB-634": [
+    {
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
@@ -2760,70 +2960,6 @@
       "day": "W",
       "time": "3-6PM",
       "type": "SEM"
-    }
-  ],
-  "ARAB-632": [
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    }
-  ],
-  "ARAB-634": [
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
     }
   ],
   "ARAB-636": [
@@ -2943,11 +3079,6 @@
       "day": "TR",
       "time": "1:30-2:50PM",
       "type": "SEM"
-    },
-    {
-      "day": "TR",
-      "time": "4-6PM",
-      "type": "LEC"
     }
   ],
   "ARCH-320": [
@@ -2988,6 +3119,23 @@
       "type": "LAB"
     }
   ],
+  "ARCH-532": [
+    {
+      "day": "F",
+      "time": "1-3PM",
+      "type": "LAB"
+    },
+    {
+      "day": "F",
+      "time": "1-3PM",
+      "type": "LAB"
+    },
+    {
+      "day": "R",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
   "ARCH-436": [
     {
       "day": "W",
@@ -2998,6 +3146,18 @@
       "day": "F",
       "time": "3-5PM",
       "type": "LAB"
+    }
+  ],
+  "ARCH-536": [
+    {
+      "day": "F",
+      "time": "3-5PM",
+      "type": "LAB"
+    },
+    {
+      "day": "W",
+      "time": "10:30-12NOON",
+      "type": "LEC"
     }
   ],
   "ARCH-482": [
@@ -3057,35 +3217,6 @@
     {
       "day": "W",
       "time": "9-10:30AM",
-      "type": "LAB"
-    }
-  ],
-  "ARCH-532": [
-    {
-      "day": "R",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "1-3PM",
-      "type": "LAB"
-    },
-    {
-      "day": "F",
-      "time": "1-3PM",
-      "type": "LAB"
-    }
-  ],
-  "ARCH-536": [
-    {
-      "day": "W",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "3-5PM",
       "type": "LAB"
     }
   ],
@@ -3462,11 +3593,73 @@
       "type": "REC"
     }
   ],
+  "VLST-232": [
+    {
+      "day": "T",
+      "time": "9:30-10:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "T",
+      "time": "10:30-11:30AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
   "ARTH-103": [
     {
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
     },
     {
       "day": "F",
@@ -3482,6 +3675,23 @@
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
+    }
+  ],
+  "EALC-013": [
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "10-11AM",
+      "type": "LEC"
     }
   ],
   "ARTH-104": [
@@ -3517,7 +3727,9 @@
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ARTH-650": [
     {
       "day": "F",
       "time": "9-10AM",
@@ -3527,6 +3739,11 @@
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "10-11AM",
+      "type": "LEC"
     }
   ],
   "ARTH-281": [
@@ -3534,7 +3751,9 @@
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ARTH-681": [
     {
       "day": "R",
       "time": "10-11AM",
@@ -3544,6 +3763,11 @@
       "day": "R",
       "time": "11-12NOON",
       "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "1-2PM",
+      "type": "LEC"
     }
   ],
   "ARTH-294": [
@@ -3833,20 +4057,6 @@
       "type": "LEC"
     }
   ],
-  "ARTH-650": [
-    {
-      "day": "MW",
-      "time": "10-11AM",
-      "type": "LEC"
-    }
-  ],
-  "ARTH-681": [
-    {
-      "day": "MW",
-      "time": "1-2PM",
-      "type": "LEC"
-    }
-  ],
   "ARTH-694": [
     {
       "day": "MW",
@@ -3997,7 +4207,9 @@
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "BE-101": [
     {
       "day": "T",
       "time": "3-4:30PM",
@@ -4007,12 +4219,16 @@
       "day": "R",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BE-220": [
     {
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "BE-301": [
     {
       "day": "TR",
       "time": "10:30-12NOON",
@@ -4022,7 +4238,9 @@
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
-    },
+    }
+  ],
+  "BE-305": [
     {
       "day": "TR",
       "time": "3-4:30PM",
@@ -4032,7 +4250,9 @@
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
-    },
+    }
+  ],
+  "BE-310": [
     {
       "day": "MW",
       "time": "12-1:30PM",
@@ -4052,7 +4272,9 @@
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LAB"
-    },
+    }
+  ],
+  "BE-350": [
     {
       "day": "MW",
       "time": "3-4:30PM",
@@ -4062,7 +4284,9 @@
       "day": "F",
       "time": "12:30-2PM",
       "type": "REC"
-    },
+    }
+  ],
+  "BE-470": [
     {
       "day": "R",
       "time": "10-12NOON",
@@ -4072,22 +4296,30 @@
       "day": "F",
       "time": "10-12NOON",
       "type": "LAB"
-    },
+    }
+  ],
+  "BE-480": [
     {
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BE-490": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "BE-492": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "BE-496": [
     {
       "day": "M",
       "time": "3-4:30PM",
@@ -4097,37 +4329,56 @@
       "day": "W",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BE-497": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "BE-498": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "BE-504": [
     {
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BE-510": [
     {
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BE-521": [
     {
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "NGG-521": [
     {
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
+    {
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
+  "BE-530": [
     {
       "day": "TR",
       "time": "9-10:30AM",
@@ -4144,12 +4395,16 @@
       "day": "F",
       "time": "3-5PM",
       "type": "LAB"
-    },
+    }
+  ],
+  "BE-550": [
     {
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BE-559": [
     {
       "day": "MW",
       "time": "1:30-3PM",
@@ -4161,7 +4416,9 @@
       "day": "TR",
       "time": "4-5:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BE-640": [
     {
       "day": "TR",
       "time": "2:30-4PM",
@@ -4173,17 +4430,23 @@
       "day": "W",
       "time": "3-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BE-699": [
     {
       "day": "R",
       "time": "12-1:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "BE-995": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
-    },
+    }
+  ],
+  "BE-999": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -4708,7 +4971,9 @@
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BEPP-950": [
     {
       "day": "MW",
       "time": "10:30-12NOON",
@@ -4757,6 +5022,11 @@
     {
       "day": "F",
       "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "1-2PM",
       "type": "REC"
     },
     {
@@ -4832,6 +5102,18 @@
       "type": "LEC"
     }
   ],
+  "BEPP-805": [
+    {
+      "day": "MW",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
   "BEPP-399": [
     {
       "day": "W",
@@ -4881,18 +5163,6 @@
       "type": "LEC"
     }
   ],
-  "BEPP-805": [
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
   "BEPP-852": [
     {
       "day": "TR",
@@ -4919,13 +5189,6 @@
       "type": "LEC"
     }
   ],
-  "BEPP-950": [
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    }
-  ],
   "BEPP-961": [
     {
       "day": "MW",
@@ -4941,6 +5204,18 @@
     },
     {
       "day": "M",
+      "time": "12-1:30PM",
+      "type": "SEM"
+    }
+  ],
+  "REAL-962": [
+    {
+      "day": "M",
+      "time": "12-1:30PM",
+      "type": "SEM"
+    },
+    {
+      "day": "W",
       "time": "12-1:30PM",
       "type": "SEM"
     }
@@ -5206,6 +5481,18 @@
       "type": "LEC"
     }
   ],
+  "BIOE-602": [
+    {
+      "day": "R",
+      "time": "4:30-7PM",
+      "type": "LEC"
+    },
+    {
+      "day": "M",
+      "time": "4:30-7PM",
+      "type": "LEC"
+    }
+  ],
   "BIOE-545": [
     {
       "day": "FSU",
@@ -5259,18 +5546,6 @@
     {
       "day": "W",
       "time": "4:30-6:30PM",
-      "type": "LEC"
-    }
-  ],
-  "BIOE-602": [
-    {
-      "day": "M",
-      "time": "4:30-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-7PM",
       "type": "LEC"
     }
   ],
@@ -5568,6 +5843,18 @@
       "type": "REC"
     }
   ],
+  "BIOL-527": [
+    {
+      "day": "R",
+      "time": "5-7PM",
+      "type": "REC"
+    },
+    {
+      "day": "MWF",
+      "time": "11-12NOON",
+      "type": "LEC"
+    }
+  ],
   "BIOL-230": [
     {
       "day": "TR",
@@ -5745,18 +6032,6 @@
       "type": "SEM"
     }
   ],
-  "BIOL-527": [
-    {
-      "day": "MWF",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "5-7PM",
-      "type": "REC"
-    }
-  ],
   "BIOL-537": [
     {
       "day": "TR",
@@ -5844,17 +6119,23 @@
       "day": "TR",
       "time": "2:30-4PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BMB-510": [
     {
       "day": "TF",
       "time": "11-12:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BMB-598": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "BMB-605": [
     {
       "day": "TR",
       "time": "9-10:30AM",
@@ -5866,7 +6147,9 @@
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BMB-650": [
     {
       "day": "W",
       "time": "12:15-1:30PM",
@@ -5928,7 +6211,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
-    },
+    }
+  ],
+  "BMB-705": [
     {
       "day": "M",
       "time": "2-4PM",
@@ -5938,7 +6223,9 @@
       "day": "F",
       "time": "1-3PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "BMB-751": [
     {
       "day": "TR",
       "time": "9-10:30AM",
@@ -6333,17 +6620,23 @@
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
-    },
+    }
+  ],
+  "CBE-099": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "CBE-160": [
     {
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CBE-231": [
     {
       "day": "MWF",
       "time": "10-11AM",
@@ -6353,7 +6646,9 @@
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CBE-351": [
     {
       "day": "MWF",
       "time": "1-2PM",
@@ -6363,17 +6658,23 @@
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CBE-371": [
     {
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CBE-375": [
     {
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CBE-459": [
     {
       "day": "M",
       "time": "5-6PM",
@@ -6398,7 +6699,9 @@
       "day": "T",
       "time": "4:30-5:30PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CBE-460": [
     {
       "day": "MWF",
       "time": "11-12NOON",
@@ -6408,7 +6711,9 @@
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CBE-480": [
     {
       "day": "MW",
       "time": "12-1PM",
@@ -6423,17 +6728,23 @@
       "day": "MW",
       "time": "2-5PM",
       "type": "LAB"
-    },
+    }
+  ],
+  "CBE-535": [
     {
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CBE-543": [
     {
       "day": "W",
       "time": "6-9PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CBE-544": [
     {
       "day": "TR",
       "time": "9-10:30AM",
@@ -6443,12 +6754,16 @@
       "day": "W",
       "time": "12-1PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CBE-546": [
     {
       "day": "MWF",
       "time": "9-10AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CBE-557": [
     {
       "day": "MW",
       "time": "2-3:30PM",
@@ -6458,12 +6773,16 @@
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CBE-559": [
     {
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CBE-564": [
     {
       "day": "MWF",
       "time": "9-10AM",
@@ -6475,22 +6794,30 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "CBE-641": [
     {
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CBE-899": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "CBE-995": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
-    },
+    }
+  ],
+  "CBE-999": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -7641,6 +7968,23 @@
       "type": "SEM"
     }
   ],
+  "ENGL-116": [
+    {
+      "day": "W",
+      "time": "5-8PM",
+      "type": "SEM"
+    },
+    {
+      "day": "R",
+      "time": "4:30-7:30PM",
+      "type": "SEM"
+    },
+    {
+      "day": "M",
+      "time": "2-5PM",
+      "type": "SEM"
+    }
+  ],
   "CIMS-118": [
     {
       "day": "TR",
@@ -7837,10 +8181,27 @@
       "type": "REC"
     }
   ],
+  "FREN-386": [
+    {
+      "day": "W",
+      "time": "3:30-5PM",
+      "type": "REC"
+    },
+    {
+      "day": "M",
+      "time": "3:30-5PM",
+      "type": "LEC"
+    }
+  ],
   "CIMS-388": [
     {
       "day": "MWF",
       "time": "11-12NOON",
+      "type": "SEM"
+    },
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
       "type": "SEM"
     }
   ],
@@ -7868,11 +8229,6 @@
     {
       "day": "MWF",
       "time": "12-1PM",
-      "type": "SEM"
-    },
-    {
-      "day": "TR",
-      "time": "3-4:30PM",
       "type": "SEM"
     }
   ],
@@ -7930,7 +8286,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "CIS-110": [
     {
       "day": "MWF",
       "time": "10-11AM",
@@ -8040,7 +8398,9 @@
       "day": "T",
       "time": "6-7PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIS-120": [
     {
       "day": "MWF",
       "time": "11-12NOON",
@@ -8140,7 +8500,9 @@
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIS-121": [
     {
       "day": "TR",
       "time": "10:30-12NOON",
@@ -8225,7 +8587,9 @@
       "day": "T",
       "time": "3-4PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIS-160": [
     {
       "day": "TR",
       "time": "1:30-3PM",
@@ -8305,7 +8669,9 @@
       "day": "R",
       "time": "6-7PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIS-192": [
     {
       "day": "W",
       "time": "6-7:30PM",
@@ -8315,7 +8681,9 @@
       "day": "R",
       "time": "12-1:30PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIS-195": [
     {
       "day": "W",
       "time": "6-7:30PM",
@@ -8330,7 +8698,9 @@
       "day": "R",
       "time": "4:30-6PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIS-196": [
     {
       "day": "W",
       "time": "6-7:30PM",
@@ -8340,7 +8710,9 @@
       "day": "W",
       "time": "12-1:30PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIS-197": [
     {
       "day": "W",
       "time": "6-7:30PM",
@@ -8350,12 +8722,16 @@
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIS-240": [
     {
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-262": [
     {
       "day": "MWF",
       "time": "1-2PM",
@@ -8365,32 +8741,44 @@
       "day": "M",
       "time": "4:30-5:30PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIS-320": [
     {
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-341": [
     {
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-350": [
     {
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-371": [
     {
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-390": [
     {
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-398": [
     {
       "day": "TR",
       "time": "4-6PM",
@@ -8398,9 +8786,25 @@
     },
     {
       "day": "TR",
+      "time": "4-6PM",
+      "type": "LEC"
+    }
+  ],
+  "CIS-401": [
+    {
+      "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-419": [
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
+  "CIS-450": [
     {
       "day": "TR",
       "time": "1:30-3PM",
@@ -8410,42 +8814,51 @@
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
+    }
+  ],
+  "CIS-455": [
     {
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-461": [
     {
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-497": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-505": [
     {
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-511": [
     {
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-519": [
     {
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-520": [
     {
       "day": "TR",
       "time": "12-1:30PM",
@@ -8455,17 +8868,23 @@
       "day": "F",
       "time": "12-1:30PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIS-530": [
     {
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-535": [
     {
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-545": [
     {
       "day": "MW",
       "time": "10:30-12NOON",
@@ -8475,27 +8894,37 @@
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-548": [
     {
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-550": [
     {
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-553": [
     {
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-555": [
     {
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-559": [
     {
       "day": "MW",
       "time": "3-4:30PM",
@@ -8505,57 +8934,79 @@
       "day": "F",
       "time": "12-2PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIS-561": [
     {
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-563": [
     {
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-566": [
     {
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-568": [
     {
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-580": [
     {
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-599": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "CIS-610": [
     {
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-625": [
     {
       "day": "M",
       "time": "12-3PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "CIS-660": [
     {
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "SEM"
-    },
+    }
+  ],
+  "CIS-670": [
     {
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "CIS-700": [
     {
       "day": "MW",
       "time": "1:30-3PM",
@@ -8565,7 +9016,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-800": [
     {
       "day": "M",
       "time": "1:30-3PM",
@@ -8575,12 +9028,16 @@
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-895": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "CIS-899": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -8810,7 +9267,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "CIS-999": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -9045,7 +9504,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "CIT-590": [
     {
       "day": "MW",
       "time": "1:30-3PM",
@@ -9065,7 +9526,9 @@
       "day": "F",
       "time": "3-4:30PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIT-594": [
     {
       "day": "MW",
       "time": "12-1:30PM",
@@ -9075,7 +9538,9 @@
       "day": "F",
       "time": "3-4:30PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIT-595": [
     {
       "day": "TR",
       "time": "10:30-12NOON",
@@ -9085,7 +9550,9 @@
       "day": "R",
       "time": "4:30-6PM",
       "type": "REC"
-    },
+    }
+  ],
+  "CIT-596": [
     {
       "day": "TR",
       "time": "1:30-3PM",
@@ -9226,6 +9693,73 @@
       "day": "R",
       "time": "2-3PM",
       "type": "REC"
+    }
+  ],
+  "COML-108": [
+    {
+      "day": "R",
+      "time": "9-10AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "9-10AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
     }
   ],
   "CLST-123": [
@@ -9451,10 +9985,17 @@
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
-    },
+    }
+  ],
+  "ENGL-002": [
     {
       "day": "MW",
       "time": "2-3:30PM",
+      "type": "SEM"
+    },
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
       "type": "SEM"
     }
   ],
@@ -9487,6 +10028,23 @@
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
+    }
+  ],
+  "SAST-004": [
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "10-11AM",
+      "type": "LEC"
     }
   ],
   "COML-061": [
@@ -9543,73 +10101,6 @@
       "day": "MWF",
       "time": "2-3PM",
       "type": "SEM"
-    }
-  ],
-  "COML-108": [
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "9-10AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "9-10AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "2-3PM",
-      "type": "REC"
     }
   ],
   "COML-114": [
@@ -9714,6 +10205,18 @@
       "type": "LEC"
     }
   ],
+  "RUSS-197": [
+    {
+      "day": "MW",
+      "time": "3:30-5PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
   "COML-203": [
     {
       "day": "TR",
@@ -9761,6 +10264,23 @@
     {
       "day": "MWF",
       "time": "11-12NOON",
+      "type": "SEM"
+    }
+  ],
+  "FREN-232": [
+    {
+      "day": "MW",
+      "time": "2-3:30PM",
+      "type": "SEM"
+    },
+    {
+      "day": "MWF",
+      "time": "11-12NOON",
+      "type": "SEM"
+    },
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
       "type": "SEM"
     }
   ],
@@ -10825,12 +11345,29 @@
     },
     {
       "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    }
+  ],
+  "SOCI-536": [
+    {
+      "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
       "day": "F",
       "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
       "type": "REC"
     }
   ],
@@ -12208,28 +12745,6 @@
       "type": "REC"
     }
   ],
-  "EALC-013": [
-    {
-      "day": "MW",
-      "time": "10-11AM",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "2-3PM",
-      "type": "REC"
-    }
-  ],
   "EALC-015": [
     {
       "day": "MW",
@@ -12318,6 +12833,28 @@
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
+    }
+  ],
+  "HIST-091": [
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "day": "TR",
+      "time": "10:30-11:30AM",
+      "type": "LEC"
     }
   ],
   "EALC-111": [
@@ -12535,7 +13072,9 @@
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "EAS-097": [
     {
       "day": "M",
       "time": "10-11AM",
@@ -12545,62 +13084,86 @@
       "day": "M",
       "time": "1:30-4:30PM",
       "type": "LAB"
-    },
+    }
+  ],
+  "EAS-203": [
     {
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-306": [
     {
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-402": [
     {
       "day": "TR",
       "time": "6-7:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-403": [
     {
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-499": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "EAS-502": [
     {
       "day": "TR",
       "time": "6-7:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-503": [
     {
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-506": [
     {
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-507": [
     {
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-510": [
     {
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-512": [
     {
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-545": [
     {
       "day": "TR",
       "time": "9-10:30AM",
@@ -12615,7 +13178,26 @@
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
+    }
+  ],
+  "IPD-545": [
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
     },
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    }
+  ],
+  "EAS-546": [
     {
       "day": "T",
       "time": "4:30-7:30PM",
@@ -12625,17 +13207,23 @@
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-549": [
     {
       "day": "R",
       "time": "4:30-7:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-595": [
     {
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "EAS-897": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -13607,11 +14195,6 @@
       "day": "R",
       "time": "5-7PM",
       "type": "SEM"
-    },
-    {
-      "day": "M",
-      "time": "2-4PM",
-      "type": "SEM"
     }
   ],
   "EDUC-546": [
@@ -14441,13 +15024,6 @@
       "type": "LEC"
     }
   ],
-  "ENGL-002": [
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "SEM"
-    }
-  ],
   "ENGL-003": [
     {
       "day": "TR",
@@ -14646,36 +15222,6 @@
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
     }
   ],
   "ENGL-103": [
@@ -14722,23 +15268,6 @@
     {
       "day": "T",
       "time": "1:30-4:30PM",
-      "type": "SEM"
-    }
-  ],
-  "ENGL-116": [
-    {
-      "day": "M",
-      "time": "2-5PM",
-      "type": "SEM"
-    },
-    {
-      "day": "W",
-      "time": "5-8PM",
-      "type": "SEM"
-    },
-    {
-      "day": "R",
-      "time": "4:30-7:30PM",
       "type": "SEM"
     }
   ],
@@ -15285,7 +15814,9 @@
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ENM-251": [
     {
       "day": "MW",
       "time": "3-4:30PM",
@@ -15300,12 +15831,16 @@
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
-    },
+    }
+  ],
+  "ENM-375": [
     {
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ENM-502": [
     {
       "day": "TR",
       "time": "1:30-3PM",
@@ -15315,17 +15850,23 @@
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
-    },
+    }
+  ],
+  "ENM-511": [
     {
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ENM-512": [
     {
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ENM-521": [
     {
       "day": "MW",
       "time": "1:30-3PM",
@@ -15335,7 +15876,9 @@
       "day": "F",
       "time": "3-4:30PM",
       "type": "REC"
-    },
+    }
+  ],
+  "ENM-540": [
     {
       "day": "TR",
       "time": "4:30-6PM",
@@ -15509,7 +16052,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "SRT"
-    },
+    }
+  ],
+  "GEOL-498": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -15593,6 +16138,36 @@
     {
       "day": "TBA",
       "time": "TBA",
+      "type": "SRT"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SRT"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SRT"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SRT"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SRT"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SRT"
+    },
+    {
+      "day": "W",
+      "time": "12-1PM",
       "type": "SRT"
     }
   ],
@@ -15776,12 +16351,16 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "ESE-099": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "ESE-112": [
     {
       "day": "TR",
       "time": "3-4:30PM",
@@ -15796,17 +16375,23 @@
       "day": "W",
       "time": "4-7PM",
       "type": "LAB"
-    },
+    }
+  ],
+  "ESE-150": [
     {
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-190": [
     {
       "day": "T",
       "time": "4:30-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-224": [
     {
       "day": "MWF",
       "time": "3-4PM",
@@ -15831,17 +16416,23 @@
       "day": "TR",
       "time": "11-12NOON",
       "type": "LAB"
-    },
+    }
+  ],
+  "ESE-290": [
     {
       "day": "R",
       "time": "9-10:30AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-291": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
-    },
+    }
+  ],
+  "ESE-301": [
     {
       "day": "TR",
       "time": "1:30-3PM",
@@ -15851,12 +16442,16 @@
       "day": "MF",
       "time": "6:30-7:30PM",
       "type": "REC"
-    },
+    }
+  ],
+  "ESE-302": [
     {
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-319": [
     {
       "day": "TR",
       "time": "10:30-12NOON",
@@ -15866,7 +16461,9 @@
       "day": "R",
       "time": "6-9PM",
       "type": "LAB"
-    },
+    }
+  ],
+  "ESE-350": [
     {
       "day": "TR",
       "time": "12-1:30PM",
@@ -15881,57 +16478,79 @@
       "day": "F",
       "time": "1-4PM",
       "type": "LAB"
-    },
+    }
+  ],
+  "ESE-444": [
     {
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-451": [
     {
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-502": [
     {
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-503": [
     {
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-516": [
     {
       "day": "TR",
       "time": "7-8:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-518": [
     {
       "day": "MWF",
       "time": "9-10AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-521": [
     {
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-523": [
     {
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-528": [
     {
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-531": [
     {
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-536": [
     {
       "day": "T",
       "time": "12-1PM",
@@ -15951,12 +16570,16 @@
       "day": "F",
       "time": "1-5PM",
       "type": "LAB"
-    },
+    }
+  ],
+  "ESE-544": [
     {
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-550": [
     {
       "day": "M",
       "time": "11-2PM",
@@ -15964,6 +16587,18 @@
     }
   ],
   "ESE-567": [
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "OIDD-261": [
+    {
+      "day": "MW",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
     {
       "day": "MW",
       "time": "10:30-12NOON",
@@ -15980,57 +16615,79 @@
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-578": [
     {
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-590": [
     {
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-599": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "ESE-605": [
     {
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-611": [
     {
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-619": [
     {
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-621": [
     {
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-650": [
     {
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-672": [
     {
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-674": [
     {
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-680": [
     {
       "day": "MW",
       "time": "12-1:30PM",
@@ -16045,12 +16702,16 @@
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-895": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "ESE-899": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -16240,12 +16901,16 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "ESE-995": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
-    },
+    }
+  ],
+  "ESE-999": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -16547,6 +17212,18 @@
       "type": "STU"
     }
   ],
+  "FNAR-508": [
+    {
+      "day": "TR",
+      "time": "5-8PM",
+      "type": "STU"
+    },
+    {
+      "day": "MW",
+      "time": "5-8PM",
+      "type": "STU"
+    }
+  ],
   "FNAR-150": [
     {
       "day": "R",
@@ -16584,6 +17261,18 @@
     {
       "day": "TR",
       "time": "9-12NOON",
+      "type": "STU"
+    }
+  ],
+  "FNAR-531": [
+    {
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "STU"
+    },
+    {
+      "day": "MW",
+      "time": "2-5PM",
       "type": "STU"
     }
   ],
@@ -16652,6 +17341,18 @@
     {
       "day": "MW",
       "time": "5-8PM",
+      "type": "STU"
+    }
+  ],
+  "FNAR-558": [
+    {
+      "day": "MW",
+      "time": "5-8PM",
+      "type": "STU"
+    },
+    {
+      "day": "MW",
+      "time": "2-5PM",
       "type": "STU"
     }
   ],
@@ -16969,18 +17670,6 @@
       "type": "SEM"
     }
   ],
-  "FNAR-508": [
-    {
-      "day": "MW",
-      "time": "5-8PM",
-      "type": "STU"
-    },
-    {
-      "day": "TR",
-      "time": "5-8PM",
-      "type": "STU"
-    }
-  ],
   "FNAR-523": [
     {
       "day": "TR",
@@ -17017,18 +17706,6 @@
       "type": "STU"
     }
   ],
-  "FNAR-531": [
-    {
-      "day": "MW",
-      "time": "2-5PM",
-      "type": "STU"
-    },
-    {
-      "day": "TR",
-      "time": "9-12NOON",
-      "type": "STU"
-    }
-  ],
   "FNAR-545": [
     {
       "day": "MW",
@@ -17054,18 +17731,6 @@
     {
       "day": "TR",
       "time": "1:30-4:30PM",
-      "type": "STU"
-    }
-  ],
-  "FNAR-558": [
-    {
-      "day": "MW",
-      "time": "2-5PM",
-      "type": "STU"
-    },
-    {
-      "day": "MW",
-      "time": "5-8PM",
       "type": "STU"
     }
   ],
@@ -17386,13 +18051,13 @@
   ],
   "FNAR-804": [
     {
-      "day": "W",
-      "time": "1:30-4:30PM",
+      "day": "M",
+      "time": "5-8PM",
       "type": "STU"
     },
     {
-      "day": "M",
-      "time": "5-8PM",
+      "day": "W",
+      "time": "1:30-4:30PM",
       "type": "STU"
     }
   ],
@@ -17536,6 +18201,18 @@
     {
       "day": "TR",
       "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "REAL-209": [
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
@@ -17790,6 +18467,28 @@
     },
     {
       "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "REAL-721": [
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     }
@@ -18292,23 +18991,6 @@
       "type": "SEM"
     }
   ],
-  "FREN-232": [
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "SEM"
-    },
-    {
-      "day": "MW",
-      "time": "2-3:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "MWF",
-      "time": "11-12NOON",
-      "type": "SEM"
-    }
-  ],
   "FREN-233": [
     {
       "day": "TR",
@@ -18333,18 +19015,6 @@
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
-    }
-  ],
-  "FREN-386": [
-    {
-      "day": "M",
-      "time": "3:30-5PM",
-      "type": "LEC"
-    },
-    {
-      "day": "W",
-      "time": "3:30-5PM",
-      "type": "REC"
     }
   ],
   "FREN-391": [
@@ -18422,12 +19092,16 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "GAS-610": [
     {
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "GCB-493": [
     {
       "day": "TR",
       "time": "1:30-3PM",
@@ -18444,7 +19118,9 @@
       "day": "R",
       "time": "5-7PM",
       "type": "REC"
-    },
+    }
+  ],
+  "GCB-535": [
     {
       "day": "MWF",
       "time": "10-11AM",
@@ -18588,7 +19264,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
-    },
+    }
+  ],
+  "GCB-752": [
     {
       "day": "M",
       "time": "3-6PM",
@@ -18836,38 +19514,6 @@
       "type": "LEC"
     }
   ],
-  "GEOL-498": [
-    {
-      "day": "W",
-      "time": "12-1PM",
-      "type": "SRT"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "SRT"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "SRT"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "SRT"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "SRT"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "SRT"
-    }
-  ],
   "GEOL-516": [
     {
       "day": "TR",
@@ -19017,6 +19663,23 @@
       "type": "LEC"
     }
   ],
+  "GRMN-502": [
+    {
+      "day": "MTWRF",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MTWRF",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "6-8:30PM",
+      "type": "LEC"
+    }
+  ],
   "GRMN-103": [
     {
       "day": "MTWR",
@@ -19033,6 +19696,18 @@
     {
       "day": "MTWR",
       "time": "12-1PM",
+      "type": "LEC"
+    }
+  ],
+  "GRMN-504": [
+    {
+      "day": "MTWR",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MTWR",
+      "time": "11-12NOON",
       "type": "LEC"
     }
   ],
@@ -19195,36 +19870,7 @@
       "type": "LEC"
     }
   ],
-  "GRMN-502": [
-    {
-      "day": "MTWRF",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MTWRF",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "6-8:30PM",
-      "type": "LEC"
-    }
-  ],
   "GRMN-503": [
-    {
-      "day": "MTWR",
-      "time": "12-1PM",
-      "type": "LEC"
-    }
-  ],
-  "GRMN-504": [
-    {
-      "day": "MTWR",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
     {
       "day": "MTWR",
       "time": "12-1PM",
@@ -19364,6 +20010,33 @@
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
+    }
+  ],
+  "PHIL-004": [
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
     }
   ],
   "GSWS-048": [
@@ -20240,28 +20913,6 @@
       "type": "LEC"
     }
   ],
-  "HIST-091": [
-    {
-      "day": "TR",
-      "time": "10:30-11:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    }
-  ],
   "HIST-107": [
     {
       "day": "TR",
@@ -20414,6 +21065,33 @@
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
+    }
+  ],
+  "LALS-179": [
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "W",
+      "time": "5-6PM",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "10-11AM",
+      "type": "LEC"
     }
   ],
   "HIST-186": [
@@ -20689,11 +21367,6 @@
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
-    },
-    {
-      "day": "W",
-      "time": "2-5PM",
-      "type": "SEM"
     }
   ],
   "HIST-620": [
@@ -20739,17 +21412,23 @@
       "day": "T",
       "time": "2:30-4PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "HPR-607": [
     {
       "day": "TR",
       "time": "10:30-11:50AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "HPR-608": [
     {
       "day": "TR",
       "time": "9-10:20AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "HPR-610": [
     {
       "day": "W",
       "time": "4:30-7:30PM",
@@ -20761,7 +21440,9 @@
       "day": "R",
       "time": "1-4PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "HPR-650": [
     {
       "day": "R",
       "time": "1-4PM",
@@ -20846,6 +21527,33 @@
       "type": "REC"
     }
   ],
+  "SOCI-100": [
+    {
+      "day": "R",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "1-2PM",
+      "type": "LEC"
+    }
+  ],
   "HSOC-102": [
     {
       "day": "MW",
@@ -20873,6 +21581,33 @@
       "type": "REC"
     }
   ],
+  "SOCI-101": [
+    {
+      "day": "F",
+      "time": "9-10AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    }
+  ],
   "HSOC-111": [
     {
       "day": "MW",
@@ -20888,6 +21623,23 @@
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
+    }
+  ],
+  "SOCI-111": [
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
     }
   ],
   "HSOC-112": [
@@ -21714,17 +22466,23 @@
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "IPD-501": [
     {
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "IPD-509": [
     {
       "day": "W",
       "time": "10-1PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "IPD-514": [
     {
       "day": "TR",
       "time": "4:30-6PM",
@@ -21824,37 +22582,30 @@
       "day": "MW",
       "time": "6-7:30PM",
       "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
+    }
+  ],
+  "IPD-552": [
     {
       "day": "M",
       "time": "10-1PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "IPD-599": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "IPD-699": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
-    },
+    }
+  ],
+  "IPD-799": [
     {
       "day": "W",
       "time": "4:30-7:30PM",
@@ -22535,33 +23286,6 @@
       "type": "LEC"
     }
   ],
-  "LALS-179": [
-    {
-      "day": "MW",
-      "time": "10-11AM",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "5-6PM",
-      "type": "REC"
-    }
-  ],
   "LALS-208": [
     {
       "day": "MW",
@@ -22637,6 +23361,18 @@
       "type": "SEM"
     }
   ],
+  "SPAN-390": [
+    {
+      "day": "MWF",
+      "time": "1-2PM",
+      "type": "SEM"
+    },
+    {
+      "day": "MW",
+      "time": "2-3:30PM",
+      "type": "SEM"
+    }
+  ],
   "LALS-397": [
     {
       "day": "TR",
@@ -22649,6 +23385,18 @@
       "type": "SEM"
     }
   ],
+  "SPAN-396": [
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "SEM"
+    },
+    {
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "SEM"
+    }
+  ],
   "LALS-398": [
     {
       "day": "MW",
@@ -22658,6 +23406,18 @@
     {
       "day": "TR",
       "time": "3-4:30PM",
+      "type": "SEM"
+    }
+  ],
+  "SPAN-397": [
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "SEM"
+    },
+    {
+      "day": "MW",
+      "time": "3:30-5PM",
       "type": "SEM"
     }
   ],
@@ -22949,7 +23709,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "LAW-501": [
     {
       "day": "M",
       "time": "1:30-2:45PM",
@@ -22969,7 +23731,9 @@
       "day": "MWR",
       "time": "10:30-11:45AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-503": [
     {
       "day": "MWR",
       "time": "10:30-11:45AM",
@@ -22984,22 +23748,30 @@
       "day": "MTW",
       "time": "9-10:15AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-507": [
     {
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-508": [
     {
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-509": [
     {
       "day": "MW",
       "time": "9-10:20AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-510": [
     {
       "day": "T",
       "time": "1:30-2:45PM",
@@ -23029,7 +23801,9 @@
       "day": "T",
       "time": "1:30-2:45PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-512": [
     {
       "day": "R",
       "time": "1:30-2:45PM",
@@ -23119,7 +23893,9 @@
       "day": "R",
       "time": "12-1:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-523": [
     {
       "day": "F",
       "time": "9-5PM",
@@ -23129,7 +23905,9 @@
       "day": "S",
       "time": "9-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-524": [
     {
       "day": "F",
       "time": "9-5PM",
@@ -23139,57 +23917,79 @@
       "day": "S",
       "time": "9-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-532": [
     {
       "day": "M",
       "time": "6:30-8:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-534": [
     {
       "day": "T",
       "time": "4:30-6:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-536": [
     {
       "day": "W",
       "time": "4:30-6:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-539": [
     {
       "day": "W",
       "time": "6:30-8:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-542": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-543": [
     {
       "day": "W",
       "time": "1-2:50PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-547": [
     {
       "day": "MWF",
       "time": "10:30-11:50AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-548": [
     {
       "day": "T",
       "time": "6:30-8:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-550": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-551": [
     {
       "day": "FS",
       "time": "9-5:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-555": [
     {
       "day": "M",
       "time": "4:30-6:20PM",
@@ -23214,17 +24014,23 @@
       "day": "W",
       "time": "6:30-8:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-567": [
     {
       "day": "M",
       "time": "6:30-8:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-577": [
     {
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-582": [
     {
       "day": "MW",
       "time": "10:30-11:50AM",
@@ -23239,92 +24045,128 @@
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-583": [
     {
       "day": "T",
       "time": "3-5:40PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-586": [
     {
       "day": "R",
       "time": "4:30-6:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-587": [
     {
       "day": "R",
       "time": "6:30-8:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-598": [
     {
       "day": "R",
       "time": "4:30-7:15PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-601": [
     {
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-606": [
     {
       "day": "M",
       "time": "4:30-7:15PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-611": [
     {
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-612": [
     {
       "day": "T",
       "time": "12-2PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-618": [
     {
       "day": "T",
       "time": "6:40-8:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-622": [
     {
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-629": [
     {
       "day": "M",
       "time": "12-2:45PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-631": [
     {
       "day": "MW",
       "time": "10:30-11:50AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-633": [
     {
       "day": "R",
       "time": "6:30-8:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-634": [
     {
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-638": [
     {
       "day": "MTW",
       "time": "10:30-11:45AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-640": [
     {
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-641": [
     {
       "day": "MW",
       "time": "10:30-11:50AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-643": [
     {
       "day": "M",
       "time": "4:30-5:50PM",
@@ -23334,37 +24176,51 @@
       "day": "W",
       "time": "4:30-5:50PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-646": [
     {
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-649": [
     {
       "day": "MW",
       "time": "1:30-2:50PM",
       "type": "CLN"
-    },
+    }
+  ],
+  "LAW-650": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-651": [
     {
       "day": "F",
       "time": "1-4PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-652": [
     {
       "day": "TR",
       "time": "1:30-2:50PM",
       "type": "CLN"
-    },
+    }
+  ],
+  "LAW-655": [
     {
       "day": "MW",
       "time": "1:30-2:50PM",
       "type": "CLN"
-    },
+    }
+  ],
+  "LAW-656": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -23379,67 +24235,93 @@
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
-    },
+    }
+  ],
+  "LAW-660": [
     {
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-664": [
     {
       "day": "TR",
       "time": "1:30-2:50PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-665": [
     {
       "day": "T",
       "time": "4:30-6:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-669": [
     {
       "day": "MW",
       "time": "1:30-2:50PM",
       "type": "CLN"
-    },
+    }
+  ],
+  "LAW-672": [
     {
       "day": "MW",
       "time": "10:30-11:50AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-675": [
     {
       "day": "W",
       "time": "6:30-8:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-676": [
     {
       "day": "W",
       "time": "6:30-8:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-678": [
     {
       "day": "R",
       "time": "4:30-6:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-680": [
     {
       "day": "TR",
       "time": "1:30-2:50PM",
       "type": "CLN"
-    },
+    }
+  ],
+  "LAW-685": [
     {
       "day": "WF",
       "time": "9-12NOON",
       "type": "CLN"
-    },
+    }
+  ],
+  "LAW-694": [
     {
       "day": "R",
       "time": "5-6:50PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-696": [
     {
       "day": "TR",
       "time": "9-10:20AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-702": [
     {
       "day": "M",
       "time": "6:30-8:20PM",
@@ -23449,67 +24331,93 @@
       "day": "R",
       "time": "6:30-8:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-707": [
     {
       "day": "TR",
       "time": "10:30-11:50AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-712": [
     {
       "day": "T",
       "time": "3-5:40PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-720": [
     {
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-729": [
     {
       "day": "MW",
       "time": "4:30-5:50PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-733": [
     {
       "day": "T",
       "time": "6:30-8:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-734": [
     {
       "day": "T",
       "time": "3-5:40PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-738": [
     {
       "day": "M",
       "time": "4:30-6:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-743": [
     {
       "day": "MW",
       "time": "9-10:20AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-745": [
     {
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "CLN"
-    },
+    }
+  ],
+  "LAW-748": [
     {
       "day": "T",
       "time": "4:30-6:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-750": [
     {
       "day": "T",
       "time": "8:30-10:20AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-756": [
     {
       "day": "MW",
       "time": "10:30-11:50AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-757": [
     {
       "day": "MW",
       "time": "2:30-4:20PM",
@@ -23519,92 +24427,135 @@
       "day": "MW",
       "time": "2:30-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-769": [
     {
       "day": "MW",
       "time": "10:30-11:50AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-773": [
     {
       "day": "TR",
       "time": "1:30-2:50PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-790": [
     {
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-799": [
     {
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-802": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "LAW-803": [
     {
       "day": "M",
       "time": "12-1:20PM",
       "type": "IND"
-    },
+    }
+  ],
+  "LAW-804": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "LAW-808": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-813": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "LAW-822": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "LAW-825": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "LAW-826": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "LAW-828": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "LAW-830": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-831": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-832": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "LAW-835": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
-    },
+    }
+  ],
+  "LAW-836": [
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "LAW-866": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -23619,67 +24570,86 @@
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
+    }
+  ],
+  "LAW-875": [
     {
       "day": "R",
       "time": "12-1:20PM",
       "type": "IND"
-    },
+    }
+  ],
+  "LAW-896": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-900": [
     {
       "day": "T",
       "time": "1-3PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-902": [
     {
       "day": "W",
       "time": "6:30-8:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-903": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-904": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-905": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-909": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-910": [
     {
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-915": [
     {
       "day": "M",
       "time": "6:30-8:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-916": [
     {
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-917": [
     {
       "day": "TR",
       "time": "1-3PM",
@@ -23689,32 +24659,44 @@
       "day": "TR",
       "time": "10:30-12:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-918": [
     {
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-920": [
     {
       "day": "R",
       "time": "6:30-8:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-924": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-928": [
     {
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-930": [
     {
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-931": [
     {
       "day": "W",
       "time": "4:30-6:30PM",
@@ -23724,37 +24706,51 @@
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-932": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-933": [
     {
       "day": "W",
       "time": "6:30-8:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-934": [
     {
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-939": [
     {
       "day": "R",
       "time": "6:30-8:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-943": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-945": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-946": [
     {
       "day": "W",
       "time": "4:30-6:30PM",
@@ -23778,137 +24774,191 @@
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-951": [
     {
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-952": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "LAW-953": [
     {
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-956": [
     {
       "day": "T",
       "time": "1:15-3PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-957": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-958": [
     {
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-960": [
     {
       "day": "W",
       "time": "6:30-8:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-961": [
     {
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-962": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-964": [
     {
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-965": [
     {
       "day": "M",
       "time": "9-12NOON",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-966": [
     {
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-967": [
     {
       "day": "M",
       "time": "3:30-5:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-968": [
     {
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-971": [
     {
       "day": "F",
       "time": "12:30-2:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-973": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-974": [
     {
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-976": [
     {
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-977": [
     {
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-978": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-979": [
     {
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-983": [
     {
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-988": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-991": [
     {
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-992": [
     {
       "day": "W",
       "time": "6:30-8:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-996": [
     {
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "LAW-997": [
     {
       "day": "W",
       "time": "4:30-6:30PM",
@@ -25505,56 +26555,6 @@
       "day": "TR",
       "time": "6:30-8:45PM",
       "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LAB"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LAB"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "SEM"
-    },
-    {
-      "day": "M",
-      "time": "6:30-8:30PM",
-      "type": "ONL"
-    },
-    {
-      "day": "M",
-      "time": "6-8PM",
-      "type": "SEM"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "IND"
-    },
-    {
-      "day": "MF",
-      "time": "3-3:45PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "CLN"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "IND"
     }
   ],
   "MATH-241": [
@@ -26642,7 +27642,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "MED-536": [
     {
       "day": "F",
       "time": "10:30-5:30PM",
@@ -26664,17 +27666,23 @@
       "day": "R",
       "time": "4-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MED-589": [
     {
       "day": "T",
       "time": "6-9PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MED-652": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "MED-653": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -26875,6 +27883,18 @@
     {
       "day": "MW",
       "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "MGMT-806": [
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
@@ -27234,6 +28254,18 @@
       "type": "LEC"
     }
   ],
+  "OIDD-690": [
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    }
+  ],
   "MGMT-691": [
     {
       "day": "W",
@@ -27370,18 +28402,6 @@
       "type": "LEC"
     }
   ],
-  "MGMT-806": [
-    {
-      "day": "MW",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    }
-  ],
   "MGMT-809": [
     {
       "day": "MW",
@@ -27444,6 +28464,23 @@
     }
   ],
   "MGMT-897": [
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "WH-212": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -27689,10 +28726,27 @@
       "type": "LEC"
     }
   ],
+  "MKTG-727": [
+    {
+      "day": "R",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "day": "W",
+      "time": "3-6PM",
+      "type": "LEC"
+    }
+  ],
   "MKTG-254": [
     {
       "day": "TR",
       "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
       "type": "LEC"
     }
   ],
@@ -27741,6 +28795,18 @@
       "type": "LEC"
     }
   ],
+  "MKTG-850": [
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
   "MKTG-351": [
     {
       "day": "TR",
@@ -27750,6 +28816,18 @@
     {
       "day": "TR",
       "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "MKTG-851": [
+    {
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
@@ -27891,18 +28969,6 @@
       "type": "LEC"
     }
   ],
-  "MKTG-727": [
-    {
-      "day": "W",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "3-6PM",
-      "type": "LEC"
-    }
-  ],
   "MKTG-754": [
     {
       "day": "TR",
@@ -27912,11 +28978,6 @@
     {
       "day": "TR",
       "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
       "type": "LEC"
     }
   ],
@@ -27943,30 +29004,6 @@
     {
       "day": "TBA",
       "time": "TBA",
-      "type": "LEC"
-    }
-  ],
-  "MKTG-850": [
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
-  "MKTG-851": [
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "3-4:30PM",
       "type": "LEC"
     }
   ],
@@ -28163,22 +29200,30 @@
       "day": "W",
       "time": "8-9:50AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-099": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "MSE-215": [
     {
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-221": [
     {
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-250": [
     {
       "day": "F",
       "time": "12-1:30PM",
@@ -28203,17 +29248,23 @@
       "day": "R",
       "time": "10:30-1:30PM",
       "type": "LAB"
-    },
+    }
+  ],
+  "MSE-260": [
     {
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-393": [
     {
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-405": [
     {
       "day": "MW",
       "time": "12-1:30PM",
@@ -28225,37 +29276,51 @@
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-465": [
     {
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-496": [
     {
       "day": "W",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-505": [
     {
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-520": [
     {
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-536": [
     {
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-540": [
     {
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-561": [
     {
       "day": "MW",
       "time": "4:30-6PM",
@@ -28267,22 +29332,30 @@
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-599": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "MSE-790": [
     {
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-895": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "MSE-899": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -28412,12 +29485,16 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "MSE-995": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
-    },
+    }
+  ],
+  "MSE-999": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -28648,42 +29725,58 @@
       "day": "R",
       "time": "10-11AM",
       "type": "LAB"
-    },
+    }
+  ],
+  "MTR-535": [
     {
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MTR-604": [
     {
       "day": "T",
       "time": "2-3:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MTR-605": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
-    },
+    }
+  ],
+  "MTR-606": [
     {
       "day": "T",
       "time": "10-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "MTR-620": [
     {
       "day": "TR",
       "time": "4-5:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MTR-621": [
     {
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
-    },
+    }
+  ],
+  "MTR-623": [
     {
       "day": "W",
       "time": "11-12:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "MTR-640": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -29712,19 +30805,16 @@
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "NGG-510": [
     {
       "day": "TR",
       "time": "9:30-11AM",
       "type": "LEC"
     }
   ],
-  "NGG-521": [
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
+  "NGG-573": [
     {
       "day": "MWF",
       "time": "10-12NOON",
@@ -29736,7 +30826,9 @@
       "day": "F",
       "time": "12-2PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "NGG-594": [
     {
       "day": "TR",
       "time": "9-10:30AM",
@@ -29768,7 +30860,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
-    },
+    }
+  ],
+  "NGG-899": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -29808,7 +30902,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
-    },
+    }
+  ],
+  "NGG-995": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -31081,6 +32177,23 @@
       "type": "LEC"
     }
   ],
+  "NURS-540": [
+    {
+      "day": "M",
+      "time": "6-8PM",
+      "type": "ONL"
+    },
+    {
+      "day": "W",
+      "time": "1-4PM",
+      "type": "LEC"
+    },
+    {
+      "day": "W",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
   "NURS-343": [
     {
       "day": "TBA",
@@ -31410,23 +32523,6 @@
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
-    {
-      "day": "W",
-      "time": "1-4PM",
-      "type": "LEC"
-    }
-  ],
-  "NURS-540": [
-    {
-      "day": "W",
-      "time": "1-4PM",
-      "type": "LEC"
-    },
-    {
-      "day": "M",
-      "time": "6-8PM",
-      "type": "ONL"
     },
     {
       "day": "W",
@@ -32351,18 +33447,6 @@
       "type": "LEC"
     }
   ],
-  "OIDD-261": [
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
   "OIDD-263": [
     {
       "day": "TR",
@@ -32422,6 +33506,18 @@
     {
       "day": "TR",
       "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
+  "OIDD-697": [
+    {
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
@@ -32579,34 +33675,10 @@
       "type": "LEC"
     }
   ],
-  "OIDD-690": [
-    {
-      "day": "TR",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    }
-  ],
   "OIDD-692": [
     {
       "day": "MW",
       "time": "9-10:30AM",
-      "type": "LEC"
-    }
-  ],
-  "OIDD-697": [
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
@@ -32831,33 +33903,6 @@
       "type": "LEC"
     }
   ],
-  "PHIL-004": [
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    }
-  ],
   "PHIL-005": [
     {
       "day": "MWF",
@@ -32986,6 +34031,43 @@
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
+    }
+  ],
+  "PPE-314": [
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
     }
   ],
   "PHIL-247": [
@@ -33991,11 +35073,6 @@
       "day": "W",
       "time": "8-10PM",
       "type": "LAB"
-    },
-    {
-      "day": "TR",
-      "time": "5-6:30PM",
-      "type": "LEC"
     }
   ],
   "PHYS-140": [
@@ -34611,10 +35688,17 @@
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
-    },
+    }
+  ],
+  "PPE-153": [
     {
       "day": "R",
       "time": "5:30-8:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "5-6:30PM",
       "type": "LEC"
     }
   ],
@@ -34692,41 +35776,71 @@
       "type": "REC"
     }
   ],
-  "PPE-314": [
+  "PSCI-236": [
+    {
+      "day": "W",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "9-10AM",
+      "type": "REC"
+    },
+    {
+      "day": "W",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "day": "W",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "9-10AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "W",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "day": "W",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
     {
       "day": "MW",
-      "time": "12-1PM",
+      "time": "10-11AM",
       "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
     }
   ],
   "PPE-401": [
@@ -34734,7 +35848,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    },
+    }
+  ],
+  "PPE-402": [
     {
       "day": "F",
       "time": "2-5PM",
@@ -34744,42 +35860,58 @@
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "PPE-470": [
     {
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "PPE-471": [
     {
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "PPE-472": [
     {
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "PPE-473": [
     {
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "PPE-474": [
     {
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "PPE-482": [
     {
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "PPE-484": [
     {
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
-    },
+    }
+  ],
+  "PPE-498": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -35108,6 +36240,66 @@
       "day": "MW",
       "time": "3-4PM",
       "type": "LEC"
+    },
+    {
+      "day": "R",
+      "time": "9-10AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "day": "W",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "9-10AM",
+      "type": "REC"
+    },
+    {
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "day": "W",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
     }
   ],
   "RUSS-217": [
@@ -35145,36 +36337,6 @@
       "day": "MW",
       "time": "3-4PM",
       "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "9-10AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
     }
   ],
   "PSCI-225": [
@@ -35203,73 +36365,6 @@
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
-    }
-  ],
-  "PSCI-236": [
-    {
-      "day": "MW",
-      "time": "10-11AM",
-      "type": "LEC"
-    },
-    {
-      "day": "W",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "9-10AM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "9-10AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
     }
   ],
   "PSCI-237": [
@@ -35605,36 +36700,6 @@
       "day": "MW",
       "time": "3-4PM",
       "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "9-10AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
     }
   ],
   "PSCI-536": [
@@ -36372,18 +37437,6 @@
       "type": "LEC"
     }
   ],
-  "REAL-209": [
-    {
-      "day": "TR",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    }
-  ],
   "REAL-215": [
     {
       "day": "MW",
@@ -36410,28 +37463,6 @@
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
-    }
-  ],
-  "REAL-721": [
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
-      "type": "LEC"
     }
   ],
   "REAL-724": [
@@ -36483,18 +37514,6 @@
       "type": "LEC"
     }
   ],
-  "REAL-962": [
-    {
-      "day": "W",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "M",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    }
-  ],
   "REAL-995": [
     {
       "day": "TBA",
@@ -36530,7 +37549,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
-    },
+    }
+  ],
+  "REG-590": [
     {
       "day": "MW",
       "time": "2-3PM",
@@ -36542,12 +37563,16 @@
       "day": "MW",
       "time": "4-5:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "REG-615": [
     {
       "day": "R",
       "time": "4-7PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "REG-621": [
     {
       "day": "W",
       "time": "9-12NOON",
@@ -36865,10 +37890,17 @@
       "day": "TR",
       "time": "6-8:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "RUSS-502": [
     {
       "day": "TR",
       "time": "6-8:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MTWRF",
+      "time": "12-1PM",
       "type": "LEC"
     }
   ],
@@ -36947,18 +37979,6 @@
       "type": "LEC"
     }
   ],
-  "RUSS-197": [
-    {
-      "day": "TR",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "3:30-5PM",
-      "type": "LEC"
-    }
-  ],
   "RUSS-202": [
     {
       "day": "MW",
@@ -36992,13 +38012,6 @@
       "type": "SEM"
     }
   ],
-  "RUSS-502": [
-    {
-      "day": "MTWRF",
-      "time": "12-1PM",
-      "type": "LEC"
-    }
-  ],
   "RUSS-504": [
     {
       "day": "MTWR",
@@ -37027,55 +38040,11 @@
       "type": "LEC"
     }
   ],
-  "SAST-004": [
-    {
-      "day": "MW",
-      "time": "10-11AM",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    }
-  ],
   "SAST-058": [
     {
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
-    }
-  ],
-  "SAST-063": [
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
     }
   ],
   "SAST-105": [
@@ -37447,48 +38416,6 @@
       "type": "LEC"
     }
   ],
-  "SOCI-001": [
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
-      "time": "9:30-10:30AM",
-      "type": "REC"
-    },
-    {
-      "day": "T",
-      "time": "10:30-11:30AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "9:30-10:30AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "10:30-11:30AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "M",
-      "time": "4:30-7:30PM",
-      "type": "LEC"
-    }
-  ],
   "SOCI-002": [
     {
       "day": "TR",
@@ -37558,60 +38485,6 @@
       "type": "SEM"
     }
   ],
-  "SOCI-100": [
-    {
-      "day": "MW",
-      "time": "1-2PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    }
-  ],
-  "SOCI-101": [
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "9-10AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    }
-  ],
   "SOCI-103": [
     {
       "day": "TR",
@@ -37624,23 +38497,6 @@
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    }
-  ],
-  "SOCI-111": [
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
     }
   ],
   "SOCI-112": [
@@ -37788,33 +38644,6 @@
       "type": "SEM"
     }
   ],
-  "SOCI-307": [
-    {
-      "day": "MW",
-      "time": "4-5PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "9-10AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    }
-  ],
   "SOCI-322": [
     {
       "day": "W",
@@ -37834,23 +38663,6 @@
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
-    }
-  ],
-  "SOCI-536": [
-    {
-      "day": "MW",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
     }
   ],
   "SOCI-578": [
@@ -38361,46 +39173,10 @@
       "type": "SEM"
     }
   ],
-  "SPAN-390": [
-    {
-      "day": "MW",
-      "time": "2-3:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "MWF",
-      "time": "1-2PM",
-      "type": "SEM"
-    }
-  ],
   "SPAN-394": [
     {
       "day": "MWF",
       "time": "10-11AM",
-      "type": "SEM"
-    }
-  ],
-  "SPAN-396": [
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
-      "type": "SEM"
-    }
-  ],
-  "SPAN-397": [
-    {
-      "day": "MW",
-      "time": "3:30-5PM",
-      "type": "SEM"
-    },
-    {
-      "day": "TR",
-      "time": "3-4:30PM",
       "type": "SEM"
     }
   ],
@@ -38582,6 +39358,28 @@
       "type": "LEC"
     }
   ],
+  "STAT-705": [
+    {
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
   "STAT-422": [
     {
       "day": "MW",
@@ -38591,6 +39389,18 @@
     {
       "day": "MW",
       "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "STAT-722": [
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
@@ -38616,6 +39426,28 @@
       "type": "LEC"
     }
   ],
+  "STAT-510": [
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    }
+  ],
   "STAT-431": [
     {
       "day": "TR",
@@ -38625,6 +39457,18 @@
     {
       "day": "TR",
       "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "STAT-511": [
+    {
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "day": "TR",
+      "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
@@ -38699,40 +39543,6 @@
       "type": "LEC"
     }
   ],
-  "STAT-510": [
-    {
-      "day": "MW",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
-  "STAT-511": [
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    }
-  ],
   "STAT-512": [
     {
       "day": "TR",
@@ -38754,44 +39564,10 @@
       "type": "LEC"
     }
   ],
-  "STAT-705": [
-    {
-      "day": "MW",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
   "STAT-711": [
     {
       "day": "MW",
       "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
-  "STAT-722": [
-    {
-      "day": "MW",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
@@ -40447,63 +41223,6 @@
       "type": "SEM"
     }
   ],
-  "VLST-232": [
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
-      "time": "9:30-10:30AM",
-      "type": "REC"
-    },
-    {
-      "day": "T",
-      "time": "10:30-11:30AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4-5PM",
-      "type": "REC"
-    }
-  ],
   "VLST-234": [
     {
       "day": "MWF",
@@ -40558,7 +41277,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
-    },
+    }
+  ],
+  "WH-150": [
     {
       "day": "MW",
       "time": "10:30-12NOON",
@@ -40569,6 +41290,18 @@
       "time": "12-1:30PM",
       "type": "SEM"
     },
+    {
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "SEM"
+    },
+    {
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "SEM"
+    }
+  ],
+  "WH-201": [
     {
       "day": "M",
       "time": "10:30-12NOON",
@@ -40657,21 +41390,6 @@
     {
       "day": "R",
       "time": "3-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
       "type": "LEC"
     }
   ],
@@ -40701,12 +41419,16 @@
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
-    },
+    }
+  ],
+  "WH-390": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "WH-399": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -40748,7 +41470,9 @@
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "WHG-632": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -40773,17 +41497,23 @@
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "WHG-642": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "WHG-647": [
     {
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
-    },
+    }
+  ],
+  "WHG-648": [
     {
       "day": "TBA",
       "time": "TBA",
@@ -41327,18 +42057,6 @@
       "type": "LEC"
     }
   ],
-  "WH-150": [
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
-      "type": "SEM"
-    },
-    {
-      "day": "MW",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    }
-  ],
   "AFRC-134": [
     {
       "day": "T",
@@ -41447,6 +42165,23 @@
       "type": "LAB"
     }
   ],
+  "ANTH-720": [
+    {
+      "day": "S",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "day": "S",
+      "time": "1-4PM",
+      "type": "LAB"
+    },
+    {
+      "day": "F",
+      "time": "6:30-9:30PM",
+      "type": "LAB"
+    }
+  ],
   "ANTH-234": [
     {
       "day": "T",
@@ -41503,23 +42238,6 @@
       "type": "SEM"
     }
   ],
-  "ANTH-720": [
-    {
-      "day": "F",
-      "time": "6:30-9:30PM",
-      "type": "LAB"
-    },
-    {
-      "day": "S",
-      "time": "9-12NOON",
-      "type": "LAB"
-    },
-    {
-      "day": "S",
-      "time": "1-4PM",
-      "type": "LAB"
-    }
-  ],
   "ARAB-042": [
     {
       "day": "MW",
@@ -41574,17 +42292,23 @@
       "day": "M",
       "time": "5-8PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BDS-512": [
     {
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BDS-517": [
     {
       "day": "T",
       "time": "3-5:50PM",
       "type": "LEC"
-    },
+    }
+  ],
+  "BDS-522": [
     {
       "day": "W",
       "time": "5-8PM",
@@ -42274,6 +42998,72 @@
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
+    }
+  ],
+  "MCS-698": [
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    }
+  ],
+  "MCS-699": [
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "MLA-541": [
+    {
+      "day": "M",
+      "time": "6:30-8:30PM",
+      "type": "ONL"
+    }
+  ],
+  "MLA-699": [
+    {
+      "day": "M",
+      "time": "6-8PM",
+      "type": "SEM"
+    },
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "IND"
+    }
+  ],
+  "MMP-502": [
+    {
+      "day": "MF",
+      "time": "3-3:45PM",
+      "type": "LEC"
+    }
+  ],
+  "MMP-532": [
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    }
+  ],
+  "MMP-533": [
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "MMP-799": [
+    {
+      "day": "TBA",
+      "time": "TBA",
+      "type": "IND"
     }
   ],
   "MUSC-051": [
