@@ -19,7 +19,8 @@ function getCourseData(courseName, courseDataList) {
         text += "<h3>" + getSemester(j) +":</h3>";
         const timeList = courseData[courseName];
         for (let i = 0; i < timeList.length; i++) {
-            text += "<p>" + timeList[i]["type"] + " offered " + timeList[i]["day"] + " at " + timeList[i]["time"] + "</p>";
+            text += "<p>" + timeList[i]["type"] + " " + timeList[i]["section"] + " offered " + timeList[i]["day"] +
+                " at " + timeList[i]["time"] + "</p>";
         }
     }
     return text;
@@ -27,6 +28,10 @@ function getCourseData(courseName, courseDataList) {
 
 function parseInput(courseName) {
     let parsedName = courseName;
+    if (/([A-Za-z]+)-([0-9]+)/.test(courseName)) {
+        parsedName = courseName.toUpperCase();
+        return parsedName;
+    }
     let array = courseName.match(/([A-Za-z]+)(\s*)([0-9]+)/);
     if (array == null) {
         return parsedName;

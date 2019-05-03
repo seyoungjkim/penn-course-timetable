@@ -1,6 +1,7 @@
 var data17C = {
   "AAMW-424": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -8,6 +9,7 @@ var data17C = {
   ],
   "AAMW-521": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -15,6 +17,7 @@ var data17C = {
   ],
   "AAMW-526": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -22,6 +25,7 @@ var data17C = {
   ],
   "AAMW-539": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -29,6 +33,7 @@ var data17C = {
   ],
   "AAMW-546": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -36,6 +41,7 @@ var data17C = {
   ],
   "AAMW-611": [
     {
+      "section": "401",
       "day": "T",
       "time": "2-5PM",
       "type": "SEM"
@@ -43,6 +49,7 @@ var data17C = {
   ],
   "AAMW-626": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -50,6 +57,7 @@ var data17C = {
   ],
   "AAMW-632": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -57,6 +65,7 @@ var data17C = {
   ],
   "AAMW-635": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -64,6 +73,7 @@ var data17C = {
   ],
   "AAMW-701": [
     {
+      "section": "401",
       "day": "F",
       "time": "10-12NOON",
       "type": "SEM"
@@ -71,6 +81,7 @@ var data17C = {
   ],
   "AAMW-720": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -78,6 +89,7 @@ var data17C = {
   ],
   "AAMW-726": [
     {
+      "section": "401",
       "day": "M",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -85,6 +97,7 @@ var data17C = {
   ],
   "AAMW-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -92,116 +105,139 @@ var data17C = {
   ],
   "ACCT-101": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "215",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
@@ -209,26 +245,31 @@ var data17C = {
   ],
   "ACCT-102": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -236,16 +277,19 @@ var data17C = {
   ],
   "ACCT-201": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -253,6 +297,7 @@ var data17C = {
   ],
   "ACCT-208": [
     {
+      "section": "401",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -260,6 +305,7 @@ var data17C = {
   ],
   "ACCT-243": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -267,16 +313,19 @@ var data17C = {
   ],
   "ACCT-611": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -284,16 +333,19 @@ var data17C = {
   ],
   "ACCT-612": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "R",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -301,31 +353,37 @@ var data17C = {
   ],
   "ACCT-613": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "011",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -333,6 +391,7 @@ var data17C = {
   ],
   "ACCT-718": [
     {
+      "section": "401",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -340,16 +399,19 @@ var data17C = {
   ],
   "ACCT-742": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -357,6 +419,7 @@ var data17C = {
   ],
   "ACCT-743": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -364,6 +427,7 @@ var data17C = {
   ],
   "ACCT-899": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -371,6 +435,7 @@ var data17C = {
   ],
   "ACCT-910": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9-12NOON",
       "type": "SEM"
@@ -378,6 +443,7 @@ var data17C = {
   ],
   "ACCT-981": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -385,6 +451,7 @@ var data17C = {
   ],
   "ACCT-982": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -392,26 +459,31 @@ var data17C = {
   ],
   "AFRC-001": [
     {
+      "section": "JOHNSON/ROLLINS",
       "day": "TR",
       "time": "1:30-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
@@ -419,6 +491,7 @@ var data17C = {
   ],
   "AFRC-006": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -426,6 +499,7 @@ var data17C = {
   ],
   "AFRC-010": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -433,6 +507,7 @@ var data17C = {
   ],
   "AFRC-041": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -440,45 +515,21 @@ var data17C = {
   ],
   "AFRC-050": [
     {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    }
-  ],
-  "MUSC-050": [
-    {
-      "day": "MWF",
-      "time": "10-11AM",
-      "type": "LEC"
-    },
-    {
-      "day": "MWF",
-      "time": "10-11AM",
-      "type": "LEC"
-    },
-    {
-      "day": "MWF",
-      "time": "10-11AM",
-      "type": "LEC"
-    },
-    {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
-      "day": "R",
-      "time": "4:30-7:30PM",
+      "section": "402",
+      "day": "MWF",
+      "time": "10-11AM",
       "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "7-9PM",
-      "type": "ONL"
     }
   ],
   "AFRC-070": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -486,62 +537,71 @@ var data17C = {
   ],
   "AFRC-076": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
-    }
-  ],
-  "HIST-076": [
+    },
     {
+      "section": "402",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
     }
   ],
   "AFRC-078": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
+      "type": "SEM"
+    },
+    {
+      "section": "401",
+      "day": "R",
+      "time": "1:30-4:30PM",
       "type": "SEM"
     }
   ],
   "AFRC-081": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -549,6 +609,7 @@ var data17C = {
   ],
   "AFRC-112": [
     {
+      "section": "401",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -556,60 +617,39 @@ var data17C = {
   ],
   "AFRC-120": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "10:30-11:30AM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
-    }
-  ],
-  "SOCI-120": [
-    {
-      "day": "R",
-      "time": "9:30-10:30AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "10:30-11:30AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "10-11AM",
-      "type": "LEC"
     }
   ],
   "AFRC-134": [
     {
+      "section": "402",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -617,6 +657,7 @@ var data17C = {
   ],
   "AFRC-135": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -624,11 +665,13 @@ var data17C = {
   ],
   "AFRC-151": [
     {
+      "section": "680",
       "day": "MW",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "3-5PM",
       "type": "LEC"
@@ -636,11 +679,7 @@ var data17C = {
   ],
   "AFRC-162": [
     {
-      "day": "TR",
-      "time": "4:30-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "K",
       "day": "TR",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -648,6 +687,7 @@ var data17C = {
   ],
   "AFRC-168": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -655,11 +695,13 @@ var data17C = {
   ],
   "AFRC-170": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
@@ -667,85 +709,51 @@ var data17C = {
   ],
   "AFRC-172": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "G",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
-    }
-  ],
-  "HIST-170": [
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "5-6PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "10-11AM",
-      "type": "LEC"
     }
   ],
   "AFRC-180": [
     {
-      "day": "TR",
-      "time": "12-2PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "12-2PM",
       "type": "LEC"
@@ -753,6 +761,7 @@ var data17C = {
   ],
   "AFRC-190": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -760,11 +769,7 @@ var data17C = {
   ],
   "AFRC-215": [
     {
-      "day": "R",
-      "time": "1:30-4:30PM",
-      "type": "SEM"
-    },
-    {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -772,6 +777,7 @@ var data17C = {
   ],
   "AFRC-229": [
     {
+      "section": "401",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -779,6 +785,7 @@ var data17C = {
   ],
   "AFRC-234": [
     {
+      "section": "402",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -786,11 +793,13 @@ var data17C = {
   ],
   "AFRC-240": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "5:30-7:30PM",
       "type": "LEC"
@@ -798,11 +807,7 @@ var data17C = {
   ],
   "AFRC-242": [
     {
-      "day": "MW",
-      "time": "7:30-9PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "7:30-9PM",
       "type": "LEC"
@@ -810,28 +815,27 @@ var data17C = {
   ],
   "AFRC-247": [
     {
+      "section": "680",
       "day": "T",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "R",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "T",
-      "time": "3-5PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
       "time": "3-5PM",
       "type": "LEC"
     }
   ],
   "AFRC-249": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -839,11 +843,13 @@ var data17C = {
   ],
   "AFRC-264": [
     {
+      "section": "680",
       "day": "TR",
       "time": "6:30-8PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "6:30-8PM",
       "type": "LEC"
@@ -851,6 +857,7 @@ var data17C = {
   ],
   "AFRC-268": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -858,85 +865,51 @@ var data17C = {
   ],
   "AFRC-269": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3-4PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "3:30-4:30PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
-    }
-  ],
-  "PSCI-271": [
-    {
-      "day": "W",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3:30-4:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "5-6PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "3-4PM",
-      "type": "LEC"
     }
   ],
   "AFRC-270": [
     {
-      "day": "TR",
-      "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -944,6 +917,7 @@ var data17C = {
   ],
   "AFRC-274": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -951,6 +925,7 @@ var data17C = {
   ],
   "AFRC-276": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -958,50 +933,47 @@ var data17C = {
   ],
   "AFRC-280": [
     {
+      "section": "680",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "F",
       "time": "3-4PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "3-4PM",
       "type": "LEC"
     }
   ],
   "AFRC-284": [
     {
+      "section": "680",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "F",
       "time": "4-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "4-5PM",
       "type": "LEC"
     }
   ],
   "AFRC-324": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -1009,11 +981,7 @@ var data17C = {
   ],
   "AFRC-325": [
     {
-      "day": "M",
-      "time": "2-5PM",
-      "type": "SEM"
-    },
-    {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -1021,67 +989,59 @@ var data17C = {
   ],
   "AFRC-345": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
-    }
-  ],
-  "HIST-345": [
+    },
     {
+      "section": "402",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
     }
   ],
   "AFRC-350": [
     {
+      "section": "680",
       "day": "MW",
       "time": "11-12:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "11-12:30PM",
       "type": "LEC"
-    }
-  ],
-  "AFRC-362": [
+    },
     {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "680",
+      "day": "MW",
+      "time": "5:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-362": [
+    {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -1089,6 +1049,7 @@ var data17C = {
   ],
   "AFRC-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -1096,6 +1057,7 @@ var data17C = {
   ],
   "AFRC-400": [
     {
+      "section": "401",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
@@ -1103,6 +1065,7 @@ var data17C = {
   ],
   "AFRC-417": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -1110,6 +1073,7 @@ var data17C = {
   ],
   "AFRC-490": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -1117,6 +1081,7 @@ var data17C = {
   ],
   "AFRC-499": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -1124,6 +1089,7 @@ var data17C = {
   ],
   "AFRC-533": [
     {
+      "section": "401",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -1131,11 +1097,7 @@ var data17C = {
   ],
   "AFRC-540": [
     {
-      "day": "MW",
-      "time": "5:30-7:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "5:30-7:30PM",
       "type": "LEC"
@@ -1143,11 +1105,7 @@ var data17C = {
   ],
   "AFRC-543": [
     {
-      "day": "MW",
-      "time": "7:30-9PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "7:30-9PM",
       "type": "LEC"
@@ -1155,6 +1113,7 @@ var data17C = {
   ],
   "AFRC-547": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -1162,28 +1121,27 @@ var data17C = {
   ],
   "AFRC-548": [
     {
+      "section": "680",
       "day": "T",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "R",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "T",
-      "time": "3-5PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
       "time": "3-5PM",
       "type": "LEC"
     }
   ],
   "AFRC-569": [
     {
+      "section": "401",
       "day": "R",
       "time": "9-12NOON",
       "type": "SEM"
@@ -1191,6 +1149,7 @@ var data17C = {
   ],
   "AFRC-575": [
     {
+      "section": "CARTER/STEVENSO",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -1198,6 +1157,7 @@ var data17C = {
   ],
   "AFRC-591": [
     {
+      "section": "401",
       "day": "R",
       "time": "2-4PM",
       "type": "SEM"
@@ -1205,6 +1165,7 @@ var data17C = {
   ],
   "AFRC-601": [
     {
+      "section": "401",
       "day": "W",
       "time": "6:30-8:30PM",
       "type": "SEM"
@@ -1212,6 +1173,7 @@ var data17C = {
   ],
   "AFRC-630": [
     {
+      "section": "401",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -1219,6 +1181,7 @@ var data17C = {
   ],
   "AFRC-640": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -1226,6 +1189,7 @@ var data17C = {
   ],
   "AFRC-668": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -1233,6 +1197,7 @@ var data17C = {
   ],
   "AFRC-710": [
     {
+      "section": "401",
       "day": "W",
       "time": "10-1PM",
       "type": "SEM"
@@ -1240,6 +1205,7 @@ var data17C = {
   ],
   "AFRC-723": [
     {
+      "section": "401",
       "day": "M",
       "time": "4:30-7PM",
       "type": "LEC"
@@ -1247,6 +1213,7 @@ var data17C = {
   ],
   "AFRC-770": [
     {
+      "section": "401",
       "day": "R",
       "time": "12-3PM",
       "type": "SEM"
@@ -1254,6 +1221,7 @@ var data17C = {
   ],
   "AFRC-995": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -1261,6 +1229,7 @@ var data17C = {
   ],
   "AFRC-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -1268,11 +1237,13 @@ var data17C = {
   ],
   "AFST-050": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -1280,66 +1251,43 @@ var data17C = {
   ],
   "AFST-076": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
+      "section": "407",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
@@ -1347,11 +1295,13 @@ var data17C = {
   ],
   "AFST-150": [
     {
+      "section": "680",
       "day": "MW",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "3-5PM",
       "type": "LEC"
@@ -1359,11 +1309,7 @@ var data17C = {
   ],
   "AFST-160": [
     {
-      "day": "TR",
-      "time": "4:30-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "K",
       "day": "TR",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -1371,11 +1317,13 @@ var data17C = {
   ],
   "AFST-170": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
@@ -1383,11 +1331,7 @@ var data17C = {
   ],
   "AFST-180": [
     {
-      "day": "TR",
-      "time": "12-2PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "12-2PM",
       "type": "LEC"
@@ -1395,6 +1339,7 @@ var data17C = {
   ],
   "AFST-190": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -1402,11 +1347,13 @@ var data17C = {
   ],
   "AFST-240": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "5:30-7:30PM",
       "type": "LEC"
@@ -1414,11 +1361,7 @@ var data17C = {
   ],
   "AFST-242": [
     {
-      "day": "MW",
-      "time": "7:30-9PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "7:30-9PM",
       "type": "LEC"
@@ -1426,33 +1369,33 @@ var data17C = {
   ],
   "AFST-247": [
     {
+      "section": "680",
       "day": "T",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "R",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "T",
-      "time": "3-5PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
       "time": "3-5PM",
       "type": "LEC"
     }
   ],
   "AFST-250": [
     {
+      "section": "680",
       "day": "TR",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "3-5PM",
       "type": "LEC"
@@ -1460,11 +1403,7 @@ var data17C = {
   ],
   "AFST-262": [
     {
-      "day": "TR",
-      "time": "6:30-8PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "6:30-8PM",
       "type": "LEC"
@@ -1472,6 +1411,7 @@ var data17C = {
   ],
   "AFST-268": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -1479,18 +1419,27 @@ var data17C = {
   ],
   "AFST-270": [
     {
+      "section": "680",
       "day": "TR",
       "time": "5-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "5-6:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "E",
+      "day": "F",
+      "time": "3-4PM",
       "type": "LEC"
     }
   ],
   "AFST-274": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -1498,21 +1447,13 @@ var data17C = {
   ],
   "AFST-280": [
     {
+      "section": "680",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
-      "day": "F",
-      "time": "3-4PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
+      "section": "E",
       "day": "F",
       "time": "3-4PM",
       "type": "LEC"
@@ -1520,28 +1461,27 @@ var data17C = {
   ],
   "AFST-284": [
     {
+      "section": "680",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "F",
       "time": "4-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "4-5PM",
       "type": "LEC"
     }
   ],
   "AFST-300": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -1549,23 +1489,69 @@ var data17C = {
   ],
   "AFST-350": [
     {
+      "section": "680",
       "day": "MW",
       "time": "11-12:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "11-12:30PM",
       "type": "LEC"
-    }
-  ],
-  "AFST-362": [
+    },
     {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "680",
+      "day": "TR",
+      "time": "7:30-9PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "TR",
+      "time": "7-9PM",
+      "type": "LEC"
+    },
+    {
+      "section": "683",
+      "day": "TR",
+      "time": "5-7PM",
+      "type": "LEC"
+    },
+    {
+      "section": "684",
+      "day": "TR",
+      "time": "5-7PM",
+      "type": "LEC"
+    },
+    {
+      "section": "687",
+      "day": "MW",
+      "time": "5-7:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "689",
+      "day": "TR",
+      "time": "7-9PM",
+      "type": "LEC"
+    }
+  ],
+  "AFST-362": [
+    {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -1573,11 +1559,7 @@ var data17C = {
   ],
   "AFST-370": [
     {
-      "day": "TR",
-      "time": "7:30-9PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "7:30-9PM",
       "type": "LEC"
@@ -1585,6 +1567,7 @@ var data17C = {
   ],
   "AFST-460": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -1592,11 +1575,7 @@ var data17C = {
   ],
   "AFST-484": [
     {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -1604,199 +1583,131 @@ var data17C = {
   ],
   "AFST-490": [
     {
+      "section": "680",
       "day": "TR",
       "time": "7-9PM",
       "type": "LEC"
     },
     {
+      "section": "681",
       "day": "TR",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "683",
       "day": "TR",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "684",
       "day": "TR",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "687",
       "day": "MW",
       "time": "5-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "689",
       "day": "TR",
       "time": "7-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "5-7:30PM",
-      "type": "LEC"
-    }
-  ],
-  "AFST-594": [
-    {
-      "day": "MW",
-      "time": "5-7:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "7-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "5-7:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "7-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "5-7PM",
       "type": "LEC"
     }
   ],
   "AFST-492": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "681",
       "day": "TR",
       "time": "7-8:30PM",
       "type": "LEC"
     },
     {
+      "section": "682",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "683",
+      "day": "TR",
+      "time": "7:30-9PM",
+      "type": "LEC"
+    },
+    {
+      "section": "686",
+      "day": "MW",
+      "time": "7-9PM",
+      "type": "LEC"
+    },
+    {
+      "section": "688",
+      "day": "MW",
+      "time": "6-7:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
-      "day": "TR",
-      "time": "7-8:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "682",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
-    }
-  ],
-  "AFST-596": [
-    {
-      "day": "TR",
-      "time": "7:30-9PM",
-      "type": "LEC"
     },
     {
+      "section": "686",
       "day": "MW",
       "time": "7-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "6-7:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "7:30-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "7-9PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "6-7:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "5-6:30PM",
       "type": "LEC"
     }
   ],
   "AFST-494": [
     {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "684",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "686",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "688",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
+      "section": "686",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -1804,23 +1715,27 @@ var data17C = {
   ],
   "AFST-496": [
     {
+      "section": "680",
       "day": "MW",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "3-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "MW",
+      "time": "5-7PM",
       "type": "LEC"
     }
   ],
   "AFST-517": [
     {
-      "day": "MW",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
@@ -1828,11 +1743,7 @@ var data17C = {
   ],
   "AFST-529": [
     {
-      "day": "TR",
-      "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -1840,11 +1751,13 @@ var data17C = {
   ],
   "AFST-540": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "5:30-7:30PM",
       "type": "LEC"
@@ -1852,11 +1765,7 @@ var data17C = {
   ],
   "AFST-543": [
     {
-      "day": "MW",
-      "time": "7:30-9PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "7:30-9PM",
       "type": "LEC"
@@ -1864,45 +1773,47 @@ var data17C = {
   ],
   "AFST-547": [
     {
+      "section": "680",
       "day": "T",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "R",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "T",
-      "time": "3-5PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
       "time": "3-5PM",
       "type": "LEC"
     }
   ],
   "AFST-548": [
     {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "MW",
+      "time": "3-5PM",
       "type": "LEC"
     }
   ],
   "AFST-550": [
     {
-      "day": "MW",
-      "time": "3-5PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "3-5PM",
       "type": "LEC"
@@ -1910,11 +1821,7 @@ var data17C = {
   ],
   "AFST-552": [
     {
-      "day": "TR",
-      "time": "3-5PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "3-5PM",
       "type": "LEC"
@@ -1922,23 +1829,27 @@ var data17C = {
   ],
   "AFST-554": [
     {
+      "section": "680",
       "day": "MW",
       "time": "11-12:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "11-12:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "K",
+      "day": "TR",
+      "time": "4:30-6:30PM",
       "type": "LEC"
     }
   ],
   "AFST-562": [
     {
-      "day": "TR",
-      "time": "4:30-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "K",
       "day": "TR",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -1946,11 +1857,13 @@ var data17C = {
   ],
   "AFST-566": [
     {
+      "section": "680",
       "day": "TR",
       "time": "6:30-8PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "6:30-8PM",
       "type": "LEC"
@@ -1958,11 +1871,7 @@ var data17C = {
   ],
   "AFST-568": [
     {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -1970,33 +1879,33 @@ var data17C = {
   ],
   "AFST-580": [
     {
+      "section": "680",
       "day": "TR",
       "time": "12-2PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "12-2PM",
+      "type": "LEC"
+    },
+    {
+      "section": "E",
+      "day": "F",
+      "time": "3-4PM",
       "type": "LEC"
     }
   ],
   "AFST-582": [
     {
+      "section": "680",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
-      "day": "F",
-      "time": "3-4PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
+      "section": "E",
       "day": "F",
       "time": "3-4PM",
       "type": "LEC"
@@ -2004,52 +1913,107 @@ var data17C = {
   ],
   "AFST-584": [
     {
+      "section": "680",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "F",
       "time": "4-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "4-5PM",
       "type": "LEC"
     }
   ],
   "AFST-587": [
     {
+      "section": "680",
       "day": "TR",
       "time": "7:30-9PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "7:30-9PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "684",
+      "day": "TR",
+      "time": "5-7PM",
+      "type": "LEC"
+    },
+    {
+      "section": "687",
+      "day": "MW",
+      "time": "5-7:30PM",
       "type": "LEC"
     }
   ],
   "AFST-590": [
     {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     }
   ],
+  "AFST-594": [
+    {
+      "section": "684",
+      "day": "TR",
+      "time": "5-7PM",
+      "type": "LEC"
+    },
+    {
+      "section": "687",
+      "day": "MW",
+      "time": "5-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "AFST-596": [
+    {
+      "section": "682",
+      "day": "MW",
+      "time": "5-6:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "682",
+      "day": "MW",
+      "time": "5-6:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "M",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "E",
+      "day": "R",
+      "time": "1-2:30PM",
+      "type": "LEC"
+    }
+  ],
   "AFST-599": [
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -2057,21 +2021,13 @@ var data17C = {
   ],
   "AFST-649": [
     {
+      "section": "680",
       "day": "M",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
-      "day": "R",
-      "time": "1-2:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "M",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
+      "section": "E",
       "day": "R",
       "time": "1-2:30PM",
       "type": "LEC"
@@ -2079,6 +2035,7 @@ var data17C = {
   ],
   "AFST-990": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -2086,6 +2043,7 @@ var data17C = {
   ],
   "AFST-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -2093,33 +2051,39 @@ var data17C = {
   ],
   "ALAN-030": [
     {
+      "section": "680",
       "day": "M",
       "time": "3:30-5:30PM",
       "type": "LEC"
     },
     {
+      "section": "T",
       "day": "W",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "M",
       "time": "3:30-5:30PM",
       "type": "LEC"
     },
     {
+      "section": "T",
       "day": "W",
       "time": "2-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "TR",
+      "time": "4-6PM",
       "type": "LEC"
     }
   ],
   "ALAN-110": [
     {
-      "day": "TR",
-      "time": "4-6PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "4-6PM",
       "type": "LEC"
@@ -2127,11 +2091,7 @@ var data17C = {
   ],
   "ALAN-120": [
     {
-      "day": "TR",
-      "time": "6:30-8:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "6:30-8:30PM",
       "type": "LEC"
@@ -2139,11 +2099,13 @@ var data17C = {
   ],
   "ALAN-150": [
     {
+      "section": "680",
       "day": "MW",
       "time": "4-6PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "4-6PM",
       "type": "LEC"
@@ -2151,11 +2113,7 @@ var data17C = {
   ],
   "ALAN-210": [
     {
-      "day": "TR",
-      "time": "6-7:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "6-7:30PM",
       "type": "LEC"
@@ -2163,33 +2121,33 @@ var data17C = {
   ],
   "ALAN-220": [
     {
+      "section": "680",
       "day": "TR",
       "time": "5-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "5-6:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "M",
+      "day": "W",
+      "time": "5:30-7PM",
       "type": "LEC"
     }
   ],
   "ALAN-230": [
     {
+      "section": "680",
       "day": "M",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
-      "day": "W",
-      "time": "5:30-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "M",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
+      "section": "M",
       "day": "W",
       "time": "5:30-7PM",
       "type": "LEC"
@@ -2197,33 +2155,33 @@ var data17C = {
   ],
   "ALAN-250": [
     {
+      "section": "680",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "T",
+      "day": "W",
+      "time": "2-4PM",
       "type": "LEC"
     }
   ],
   "ALAN-530": [
     {
+      "section": "680",
       "day": "M",
       "time": "3:30-5:30PM",
       "type": "LEC"
     },
     {
-      "day": "W",
-      "time": "2-4PM",
-      "type": "LEC"
-    },
-    {
-      "day": "M",
-      "time": "3:30-5:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "T",
       "day": "W",
       "time": "2-4PM",
       "type": "LEC"
@@ -2231,6 +2189,7 @@ var data17C = {
   ],
   "AMCS-510": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -2238,40 +2197,21 @@ var data17C = {
   ],
   "AMCS-514": [
     {
+      "section": "VACHIRAPRASITH",
       "day": "T",
       "time": "6:30-8:30PM",
       "type": "LAB"
-    }
-  ],
-  "MATH-514": [
+    },
     {
+      "section": "VACHIRAPRASITH",
       "day": "R",
-      "time": "6:30-8:30PM",
-      "type": "LAB"
-    },
-    {
-      "day": "MF",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "6:30-8:30PM",
-      "type": "LAB"
-    },
-    {
-      "day": "MF",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
       "time": "6:30-8:30PM",
       "type": "LAB"
     }
   ],
   "AMCS-520": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -2279,6 +2219,7 @@ var data17C = {
   ],
   "AMCS-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -2286,6 +2227,7 @@ var data17C = {
   ],
   "AMCS-602": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -2293,6 +2235,7 @@ var data17C = {
   ],
   "AMCS-608": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -2300,6 +2243,7 @@ var data17C = {
   ],
   "AMCS-995": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -2307,6 +2251,7 @@ var data17C = {
   ],
   "AMCS-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -2314,144 +2259,89 @@ var data17C = {
   ],
   "ANCH-025": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
-      "day": "R",
-      "time": "10:30-11:30AM",
-      "type": "REC"
-    }
-  ],
-  "NELC-101": [
-    {
-      "day": "F",
-      "time": "9-10AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
+      "section": "402",
       "day": "R",
       "time": "10:30-11:30AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "10-11AM",
-      "type": "LEC"
     }
   ],
   "ANCH-026": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
-    }
-  ],
-  "HIST-026": [
+    },
     {
+      "section": "402",
       "day": "R",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "R",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "408",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "409",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "410",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "411",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "9-10AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
     }
   ],
   "ANCH-133": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -2459,6 +2349,7 @@ var data17C = {
   ],
   "ANCH-311": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -2466,6 +2357,7 @@ var data17C = {
   ],
   "ANCH-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -2473,6 +2365,7 @@ var data17C = {
   ],
   "ANCH-499": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -2480,6 +2373,7 @@ var data17C = {
   ],
   "ANCH-611": [
     {
+      "section": "401",
       "day": "T",
       "time": "2-5PM",
       "type": "SEM"
@@ -2487,6 +2381,7 @@ var data17C = {
   ],
   "ANCH-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -2494,6 +2389,7 @@ var data17C = {
   ],
   "ANEL-440": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -2501,6 +2397,7 @@ var data17C = {
   ],
   "ANEL-460": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -2508,6 +2405,7 @@ var data17C = {
   ],
   "ANEL-542": [
     {
+      "section": "001",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
@@ -2515,6 +2413,7 @@ var data17C = {
   ],
   "ANEL-640": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -2522,26 +2421,31 @@ var data17C = {
   ],
   "ANTH-001": [
     {
+      "section": "001",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "10:30-11:30AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
@@ -2549,31 +2453,37 @@ var data17C = {
   ],
   "ANTH-002": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -2581,46 +2491,55 @@ var data17C = {
   ],
   "ANTH-003": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "M",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "T",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "A",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "W",
       "time": "12-1PM",
       "type": "REC"
@@ -2628,77 +2547,59 @@ var data17C = {
   ],
   "ANTH-012": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-4PM",
       "type": "LEC"
-    }
-  ],
-  "SOCI-012": [
+    },
     {
+      "section": "402",
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "W",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "M",
-      "time": "2-4PM",
-      "type": "LEC"
     }
   ],
   "ANTH-022": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MWF",
+      "time": "10-11AM",
       "type": "LEC"
     }
   ],
   "ANTH-086": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -2706,60 +2607,39 @@ var data17C = {
   ],
   "ANTH-111": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
-    }
-  ],
-  "CLST-111": [
+    },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "10-11AM",
-      "type": "LEC"
     }
   ],
   "ANTH-118": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -2767,6 +2647,7 @@ var data17C = {
   ],
   "ANTH-121": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -2774,6 +2655,7 @@ var data17C = {
   ],
   "ANTH-127": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -2781,60 +2663,39 @@ var data17C = {
   ],
   "ANTH-148": [
     {
+      "section": "401",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
-    }
-  ],
-  "NELC-183": [
+    },
     {
+      "section": "402",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "1-2PM",
-      "type": "LEC"
     }
   ],
   "ANTH-152": [
     {
+      "section": "301",
       "day": "R",
       "time": "1-4PM",
       "type": "SEM"
@@ -2842,6 +2703,7 @@ var data17C = {
   ],
   "ANTH-170": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -2849,6 +2711,7 @@ var data17C = {
   ],
   "ANTH-190": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -2856,11 +2719,13 @@ var data17C = {
   ],
   "ANTH-219": [
     {
+      "section": "401",
       "day": "F",
       "time": "8-5PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "S",
       "time": "8-5PM",
       "type": "SEM"
@@ -2868,6 +2733,7 @@ var data17C = {
   ],
   "ANTH-221": [
     {
+      "section": "DIBBLE/BOILEAU",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -2875,80 +2741,51 @@ var data17C = {
   ],
   "ANTH-238": [
     {
+      "section": "401",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "W",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "M",
       "time": "3-4PM",
       "type": "REC"
-    }
-  ],
-  "HSOC-238": [
-    {
-      "day": "W",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "M",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "1-2PM",
-      "type": "LEC"
     }
   ],
   "ANTH-242": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -2956,6 +2793,7 @@ var data17C = {
   ],
   "ANTH-249": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -2963,6 +2801,7 @@ var data17C = {
   ],
   "ANTH-254": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -2970,23 +2809,27 @@ var data17C = {
   ],
   "ANTH-258": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "401",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
+    },
+    {
+      "section": "301",
+      "day": "W",
+      "time": "2-5PM",
+      "type": "SEM"
     }
   ],
   "ANTH-260": [
     {
-      "day": "W",
-      "time": "2-5PM",
-      "type": "SEM"
-    },
-    {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -2994,6 +2837,7 @@ var data17C = {
   ],
   "ANTH-268": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -3001,6 +2845,7 @@ var data17C = {
   ],
   "ANTH-294": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -3008,6 +2853,7 @@ var data17C = {
   ],
   "ANTH-300": [
     {
+      "section": "301",
       "day": "F",
       "time": "9-12NOON",
       "type": "SEM"
@@ -3015,6 +2861,7 @@ var data17C = {
   ],
   "ANTH-311": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -3022,6 +2869,7 @@ var data17C = {
   ],
   "ANTH-342": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -3029,6 +2877,7 @@ var data17C = {
   ],
   "ANTH-511": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -3036,6 +2885,7 @@ var data17C = {
   ],
   "ANTH-521": [
     {
+      "section": "DIBBLE/BOILEAU",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -3043,6 +2893,7 @@ var data17C = {
   ],
   "ANTH-533": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -3050,6 +2901,7 @@ var data17C = {
   ],
   "ANTH-547": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-4PM",
       "type": "LEC"
@@ -3057,6 +2909,7 @@ var data17C = {
   ],
   "ANTH-554": [
     {
+      "section": "301",
       "day": "M",
       "time": "3-6PM",
       "type": "SEM"
@@ -3064,6 +2917,7 @@ var data17C = {
   ],
   "ANTH-570": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -3071,6 +2925,7 @@ var data17C = {
   ],
   "ANTH-581": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -3078,6 +2933,7 @@ var data17C = {
   ],
   "ANTH-583": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -3085,6 +2941,7 @@ var data17C = {
   ],
   "ANTH-600": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -3092,6 +2949,7 @@ var data17C = {
   ],
   "ANTH-603": [
     {
+      "section": "301",
       "day": "MW",
       "time": "10-12NOON",
       "type": "SEM"
@@ -3099,6 +2957,7 @@ var data17C = {
   ],
   "ANTH-621": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -3106,6 +2965,7 @@ var data17C = {
   ],
   "ANTH-653": [
     {
+      "section": "301",
       "day": "R",
       "time": "10-1PM",
       "type": "SEM"
@@ -3113,6 +2973,7 @@ var data17C = {
   ],
   "ANTH-655": [
     {
+      "section": "301",
       "day": "T",
       "time": "10-1PM",
       "type": "SEM"
@@ -3120,6 +2981,7 @@ var data17C = {
   ],
   "ANTH-658": [
     {
+      "section": "301",
       "day": "W",
       "time": "3-6PM",
       "type": "SEM"
@@ -3127,11 +2989,13 @@ var data17C = {
   ],
   "ANTH-719": [
     {
+      "section": "401",
       "day": "F",
       "time": "8-5PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "S",
       "time": "8-5PM",
       "type": "SEM"
@@ -3139,6 +3003,7 @@ var data17C = {
   ],
   "ANTH-733": [
     {
+      "section": "301",
       "day": "M",
       "time": "12-3PM",
       "type": "SEM"
@@ -3146,139 +3011,83 @@ var data17C = {
   ],
   "ARAB-031": [
     {
+      "section": "401",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "M",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "K",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "403",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "K",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
+      "section": "S",
       "day": "TR",
       "time": "12-1:30PM",
-      "type": "LEC"
-    }
-  ],
-  "ARAB-631": [
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
   "ARAB-033": [
     {
+      "section": "401",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "S",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "TR",
       "time": "12-1:30PM",
-      "type": "LEC"
-    }
-  ],
-  "ARAB-633": [
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
   "ARAB-035": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "M",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -3286,6 +3095,7 @@ var data17C = {
   ],
   "ARAB-037": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -3293,11 +3103,13 @@ var data17C = {
   ],
   "ARAB-180": [
     {
+      "section": "301",
       "day": "T",
       "time": "6:15-7:15PM",
       "type": "SEM"
     },
     {
+      "section": "A",
       "day": "R",
       "time": "7:15-8:15PM",
       "type": "SEM"
@@ -3305,6 +3117,7 @@ var data17C = {
   ],
   "ARAB-437": [
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -3312,23 +3125,109 @@ var data17C = {
   ],
   "ARAB-548": [
     {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "TR",
+      "time": "5-7PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "TR",
+      "time": "5-6:30PM",
+      "type": "LEC"
     }
   ],
-  "ARAB-635": [
+  "ARAB-631": [
     {
+      "section": "401",
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "M",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "K",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "403",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "K",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "S",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ARAB-633": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "S",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "section": "E",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ARAB-635": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "section": "M",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -3336,6 +3235,7 @@ var data17C = {
   ],
   "ARAB-637": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -3343,6 +3243,7 @@ var data17C = {
   ],
   "ARCH-111": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -3350,6 +3251,7 @@ var data17C = {
   ],
   "ARCH-112": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -3357,48 +3259,49 @@ var data17C = {
   ],
   "ARCH-201": [
     {
+      "section": "201",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "STU"
     },
     {
+      "section": "H",
       "day": "T",
       "time": "4:30-6PM",
       "type": "STU"
     },
     {
+      "section": "106",
       "day": "R",
       "time": "1:30-6PM",
       "type": "STU"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "STU"
     },
     {
+      "section": "E",
       "day": "T",
       "time": "4:30-6PM",
       "type": "STU"
     },
     {
+      "section": "106",
       "day": "R",
-      "time": "1:30-6PM",
-      "type": "STU"
-    }
-  ],
-  "ARCH-301": [
-    {
-      "day": "T",
       "time": "1:30-6PM",
       "type": "STU"
     },
     {
+      "section": "J",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "STU"
     },
     {
+      "section": "208",
       "day": "R",
       "time": "4:30-6PM",
       "type": "STU"
@@ -3406,6 +3309,7 @@ var data17C = {
   ],
   "ARCH-401": [
     {
+      "section": "201",
       "day": "TR",
       "time": "1:30-6PM",
       "type": "STU"
@@ -3413,11 +3317,13 @@ var data17C = {
   ],
   "ARCH-411": [
     {
+      "section": "001",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
@@ -3425,6 +3331,7 @@ var data17C = {
   ],
   "ARCH-431": [
     {
+      "section": "401",
       "day": "R",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -3432,6 +3339,7 @@ var data17C = {
   ],
   "ARCH-433": [
     {
+      "section": "301",
       "day": "M",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -3439,35 +3347,27 @@ var data17C = {
   ],
   "ARCH-435": [
     {
+      "section": "401",
       "day": "W",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "1-5PM",
       "type": "LAB"
-    }
-  ],
-  "ARCH-535": [
-    {
-      "day": "F",
-      "time": "1-5PM",
-      "type": "LAB"
-    },
-    {
-      "day": "W",
-      "time": "10:30-12NOON",
-      "type": "LEC"
     }
   ],
   "ARCH-501": [
     {
+      "section": "201",
       "day": "MWR",
       "time": "2-6PM",
       "type": "STU"
     },
     {
+      "section": "102",
       "day": "T",
       "time": "2-3:30PM",
       "type": "LAB"
@@ -3475,36 +3375,43 @@ var data17C = {
   ],
   "ARCH-521": [
     {
+      "section": "202",
       "day": "MWR",
       "time": "2-6PM",
       "type": "STU"
     },
     {
+      "section": "203",
       "day": "MWR",
       "time": "2-6PM",
       "type": "STU"
     },
     {
+      "section": "204",
       "day": "MWR",
       "time": "2-6PM",
       "type": "STU"
     },
     {
+      "section": "205",
       "day": "MWR",
       "time": "2-6PM",
       "type": "STU"
     },
     {
+      "section": "206",
       "day": "MWR",
       "time": "2-6PM",
       "type": "STU"
     },
     {
+      "section": "207",
       "day": "MWR",
       "time": "2-6PM",
       "type": "STU"
     },
     {
+      "section": "101",
       "day": "T",
       "time": "12:30-2PM",
       "type": "LAB"
@@ -3512,31 +3419,37 @@ var data17C = {
   ],
   "ARCH-511": [
     {
+      "section": "001",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "10:30-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "10:30-12NOON",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "F",
       "time": "10:30-12NOON",
       "type": "REC"
@@ -3544,18 +3457,35 @@ var data17C = {
   ],
   "ARCH-531": [
     {
+      "section": "401",
       "day": "R",
       "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
+  "ARCH-535": [
+    {
+      "section": "401",
+      "day": "W",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "1-5PM",
+      "type": "LAB"
+    }
+  ],
   "ARCH-601": [
     {
+      "section": "201",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "102",
       "day": "T",
       "time": "7:30-9PM",
       "type": "LAB"
@@ -3563,26 +3493,31 @@ var data17C = {
   ],
   "ARCH-621": [
     {
+      "section": "202",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "203",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "204",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "205",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "101",
       "day": "T",
       "time": "6-7:30PM",
       "type": "LAB"
@@ -3590,26 +3525,31 @@ var data17C = {
   ],
   "ARCH-611": [
     {
+      "section": "001",
       "day": "F",
       "time": "10-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "AVITIA",
       "day": "M",
       "time": "10:30-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "9:30-11AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "M",
       "time": "10:30-12NOON",
       "type": "REC"
@@ -3617,6 +3557,7 @@ var data17C = {
   ],
   "ARCH-631": [
     {
+      "section": "001",
       "day": "T",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -3624,11 +3565,13 @@ var data17C = {
   ],
   "ARCH-633": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "ROU",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "LAB"
@@ -3636,76 +3579,91 @@ var data17C = {
   ],
   "ARCH-698": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -3713,56 +3671,67 @@ var data17C = {
   ],
   "ARCH-701": [
     {
+      "section": "201",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "202",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "203",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "204",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "205",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "206",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "207",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "208",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "209",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "210",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "211",
       "day": "MWF",
       "time": "12:30-6:30PM",
       "type": "STU"
@@ -3770,21 +3739,25 @@ var data17C = {
   ],
   "ARCH-703": [
     {
+      "section": "201",
       "day": "MW",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "202",
       "day": "MW",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "203",
       "day": "MW",
       "time": "12:30-6:30PM",
       "type": "STU"
     },
     {
+      "section": "204",
       "day": "MW",
       "time": "12:30-6:30PM",
       "type": "STU"
@@ -3792,36 +3765,43 @@ var data17C = {
   ],
   "ARCH-711": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "002",
       "day": "F",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "003",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "005",
       "day": "R",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "008",
       "day": "R",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "010",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "T",
       "time": "2-5PM",
       "type": "SEM"
@@ -3829,6 +3809,7 @@ var data17C = {
   ],
   "ARCH-717": [
     {
+      "section": "001",
       "day": "R",
       "time": "6-9PM",
       "type": "LEC"
@@ -3836,6 +3817,7 @@ var data17C = {
   ],
   "ARCH-719": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
@@ -3843,6 +3825,7 @@ var data17C = {
   ],
   "ARCH-721": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
@@ -3850,6 +3833,7 @@ var data17C = {
   ],
   "ARCH-724": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -3857,11 +3841,13 @@ var data17C = {
   ],
   "ARCH-731": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "M",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -3869,31 +3855,37 @@ var data17C = {
   ],
   "ARCH-732": [
     {
+      "section": "001",
       "day": "T",
       "time": "6-7:30PM",
       "type": "SEM"
     },
     {
+      "section": "J",
       "day": "T",
       "time": "7:30-9PM",
       "type": "SEM"
     },
     {
+      "section": "002",
       "day": "F",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "003",
       "day": "R",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "M",
       "day": "R",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "004",
       "day": "R",
       "time": "9-12NOON",
       "type": "SEM"
@@ -3901,6 +3893,7 @@ var data17C = {
   ],
   "ARCH-735": [
     {
+      "section": "001",
       "day": "T",
       "time": "1-4PM",
       "type": "SEM"
@@ -3908,6 +3901,7 @@ var data17C = {
   ],
   "ARCH-737": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-12NOON",
       "type": "SEM"
@@ -3915,6 +3909,7 @@ var data17C = {
   ],
   "ARCH-741": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -3922,11 +3917,13 @@ var data17C = {
   ],
   "ARCH-743": [
     {
+      "section": "001",
       "day": "M",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -3934,6 +3931,7 @@ var data17C = {
   ],
   "ARCH-751": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-12NOON",
       "type": "LEC"
@@ -3941,6 +3939,7 @@ var data17C = {
   ],
   "ARCH-752": [
     {
+      "section": "001",
       "day": "T",
       "time": "1-4PM",
       "type": "SEM"
@@ -3948,6 +3947,7 @@ var data17C = {
   ],
   "ARCH-753": [
     {
+      "section": "001",
       "day": "M",
       "time": "9-12NOON",
       "type": "LEC"
@@ -3955,6 +3955,7 @@ var data17C = {
   ],
   "ARCH-765": [
     {
+      "section": "001",
       "day": "F",
       "time": "9-12NOON",
       "type": "SEM"
@@ -3962,6 +3963,7 @@ var data17C = {
   ],
   "ARCH-768": [
     {
+      "section": "402",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -3969,6 +3971,7 @@ var data17C = {
   ],
   "ARCH-811": [
     {
+      "section": "401",
       "day": "T",
       "time": "2-5PM",
       "type": "SEM"
@@ -3976,11 +3979,13 @@ var data17C = {
   ],
   "ARCH-815": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -3988,11 +3993,13 @@ var data17C = {
   ],
   "ARCH-851": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -4000,6 +4007,7 @@ var data17C = {
   ],
   "ARCH-852": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -4007,16 +4015,19 @@ var data17C = {
   ],
   "ARCH-995": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -4024,51 +4035,61 @@ var data17C = {
   ],
   "ARCH-999": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -4076,6 +4097,7 @@ var data17C = {
   ],
   "ARTH-100": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -4083,26 +4105,31 @@ var data17C = {
   ],
   "ARTH-101": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -4110,21 +4137,25 @@ var data17C = {
   ],
   "ARTH-106": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -4132,6 +4163,7 @@ var data17C = {
   ],
   "ARTH-108": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -4139,6 +4171,7 @@ var data17C = {
   ],
   "ARTH-109": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -4146,6 +4179,7 @@ var data17C = {
   ],
   "ARTH-127": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -4153,6 +4187,7 @@ var data17C = {
   ],
   "ARTH-224": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -4160,6 +4195,7 @@ var data17C = {
   ],
   "ARTH-226": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -4167,26 +4203,31 @@ var data17C = {
   ],
   "ARTH-227": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
@@ -4194,6 +4235,7 @@ var data17C = {
   ],
   "ARTH-230": [
     {
+      "section": "DIBBLE/BOILEAU",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -4201,6 +4243,7 @@ var data17C = {
   ],
   "ARTH-231": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -4208,6 +4251,7 @@ var data17C = {
   ],
   "ARTH-232": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -4215,6 +4259,7 @@ var data17C = {
   ],
   "ARTH-235": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -4222,75 +4267,39 @@ var data17C = {
   ],
   "ARTH-237": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
-    }
-  ],
-  "URBS-237": [
+    },
     {
+      "section": "402",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
     }
   ],
   "ARTH-258": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -4298,49 +4307,41 @@ var data17C = {
   ],
   "ARTH-267": [
     {
+      "section": "401",
       "day": "WF",
       "time": "11-12NOON",
       "type": "LEC"
-    }
-  ],
-  "LALS-267": [
+    },
     {
+      "section": "404",
       "day": "M",
       "time": "11-12NOON",
       "type": "REC"
-    },
-    {
-      "day": "WF",
-      "time": "11-12NOON",
-      "type": "LEC"
     }
   ],
   "ARTH-277": [
     {
+      "section": "DOMBROW/BROWNLE",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
-    }
-  ],
-  "ARTH-677": [
+    },
     {
+      "section": "402",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
     }
   ],
   "ARTH-278": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -4348,30 +4349,27 @@ var data17C = {
   ],
   "ARTH-286": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
-    }
-  ],
-  "ARTH-686": [
+    },
     {
+      "section": "402",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
     }
   ],
   "ARTH-289": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -4379,6 +4377,7 @@ var data17C = {
   ],
   "ARTH-300": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -4386,6 +4385,7 @@ var data17C = {
   ],
   "ARTH-324": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -4393,6 +4393,7 @@ var data17C = {
   ],
   "ARTH-325": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -4400,6 +4401,7 @@ var data17C = {
   ],
   "ARTH-332": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -4407,6 +4409,7 @@ var data17C = {
   ],
   "ARTH-387": [
     {
+      "section": "401",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -4414,6 +4417,7 @@ var data17C = {
   ],
   "ARTH-388": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -4421,6 +4425,7 @@ var data17C = {
   ],
   "ARTH-391": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -4428,6 +4433,7 @@ var data17C = {
   ],
   "ARTH-398": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -4435,6 +4441,7 @@ var data17C = {
   ],
   "ARTH-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -4442,6 +4449,7 @@ var data17C = {
   ],
   "ARTH-501": [
     {
+      "section": "301",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -4449,6 +4457,7 @@ var data17C = {
   ],
   "ARTH-521": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -4456,6 +4465,7 @@ var data17C = {
   ],
   "ARTH-550": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -4463,6 +4473,7 @@ var data17C = {
   ],
   "ARTH-554": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -4470,6 +4481,7 @@ var data17C = {
   ],
   "ARTH-573": [
     {
+      "section": "402",
       "day": "T",
       "time": "1-3PM",
       "type": "SEM"
@@ -4477,6 +4489,7 @@ var data17C = {
   ],
   "ARTH-579": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -4484,6 +4497,7 @@ var data17C = {
   ],
   "ARTH-624": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -4491,6 +4505,7 @@ var data17C = {
   ],
   "ARTH-626": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -4498,6 +4513,7 @@ var data17C = {
   ],
   "ARTH-632": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -4505,6 +4521,7 @@ var data17C = {
   ],
   "ARTH-635": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -4512,6 +4529,7 @@ var data17C = {
   ],
   "ARTH-658": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -4519,25 +4537,39 @@ var data17C = {
   ],
   "ARTH-667": [
     {
+      "section": "401",
       "day": "WF",
       "time": "11-12NOON",
       "type": "LEC"
-    },
-    {
-      "day": "M",
-      "time": "11-12NOON",
-      "type": "REC"
     }
   ],
-  "ARTH-678": [
+  "ARTH-677": [
     {
+      "section": "DOMBROW/BROWNLE",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
+  "ARTH-678": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ARTH-686": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    }
+  ],
   "ARTH-701": [
     {
+      "section": "401",
       "day": "F",
       "time": "10-12NOON",
       "type": "SEM"
@@ -4545,6 +4577,7 @@ var data17C = {
   ],
   "ARTH-711": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -4552,6 +4585,7 @@ var data17C = {
   ],
   "ARTH-720": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -4559,6 +4593,7 @@ var data17C = {
   ],
   "ARTH-726": [
     {
+      "section": "401",
       "day": "M",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -4566,6 +4601,7 @@ var data17C = {
   ],
   "ARTH-771": [
     {
+      "section": "301",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -4573,6 +4609,7 @@ var data17C = {
   ],
   "ARTH-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -4580,6 +4617,7 @@ var data17C = {
   ],
   "ASAM-001": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -4587,90 +4625,57 @@ var data17C = {
   ],
   "ASAM-002": [
     {
+      "section": "401",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "408",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
-    }
-  ],
-  "ENGL-072": [
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
     }
   ],
   "ASAM-006": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -4678,6 +4683,7 @@ var data17C = {
   ],
   "ASAM-110": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -4685,6 +4691,7 @@ var data17C = {
   ],
   "ASAM-160": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -4692,6 +4699,7 @@ var data17C = {
   ],
   "ASAM-299": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -4699,6 +4707,7 @@ var data17C = {
   ],
   "ASAM-354": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -4706,16 +4715,19 @@ var data17C = {
   ],
   "ASTR-001": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "6:30-8PM",
       "type": "LEC"
@@ -4723,6 +4735,7 @@ var data17C = {
   ],
   "ASTR-007": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -4730,6 +4743,7 @@ var data17C = {
   ],
   "ASTR-211": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -4737,6 +4751,7 @@ var data17C = {
   ],
   "ASTR-533": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -4744,6 +4759,7 @@ var data17C = {
   ],
   "BCHE-280": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "2-3PM",
       "type": "LEC"
@@ -4751,6 +4767,7 @@ var data17C = {
   ],
   "BCHE-299": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -4758,6 +4775,7 @@ var data17C = {
   ],
   "BCHE-300": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -4765,6 +4783,7 @@ var data17C = {
   ],
   "BCHE-404": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
@@ -4772,6 +4791,7 @@ var data17C = {
   ],
   "BE-100": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -4779,21 +4799,25 @@ var data17C = {
   ],
   "BE-200": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "4:30-6PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "3-4:30PM",
       "type": "REC"
@@ -4801,16 +4825,19 @@ var data17C = {
   ],
   "BE-301": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
@@ -4818,11 +4845,13 @@ var data17C = {
   ],
   "BE-306": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "11-12NOON",
       "type": "REC"
@@ -4830,21 +4859,25 @@ var data17C = {
   ],
   "BE-309": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LAB"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "102",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LAB"
@@ -4852,11 +4885,13 @@ var data17C = {
   ],
   "BE-324": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
@@ -4864,6 +4899,7 @@ var data17C = {
   ],
   "BE-330": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -4871,6 +4907,7 @@ var data17C = {
   ],
   "BE-483": [
     {
+      "section": "401",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -4878,6 +4915,7 @@ var data17C = {
   ],
   "BE-490": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -4885,6 +4923,7 @@ var data17C = {
   ],
   "BE-492": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -4892,11 +4931,13 @@ var data17C = {
   ],
   "BE-495": [
     {
+      "section": "001",
       "day": "M",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "MARGULIES/RIZK",
       "day": "W",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -4904,6 +4945,7 @@ var data17C = {
   ],
   "BE-497": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -4911,6 +4953,7 @@ var data17C = {
   ],
   "BE-498": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -4918,6 +4961,7 @@ var data17C = {
   ],
   "BE-514": [
     {
+      "section": "401",
       "day": "F",
       "time": "1-4PM",
       "type": "LEC"
@@ -4925,6 +4969,7 @@ var data17C = {
   ],
   "BE-515": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -4932,11 +4977,13 @@ var data17C = {
   ],
   "BE-518": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "9-10:30AM",
       "type": "REC"
@@ -4944,6 +4991,7 @@ var data17C = {
   ],
   "BE-537": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -4951,6 +4999,7 @@ var data17C = {
   ],
   "BE-551": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -4958,6 +5007,7 @@ var data17C = {
   ],
   "BE-553": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -4965,6 +5015,7 @@ var data17C = {
   ],
   "BE-554": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -4972,30 +5023,21 @@ var data17C = {
   ],
   "BE-555": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    }
-  ],
-  "MEAM-555": [
+    },
     {
+      "section": "402",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "TR",
-      "time": "3-4:30PM",
-      "type": "LEC"
     }
   ],
   "BE-561": [
     {
+      "section": "001",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -5003,6 +5045,7 @@ var data17C = {
   ],
   "BE-566": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -5010,6 +5053,7 @@ var data17C = {
   ],
   "BE-567": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -5017,11 +5061,13 @@ var data17C = {
   ],
   "BE-570": [
     {
+      "section": "001",
       "day": "WF",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "F",
       "time": "1:30-3PM",
       "type": "LAB"
@@ -5029,6 +5075,7 @@ var data17C = {
   ],
   "BE-580": [
     {
+      "section": "401",
       "day": "MW",
       "time": "8:30-10AM",
       "type": "LEC"
@@ -5036,11 +5083,7 @@ var data17C = {
   ],
   "BE-583": [
     {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
+      "section": "401",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -5048,6 +5091,7 @@ var data17C = {
   ],
   "BE-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -5055,30 +5099,21 @@ var data17C = {
   ],
   "BE-662": [
     {
+      "section": "401",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
-    }
-  ],
-  "MEAM-662": [
+    },
     {
+      "section": "402",
       "day": "F",
       "time": "1:30-3PM",
       "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1:30-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
     }
   ],
   "BE-699": [
     {
+      "section": "301",
       "day": "R",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -5086,381 +5121,457 @@ var data17C = {
   ],
   "BE-899": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "021",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "025",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "026",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "027",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "028",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "029",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "030",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "031",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "032",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "033",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "034",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "035",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "036",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "037",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "038",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "039",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "040",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "041",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "042",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "043",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "044",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "045",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "046",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "047",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "048",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "049",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "050",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "051",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "052",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "053",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "054",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "055",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "056",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "057",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "058",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "059",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "060",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "061",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "062",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "063",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "064",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "065",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "066",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "067",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "068",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "069",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "070",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "071",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "072",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "073",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "074",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "075",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "076",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "077",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "078",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "079",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "080",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "081",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "082",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "083",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "084",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -5468,6 +5579,7 @@ var data17C = {
   ],
   "BE-995": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -5475,421 +5587,505 @@ var data17C = {
   ],
   "BE-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "021",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "025",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "026",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "027",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "028",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "029",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "030",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "031",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "032",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "033",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "034",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "035",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "036",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "037",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "038",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "039",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "040",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "041",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "042",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "043",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "044",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "045",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "046",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "047",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "048",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "049",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "050",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "051",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "052",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "053",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "054",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "055",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "056",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "057",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "058",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "059",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "060",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "061",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "062",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "063",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "064",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "065",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "066",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "067",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "068",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "069",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "070",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "071",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "072",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "073",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "074",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "075",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "076",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "077",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "078",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "079",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "080",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "081",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "082",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "083",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "084",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -5897,23 +6093,27 @@ var data17C = {
   ],
   "BENF-223": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
+      "type": "SEM"
+    },
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "3-4:30PM",
       "type": "SEM"
     }
   ],
   "BENG-403": [
     {
-      "day": "TR",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "5-7PM",
       "type": "LEC"
@@ -5921,11 +6121,7 @@ var data17C = {
   ],
   "BENG-433": [
     {
-      "day": "TR",
-      "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -5933,6 +6129,7 @@ var data17C = {
   ],
   "BEPP-201": [
     {
+      "section": "401",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -5940,11 +6137,13 @@ var data17C = {
   ],
   "BEPP-203": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -5952,6 +6151,7 @@ var data17C = {
   ],
   "BEPP-230": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -5959,94 +6159,77 @@ var data17C = {
   ],
   "BEPP-250": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    }
-  ],
-  "BEPP-950": [
-    {
+      "section": "205",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
       "type": "REC"
     }
   ],
   "BEPP-305": [
     {
+      "section": "MITCHELL/DOHERT",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "1:30-3PM",
-      "type": "LEC"
-    }
-  ],
-  "BEPP-805": [
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
   "BEPP-322": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -6054,6 +6237,7 @@ var data17C = {
   ],
   "BEPP-451": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -6061,6 +6245,7 @@ var data17C = {
   ],
   "BEPP-453": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -6068,6 +6253,21 @@ var data17C = {
   ],
   "BEPP-770": [
     {
+      "section": "401",
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
+  "BEPP-805": [
+    {
+      "section": "MITCHELL/DOHERT",
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -6075,6 +6275,7 @@ var data17C = {
   ],
   "BEPP-823": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -6082,6 +6283,7 @@ var data17C = {
   ],
   "BEPP-851": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -6089,6 +6291,7 @@ var data17C = {
   ],
   "BEPP-853": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -6096,6 +6299,7 @@ var data17C = {
   ],
   "BEPP-899": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -6103,11 +6307,13 @@ var data17C = {
   ],
   "BEPP-900": [
     {
+      "section": "301",
       "day": "T",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "T",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -6115,6 +6321,7 @@ var data17C = {
   ],
   "BEPP-911": [
     {
+      "section": "001",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
@@ -6122,13 +6329,35 @@ var data17C = {
   ],
   "BEPP-931": [
     {
+      "section": "001",
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
     }
   ],
+  "BEPP-950": [
+    {
+      "section": "003",
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "205",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "206",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    }
+  ],
   "BEPP-952": [
     {
+      "section": "401",
       "day": "W",
       "time": "3-6PM",
       "type": "LEC"
@@ -6136,30 +6365,21 @@ var data17C = {
   ],
   "BEPP-962": [
     {
+      "section": "401",
       "day": "W",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "402",
       "day": "M",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    }
-  ],
-  "REAL-962": [
-    {
-      "day": "M",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "W",
       "time": "12-1:30PM",
       "type": "SEM"
     }
   ],
   "BIBB-030": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -6167,6 +6387,7 @@ var data17C = {
   ],
   "BIBB-080": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -6174,135 +6395,81 @@ var data17C = {
   ],
   "BIBB-109": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "402",
+      "day": "T",
+      "time": "9-10:30AM",
+      "type": "LAB"
+    },
+    {
+      "section": "403",
+      "day": "T",
+      "time": "10:30-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "404",
+      "day": "T",
+      "time": "1:30-3PM",
+      "type": "LAB"
+    },
+    {
+      "section": "405",
+      "day": "T",
+      "time": "3-4:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "406",
+      "day": "R",
+      "time": "9-10:30AM",
+      "type": "LAB"
+    },
+    {
+      "section": "HUAMANCAJA",
+      "day": "R",
+      "time": "10:30-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "408",
+      "day": "R",
+      "time": "1:30-3PM",
+      "type": "LAB"
+    },
+    {
+      "section": "409",
+      "day": "R",
+      "time": "3-4:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "601",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "T",
       "time": "4:30-6PM",
       "type": "LAB"
     },
     {
+      "section": "603",
       "day": "R",
-      "time": "4:30-6PM",
-      "type": "LAB"
-    }
-  ],
-  "PSYC-109": [
-    {
-      "day": "T",
-      "time": "9-10:30AM",
-      "type": "LAB"
-    },
-    {
-      "day": "T",
-      "time": "10:30-12NOON",
-      "type": "LAB"
-    },
-    {
-      "day": "T",
-      "time": "1:30-3PM",
-      "type": "LAB"
-    },
-    {
-      "day": "T",
-      "time": "3-4:30PM",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "9-10:30AM",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "10:30-12NOON",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "1:30-3PM",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "3-4:30PM",
-      "type": "LAB"
-    },
-    {
-      "day": "T",
-      "time": "9-10:30AM",
-      "type": "LAB"
-    },
-    {
-      "day": "T",
-      "time": "10:30-12NOON",
-      "type": "LAB"
-    },
-    {
-      "day": "T",
-      "time": "1:30-3PM",
-      "type": "LAB"
-    },
-    {
-      "day": "T",
-      "time": "3-4:30PM",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "9-10:30AM",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "10:30-12NOON",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "1:30-3PM",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "3-4:30PM",
-      "type": "LAB"
-    },
-    {
-      "day": "MWF",
-      "time": "10-11AM",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
-      "time": "9-10:30AM",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "4:30-6PM",
-      "type": "LAB"
-    },
-    {
-      "day": "MW",
-      "time": "4:30-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
       "time": "4:30-6PM",
       "type": "LAB"
     }
   ],
   "BIBB-227": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -6310,6 +6477,7 @@ var data17C = {
   ],
   "BIBB-249": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -6317,90 +6485,57 @@ var data17C = {
   ],
   "BIBB-251": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "W",
       "time": "6-9PM",
       "type": "LAB"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "405",
       "day": "R",
       "time": "6-9PM",
       "type": "LAB"
     },
     {
+      "section": "406",
       "day": "F",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "407",
       "day": "F",
       "time": "12-3PM",
       "type": "LAB"
     },
     {
+      "section": "408",
       "day": "F",
       "time": "3-6PM",
       "type": "LAB"
-    }
-  ],
-  "BIOL-251": [
-    {
-      "day": "W",
-      "time": "6-9PM",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "9-12NOON",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "1:30-4:30PM",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "6-9PM",
-      "type": "LAB"
-    },
-    {
-      "day": "F",
-      "time": "9-12NOON",
-      "type": "LAB"
-    },
-    {
-      "day": "F",
-      "time": "12-3PM",
-      "type": "LAB"
-    },
-    {
-      "day": "F",
-      "time": "3-6PM",
-      "type": "LAB"
-    },
-    {
-      "day": "MW",
-      "time": "2-3:30PM",
-      "type": "LEC"
     }
   ],
   "BIBB-270": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -6408,6 +6543,7 @@ var data17C = {
   ],
   "BIBB-310": [
     {
+      "section": "101",
       "day": "W",
       "time": "1-4PM",
       "type": "LAB"
@@ -6415,6 +6551,7 @@ var data17C = {
   ],
   "BIBB-417": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -6422,6 +6559,7 @@ var data17C = {
   ],
   "BIBB-429": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -6429,6 +6567,7 @@ var data17C = {
   ],
   "BIBB-442": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -6436,6 +6575,7 @@ var data17C = {
   ],
   "BIBB-466": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -6443,6 +6583,7 @@ var data17C = {
   ],
   "BIBB-469": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -6450,6 +6591,7 @@ var data17C = {
   ],
   "BIBB-480": [
     {
+      "section": "301",
       "day": "W",
       "time": "1-4PM",
       "type": "SEM"
@@ -6457,30 +6599,21 @@ var data17C = {
   ],
   "BIOE-401": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "R",
-      "time": "4:30-7PM",
-      "type": "LEC"
-    }
-  ],
-  "BIOE-601": [
-    {
-      "day": "R",
-      "time": "4:30-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
       "time": "4:30-7PM",
       "type": "LEC"
     }
   ],
   "BIOE-540": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-7PM",
       "type": "LEC"
@@ -6488,6 +6621,7 @@ var data17C = {
   ],
   "BIOE-550": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-7PM",
       "type": "LEC"
@@ -6495,6 +6629,7 @@ var data17C = {
   ],
   "BIOE-551": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-7PM",
       "type": "LEC"
@@ -6502,13 +6637,29 @@ var data17C = {
   ],
   "BIOE-575": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
     }
   ],
+  "BIOE-601": [
+    {
+      "section": "401",
+      "day": "T",
+      "time": "4:30-7PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "4:30-7PM",
+      "type": "LEC"
+    }
+  ],
   "BIOE-701": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -6516,86 +6667,103 @@ var data17C = {
   ],
   "BIOL-101": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "M",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "M",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "104",
       "day": "T",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "105",
       "day": "T",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "106",
       "day": "T",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "107",
       "day": "T",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "108",
       "day": "W",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "109",
       "day": "W",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "110",
       "day": "W",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "111",
       "day": "R",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "112",
       "day": "R",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "113",
       "day": "F",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "114",
       "day": "F",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "601",
       "day": "F",
       "time": "5-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "F",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "603",
       "day": "S",
       "time": "9-12NOON",
       "type": "LAB"
@@ -6603,36 +6771,43 @@ var data17C = {
   ],
   "BIOL-102": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "M",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "T",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "T",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "104",
       "day": "W",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "105",
       "day": "W",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -6640,41 +6815,55 @@ var data17C = {
   ],
   "BIOL-109": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "402",
+      "day": "T",
+      "time": "9-10:30AM",
+      "type": "LAB"
+    },
+    {
+      "section": "403",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "LAB"
     },
     {
+      "section": "404",
       "day": "T",
       "time": "1:30-3PM",
       "type": "LAB"
     },
     {
+      "section": "405",
       "day": "T",
       "time": "3-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "406",
       "day": "R",
       "time": "9-10:30AM",
       "type": "LAB"
     },
     {
+      "section": "HUAMANCAJA",
       "day": "R",
       "time": "10:30-12NOON",
       "type": "LAB"
     },
     {
+      "section": "408",
       "day": "R",
       "time": "1:30-3PM",
       "type": "LAB"
     },
     {
+      "section": "409",
       "day": "R",
       "time": "3-4:30PM",
       "type": "LAB"
@@ -6682,11 +6871,13 @@ var data17C = {
   ],
   "BIOL-121": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
@@ -6694,56 +6885,67 @@ var data17C = {
   ],
   "BIOL-123": [
     {
+      "section": "001",
       "day": "F",
       "time": "9-10AM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "M",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "M",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "104",
       "day": "T",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "105",
       "day": "T",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "107",
       "day": "W",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "108",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "109",
       "day": "R",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "110",
       "day": "R",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "111",
       "day": "R",
       "time": "1-4PM",
       "type": "LAB"
@@ -6751,6 +6953,7 @@ var data17C = {
   ],
   "BIOL-138": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -6758,6 +6961,7 @@ var data17C = {
   ],
   "BIOL-140": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -6765,6 +6969,7 @@ var data17C = {
   ],
   "BIOL-199": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -6772,16 +6977,19 @@ var data17C = {
   ],
   "BIOL-205": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
@@ -6789,26 +6997,31 @@ var data17C = {
   ],
   "BIOL-215": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
@@ -6816,47 +7029,85 @@ var data17C = {
   ],
   "BIOL-221": [
     {
+      "section": "BONINI/GALLAGHR",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "T",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "W",
       "time": "1-2PM",
       "type": "REC"
-    }
-  ],
-  "BIOL-527": [
-    {
-      "day": "T",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
     }
   ],
   "BIOL-240": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     }
   ],
+  "BIOL-251": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "2-3:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "W",
+      "time": "6-9PM",
+      "type": "LAB"
+    },
+    {
+      "section": "403",
+      "day": "R",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "404",
+      "day": "R",
+      "time": "1:30-4:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "405",
+      "day": "R",
+      "time": "6-9PM",
+      "type": "LAB"
+    },
+    {
+      "section": "406",
+      "day": "F",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "407",
+      "day": "F",
+      "time": "12-3PM",
+      "type": "LAB"
+    },
+    {
+      "section": "408",
+      "day": "F",
+      "time": "3-6PM",
+      "type": "LAB"
+    }
+  ],
   "BIOL-325": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -6864,6 +7115,7 @@ var data17C = {
   ],
   "BIOL-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -6871,6 +7123,7 @@ var data17C = {
   ],
   "BIOL-400": [
     {
+      "section": "101",
       "day": "F",
       "time": "12-5PM",
       "type": "LAB"
@@ -6878,11 +7131,13 @@ var data17C = {
   ],
   "BIOL-401": [
     {
+      "section": "301",
       "day": "W",
       "time": "3:30-5:30PM",
       "type": "SEM"
     },
     {
+      "section": "M",
       "day": "F",
       "time": "12-1PM",
       "type": "SEM"
@@ -6890,6 +7145,7 @@ var data17C = {
   ],
   "BIOL-405": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -6897,6 +7153,7 @@ var data17C = {
   ],
   "BIOL-410": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -6904,11 +7161,13 @@ var data17C = {
   ],
   "BIOL-421": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "5:30-7:30PM",
       "type": "REC"
@@ -6916,6 +7175,7 @@ var data17C = {
   ],
   "BIOL-436": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -6923,6 +7183,7 @@ var data17C = {
   ],
   "BIOL-437": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -6930,6 +7191,7 @@ var data17C = {
   ],
   "BIOL-440": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -6937,6 +7199,7 @@ var data17C = {
   ],
   "BIOL-442": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -6944,6 +7207,7 @@ var data17C = {
   ],
   "BIOL-446": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -6951,6 +7215,7 @@ var data17C = {
   ],
   "BIOL-448": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -6958,6 +7223,7 @@ var data17C = {
   ],
   "BIOL-466": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -6965,6 +7231,7 @@ var data17C = {
   ],
   "BIOL-477": [
     {
+      "section": "301",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
@@ -6972,11 +7239,13 @@ var data17C = {
   ],
   "BIOL-482": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "MW",
       "time": "5-6:20PM",
       "type": "SEM"
@@ -6984,6 +7253,7 @@ var data17C = {
   ],
   "BIOL-483": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -6991,6 +7261,7 @@ var data17C = {
   ],
   "BIOL-484": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -6998,13 +7269,35 @@ var data17C = {
   ],
   "BIOL-499": [
     {
+      "section": "000",
       "day": "R",
       "time": "12:30-1:30PM",
       "type": "IND"
     }
   ],
+  "BIOL-527": [
+    {
+      "section": "BONINI/GALLAGHR",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "T",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "W",
+      "time": "1-2PM",
+      "type": "REC"
+    }
+  ],
   "BIOL-607": [
     {
+      "section": "301",
       "day": "T",
       "time": "3-5PM",
       "type": "SEM"
@@ -7012,6 +7305,7 @@ var data17C = {
   ],
   "BIOL-700": [
     {
+      "section": "301",
       "day": "R",
       "time": "2-4PM",
       "type": "SEM"
@@ -7019,6 +7313,7 @@ var data17C = {
   ],
   "BIOL-995": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -7026,6 +7321,7 @@ var data17C = {
   ],
   "BIOM-510": [
     {
+      "section": "301",
       "day": "W",
       "time": "3-5PM",
       "type": "SEM"
@@ -7033,11 +7329,13 @@ var data17C = {
   ],
   "BIOM-599": [
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "034",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -7045,6 +7343,7 @@ var data17C = {
   ],
   "BIOM-600": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -7052,6 +7351,7 @@ var data17C = {
   ],
   "BIOM-895": [
     {
+      "section": "401",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -7059,6 +7359,7 @@ var data17C = {
   ],
   "BIOT-599": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -7066,6 +7367,7 @@ var data17C = {
   ],
   "BMB-508": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -7073,6 +7375,7 @@ var data17C = {
   ],
   "BMB-518": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-5PM",
       "type": "LEC"
@@ -7080,6 +7383,7 @@ var data17C = {
   ],
   "BMB-554": [
     {
+      "section": "MARMORST/SKORDA",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -7087,6 +7391,7 @@ var data17C = {
   ],
   "BMB-567": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -7094,6 +7399,7 @@ var data17C = {
   ],
   "BMB-585": [
     {
+      "section": "401",
       "day": "R",
       "time": "2-4:30PM",
       "type": "LEC"
@@ -7101,6 +7407,7 @@ var data17C = {
   ],
   "BMB-601": [
     {
+      "section": "001",
       "day": "TR",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -7108,46 +7415,55 @@ var data17C = {
   ],
   "BMB-699": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "030",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "031",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "032",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "033",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "034",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "035",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "036",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "037",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -7155,6 +7471,7 @@ var data17C = {
   ],
   "BMB-799": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -7162,36 +7479,43 @@ var data17C = {
   ],
   "BMB-995": [
     {
+      "section": "060",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "065",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "069",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "070",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "071",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "072",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "074",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -7199,6 +7523,7 @@ var data17C = {
   ],
   "BMIN-501": [
     {
+      "section": "401",
       "day": "R",
       "time": "4-7PM",
       "type": "LEC"
@@ -7206,6 +7531,7 @@ var data17C = {
   ],
   "BMIN-503": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -7213,6 +7539,7 @@ var data17C = {
   ],
   "BSTA-509": [
     {
+      "section": "401",
       "day": "W",
       "time": "9-11AM",
       "type": "LEC"
@@ -7220,6 +7547,7 @@ var data17C = {
   ],
   "BSTA-550": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -7227,6 +7555,7 @@ var data17C = {
   ],
   "BSTA-620": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -7234,6 +7563,7 @@ var data17C = {
   ],
   "BSTA-622": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -7241,6 +7571,7 @@ var data17C = {
   ],
   "BSTA-630": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -7248,6 +7579,7 @@ var data17C = {
   ],
   "BSTA-670": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -7255,11 +7587,13 @@ var data17C = {
   ],
   "BSTA-699": [
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "044",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -7267,6 +7601,7 @@ var data17C = {
   ],
   "BSTA-754": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -7274,6 +7609,7 @@ var data17C = {
   ],
   "BSTA-789": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -7281,6 +7617,7 @@ var data17C = {
   ],
   "BSTA-790": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -7288,6 +7625,7 @@ var data17C = {
   ],
   "BSTA-899": [
     {
+      "section": "042",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -7295,6 +7633,7 @@ var data17C = {
   ],
   "BSTA-920": [
     {
+      "section": "030",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -7302,6 +7641,7 @@ var data17C = {
   ],
   "CAMB-483": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -7309,6 +7649,7 @@ var data17C = {
   ],
   "CAMB-518": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9:30-10:30AM",
       "type": "SEM"
@@ -7316,6 +7657,7 @@ var data17C = {
   ],
   "CAMB-530": [
     {
+      "section": "301",
       "day": "W",
       "time": "1-3PM",
       "type": "SEM"
@@ -7323,6 +7665,7 @@ var data17C = {
   ],
   "CAMB-532": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -7330,30 +7673,21 @@ var data17C = {
   ],
   "CAMB-542": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "402",
       "day": "W",
       "time": "5-7PM",
-      "type": "SEM"
-    }
-  ],
-  "PHRM-542": [
-    {
-      "day": "W",
-      "time": "5-7PM",
-      "type": "SEM"
-    },
-    {
-      "day": "M",
-      "time": "2-3:30PM",
       "type": "SEM"
     }
   ],
   "CAMB-597": [
     {
+      "section": "401",
       "day": "WF",
       "time": "11-12:30PM",
       "type": "LEC"
@@ -7361,26 +7695,31 @@ var data17C = {
   ],
   "CAMB-605": [
     {
+      "section": "301",
       "day": "T",
       "time": "1-4PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "T",
       "time": "1-4PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "T",
       "time": "1-4PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "T",
       "time": "1-4PM",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "T",
       "time": "1-4PM",
       "type": "SEM"
@@ -7388,6 +7727,7 @@ var data17C = {
   ],
   "CAMB-608": [
     {
+      "section": "301",
       "day": "T",
       "time": "3-5PM",
       "type": "SEM"
@@ -7395,6 +7735,7 @@ var data17C = {
   ],
   "CAMB-609": [
     {
+      "section": "401",
       "day": "WR",
       "time": "3-5PM",
       "type": "LEC"
@@ -7402,11 +7743,13 @@ var data17C = {
   ],
   "CAMB-610": [
     {
+      "section": "001",
       "day": "MF",
       "time": "1-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "W",
       "time": "1-2:30PM",
       "type": "LEC"
@@ -7414,6 +7757,7 @@ var data17C = {
   ],
   "CAMB-615": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-5PM",
       "type": "LEC"
@@ -7421,6 +7765,7 @@ var data17C = {
   ],
   "CAMB-617": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11:30AM",
       "type": "LEC"
@@ -7428,6 +7773,7 @@ var data17C = {
   ],
   "CAMB-697": [
     {
+      "section": "301",
       "day": "M",
       "time": "3:30-5:30PM",
       "type": "SEM"
@@ -7435,6 +7781,7 @@ var data17C = {
   ],
   "CAMB-698": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -7442,56 +7789,67 @@ var data17C = {
   ],
   "CAMB-699": [
     {
+      "section": "316",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "347",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "357",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "358",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "383",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "396",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "397",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "404",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "422",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "445",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "446",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -7499,6 +7857,7 @@ var data17C = {
   ],
   "CAMB-704": [
     {
+      "section": "301",
       "day": "T",
       "time": "2-4PM",
       "type": "LEC"
@@ -7506,6 +7865,7 @@ var data17C = {
   ],
   "CAMB-706": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "2:30-3:30PM",
       "type": "LEC"
@@ -7513,6 +7873,7 @@ var data17C = {
   ],
   "CAMB-708": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -7520,6 +7881,7 @@ var data17C = {
   ],
   "CAMB-709": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10-12NOON",
       "type": "LEC"
@@ -7527,31 +7889,37 @@ var data17C = {
   ],
   "CAMB-899": [
     {
+      "section": "368",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "383",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "397",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "414",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "422",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "433",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -7559,16 +7927,19 @@ var data17C = {
   ],
   "CAMB-995": [
     {
+      "section": "286",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "312",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "392",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -7576,6 +7947,7 @@ var data17C = {
   ],
   "CBE-099": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -7583,6 +7955,7 @@ var data17C = {
   ],
   "CBE-150": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -7590,21 +7963,25 @@ var data17C = {
   ],
   "CBE-230": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
@@ -7612,11 +7989,13 @@ var data17C = {
   ],
   "CBE-350": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "12-1PM",
       "type": "REC"
@@ -7624,11 +8003,13 @@ var data17C = {
   ],
   "CBE-353": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
@@ -7636,11 +8017,13 @@ var data17C = {
   ],
   "CBE-400": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "9-10AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "5-6:30PM",
       "type": "REC"
@@ -7648,11 +8031,13 @@ var data17C = {
   ],
   "CBE-410": [
     {
+      "section": "101",
       "day": "TR",
       "time": "1-5PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "MW",
       "time": "1-5PM",
       "type": "LAB"
@@ -7660,6 +8045,7 @@ var data17C = {
   ],
   "CBE-430": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -7667,11 +8053,13 @@ var data17C = {
   ],
   "CBE-451": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "12-1PM",
       "type": "REC"
@@ -7679,11 +8067,13 @@ var data17C = {
   ],
   "CBE-479": [
     {
+      "section": "M",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
@@ -7691,6 +8081,7 @@ var data17C = {
   ],
   "CBE-510": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -7698,6 +8089,7 @@ var data17C = {
   ],
   "CBE-511": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -7705,6 +8097,7 @@ var data17C = {
   ],
   "CBE-522": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -7712,6 +8105,7 @@ var data17C = {
   ],
   "CBE-545": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -7719,6 +8113,7 @@ var data17C = {
   ],
   "CBE-554": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -7726,11 +8121,13 @@ var data17C = {
   ],
   "CBE-555": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
@@ -7738,11 +8135,13 @@ var data17C = {
   ],
   "CBE-580": [
     {
+      "section": "001",
       "day": "F",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "F",
       "time": "2-5PM",
       "type": "LAB"
@@ -7750,6 +8149,7 @@ var data17C = {
   ],
   "CBE-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -7757,11 +8157,13 @@ var data17C = {
   ],
   "CBE-618": [
     {
+      "section": "401",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "1:30-3PM",
       "type": "REC"
@@ -7769,6 +8171,7 @@ var data17C = {
   ],
   "CBE-621": [
     {
+      "section": "001",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -7776,11 +8179,13 @@ var data17C = {
   ],
   "CBE-640": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
@@ -7788,96 +8193,115 @@ var data17C = {
   ],
   "CBE-899": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -7885,6 +8309,7 @@ var data17C = {
   ],
   "CBE-995": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -7892,96 +8317,115 @@ var data17C = {
   ],
   "CBE-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -7989,6 +8433,7 @@ var data17C = {
   ],
   "CHEM-022": [
     {
+      "section": "301",
       "day": "TR",
       "time": "8-9AM",
       "type": "SEM"
@@ -7996,191 +8441,229 @@ var data17C = {
   ],
   "CHEM-053": [
     {
+      "section": "001",
       "day": "M",
       "time": "4-5PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "111",
       "day": "T",
       "time": "12-3PM",
       "type": "LAB"
     },
     {
+      "section": "112",
       "day": "T",
       "time": "12-3PM",
       "type": "LAB"
     },
     {
+      "section": "113",
       "day": "T",
       "time": "12-3PM",
       "type": "LAB"
     },
     {
+      "section": "114",
       "day": "T",
       "time": "12-3PM",
       "type": "LAB"
     },
     {
+      "section": "115",
       "day": "T",
       "time": "12-3PM",
       "type": "LAB"
     },
     {
+      "section": "121",
       "day": "T",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "122",
       "day": "T",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "123",
       "day": "T",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "124",
       "day": "T",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "125",
       "day": "T",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "126",
       "day": "T",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "131",
       "day": "W",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "132",
       "day": "W",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "133",
       "day": "W",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "134",
       "day": "W",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "135",
       "day": "W",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "136",
       "day": "W",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "141",
       "day": "R",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "142",
       "day": "R",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "143",
       "day": "R",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "144",
       "day": "R",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "151",
       "day": "R",
       "time": "12-3PM",
       "type": "LAB"
     },
     {
+      "section": "152",
       "day": "R",
       "time": "12-3PM",
       "type": "LAB"
     },
     {
+      "section": "153",
       "day": "R",
       "time": "12-3PM",
       "type": "LAB"
     },
     {
+      "section": "161",
       "day": "R",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "162",
       "day": "R",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "163",
       "day": "R",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "164",
       "day": "R",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "171",
       "day": "R",
       "time": "6-9PM",
       "type": "LAB"
     },
     {
+      "section": "172",
       "day": "R",
       "time": "6-9PM",
       "type": "LAB"
     },
     {
+      "section": "181",
       "day": "F",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "182",
       "day": "F",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "183",
       "day": "F",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "184",
       "day": "F",
       "time": "2-5PM",
       "type": "LAB"
     },
     {
+      "section": "601",
       "day": "R",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "R",
       "time": "6-9PM",
       "type": "LAB"
@@ -8188,31 +8671,37 @@ var data17C = {
   ],
   "CHEM-054": [
     {
+      "section": "001",
       "day": "M",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "140",
       "day": "R",
       "time": "9-12NOON",
       "type": "LAB"
     },
     {
+      "section": "161",
       "day": "R",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "162",
       "day": "R",
       "time": "3-6PM",
       "type": "LAB"
     },
     {
+      "section": "170",
       "day": "R",
       "time": "6-9PM",
       "type": "LAB"
     },
     {
+      "section": "180",
       "day": "F",
       "time": "2-5PM",
       "type": "LAB"
@@ -8220,101 +8709,121 @@ var data17C = {
   ],
   "CHEM-101": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "220",
       "day": "R",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "221",
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "222",
       "day": "R",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "230",
       "day": "R",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "231",
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "232",
       "day": "F",
       "time": "2-3:30PM",
       "type": "REC"
     },
     {
+      "section": "003",
       "day": "MWF",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "240",
       "day": "F",
       "time": "3:30-5PM",
       "type": "REC"
     },
     {
+      "section": "241",
       "day": "W",
       "time": "3:30-5PM",
       "type": "REC"
     },
     {
+      "section": "004",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "250",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "251",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "252",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "005",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "260",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "261",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "262",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "006",
       "day": "TR",
       "time": "1:30-3:30PM",
       "type": "LEC"
@@ -8322,16 +8831,19 @@ var data17C = {
   ],
   "CHEM-102": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "2-3:30PM",
       "type": "REC"
@@ -8339,11 +8851,13 @@ var data17C = {
   ],
   "CHEM-114": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "3-4PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "11-12NOON",
       "type": "REC"
@@ -8351,11 +8865,13 @@ var data17C = {
   ],
   "CHEM-115": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "2-3PM",
       "type": "REC"
@@ -8363,26 +8879,31 @@ var data17C = {
   ],
   "CHEM-221": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
@@ -8390,91 +8911,109 @@ var data17C = {
   ],
   "CHEM-241": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "003",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "206",
       "day": "M",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "T",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "210",
       "day": "M",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "M",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "T",
       "time": "6:30-9:30PM",
       "type": "LEC"
@@ -8482,21 +9021,25 @@ var data17C = {
   ],
   "CHEM-242": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
@@ -8504,31 +9047,37 @@ var data17C = {
   ],
   "CHEM-245": [
     {
+      "section": "001",
       "day": "T",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "MW",
       "time": "1-5PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "TR",
       "time": "8-12NOON",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "TR",
       "time": "1-5PM",
       "type": "LAB"
     },
     {
+      "section": "601",
       "day": "R",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "R",
       "time": "6-10PM",
       "type": "LAB"
@@ -8536,16 +9085,19 @@ var data17C = {
   ],
   "CHEM-246": [
     {
+      "section": "001",
       "day": "W",
       "time": "5:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "MW",
       "time": "1-5PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "TR",
       "time": "1-5PM",
       "type": "LAB"
@@ -8553,51 +9105,61 @@ var data17C = {
   ],
   "CHEM-251": [
     {
+      "section": "001",
       "day": "MF",
       "time": "8:30-10AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "210",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
@@ -8605,16 +9167,19 @@ var data17C = {
   ],
   "CHEM-261": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "11-12NOON",
       "type": "REC"
@@ -8622,6 +9187,7 @@ var data17C = {
   ],
   "CHEM-299": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -8629,6 +9195,7 @@ var data17C = {
   ],
   "CHEM-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -8636,6 +9203,7 @@ var data17C = {
   ],
   "CHEM-441": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -8643,6 +9211,7 @@ var data17C = {
   ],
   "CHEM-443": [
     {
+      "section": "001",
       "day": "R",
       "time": "5:30-8PM",
       "type": "LEC"
@@ -8650,6 +9219,7 @@ var data17C = {
   ],
   "CHEM-451": [
     {
+      "section": "001",
       "day": "MW",
       "time": "8:30-10AM",
       "type": "LEC"
@@ -8657,6 +9227,7 @@ var data17C = {
   ],
   "CHEM-462": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
@@ -8664,6 +9235,7 @@ var data17C = {
   ],
   "CHEM-521": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -8671,6 +9243,7 @@ var data17C = {
   ],
   "CHEM-523": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -8678,6 +9251,7 @@ var data17C = {
   ],
   "CHEM-541": [
     {
+      "section": "M",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -8685,6 +9259,7 @@ var data17C = {
   ],
   "CHEM-555": [
     {
+      "section": "MARMORST/SKORDA",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -8692,6 +9267,7 @@ var data17C = {
   ],
   "CHEM-565": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -8699,6 +9275,7 @@ var data17C = {
   ],
   "CHEM-567": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -8706,16 +9283,19 @@ var data17C = {
   ],
   "CHEM-601": [
     {
+      "section": "001",
       "day": "F",
       "time": "11-12:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "F",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "W",
       "time": "11-12:30PM",
       "type": "LEC"
@@ -8723,6 +9303,7 @@ var data17C = {
   ],
   "CHEM-652": [
     {
+      "section": "001",
       "day": "T",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -8730,6 +9311,7 @@ var data17C = {
   ],
   "CHEM-662": [
     {
+      "section": "001",
       "day": "F",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -8737,11 +9319,13 @@ var data17C = {
   ],
   "CHEM-699": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -8749,6 +9333,7 @@ var data17C = {
   ],
   "CHEM-721": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11:30AM",
       "type": "LEC"
@@ -8756,11 +9341,13 @@ var data17C = {
   ],
   "CHEM-995": [
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "046",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -8768,6 +9355,7 @@ var data17C = {
   ],
   "CHEM-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -8775,41 +9363,49 @@ var data17C = {
   ],
   "CHIN-011": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "M",
       "day": "TR",
       "time": "9:30-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTWR",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "L",
       "day": "TR",
       "time": "1:30-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "MTWR",
       "time": "3-4PM",
       "type": "LEC"
@@ -8817,48 +9413,43 @@ var data17C = {
   ],
   "CHIN-021": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "C",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "C",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    }
-  ],
-  "CHIN-031": [
-    {
-      "day": "MTWR",
-      "time": "11-12NOON",
-      "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
-      "day": "MTWR",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
+      "section": "004",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "G",
       "day": "TR",
       "time": "1:30-2:30PM",
       "type": "LEC"
@@ -8866,11 +9457,7 @@ var data17C = {
   ],
   "CHIN-041": [
     {
-      "day": "MW",
-      "time": "6:30-8PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "6:30-8PM",
       "type": "LEC"
@@ -8878,48 +9465,63 @@ var data17C = {
   ],
   "CHIN-051": [
     {
+      "section": "680",
       "day": "TR",
       "time": "4:30-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "4:30-6:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "MW",
+      "time": "5-6:30PM",
       "type": "LEC"
     }
   ],
   "CHIN-111": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "L",
       "day": "TR",
       "time": "9:30-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTWR",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MTWR",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "MTWR",
       "time": "3-4PM",
       "type": "LEC"
@@ -8927,21 +9529,25 @@ var data17C = {
   ],
   "CHIN-211": [
     {
+      "section": "001",
       "day": "MTWR",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "C",
       "day": "TR",
       "time": "1:30-2:30PM",
       "type": "LEC"
@@ -8949,11 +9555,13 @@ var data17C = {
   ],
   "CHIN-231": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "3-5PM",
       "type": "LEC"
@@ -8961,11 +9569,13 @@ var data17C = {
   ],
   "CHIN-311": [
     {
+      "section": "001",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTWR",
       "time": "2-3PM",
       "type": "LEC"
@@ -8973,6 +9583,7 @@ var data17C = {
   ],
   "CHIN-361": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -8980,11 +9591,7 @@ var data17C = {
   ],
   "CHIN-371": [
     {
-      "day": "MW",
-      "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -8992,11 +9599,7 @@ var data17C = {
   ],
   "CHIN-380": [
     {
-      "day": "MW",
-      "time": "6-7:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "6-7:30PM",
       "type": "LEC"
@@ -9004,21 +9607,25 @@ var data17C = {
   ],
   "CHIN-381": [
     {
+      "section": "001",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "4:30-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -9026,16 +9633,13 @@ var data17C = {
   ],
   "CHIN-481": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "4:30-6PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -9043,6 +9647,7 @@ var data17C = {
   ],
   "CHIN-491": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -9050,6 +9655,7 @@ var data17C = {
   ],
   "CHIN-721": [
     {
+      "section": "401",
       "day": "W",
       "time": "12-3PM",
       "type": "SEM"
@@ -9057,6 +9663,7 @@ var data17C = {
   ],
   "CIMS-015": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -9064,16 +9671,19 @@ var data17C = {
   ],
   "CIMS-016": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -9081,6 +9691,7 @@ var data17C = {
   ],
   "CIMS-036": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -9088,65 +9699,33 @@ var data17C = {
   ],
   "CIMS-061": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-12NOON",
       "type": "SEM"
-    }
-  ],
-  "VLST-261": [
+    },
     {
+      "section": "402",
       "day": "MW",
       "time": "10-1PM",
       "type": "SEM"
     },
     {
+      "section": "403",
       "day": "MW",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "404",
       "day": "TR",
       "time": "5-8PM",
-      "type": "SEM"
-    },
-    {
-      "day": "MW",
-      "time": "10-1PM",
-      "type": "SEM"
-    },
-    {
-      "day": "MW",
-      "time": "2-5PM",
-      "type": "SEM"
-    },
-    {
-      "day": "TR",
-      "time": "5-8PM",
-      "type": "SEM"
-    },
-    {
-      "day": "MW",
-      "time": "10-1PM",
-      "type": "SEM"
-    },
-    {
-      "day": "MW",
-      "time": "2-5PM",
-      "type": "SEM"
-    },
-    {
-      "day": "TR",
-      "time": "5-8PM",
-      "type": "SEM"
-    },
-    {
-      "day": "TR",
-      "time": "9-12NOON",
       "type": "SEM"
     }
   ],
   "CIMS-063": [
     {
+      "section": "401",
       "day": "W",
       "time": "5-8PM",
       "type": "SEM"
@@ -9154,6 +9733,7 @@ var data17C = {
   ],
   "CIMS-101": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -9161,6 +9741,7 @@ var data17C = {
   ],
   "CIMS-102": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -9168,11 +9749,13 @@ var data17C = {
   ],
   "CIMS-112": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "R",
       "time": "6-9PM",
       "type": "LEC"
@@ -9180,40 +9763,27 @@ var data17C = {
   ],
   "CIMS-116": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "402",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "SEM"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "4:30-7:30PM",
-      "type": "SEM"
-    }
-  ],
-  "ENGL-116": [
-    {
-      "day": "T",
-      "time": "4:30-7:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "R",
-      "time": "4:30-7:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "M",
-      "time": "2-5PM",
       "type": "SEM"
     }
   ],
   "CIMS-130": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -9221,6 +9791,7 @@ var data17C = {
   ],
   "CIMS-132": [
     {
+      "section": "401",
       "day": "M",
       "time": "3:30-6:30PM",
       "type": "LEC"
@@ -9228,6 +9799,7 @@ var data17C = {
   ],
   "CIMS-159": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -9235,6 +9807,7 @@ var data17C = {
   ],
   "CIMS-164": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -9242,6 +9815,7 @@ var data17C = {
   ],
   "CIMS-177": [
     {
+      "section": "HARTT/CORRIGAN",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -9249,11 +9823,13 @@ var data17C = {
   ],
   "CIMS-180": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -9261,6 +9837,7 @@ var data17C = {
   ],
   "CIMS-201": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -9268,11 +9845,13 @@ var data17C = {
   ],
   "CIMS-202": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "W",
       "time": "5-8PM",
       "type": "SEM"
@@ -9280,6 +9859,7 @@ var data17C = {
   ],
   "CIMS-206": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -9287,11 +9867,13 @@ var data17C = {
   ],
   "CIMS-232": [
     {
+      "section": "401",
       "day": "T",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "M",
       "day": "R",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -9299,30 +9881,21 @@ var data17C = {
   ],
   "CIMS-245": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-3:30PM",
       "type": "LEC"
     },
     {
+      "section": "403",
       "day": "W",
       "time": "2-3:30PM",
       "type": "REC"
-    }
-  ],
-  "FREN-230": [
-    {
-      "day": "W",
-      "time": "2-3:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "M",
-      "time": "2-3:30PM",
-      "type": "LEC"
     }
   ],
   "CIMS-261": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -9330,6 +9903,7 @@ var data17C = {
   ],
   "CIMS-267": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-4:30PM",
       "type": "STU"
@@ -9337,6 +9911,7 @@ var data17C = {
   ],
   "CIMS-271": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -9344,6 +9919,7 @@ var data17C = {
   ],
   "CIMS-285": [
     {
+      "section": "DEMARCO/VANCLEV",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -9351,6 +9927,7 @@ var data17C = {
   ],
   "CIMS-295": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -9358,6 +9935,7 @@ var data17C = {
   ],
   "CIMS-303": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -9365,6 +9943,7 @@ var data17C = {
   ],
   "CIMS-320": [
     {
+      "section": "401",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -9372,6 +9951,7 @@ var data17C = {
   ],
   "CIMS-340": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -9379,6 +9959,7 @@ var data17C = {
   ],
   "CIMS-370": [
     {
+      "section": "401",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
@@ -9386,11 +9967,7 @@ var data17C = {
   ],
   "CIMS-392": [
     {
-      "day": "TR",
-      "time": "3-4:30PM",
-      "type": "SEM"
-    },
-    {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -9398,6 +9975,7 @@ var data17C = {
   ],
   "CIMS-498": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -9405,6 +9983,7 @@ var data17C = {
   ],
   "CIMS-699": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -9412,6 +9991,7 @@ var data17C = {
   ],
   "CIS-099": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -9419,165 +9999,197 @@ var data17C = {
   ],
   "CIS-105": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "4:30-6PM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "2-3PM",
       "type": "LEC"
-    },
-    {
-      "day": "T",
-      "time": "4:30-6PM",
-      "type": "REC"
     }
   ],
   "CIS-106": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "401",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
+    },
+    {
+      "section": "301",
+      "day": "MW",
+      "time": "2-3:30PM",
+      "type": "SEM"
     }
   ],
   "CIS-110": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "2-4PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "3-5PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "4-6PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "T",
       "time": "12-2PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "T",
       "time": "2-4PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "T",
       "time": "4-6PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "T",
       "time": "3-5PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "M",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "M",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "M",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "M",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "M",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "M",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "T",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "215",
       "day": "T",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "216",
       "day": "T",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "217",
       "day": "T",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "218",
       "day": "T",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "219",
       "day": "T",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "220",
       "day": "T",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "221",
       "day": "M",
       "time": "5-7PM",
       "type": "REC"
     },
     {
+      "section": "222",
       "day": "T",
       "time": "5-7PM",
       "type": "REC"
@@ -9585,101 +10197,121 @@ var data17C = {
   ],
   "CIS-120": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "R",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "R",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "R",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "215",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "216",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "217",
       "day": "R",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "218",
       "day": "R",
       "time": "5-6PM",
       "type": "REC"
@@ -9687,81 +10319,97 @@ var data17C = {
   ],
   "CIS-121": [
     {
+      "section": "CALLISON-BURCH",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "M",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "T",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "T",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "T",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "T",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "T",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "M",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "M",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "M",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "T",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "M",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "215",
       "day": "T",
       "time": "1-2PM",
       "type": "REC"
@@ -9769,6 +10417,7 @@ var data17C = {
   ],
   "CIS-140": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -9776,353 +10425,339 @@ var data17C = {
   ],
   "PSYC-207": [
     {
+      "section": "402",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "R",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "R",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "408",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "409",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "410",
       "day": "F",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "411",
       "day": "F",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "412",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "R",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "R",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "408",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "409",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "410",
       "day": "F",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "411",
       "day": "F",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "412",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "402",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "R",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "R",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "408",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "409",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "410",
       "day": "F",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "411",
       "day": "F",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "412",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "5-6PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "6-7PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "5-6PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "5-6PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "6-7PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "4-5PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "5-6PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "R",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "R",
+      "time": "5-6PM",
+      "type": "REC"
+    },
+    {
+      "section": "408",
+      "day": "F",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "section": "410",
+      "day": "F",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "section": "412",
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "001",
+      "day": "MW",
+      "time": "3:30-5PM",
       "type": "LEC"
     }
   ],
   "CIS-160": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "R",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "R",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "R",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "R",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "R",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "R",
       "time": "6-7PM",
       "type": "REC"
@@ -10130,11 +10765,13 @@ var data17C = {
   ],
   "CIS-192": [
     {
+      "section": "001",
       "day": "T",
       "time": "6-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "1:30-3PM",
       "type": "REC"
@@ -10142,16 +10779,19 @@ var data17C = {
   ],
   "CIS-195": [
     {
+      "section": "001",
       "day": "T",
       "time": "6-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "1:30-3PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "4:30-6PM",
       "type": "REC"
@@ -10159,11 +10799,13 @@ var data17C = {
   ],
   "CIS-196": [
     {
+      "section": "001",
       "day": "T",
       "time": "6-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "3-4:30PM",
       "type": "REC"
@@ -10171,11 +10813,13 @@ var data17C = {
   ],
   "CIS-197": [
     {
+      "section": "001",
       "day": "T",
       "time": "6-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "3-4:30PM",
       "type": "REC"
@@ -10183,6 +10827,7 @@ var data17C = {
   ],
   "CIS-240": [
     {
+      "section": "001",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -10190,11 +10835,13 @@ var data17C = {
   ],
   "CIS-261": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -10202,11 +10849,13 @@ var data17C = {
   ],
   "CIS-262": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "2-3PM",
       "type": "REC"
@@ -10214,6 +10863,7 @@ var data17C = {
   ],
   "CIS-320": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -10221,6 +10871,7 @@ var data17C = {
   ],
   "CIS-331": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -10228,6 +10879,7 @@ var data17C = {
   ],
   "CIS-380": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -10235,6 +10887,7 @@ var data17C = {
   ],
   "CIS-400": [
     {
+      "section": "001",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -10242,6 +10895,7 @@ var data17C = {
   ],
   "CIS-419": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -10249,6 +10903,7 @@ var data17C = {
   ],
   "CIS-421": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -10256,6 +10911,7 @@ var data17C = {
   ],
   "CIS-436": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -10263,6 +10919,7 @@ var data17C = {
   ],
   "CIS-441": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -10270,30 +10927,21 @@ var data17C = {
   ],
   "CIS-450": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "TR",
       "time": "9-10:30AM",
-      "type": "LEC"
-    }
-  ],
-  "CIS-550": [
-    {
-      "day": "TR",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
   "CIS-455": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -10301,30 +10949,21 @@ var data17C = {
   ],
   "CIS-460": [
     {
+      "section": "401",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "1:30-3PM",
       "type": "REC"
-    }
-  ],
-  "CIS-560": [
-    {
-      "day": "F",
-      "time": "1:30-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
     }
   ],
   "CIS-462": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -10332,6 +10971,7 @@ var data17C = {
   ],
   "CIS-497": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -10339,6 +10979,7 @@ var data17C = {
   ],
   "CIS-500": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -10346,6 +10987,7 @@ var data17C = {
   ],
   "CIS-501": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -10353,6 +10995,7 @@ var data17C = {
   ],
   "CIS-502": [
     {
+      "section": "001",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -10360,6 +11003,7 @@ var data17C = {
   ],
   "CIS-505": [
     {
+      "section": "001",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -10367,6 +11011,7 @@ var data17C = {
   ],
   "CIS-518": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -10374,6 +11019,7 @@ var data17C = {
   ],
   "CIS-519": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -10381,11 +11027,13 @@ var data17C = {
   ],
   "CIS-520": [
     {
+      "section": "UNGAR/AGARWAL",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "9:30-11AM",
       "type": "REC"
@@ -10393,6 +11041,7 @@ var data17C = {
   ],
   "CIS-521": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -10400,6 +11049,7 @@ var data17C = {
   ],
   "CIS-536": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -10407,6 +11057,7 @@ var data17C = {
   ],
   "CIS-537": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -10414,6 +11065,7 @@ var data17C = {
   ],
   "CIS-541": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -10421,13 +11073,29 @@ var data17C = {
   ],
   "CIS-549": [
     {
+      "section": "001",
       "day": "W",
       "time": "6-9PM",
       "type": "LEC"
     }
   ],
+  "CIS-550": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "TR",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    }
+  ],
   "CIS-551": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -10435,6 +11103,7 @@ var data17C = {
   ],
   "CIS-552": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -10442,6 +11111,7 @@ var data17C = {
   ],
   "CIS-553": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -10449,13 +11119,29 @@ var data17C = {
   ],
   "CIS-555": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
+  "CIS-560": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "1:30-3PM",
+      "type": "REC"
+    }
+  ],
   "CIS-562": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -10463,11 +11149,13 @@ var data17C = {
   ],
   "CIS-565": [
     {
+      "section": "001",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "6-7PM",
       "type": "REC"
@@ -10475,6 +11163,7 @@ var data17C = {
   ],
   "CIS-568": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -10482,6 +11171,7 @@ var data17C = {
   ],
   "CIS-573": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -10489,6 +11179,7 @@ var data17C = {
   ],
   "CIS-581": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -10496,6 +11187,7 @@ var data17C = {
   ],
   "CIS-582": [
     {
+      "section": "401",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -10503,6 +11195,7 @@ var data17C = {
   ],
   "CIS-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -10510,6 +11203,7 @@ var data17C = {
   ],
   "CIS-680": [
     {
+      "section": "301",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -10517,6 +11211,7 @@ var data17C = {
   ],
   "CIS-682": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -10524,31 +11219,37 @@ var data17C = {
   ],
   "CIS-700": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "T",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "TR",
       "time": "6-7:30PM",
       "type": "LEC"
@@ -10556,6 +11257,7 @@ var data17C = {
   ],
   "CIS-800": [
     {
+      "section": "002",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
@@ -10563,6 +11265,7 @@ var data17C = {
   ],
   "CIS-895": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -10570,241 +11273,289 @@ var data17C = {
   ],
   "CIS-899": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "021",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "025",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "026",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "027",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "028",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "029",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "030",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "031",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "032",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "033",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "034",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "035",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "036",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "037",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "038",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "039",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "041",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "042",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "043",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "044",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "045",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "046",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "047",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "048",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -10812,241 +11563,289 @@ var data17C = {
   ],
   "CIS-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "021",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "025",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "026",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "027",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "028",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "029",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "030",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "031",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "032",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "033",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "034",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "035",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "036",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "037",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "038",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "039",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "040",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "041",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "042",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "043",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "044",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "045",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "046",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "047",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -11054,21 +11853,25 @@ var data17C = {
   ],
   "CIT-590": [
     {
+      "section": "001",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "11-1PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "2-4PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "3-4:30PM",
       "type": "REC"
@@ -11076,11 +11879,13 @@ var data17C = {
   ],
   "CIT-591": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
@@ -11088,11 +11893,13 @@ var data17C = {
   ],
   "CIT-592": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "4:30-6PM",
       "type": "REC"
@@ -11100,11 +11907,13 @@ var data17C = {
   ],
   "CIT-593": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "12-1:30PM",
       "type": "REC"
@@ -11112,6 +11921,7 @@ var data17C = {
   ],
   "CLST-005": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -11119,46 +11929,55 @@ var data17C = {
   ],
   "CLST-026": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "R",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "R",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "408",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "409",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "410",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "411",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
@@ -11166,6 +11985,7 @@ var data17C = {
   ],
   "CLST-029": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -11173,6 +11993,7 @@ var data17C = {
   ],
   "CLST-102": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -11180,13 +12001,47 @@ var data17C = {
   ],
   "CLST-103": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
+  "CLST-111": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "10-11AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "R",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    }
+  ],
   "CLST-127": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -11194,26 +12049,31 @@ var data17C = {
   ],
   "CLST-148": [
     {
+      "section": "401",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
@@ -11221,6 +12081,7 @@ var data17C = {
   ],
   "CLST-199": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -11228,6 +12089,7 @@ var data17C = {
   ],
   "CLST-221": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -11235,6 +12097,7 @@ var data17C = {
   ],
   "CLST-227": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -11242,6 +12105,7 @@ var data17C = {
   ],
   "CLST-244": [
     {
+      "section": "DIBBLE/BOILEAU",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -11249,6 +12113,7 @@ var data17C = {
   ],
   "CLST-271": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -11256,6 +12121,7 @@ var data17C = {
   ],
   "CLST-274": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -11263,6 +12129,7 @@ var data17C = {
   ],
   "CLST-311": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -11270,6 +12137,7 @@ var data17C = {
   ],
   "CLST-335": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -11277,6 +12145,7 @@ var data17C = {
   ],
   "CLST-341": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -11284,6 +12153,7 @@ var data17C = {
   ],
   "CLST-360": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -11291,11 +12161,7 @@ var data17C = {
   ],
   "CLST-370": [
     {
-      "day": "MW",
-      "time": "2-3:30PM",
-      "type": "SEM"
-    },
-    {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -11303,6 +12169,7 @@ var data17C = {
   ],
   "CLST-398": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -11310,6 +12177,7 @@ var data17C = {
   ],
   "CLST-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -11317,6 +12185,7 @@ var data17C = {
   ],
   "CLST-499": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -11324,6 +12193,7 @@ var data17C = {
   ],
   "CLST-500": [
     {
+      "section": "301",
       "day": "F",
       "time": "9-12NOON",
       "type": "SEM"
@@ -11331,6 +12201,7 @@ var data17C = {
   ],
   "CLST-511": [
     {
+      "section": "401",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -11338,6 +12209,7 @@ var data17C = {
   ],
   "CLST-526": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -11345,6 +12217,7 @@ var data17C = {
   ],
   "CLST-543": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -11352,6 +12225,7 @@ var data17C = {
   ],
   "CLST-598": [
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -11359,6 +12233,7 @@ var data17C = {
   ],
   "CLST-611": [
     {
+      "section": "401",
       "day": "T",
       "time": "2-5PM",
       "type": "SEM"
@@ -11366,6 +12241,7 @@ var data17C = {
   ],
   "CLST-614": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -11373,6 +12249,7 @@ var data17C = {
   ],
   "CLST-628": [
     {
+      "section": "401",
       "day": "R",
       "time": "6-9PM",
       "type": "SEM"
@@ -11380,6 +12257,7 @@ var data17C = {
   ],
   "CLST-711": [
     {
+      "section": "401",
       "day": "M",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -11387,6 +12265,7 @@ var data17C = {
   ],
   "CLST-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -11394,11 +12273,13 @@ var data17C = {
   ],
   "COGS-001": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
@@ -11406,6 +12287,7 @@ var data17C = {
   ],
   "COGS-301": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -11413,6 +12295,7 @@ var data17C = {
   ],
   "COML-001": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -11420,6 +12303,7 @@ var data17C = {
   ],
   "COML-013": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
@@ -11427,6 +12311,7 @@ var data17C = {
   ],
   "COML-090": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -11434,6 +12319,7 @@ var data17C = {
   ],
   "COML-094": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -11441,6 +12327,7 @@ var data17C = {
   ],
   "COML-107": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
@@ -11448,6 +12335,7 @@ var data17C = {
   ],
   "COML-115": [
     {
+      "section": "401",
       "day": "M",
       "time": "6-9PM",
       "type": "SEM"
@@ -11455,6 +12343,7 @@ var data17C = {
   ],
   "COML-121": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -11462,6 +12351,7 @@ var data17C = {
   ],
   "COML-123": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -11469,6 +12359,7 @@ var data17C = {
   ],
   "COML-124": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -11476,6 +12367,7 @@ var data17C = {
   ],
   "COML-125": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -11483,6 +12375,7 @@ var data17C = {
   ],
   "COML-140": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -11490,6 +12383,7 @@ var data17C = {
   ],
   "COML-143": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -11497,6 +12391,7 @@ var data17C = {
   ],
   "COML-151": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -11504,6 +12399,7 @@ var data17C = {
   ],
   "COML-200": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -11511,6 +12407,7 @@ var data17C = {
   ],
   "COML-201": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -11518,6 +12415,7 @@ var data17C = {
   ],
   "COML-206": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -11525,11 +12423,13 @@ var data17C = {
   ],
   "COML-207": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -11537,40 +12437,27 @@ var data17C = {
   ],
   "COML-218": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "402",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "403",
       "day": "MW",
       "time": "2-3:30PM",
-      "type": "SEM"
-    }
-  ],
-  "FREN-231": [
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "MW",
-      "time": "2-3:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
       "type": "SEM"
     }
   ],
   "COML-220": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -11578,6 +12465,7 @@ var data17C = {
   ],
   "COML-236": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -11585,53 +12473,31 @@ var data17C = {
   ],
   "COML-237": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    }
-  ],
-  "GRMN-237": [
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
+      "section": "402",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
@@ -11639,6 +12505,7 @@ var data17C = {
   ],
   "COML-246": [
     {
+      "section": "401",
       "day": "M",
       "time": "10-1PM",
       "type": "LEC"
@@ -11646,30 +12513,21 @@ var data17C = {
   ],
   "COML-248": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
-      "day": "T",
-      "time": "1:30-4:30PM",
-      "type": "SEM"
-    }
-  ],
-  "HIST-230": [
-    {
+      "section": "402",
       "day": "W",
       "time": "2-5PM",
-      "type": "SEM"
-    },
-    {
-      "day": "T",
-      "time": "1:30-4:30PM",
       "type": "SEM"
     }
   ],
   "COML-266": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -11677,6 +12535,7 @@ var data17C = {
   ],
   "COML-277": [
     {
+      "section": "402",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -11684,6 +12543,7 @@ var data17C = {
   ],
   "COML-280": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -11691,6 +12551,7 @@ var data17C = {
   ],
   "COML-282": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -11698,6 +12559,7 @@ var data17C = {
   ],
   "COML-296": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -11705,6 +12567,7 @@ var data17C = {
   ],
   "COML-300": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -11712,6 +12575,7 @@ var data17C = {
   ],
   "COML-303": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -11719,6 +12583,7 @@ var data17C = {
   ],
   "COML-344": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -11726,6 +12591,7 @@ var data17C = {
   ],
   "COML-357": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -11733,6 +12599,7 @@ var data17C = {
   ],
   "COML-501": [
     {
+      "section": "401",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -11740,6 +12607,7 @@ var data17C = {
   ],
   "COML-522": [
     {
+      "section": "401",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
@@ -11747,6 +12615,7 @@ var data17C = {
   ],
   "COML-533": [
     {
+      "section": "401",
       "day": "R",
       "time": "2-5PM",
       "type": "SEM"
@@ -11754,6 +12623,7 @@ var data17C = {
   ],
   "COML-544": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -11761,6 +12631,7 @@ var data17C = {
   ],
   "COML-549": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-4PM",
       "type": "SEM"
@@ -11768,6 +12639,7 @@ var data17C = {
   ],
   "COML-558": [
     {
+      "section": "401",
       "day": "T",
       "time": "12-3PM",
       "type": "SEM"
@@ -11775,6 +12647,7 @@ var data17C = {
   ],
   "COML-570": [
     {
+      "section": "402",
       "day": "T",
       "time": "1-3PM",
       "type": "SEM"
@@ -11782,6 +12655,7 @@ var data17C = {
   ],
   "COML-577": [
     {
+      "section": "401",
       "day": "M",
       "time": "3-6PM",
       "type": "SEM"
@@ -11789,6 +12663,7 @@ var data17C = {
   ],
   "COML-602": [
     {
+      "section": "401",
       "day": "T",
       "time": "3:30-5:30PM",
       "type": "SEM"
@@ -11796,6 +12671,7 @@ var data17C = {
   ],
   "COML-618": [
     {
+      "section": "401",
       "day": "R",
       "time": "6-9PM",
       "type": "SEM"
@@ -11803,6 +12679,7 @@ var data17C = {
   ],
   "COML-621": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -11810,6 +12687,7 @@ var data17C = {
   ],
   "COML-627": [
     {
+      "section": "401",
       "day": "M",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -11817,6 +12695,7 @@ var data17C = {
   ],
   "COML-630": [
     {
+      "section": "401",
       "day": "T",
       "time": "2-5PM",
       "type": "SEM"
@@ -11824,6 +12703,7 @@ var data17C = {
   ],
   "COML-710": [
     {
+      "section": "401",
       "day": "W",
       "time": "10-1PM",
       "type": "SEM"
@@ -11831,6 +12711,7 @@ var data17C = {
   ],
   "COML-790": [
     {
+      "section": "401",
       "day": "W",
       "time": "6-9PM",
       "type": "SEM"
@@ -11838,11 +12719,13 @@ var data17C = {
   ],
   "COML-995": [
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "062",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -11850,36 +12733,43 @@ var data17C = {
   ],
   "COMM-125": [
     {
+      "section": "001",
       "day": "WF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "M",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "M",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "M",
       "time": "12-1PM",
       "type": "REC"
@@ -11887,6 +12777,7 @@ var data17C = {
   ],
   "COMM-210": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -11894,6 +12785,7 @@ var data17C = {
   ],
   "COMM-211": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -11901,6 +12793,7 @@ var data17C = {
   ],
   "COMM-225": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -11908,6 +12801,7 @@ var data17C = {
   ],
   "COMM-226": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -11915,6 +12809,7 @@ var data17C = {
   ],
   "COMM-230": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -11922,6 +12817,7 @@ var data17C = {
   ],
   "COMM-243": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -11929,6 +12825,7 @@ var data17C = {
   ],
   "COMM-282": [
     {
+      "section": "001",
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -11936,6 +12833,7 @@ var data17C = {
   ],
   "COMM-290": [
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -11943,6 +12841,7 @@ var data17C = {
   ],
   "COMM-310": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -11950,6 +12849,7 @@ var data17C = {
   ],
   "COMM-322": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
@@ -11957,6 +12857,7 @@ var data17C = {
   ],
   "COMM-330": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -11964,6 +12865,7 @@ var data17C = {
   ],
   "COMM-332": [
     {
+      "section": "401",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -11971,6 +12873,7 @@ var data17C = {
   ],
   "COMM-337": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -11978,6 +12881,7 @@ var data17C = {
   ],
   "COMM-388": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -11985,6 +12889,7 @@ var data17C = {
   ],
   "COMM-390": [
     {
+      "section": "EISENHOWER/MARG",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -11992,6 +12897,7 @@ var data17C = {
   ],
   "COMM-395": [
     {
+      "section": "301",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "SEM"
@@ -11999,6 +12905,7 @@ var data17C = {
   ],
   "COMM-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -12006,6 +12913,7 @@ var data17C = {
   ],
   "COMM-405": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -12013,6 +12921,7 @@ var data17C = {
   ],
   "COMM-491": [
     {
+      "section": "001",
       "day": "W",
       "time": "5-7PM",
       "type": "SEM"
@@ -12020,11 +12929,13 @@ var data17C = {
   ],
   "COMM-494": [
     {
+      "section": "001",
       "day": "W",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -12032,11 +12943,13 @@ var data17C = {
   ],
   "COMM-500": [
     {
+      "section": "001",
       "day": "M",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "F",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -12044,11 +12957,13 @@ var data17C = {
   ],
   "COMM-522": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-11AM",
       "type": "LEC"
     },
     {
+      "section": "R",
       "day": "R",
       "time": "9-12NOON",
       "type": "LEC"
@@ -12056,6 +12971,7 @@ var data17C = {
   ],
   "COMM-576": [
     {
+      "section": "301",
       "day": "W",
       "time": "9-11AM",
       "type": "SEM"
@@ -12063,6 +12979,7 @@ var data17C = {
   ],
   "COMM-615": [
     {
+      "section": "401",
       "day": "W",
       "time": "4-6PM",
       "type": "SEM"
@@ -12070,6 +12987,7 @@ var data17C = {
   ],
   "COMM-699": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -12077,6 +12995,7 @@ var data17C = {
   ],
   "COMM-799": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -12084,6 +13003,7 @@ var data17C = {
   ],
   "COMM-811": [
     {
+      "section": "301",
       "day": "T",
       "time": "2-4PM",
       "type": "SEM"
@@ -12091,6 +13011,7 @@ var data17C = {
   ],
   "COMM-812": [
     {
+      "section": "301",
       "day": "M",
       "time": "4-6PM",
       "type": "SEM"
@@ -12098,6 +13019,7 @@ var data17C = {
   ],
   "COMM-813": [
     {
+      "section": "301",
       "day": "T",
       "time": "2-4PM",
       "type": "SEM"
@@ -12105,6 +13027,7 @@ var data17C = {
   ],
   "COMM-815": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-3:30PM",
       "type": "SEM"
@@ -12112,6 +13035,7 @@ var data17C = {
   ],
   "COMM-818": [
     {
+      "section": "301",
       "day": "W",
       "time": "6-8PM",
       "type": "SEM"
@@ -12119,6 +13043,7 @@ var data17C = {
   ],
   "COMM-829": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-4PM",
       "type": "SEM"
@@ -12126,6 +13051,7 @@ var data17C = {
   ],
   "COMM-834": [
     {
+      "section": "301",
       "day": "T",
       "time": "12-2PM",
       "type": "SEM"
@@ -12133,6 +13059,7 @@ var data17C = {
   ],
   "COMM-835": [
     {
+      "section": "301",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -12140,6 +13067,7 @@ var data17C = {
   ],
   "COMM-873": [
     {
+      "section": "301",
       "day": "T",
       "time": "10-12NOON",
       "type": "SEM"
@@ -12147,6 +13075,7 @@ var data17C = {
   ],
   "COMM-995": [
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -12154,23 +13083,13 @@ var data17C = {
   ],
   "CPLN-500": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    }
-  ],
-  "URBS-440": [
-    {
-      "day": "MW",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
+      "section": "402",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -12178,11 +13097,13 @@ var data17C = {
   ],
   "CPLN-501": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -12190,30 +13111,21 @@ var data17C = {
   ],
   "CPLN-503": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "R",
-      "time": "1:30-4:30PM",
-      "type": "LEC"
-    }
-  ],
-  "MUSA-503": [
-    {
-      "day": "R",
-      "time": "1:30-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
       "time": "1:30-4:30PM",
       "type": "LEC"
     }
   ],
   "CPLN-504": [
     {
+      "section": "001",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
@@ -12221,6 +13133,7 @@ var data17C = {
   ],
   "CPLN-508": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-5PM",
       "type": "LEC"
@@ -12228,6 +13141,7 @@ var data17C = {
   ],
   "CPLN-510": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -12235,6 +13149,7 @@ var data17C = {
   ],
   "CPLN-520": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-12NOON",
       "type": "LEC"
@@ -12242,6 +13157,7 @@ var data17C = {
   ],
   "CPLN-530": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -12249,6 +13165,7 @@ var data17C = {
   ],
   "CPLN-531": [
     {
+      "section": "001",
       "day": "TR",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -12256,6 +13173,7 @@ var data17C = {
   ],
   "CPLN-540": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -12263,6 +13181,7 @@ var data17C = {
   ],
   "CPLN-550": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -12270,6 +13189,7 @@ var data17C = {
   ],
   "CPLN-571": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-12NOON",
       "type": "LEC"
@@ -12277,6 +13197,7 @@ var data17C = {
   ],
   "CPLN-590": [
     {
+      "section": "401",
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
@@ -12284,6 +13205,7 @@ var data17C = {
   ],
   "CPLN-624": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
@@ -12291,6 +13213,7 @@ var data17C = {
   ],
   "CPLN-625": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "LEC"
@@ -12298,6 +13221,7 @@ var data17C = {
   ],
   "CPLN-642": [
     {
+      "section": "401",
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
@@ -12305,6 +13229,7 @@ var data17C = {
   ],
   "CPLN-650": [
     {
+      "section": "401",
       "day": "T",
       "time": "12-3PM",
       "type": "LEC"
@@ -12312,6 +13237,7 @@ var data17C = {
   ],
   "CPLN-652": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -12319,11 +13245,13 @@ var data17C = {
   ],
   "CPLN-660": [
     {
+      "section": "001",
       "day": "R",
       "time": "3-6PM",
       "type": "STU"
     },
     {
+      "section": "J",
       "day": "F",
       "time": "9-12NOON",
       "type": "STU"
@@ -12331,6 +13259,7 @@ var data17C = {
   ],
   "CPLN-670": [
     {
+      "section": "401",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -12338,6 +13267,7 @@ var data17C = {
   ],
   "CPLN-671": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5:30-7PM",
       "type": "LEC"
@@ -12345,6 +13275,7 @@ var data17C = {
   ],
   "CPLN-701": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-5PM",
       "type": "STU"
@@ -12352,11 +13283,13 @@ var data17C = {
   ],
   "CPLN-702": [
     {
+      "section": "001",
       "day": "M",
       "time": "3:30-6PM",
       "type": "STU"
     },
     {
+      "section": "E",
       "day": "F",
       "time": "1:30-5PM",
       "type": "STU"
@@ -12364,6 +13297,7 @@ var data17C = {
   ],
   "CPLN-703": [
     {
+      "section": "001",
       "day": "MF",
       "time": "2-5PM",
       "type": "STU"
@@ -12371,6 +13305,7 @@ var data17C = {
   ],
   "CPLN-704": [
     {
+      "section": "001",
       "day": "MF",
       "time": "2-5PM",
       "type": "STU"
@@ -12378,6 +13313,7 @@ var data17C = {
   ],
   "CPLN-800": [
     {
+      "section": "001",
       "day": "M",
       "time": "2-4PM",
       "type": "SEM"
@@ -12385,11 +13321,13 @@ var data17C = {
   ],
   "CPLN-995": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -12397,26 +13335,31 @@ var data17C = {
   ],
   "CPLN-999": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -12424,6 +13367,7 @@ var data17C = {
   ],
   "CRIM-100": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -12431,6 +13375,7 @@ var data17C = {
   ],
   "CRIM-250": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -12438,6 +13383,7 @@ var data17C = {
   ],
   "CRIM-315": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -12445,6 +13391,7 @@ var data17C = {
   ],
   "CRIM-402": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -12452,6 +13399,7 @@ var data17C = {
   ],
   "CRIM-410": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -12459,11 +13407,13 @@ var data17C = {
   ],
   "CRIM-535": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "F",
       "time": "10-12NOON",
       "type": "LAB"
@@ -12471,6 +13421,7 @@ var data17C = {
   ],
   "CRIM-600": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -12478,6 +13429,7 @@ var data17C = {
   ],
   "CRIM-602": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -12485,6 +13437,7 @@ var data17C = {
   ],
   "CRIM-604": [
     {
+      "section": "301",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -12492,6 +13445,7 @@ var data17C = {
   ],
   "CRIM-610": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -12499,6 +13453,7 @@ var data17C = {
   ],
   "CRIM-634": [
     {
+      "section": "001",
       "day": "M",
       "time": "2-5PM",
       "type": "LEC"
@@ -12506,50 +13461,33 @@ var data17C = {
   ],
   "DEMG-535": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "W",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
-    }
-  ],
-  "SOCI-535": [
-    {
-      "day": "W",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "5-6PM",
-      "type": "REC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
     }
   ],
   "DEMG-607": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -12557,6 +13495,7 @@ var data17C = {
   ],
   "DEMG-609": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "LEC"
@@ -12564,6 +13503,7 @@ var data17C = {
   ],
   "DEMG-611": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "LEC"
@@ -12571,6 +13511,7 @@ var data17C = {
   ],
   "DEMG-612": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -12578,6 +13519,7 @@ var data17C = {
   ],
   "DEMG-630": [
     {
+      "section": "401",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -12585,6 +13527,7 @@ var data17C = {
   ],
   "DEMG-643": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -12592,6 +13535,7 @@ var data17C = {
   ],
   "DEMG-707": [
     {
+      "section": "401",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
@@ -12599,6 +13543,7 @@ var data17C = {
   ],
   "DEMG-899": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -12606,6 +13551,7 @@ var data17C = {
   ],
   "DEMG-995": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -12613,6 +13559,7 @@ var data17C = {
   ],
   "DEMG-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -12620,6 +13567,7 @@ var data17C = {
   ],
   "DENT-500": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12627,6 +13575,7 @@ var data17C = {
   ],
   "DENT-510": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12634,6 +13583,7 @@ var data17C = {
   ],
   "DENT-512": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12641,6 +13591,7 @@ var data17C = {
   ],
   "DENT-530": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -12648,6 +13599,7 @@ var data17C = {
   ],
   "DENT-532": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12655,6 +13607,7 @@ var data17C = {
   ],
   "DENT-560": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12662,6 +13615,7 @@ var data17C = {
   ],
   "DENT-606": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12669,6 +13623,7 @@ var data17C = {
   ],
   "DENT-610": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12676,6 +13631,7 @@ var data17C = {
   ],
   "DENT-630": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12683,11 +13639,13 @@ var data17C = {
   ],
   "DENT-631": [
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -12695,6 +13653,7 @@ var data17C = {
   ],
   "DENT-650": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12702,6 +13661,7 @@ var data17C = {
   ],
   "DENT-680": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12709,11 +13669,13 @@ var data17C = {
   ],
   "DPED-704": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "099",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12721,11 +13683,13 @@ var data17C = {
   ],
   "DPRD-780": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "099",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12733,6 +13697,7 @@ var data17C = {
   ],
   "DRST-741": [
     {
+      "section": "099",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
@@ -12740,6 +13705,7 @@ var data17C = {
   ],
   "DTCH-101": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -12747,6 +13713,7 @@ var data17C = {
   ],
   "DTCH-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -12754,6 +13721,7 @@ var data17C = {
   ],
   "DTCH-501": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -12761,6 +13729,7 @@ var data17C = {
   ],
   "DTCH-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -12768,6 +13737,7 @@ var data17C = {
   ],
   "DYNM-598": [
     {
+      "section": "050",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -12775,46 +13745,55 @@ var data17C = {
   ],
   "EALC-001": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -12822,70 +13801,63 @@ var data17C = {
   ],
   "EALC-003": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3-4PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
-    }
-  ],
-  "HIST-098": [
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "3-4PM",
-      "type": "LEC"
     }
   ],
   "EALC-069": [
     {
+      "section": "001",
       "day": "MW",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -12893,80 +13865,51 @@ var data17C = {
   ],
   "EALC-105": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
+      "section": "402",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
-    }
-  ],
-  "HIST-395": [
+    },
     {
+      "section": "405",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
     }
   ],
   "EALC-126": [
     {
+      "section": "401",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -12974,6 +13917,7 @@ var data17C = {
   ],
   "EALC-132": [
     {
+      "section": "401",
       "day": "M",
       "time": "3:30-6:30PM",
       "type": "LEC"
@@ -12981,6 +13925,7 @@ var data17C = {
   ],
   "EALC-150": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -12988,6 +13933,7 @@ var data17C = {
   ],
   "EALC-152": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -12995,6 +13941,7 @@ var data17C = {
   ],
   "EALC-162": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -13002,6 +13949,7 @@ var data17C = {
   ],
   "EALC-170": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13009,6 +13957,7 @@ var data17C = {
   ],
   "EALC-183": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -13016,6 +13965,7 @@ var data17C = {
   ],
   "EALC-211": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -13023,6 +13973,7 @@ var data17C = {
   ],
   "EALC-221": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -13030,6 +13981,7 @@ var data17C = {
   ],
   "EALC-223": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -13037,6 +13989,7 @@ var data17C = {
   ],
   "EALC-243": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
@@ -13044,6 +13997,7 @@ var data17C = {
   ],
   "EALC-264": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -13051,6 +14005,7 @@ var data17C = {
   ],
   "EALC-301": [
     {
+      "section": "301",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -13058,6 +14013,7 @@ var data17C = {
   ],
   "EALC-302": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -13065,6 +14021,7 @@ var data17C = {
   ],
   "EALC-442": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -13072,6 +14029,7 @@ var data17C = {
   ],
   "EALC-501": [
     {
+      "section": "301",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
@@ -13079,18 +14037,21 @@ var data17C = {
   ],
   "EALC-505": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
-      "day": "F",
-      "time": "12-1PM",
+      "section": "408",
+      "day": "TBA",
+      "time": "TBA",
       "type": "REC"
     }
   ],
   "EALC-526": [
     {
+      "section": "401",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -13098,6 +14059,7 @@ var data17C = {
   ],
   "EALC-532": [
     {
+      "section": "401",
       "day": "M",
       "time": "3:30-6:30PM",
       "type": "LEC"
@@ -13105,6 +14067,7 @@ var data17C = {
   ],
   "EALC-550": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13112,6 +14075,7 @@ var data17C = {
   ],
   "EALC-552": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -13119,6 +14083,7 @@ var data17C = {
   ],
   "EALC-562": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -13126,6 +14091,7 @@ var data17C = {
   ],
   "EALC-570": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13133,6 +14099,7 @@ var data17C = {
   ],
   "EALC-583": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -13140,6 +14107,7 @@ var data17C = {
   ],
   "EALC-611": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -13147,6 +14115,7 @@ var data17C = {
   ],
   "EALC-621": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -13154,6 +14123,7 @@ var data17C = {
   ],
   "EALC-623": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -13161,6 +14131,7 @@ var data17C = {
   ],
   "EALC-643": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
@@ -13168,6 +14139,7 @@ var data17C = {
   ],
   "EALC-664": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -13175,6 +14147,7 @@ var data17C = {
   ],
   "EALC-721": [
     {
+      "section": "401",
       "day": "W",
       "time": "12-3PM",
       "type": "SEM"
@@ -13182,6 +14155,7 @@ var data17C = {
   ],
   "EALC-726": [
     {
+      "section": "402",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -13189,6 +14163,7 @@ var data17C = {
   ],
   "EALC-749": [
     {
+      "section": "301",
       "day": "MW",
       "time": "9:30-11AM",
       "type": "SEM"
@@ -13196,6 +14171,7 @@ var data17C = {
   ],
   "EALC-785": [
     {
+      "section": "301",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -13203,6 +14179,7 @@ var data17C = {
   ],
   "EAS-203": [
     {
+      "section": "001",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -13210,6 +14187,7 @@ var data17C = {
   ],
   "EAS-301": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -13217,6 +14195,7 @@ var data17C = {
   ],
   "EAS-401": [
     {
+      "section": "401",
       "day": "TR",
       "time": "6-7:30PM",
       "type": "LEC"
@@ -13224,6 +14203,7 @@ var data17C = {
   ],
   "EAS-403": [
     {
+      "section": "401",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
@@ -13231,6 +14211,7 @@ var data17C = {
   ],
   "EAS-499": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -13238,6 +14219,7 @@ var data17C = {
   ],
   "EAS-501": [
     {
+      "section": "401",
       "day": "TR",
       "time": "6-7:30PM",
       "type": "LEC"
@@ -13245,6 +14227,7 @@ var data17C = {
   ],
   "EAS-503": [
     {
+      "section": "401",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
@@ -13252,6 +14235,7 @@ var data17C = {
   ],
   "EAS-505": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -13259,6 +14243,7 @@ var data17C = {
   ],
   "EAS-507": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -13266,6 +14251,7 @@ var data17C = {
   ],
   "EAS-510": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13273,6 +14259,7 @@ var data17C = {
   ],
   "EAS-512": [
     {
+      "section": "001",
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
@@ -13280,45 +14267,33 @@ var data17C = {
   ],
   "EAS-545": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "403",
       "day": "TR",
       "time": "9-10:30AM",
-      "type": "LEC"
-    }
-  ],
-  "IPD-545": [
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
   "EAS-546": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -13326,11 +14301,13 @@ var data17C = {
   ],
   "EAS-897": [
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -13338,161 +14315,193 @@ var data17C = {
   ],
   "ECON-001": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "9-10AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "R",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "215",
       "day": "R",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "216",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "217",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "218",
       "day": "R",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "219",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "220",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "221",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "222",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "223",
       "day": "R",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "224",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "225",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "226",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "227",
       "day": "R",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "228",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "T",
       "time": "6-9PM",
       "type": "LEC"
@@ -13500,66 +14509,79 @@ var data17C = {
   ],
   "ECON-002": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "R",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "R",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "R",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
@@ -13567,101 +14589,121 @@ var data17C = {
   ],
   "ECON-010": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "R",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "R",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "215",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "216",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "217",
       "day": "R",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "218",
       "day": "R",
       "time": "2-3PM",
       "type": "REC"
@@ -13669,6 +14711,7 @@ var data17C = {
   ],
   "ECON-013": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13676,6 +14719,7 @@ var data17C = {
   ],
   "ECON-028": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -13683,6 +14727,7 @@ var data17C = {
   ],
   "ECON-032": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13690,6 +14735,7 @@ var data17C = {
   ],
   "ECON-036": [
     {
+      "section": "C",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13697,6 +14743,7 @@ var data17C = {
   ],
   "ECON-039": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13704,6 +14751,7 @@ var data17C = {
   ],
   "ECON-050": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -13711,51 +14759,61 @@ var data17C = {
   ],
   "ECON-101": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "M",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -13763,26 +14821,31 @@ var data17C = {
   ],
   "ECON-102": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
@@ -13790,31 +14853,37 @@ var data17C = {
   ],
   "ECON-103": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
@@ -13822,36 +14891,43 @@ var data17C = {
   ],
   "ECON-104": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "M",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
@@ -13859,6 +14935,7 @@ var data17C = {
   ],
   "ECON-199": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -13866,6 +14943,7 @@ var data17C = {
   ],
   "ECON-210": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -13873,16 +14951,13 @@ var data17C = {
   ],
   "ECON-212": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
+      "section": "A",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13890,6 +14965,7 @@ var data17C = {
   ],
   "ECON-222": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13897,6 +14973,7 @@ var data17C = {
   ],
   "ECON-231": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13904,6 +14981,7 @@ var data17C = {
   ],
   "ECON-232": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -13911,6 +14989,7 @@ var data17C = {
   ],
   "ECON-233": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -13918,6 +14997,7 @@ var data17C = {
   ],
   "ECON-235": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -13925,6 +15005,7 @@ var data17C = {
   ],
   "ECON-237": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -13932,6 +15013,7 @@ var data17C = {
   ],
   "ECON-246": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -13939,6 +15021,7 @@ var data17C = {
   ],
   "ECON-251": [
     {
+      "section": "I",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13946,6 +15029,7 @@ var data17C = {
   ],
   "ECON-271": [
     {
+      "section": "FERNANDEZ-VILLA",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -13953,6 +15037,7 @@ var data17C = {
   ],
   "ECON-300": [
     {
+      "section": "301",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -13960,6 +15045,7 @@ var data17C = {
   ],
   "ECON-681": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -13967,6 +15053,7 @@ var data17C = {
   ],
   "ECON-701": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -13974,6 +15061,7 @@ var data17C = {
   ],
   "ECON-703": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -13981,6 +15069,7 @@ var data17C = {
   ],
   "ECON-705": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -13988,46 +15077,55 @@ var data17C = {
   ],
   "ECON-712": [
     {
+      "section": "001",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "M",
       "time": "5:30-8:30PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "F",
       "time": "1:30-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "010",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "011",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -14035,6 +15133,7 @@ var data17C = {
   ],
   "ECON-714": [
     {
+      "section": "001",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
@@ -14042,11 +15141,13 @@ var data17C = {
   ],
   "ECON-719": [
     {
+      "section": "301",
       "day": "M",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "J",
       "day": "T",
       "time": "3-5:30PM",
       "type": "SEM"
@@ -14054,6 +15155,7 @@ var data17C = {
   ],
   "ECON-721": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -14061,11 +15163,13 @@ var data17C = {
   ],
   "ECON-729": [
     {
+      "section": "301",
       "day": "M",
       "time": "4-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "X",
       "day": "M",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -14073,16 +15177,19 @@ var data17C = {
   ],
   "ECON-749": [
     {
+      "section": "301",
       "day": "R",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "D",
       "day": "W",
       "time": "3:30-6PM",
       "type": "SEM"
     },
     {
+      "section": "167-8",
       "day": "F",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -14090,6 +15197,7 @@ var data17C = {
   ],
   "ECON-750": [
     {
+      "section": "A",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -14097,6 +15205,7 @@ var data17C = {
   ],
   "ECON-759": [
     {
+      "section": "301",
       "day": "M",
       "time": "3-5:30PM",
       "type": "SEM"
@@ -14104,6 +15213,7 @@ var data17C = {
   ],
   "ECON-779": [
     {
+      "section": "301",
       "day": "T",
       "time": "3:30-5:30PM",
       "type": "SEM"
@@ -14111,11 +15221,13 @@ var data17C = {
   ],
   "ECON-789": [
     {
+      "section": "301",
       "day": "F",
       "time": "3-5:30PM",
       "type": "SEM"
     },
     {
+      "section": "STAFF",
       "day": "F",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -14123,11 +15235,13 @@ var data17C = {
   ],
   "ECON-799": [
     {
+      "section": "301",
       "day": "R",
       "time": "3-5:30PM",
       "type": "SEM"
     },
     {
+      "section": "J",
       "day": "T",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -14135,6 +15249,7 @@ var data17C = {
   ],
   "ECON-998": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -14142,6 +15257,7 @@ var data17C = {
   ],
   "EDUC-202": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -14149,6 +15265,7 @@ var data17C = {
   ],
   "EDUC-240": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -14156,6 +15273,7 @@ var data17C = {
   ],
   "EDUC-241": [
     {
+      "section": "001",
       "day": "T",
       "time": "2-5PM",
       "type": "LEC"
@@ -14163,11 +15281,13 @@ var data17C = {
   ],
   "EDUC-245": [
     {
+      "section": "001",
       "day": "F",
       "time": "1-4PM",
       "type": "SEM"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -14175,6 +15295,7 @@ var data17C = {
   ],
   "EDUC-250": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14182,6 +15303,7 @@ var data17C = {
   ],
   "EDUC-326": [
     {
+      "section": "401",
       "day": "R",
       "time": "1-4PM",
       "type": "SEM"
@@ -14189,6 +15311,7 @@ var data17C = {
   ],
   "EDUC-345": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -14196,6 +15319,7 @@ var data17C = {
   ],
   "EDUC-414": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -14203,6 +15327,7 @@ var data17C = {
   ],
   "EDUC-501": [
     {
+      "section": "001",
       "day": "R",
       "time": "10-12NOON",
       "type": "SEM"
@@ -14210,6 +15335,7 @@ var data17C = {
   ],
   "EDUC-504": [
     {
+      "section": "001",
       "day": "R",
       "time": "5:30-8PM",
       "type": "LEC"
@@ -14217,6 +15343,7 @@ var data17C = {
   ],
   "EDUC-505": [
     {
+      "section": "001",
       "day": "M",
       "time": "10-2PM",
       "type": "SEM"
@@ -14224,6 +15351,7 @@ var data17C = {
   ],
   "EDUC-512": [
     {
+      "section": "001",
       "day": "R",
       "time": "11-1PM",
       "type": "LEC"
@@ -14231,6 +15359,7 @@ var data17C = {
   ],
   "EDUC-513": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-4PM",
       "type": "LEC"
@@ -14238,11 +15367,13 @@ var data17C = {
   ],
   "EDUC-514": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "11-2PM",
       "type": "LEC"
@@ -14250,21 +15381,25 @@ var data17C = {
   ],
   "EDUC-515": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-7PM",
       "type": "LEC"
     },
     {
+      "section": "D",
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "T",
       "time": "4:30-7PM",
       "type": "LEC"
     },
     {
+      "section": "KINNEY/BROCKENB",
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
@@ -14272,6 +15407,7 @@ var data17C = {
   ],
   "EDUC-516": [
     {
+      "section": "001",
       "day": "T",
       "time": "2-4PM",
       "type": "LEC"
@@ -14279,6 +15415,7 @@ var data17C = {
   ],
   "EDUC-517": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14286,6 +15423,7 @@ var data17C = {
   ],
   "EDUC-520": [
     {
+      "section": "001",
       "day": "W",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -14293,6 +15431,7 @@ var data17C = {
   ],
   "EDUC-521": [
     {
+      "section": "001",
       "day": "T",
       "time": "1-4PM",
       "type": "LEC"
@@ -14300,6 +15439,7 @@ var data17C = {
   ],
   "EDUC-523": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -14307,6 +15447,7 @@ var data17C = {
   ],
   "EDUC-525": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14314,21 +15455,25 @@ var data17C = {
   ],
   "EDUC-527": [
     {
+      "section": "001",
       "day": "R",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "M",
       "time": "12-2PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14336,16 +15481,19 @@ var data17C = {
   ],
   "EDUC-528": [
     {
+      "section": "001",
       "day": "R",
       "time": "1:30-4PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "4:30-7PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "R",
       "time": "4:30-7PM",
       "type": "LEC"
@@ -14353,6 +15501,7 @@ var data17C = {
   ],
   "EDUC-531": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-12NOON",
       "type": "LEC"
@@ -14360,6 +15509,7 @@ var data17C = {
   ],
   "EDUC-533": [
     {
+      "section": "001",
       "day": "R",
       "time": "2-4PM",
       "type": "LEC"
@@ -14367,11 +15517,13 @@ var data17C = {
   ],
   "EDUC-535": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-7PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "2-4PM",
       "type": "LEC"
@@ -14379,26 +15531,31 @@ var data17C = {
   ],
   "EDUC-537": [
     {
+      "section": "001",
       "day": "T",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "T",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "R",
       "time": "2-4PM",
       "type": "LEC"
@@ -14406,6 +15563,7 @@ var data17C = {
   ],
   "EDUC-539": [
     {
+      "section": "001",
       "day": "W",
       "time": "4-7PM",
       "type": "LEC"
@@ -14413,11 +15571,13 @@ var data17C = {
   ],
   "EDUC-540": [
     {
+      "section": "001",
       "day": "F",
       "time": "12:30-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "003",
       "day": "F",
       "time": "9-12NOON",
       "type": "SEM"
@@ -14425,6 +15585,7 @@ var data17C = {
   ],
   "EDUC-544": [
     {
+      "section": "001",
       "day": "R",
       "time": "10-12NOON",
       "type": "LEC"
@@ -14432,56 +15593,67 @@ var data17C = {
   ],
   "EDUC-545": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "2-4PM",
       "type": "SEM"
     },
     {
+      "section": "003",
       "day": "R",
       "time": "8:30-11AM",
       "type": "SEM"
     },
     {
+      "section": "004",
       "day": "W",
       "time": "10-12NOON",
       "type": "SEM"
     },
     {
+      "section": "005",
       "day": "R",
       "time": "4-6PM",
       "type": "SEM"
     },
     {
+      "section": "HAYNES",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "007",
       "day": "M",
       "time": "12-2PM",
       "type": "SEM"
     },
     {
+      "section": "009",
       "day": "T",
       "time": "9-11AM",
       "type": "SEM"
     },
     {
+      "section": "A",
       "day": "M",
       "time": "10-12NOON",
       "type": "SEM"
     },
     {
+      "section": "010",
       "day": "R",
       "time": "12-2PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "W",
       "time": "6:30-8:30PM",
       "type": "SEM"
@@ -14489,6 +15661,7 @@ var data17C = {
   ],
   "EDUC-546": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14496,6 +15669,7 @@ var data17C = {
   ],
   "EDUC-547": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-4PM",
       "type": "LEC"
@@ -14503,6 +15677,7 @@ var data17C = {
   ],
   "EDUC-548": [
     {
+      "section": "001",
       "day": "T",
       "time": "2-4PM",
       "type": "LEC"
@@ -14510,6 +15685,7 @@ var data17C = {
   ],
   "EDUC-551": [
     {
+      "section": "001",
       "day": "T",
       "time": "5-7PM",
       "type": "SEM"
@@ -14517,6 +15693,7 @@ var data17C = {
   ],
   "EDUC-556": [
     {
+      "section": "001",
       "day": "T",
       "time": "2-6PM",
       "type": "LEC"
@@ -14524,11 +15701,13 @@ var data17C = {
   ],
   "EDUC-557": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14536,6 +15715,7 @@ var data17C = {
   ],
   "EDUC-559": [
     {
+      "section": "001",
       "day": "M",
       "time": "1-4PM",
       "type": "LEC"
@@ -14543,11 +15723,13 @@ var data17C = {
   ],
   "EDUC-560": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "10-12NOON",
       "type": "LEC"
@@ -14555,6 +15737,7 @@ var data17C = {
   ],
   "EDUC-561": [
     {
+      "section": "001",
       "day": "T",
       "time": "10-12NOON",
       "type": "LEC"
@@ -14562,6 +15745,7 @@ var data17C = {
   ],
   "EDUC-562": [
     {
+      "section": "001",
       "day": "T",
       "time": "2-4PM",
       "type": "LEC"
@@ -14569,6 +15753,7 @@ var data17C = {
   ],
   "EDUC-563": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -14576,6 +15761,7 @@ var data17C = {
   ],
   "EDUC-568": [
     {
+      "section": "001",
       "day": "T",
       "time": "12-2PM",
       "type": "LEC"
@@ -14583,6 +15769,7 @@ var data17C = {
   ],
   "EDUC-570": [
     {
+      "section": "001",
       "day": "T",
       "time": "10-12NOON",
       "type": "LEC"
@@ -14590,6 +15777,7 @@ var data17C = {
   ],
   "EDUC-573": [
     {
+      "section": "001",
       "day": "W",
       "time": "12-2PM",
       "type": "SEM"
@@ -14597,6 +15785,7 @@ var data17C = {
   ],
   "EDUC-575": [
     {
+      "section": "CARTER/STEVENSO",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -14604,6 +15793,7 @@ var data17C = {
   ],
   "EDUC-578": [
     {
+      "section": "001",
       "day": "M",
       "time": "7-9PM",
       "type": "LEC"
@@ -14611,6 +15801,7 @@ var data17C = {
   ],
   "EDUC-581": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14618,6 +15809,7 @@ var data17C = {
   ],
   "EDUC-586": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -14625,11 +15817,13 @@ var data17C = {
   ],
   "EDUC-591": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "10-12NOON",
       "type": "LEC"
@@ -14637,6 +15831,7 @@ var data17C = {
   ],
   "EDUC-592": [
     {
+      "section": "001",
       "day": "R",
       "time": "2:30-4:30PM",
       "type": "LEC"
@@ -14644,6 +15839,7 @@ var data17C = {
   ],
   "EDUC-594": [
     {
+      "section": "001",
       "day": "T",
       "time": "6:30-9PM",
       "type": "LEC"
@@ -14651,6 +15847,7 @@ var data17C = {
   ],
   "EDUC-595": [
     {
+      "section": "401",
       "day": "T",
       "time": "4-6PM",
       "type": "SEM"
@@ -14658,6 +15855,7 @@ var data17C = {
   ],
   "EDUC-596": [
     {
+      "section": "001",
       "day": "F",
       "time": "1-3PM",
       "type": "SEM"
@@ -14665,11 +15863,13 @@ var data17C = {
   ],
   "EDUC-603": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14677,6 +15877,7 @@ var data17C = {
   ],
   "EDUC-607": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14684,6 +15885,7 @@ var data17C = {
   ],
   "EDUC-610": [
     {
+      "section": "001",
       "day": "M",
       "time": "12-2PM",
       "type": "LEC"
@@ -14691,6 +15893,7 @@ var data17C = {
   ],
   "EDUC-616": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14698,6 +15901,7 @@ var data17C = {
   ],
   "EDUC-621": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -14705,6 +15909,7 @@ var data17C = {
   ],
   "EDUC-625": [
     {
+      "section": "001",
       "day": "M",
       "time": "2-4:30PM",
       "type": "LEC"
@@ -14712,16 +15917,19 @@ var data17C = {
   ],
   "EDUC-627": [
     {
+      "section": "002",
       "day": "M",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "W",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "M",
       "time": "5-7PM",
       "type": "LEC"
@@ -14729,6 +15937,7 @@ var data17C = {
   ],
   "EDUC-629": [
     {
+      "section": "003",
       "day": "W",
       "time": "5-7PM",
       "type": "LEC"
@@ -14736,6 +15945,7 @@ var data17C = {
   ],
   "EDUC-639": [
     {
+      "section": "001",
       "day": "T",
       "time": "12-2PM",
       "type": "LEC"
@@ -14743,6 +15953,7 @@ var data17C = {
   ],
   "EDUC-640": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-4PM",
       "type": "LEC"
@@ -14750,11 +15961,13 @@ var data17C = {
   ],
   "EDUC-658": [
     {
+      "section": "001",
       "day": "T",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "12-2PM",
       "type": "LEC"
@@ -14762,6 +15975,7 @@ var data17C = {
   ],
   "EDUC-661": [
     {
+      "section": "001",
       "day": "M",
       "time": "2-4PM",
       "type": "LEC"
@@ -14769,6 +15983,7 @@ var data17C = {
   ],
   "EDUC-664": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -14776,6 +15991,7 @@ var data17C = {
   ],
   "EDUC-667": [
     {
+      "section": "003",
       "day": "T",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -14783,11 +15999,13 @@ var data17C = {
   ],
   "EDUC-668": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14795,6 +16013,7 @@ var data17C = {
   ],
   "EDUC-671": [
     {
+      "section": "001",
       "day": "T",
       "time": "7-9PM",
       "type": "LEC"
@@ -14802,6 +16021,7 @@ var data17C = {
   ],
   "EDUC-674": [
     {
+      "section": "001",
       "day": "M",
       "time": "12-2PM",
       "type": "LEC"
@@ -14809,6 +16029,7 @@ var data17C = {
   ],
   "EDUC-675": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14816,6 +16037,7 @@ var data17C = {
   ],
   "EDUC-676": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14823,6 +16045,7 @@ var data17C = {
   ],
   "EDUC-678": [
     {
+      "section": "001",
       "day": "W",
       "time": "12-2PM",
       "type": "SEM"
@@ -14830,21 +16053,25 @@ var data17C = {
   ],
   "EDUC-679": [
     {
+      "section": "001",
       "day": "T",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "M",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14852,11 +16079,13 @@ var data17C = {
   ],
   "EDUC-680": [
     {
+      "section": "001",
       "day": "T",
       "time": "2-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "11:30-2PM",
       "type": "LEC"
@@ -14864,11 +16093,13 @@ var data17C = {
   ],
   "EDUC-682": [
     {
+      "section": "001",
       "day": "T",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "12-2PM",
       "type": "LEC"
@@ -14876,6 +16107,7 @@ var data17C = {
   ],
   "EDUC-684": [
     {
+      "section": "001",
       "day": "M",
       "time": "6:30-9PM",
       "type": "LEC"
@@ -14883,11 +16115,13 @@ var data17C = {
   ],
   "EDUC-686": [
     {
+      "section": "001",
       "day": "R",
       "time": "8-10AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "10-12NOON",
       "type": "LEC"
@@ -14895,11 +16129,13 @@ var data17C = {
   ],
   "EDUC-687": [
     {
+      "section": "001",
       "day": "R",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "12-2PM",
       "type": "LEC"
@@ -14907,51 +16143,61 @@ var data17C = {
   ],
   "EDUC-688": [
     {
+      "section": "301",
       "day": "M",
       "time": "8-10AM",
       "type": "LEC"
     },
     {
+      "section": "302",
       "day": "M",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "303",
       "day": "M",
       "time": "12-2PM",
       "type": "LEC"
     },
     {
+      "section": "305",
       "day": "R",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "306",
       "day": "R",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "307",
       "day": "R",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "308",
       "day": "R",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "310",
       "day": "R",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "311",
       "day": "R",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "312",
       "day": "R",
       "time": "5-7PM",
       "type": "LEC"
@@ -14959,6 +16205,7 @@ var data17C = {
   ],
   "EDUC-693": [
     {
+      "section": "001",
       "day": "W",
       "time": "10-12NOON",
       "type": "SEM"
@@ -14966,6 +16213,7 @@ var data17C = {
   ],
   "EDUC-694": [
     {
+      "section": "001",
       "day": "T",
       "time": "12-2PM",
       "type": "LEC"
@@ -14973,11 +16221,13 @@ var data17C = {
   ],
   "EDUC-695": [
     {
+      "section": "001",
       "day": "R",
       "time": "2-4PM",
       "type": "SEM"
     },
     {
+      "section": "A",
       "day": "W",
       "time": "9-11AM",
       "type": "SEM"
@@ -14985,6 +16235,7 @@ var data17C = {
   ],
   "EDUC-696": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -14992,6 +16243,7 @@ var data17C = {
   ],
   "EDUC-705": [
     {
+      "section": "001",
       "day": "M",
       "time": "2-4PM",
       "type": "LEC"
@@ -14999,6 +16251,7 @@ var data17C = {
   ],
   "EDUC-712": [
     {
+      "section": "401",
       "day": "W",
       "time": "10-1PM",
       "type": "SEM"
@@ -15006,6 +16259,7 @@ var data17C = {
   ],
   "EDUC-713": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-7PM",
       "type": "SEM"
@@ -15013,6 +16267,7 @@ var data17C = {
   ],
   "EDUC-714": [
     {
+      "section": "001",
       "day": "W",
       "time": "7-9PM",
       "type": "LEC"
@@ -15020,21 +16275,25 @@ var data17C = {
   ],
   "EDUC-717": [
     {
+      "section": "001",
       "day": "T",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "T",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "M",
       "time": "2-4PM",
       "type": "LEC"
@@ -15042,6 +16301,7 @@ var data17C = {
   ],
   "EDUC-719": [
     {
+      "section": "001",
       "day": "R",
       "time": "2-4PM",
       "type": "LEC"
@@ -15049,11 +16309,13 @@ var data17C = {
   ],
   "EDUC-723": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-7PM",
       "type": "LEC"
     },
     {
+      "section": "401",
       "day": "M",
       "time": "4:30-7PM",
       "type": "LEC"
@@ -15061,11 +16323,13 @@ var data17C = {
   ],
   "EDUC-725": [
     {
+      "section": "001",
       "day": "M",
       "time": "9-11AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -15073,6 +16337,7 @@ var data17C = {
   ],
   "EDUC-727": [
     {
+      "section": "001",
       "day": "T",
       "time": "10-12NOON",
       "type": "LEC"
@@ -15080,6 +16345,7 @@ var data17C = {
   ],
   "EDUC-729": [
     {
+      "section": "001",
       "day": "R",
       "time": "10-12NOON",
       "type": "LEC"
@@ -15087,6 +16353,7 @@ var data17C = {
   ],
   "EDUC-731": [
     {
+      "section": "001",
       "day": "R",
       "time": "12-2PM",
       "type": "SEM"
@@ -15094,6 +16361,7 @@ var data17C = {
   ],
   "EDUC-751": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -15101,11 +16369,13 @@ var data17C = {
   ],
   "EDUC-766": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -15113,6 +16383,7 @@ var data17C = {
   ],
   "EDUC-767": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-4:30PM",
       "type": "LEC"
@@ -15120,6 +16391,7 @@ var data17C = {
   ],
   "EDUC-771": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-12NOON",
       "type": "LEC"
@@ -15127,6 +16399,7 @@ var data17C = {
   ],
   "EDUC-860": [
     {
+      "section": "001",
       "day": "M",
       "time": "2-4PM",
       "type": "SEM"
@@ -15134,6 +16407,7 @@ var data17C = {
   ],
   "EDUC-880": [
     {
+      "section": "001",
       "day": "T",
       "time": "12-3PM",
       "type": "LEC"
@@ -15141,6 +16415,7 @@ var data17C = {
   ],
   "EDUC-900": [
     {
+      "section": "001",
       "day": "T",
       "time": "12-2PM",
       "type": "SEM"
@@ -15148,6 +16423,7 @@ var data17C = {
   ],
   "EDUC-920": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -15155,33 +16431,33 @@ var data17C = {
   ],
   "EEUR-121": [
     {
+      "section": "680",
       "day": "TR",
       "time": "7-9PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "7-9PM",
+      "type": "LEC"
+    },
+    {
+      "section": "681",
+      "day": "TR",
+      "time": "5:30-7PM",
       "type": "LEC"
     }
   ],
   "EEUR-123": [
     {
+      "section": "680",
       "day": "TR",
       "time": "4-5:30PM",
       "type": "LEC"
     },
     {
-      "day": "TR",
-      "time": "5:30-7PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "4-5:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "681",
       "day": "TR",
       "time": "5:30-7PM",
       "type": "LEC"
@@ -15189,6 +16465,7 @@ var data17C = {
   ],
   "EEUR-160": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -15196,6 +16473,7 @@ var data17C = {
   ],
   "EEUR-164": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -15203,6 +16481,7 @@ var data17C = {
   ],
   "ENGL-001": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -15210,26 +16489,31 @@ var data17C = {
   ],
   "ENGL-010": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "5:30-7PM",
       "type": "SEM"
@@ -15237,6 +16521,7 @@ var data17C = {
   ],
   "ENGL-015": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -15244,21 +16529,25 @@ var data17C = {
   ],
   "ENGL-016": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -15266,6 +16555,7 @@ var data17C = {
   ],
   "ENGL-018": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -15273,6 +16563,7 @@ var data17C = {
   ],
   "ENGL-020": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -15280,6 +16571,7 @@ var data17C = {
   ],
   "ENGL-025": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -15287,6 +16579,7 @@ var data17C = {
   ],
   "ENGL-029": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -15294,6 +16587,7 @@ var data17C = {
   ],
   "ENGL-031": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -15301,6 +16595,7 @@ var data17C = {
   ],
   "ENGL-041": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -15308,6 +16603,7 @@ var data17C = {
   ],
   "ENGL-047": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -15315,6 +16611,7 @@ var data17C = {
   ],
   "ENGL-055": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -15322,18 +16619,71 @@ var data17C = {
   ],
   "ENGL-058": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
     }
   ],
+  "ENGL-072": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "407",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "408",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    }
+  ],
   "ENGL-079": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -15341,6 +16691,7 @@ var data17C = {
   ],
   "ENGL-081": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -15348,6 +16699,7 @@ var data17C = {
   ],
   "ENGL-087": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -15355,6 +16707,7 @@ var data17C = {
   ],
   "ENGL-090": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -15362,6 +16715,7 @@ var data17C = {
   ],
   "ENGL-091": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -15369,6 +16723,7 @@ var data17C = {
   ],
   "ENGL-092": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -15376,6 +16731,7 @@ var data17C = {
   ],
   "ENGL-094": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -15383,6 +16739,7 @@ var data17C = {
   ],
   "ENGL-096": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -15390,16 +16747,19 @@ var data17C = {
   ],
   "ENGL-102": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "R",
       "time": "6-9PM",
       "type": "LEC"
@@ -15407,6 +16767,7 @@ var data17C = {
   ],
   "ENGL-103": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -15414,6 +16775,7 @@ var data17C = {
   ],
   "ENGL-106": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -15421,6 +16783,7 @@ var data17C = {
   ],
   "ENGL-108": [
     {
+      "section": "001",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -15428,6 +16791,7 @@ var data17C = {
   ],
   "ENGL-111": [
     {
+      "section": "401",
       "day": "M",
       "time": "6-9PM",
       "type": "SEM"
@@ -15435,6 +16799,7 @@ var data17C = {
   ],
   "ENGL-112": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -15442,6 +16807,7 @@ var data17C = {
   ],
   "ENGL-113": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -15449,13 +16815,35 @@ var data17C = {
   ],
   "ENGL-115": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
     }
   ],
+  "ENGL-116": [
+    {
+      "section": "401",
+      "day": "M",
+      "time": "2-5PM",
+      "type": "SEM"
+    },
+    {
+      "section": "402",
+      "day": "T",
+      "time": "4:30-7:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "403",
+      "day": "R",
+      "time": "4:30-7:30PM",
+      "type": "SEM"
+    }
+  ],
   "ENGL-117": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -15463,6 +16851,7 @@ var data17C = {
   ],
   "ENGL-119": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -15470,6 +16859,7 @@ var data17C = {
   ],
   "ENGL-120": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -15477,6 +16867,7 @@ var data17C = {
   ],
   "ENGL-128": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -15484,6 +16875,7 @@ var data17C = {
   ],
   "ENGL-129": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -15491,6 +16883,7 @@ var data17C = {
   ],
   "ENGL-130": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -15498,40 +16891,39 @@ var data17C = {
   ],
   "ENGL-135": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
-      "type": "SEM"
-    }
-  ],
-  "WRIT-135": [
-    {
-      "day": "R",
-      "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
-      "day": "TR",
-      "time": "10:30-12NOON",
+      "section": "402",
+      "day": "R",
+      "time": "1:30-4:30PM",
       "type": "SEM"
     }
   ],
   "ENGL-144": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -15539,6 +16931,7 @@ var data17C = {
   ],
   "ENGL-145": [
     {
+      "section": "301",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -15546,6 +16939,7 @@ var data17C = {
   ],
   "ENGL-157": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -15553,6 +16947,7 @@ var data17C = {
   ],
   "ENGL-158": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -15560,6 +16955,7 @@ var data17C = {
   ],
   "ENGL-159": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -15567,6 +16963,7 @@ var data17C = {
   ],
   "ENGL-165": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -15574,6 +16971,7 @@ var data17C = {
   ],
   "ENGL-199": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -15581,26 +16979,31 @@ var data17C = {
   ],
   "ENGL-200": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "SEM"
@@ -15608,16 +17011,19 @@ var data17C = {
   ],
   "ENGL-210": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -15625,6 +17031,7 @@ var data17C = {
   ],
   "ENGL-229": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -15632,6 +17039,7 @@ var data17C = {
   ],
   "ENGL-231": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -15639,6 +17047,7 @@ var data17C = {
   ],
   "ENGL-236": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -15646,6 +17055,7 @@ var data17C = {
   ],
   "ENGL-250": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -15653,6 +17063,7 @@ var data17C = {
   ],
   "ENGL-251": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -15660,6 +17071,7 @@ var data17C = {
   ],
   "ENGL-252": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:20PM",
       "type": "SEM"
@@ -15667,6 +17079,7 @@ var data17C = {
   ],
   "ENGL-253": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -15674,6 +17087,7 @@ var data17C = {
   ],
   "ENGL-257": [
     {
+      "section": "HARTT/CORRIGAN",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -15681,6 +17095,7 @@ var data17C = {
   ],
   "ENGL-259": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -15688,6 +17103,7 @@ var data17C = {
   ],
   "ENGL-261": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -15695,6 +17111,7 @@ var data17C = {
   ],
   "ENGL-262": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -15702,6 +17119,7 @@ var data17C = {
   ],
   "ENGL-274": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -15709,6 +17127,7 @@ var data17C = {
   ],
   "ENGL-287": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -15716,6 +17135,7 @@ var data17C = {
   ],
   "ENGL-291": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -15723,11 +17143,13 @@ var data17C = {
   ],
   "ENGL-292": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "W",
       "time": "5-8PM",
       "type": "SEM"
@@ -15735,6 +17157,7 @@ var data17C = {
   ],
   "ENGL-295": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -15742,6 +17165,7 @@ var data17C = {
   ],
   "ENGL-299": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -15749,6 +17173,7 @@ var data17C = {
   ],
   "ENGL-302": [
     {
+      "section": "401",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -15756,11 +17181,13 @@ var data17C = {
   ],
   "ENGL-311": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -15768,11 +17195,13 @@ var data17C = {
   ],
   "ENGL-326": [
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -15780,11 +17209,7 @@ var data17C = {
   ],
   "ENGL-356": [
     {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    },
-    {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -15792,11 +17217,13 @@ var data17C = {
   ],
   "ENGL-364": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -15804,11 +17231,7 @@ var data17C = {
   ],
   "ENGL-380": [
     {
-      "day": "M",
-      "time": "2-5PM",
-      "type": "SEM"
-    },
-    {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -15816,18 +17239,27 @@ var data17C = {
   ],
   "ENGL-392": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "001",
+      "day": "TR",
+      "time": "10:30-12NOON",
       "type": "SEM"
     }
   ],
   "ENGL-525": [
     {
+      "section": "401",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
@@ -15835,6 +17267,7 @@ var data17C = {
   ],
   "ENGL-537": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-4PM",
       "type": "SEM"
@@ -15842,6 +17275,7 @@ var data17C = {
   ],
   "ENGL-538": [
     {
+      "section": "401",
       "day": "T",
       "time": "12-3PM",
       "type": "SEM"
@@ -15849,6 +17283,7 @@ var data17C = {
   ],
   "ENGL-569": [
     {
+      "section": "401",
       "day": "R",
       "time": "9-12NOON",
       "type": "SEM"
@@ -15856,6 +17291,7 @@ var data17C = {
   ],
   "ENGL-573": [
     {
+      "section": "402",
       "day": "T",
       "time": "1-3PM",
       "type": "SEM"
@@ -15863,6 +17299,7 @@ var data17C = {
   ],
   "ENGL-589": [
     {
+      "section": "401",
       "day": "M",
       "time": "3-6PM",
       "type": "SEM"
@@ -15870,11 +17307,13 @@ var data17C = {
   ],
   "ENGL-600": [
     {
+      "section": "301",
       "day": "M",
       "time": "12-3PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -15882,6 +17321,7 @@ var data17C = {
   ],
   "ENGL-721": [
     {
+      "section": "401",
       "day": "R",
       "time": "6-9PM",
       "type": "SEM"
@@ -15889,6 +17329,7 @@ var data17C = {
   ],
   "ENGL-760": [
     {
+      "section": "401",
       "day": "M",
       "time": "4-6PM",
       "type": "SEM"
@@ -15896,6 +17337,7 @@ var data17C = {
   ],
   "ENGL-770": [
     {
+      "section": "401",
       "day": "R",
       "time": "12-3PM",
       "type": "SEM"
@@ -15903,6 +17345,7 @@ var data17C = {
   ],
   "ENGL-790": [
     {
+      "section": "401",
       "day": "W",
       "time": "6-9PM",
       "type": "SEM"
@@ -15910,6 +17353,7 @@ var data17C = {
   ],
   "ENGL-800": [
     {
+      "section": "301",
       "day": "M",
       "time": "12-3PM",
       "type": "SEM"
@@ -15917,6 +17361,7 @@ var data17C = {
   ],
   "ENGL-801": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -15924,6 +17369,7 @@ var data17C = {
   ],
   "ENGL-850": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -15931,6 +17377,7 @@ var data17C = {
   ],
   "ENGL-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -15938,11 +17385,13 @@ var data17C = {
   ],
   "ENGR-101": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -15950,21 +17399,25 @@ var data17C = {
   ],
   "ENGR-105": [
     {
+      "section": "002",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "001",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "W",
       "time": "1-2PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "W",
       "time": "3-4PM",
       "type": "LAB"
@@ -15972,6 +17425,7 @@ var data17C = {
   ],
   "ENGR-250": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -15979,6 +17433,7 @@ var data17C = {
   ],
   "ENGR-504": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -15986,6 +17441,7 @@ var data17C = {
   ],
   "ENM-240": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -15993,6 +17449,7 @@ var data17C = {
   ],
   "ENM-321": [
     {
+      "section": "001",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -16000,6 +17457,7 @@ var data17C = {
   ],
   "ENM-503": [
     {
+      "section": "001",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
@@ -16007,6 +17465,7 @@ var data17C = {
   ],
   "ENM-510": [
     {
+      "section": "001",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -16014,6 +17473,7 @@ var data17C = {
   ],
   "ENM-520": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -16021,6 +17481,7 @@ var data17C = {
   ],
   "ENMG-502": [
     {
+      "section": "001",
       "day": "M",
       "time": "2-4:50PM",
       "type": "LEC"
@@ -16028,6 +17489,7 @@ var data17C = {
   ],
   "ENMG-507": [
     {
+      "section": "001",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -16035,6 +17497,7 @@ var data17C = {
   ],
   "ENVS-150": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -16042,6 +17505,7 @@ var data17C = {
   ],
   "ENVS-305": [
     {
+      "section": "401",
       "day": "M",
       "time": "5-8PM",
       "type": "LEC"
@@ -16049,6 +17513,7 @@ var data17C = {
   ],
   "ENVS-325": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -16056,6 +17521,7 @@ var data17C = {
   ],
   "ENVS-326": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -16063,6 +17529,7 @@ var data17C = {
   ],
   "ENVS-400": [
     {
+      "section": "305",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -16070,11 +17537,7 @@ var data17C = {
   ],
   "ENVS-404": [
     {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "SEM"
-    },
-    {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -16082,6 +17545,7 @@ var data17C = {
   ],
   "ENVS-408": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -16089,37 +17553,41 @@ var data17C = {
   ],
   "ENVS-411": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "401",
+      "day": "M",
+      "time": "5-8PM",
       "type": "SEM"
     }
   ],
   "ENVS-498": [
     {
+      "section": "001",
       "day": "M",
       "time": "11-12NOON",
-      "type": "SRT"
-    }
-  ],
-  "GEOL-498": [
-    {
-      "day": "TBA",
-      "time": "TBA",
       "type": "SRT"
     },
     {
-      "day": "M",
-      "time": "11-12NOON",
+      "section": "140",
+      "day": "TBA",
+      "time": "TBA",
       "type": "SRT"
     }
   ],
   "ENVS-543": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -16127,6 +17595,7 @@ var data17C = {
   ],
   "ENVS-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -16134,6 +17603,7 @@ var data17C = {
   ],
   "ENVS-605": [
     {
+      "section": "401",
       "day": "M",
       "time": "5-8PM",
       "type": "LEC"
@@ -16141,6 +17611,7 @@ var data17C = {
   ],
   "EPID-518": [
     {
+      "section": "401",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
@@ -16148,11 +17619,13 @@ var data17C = {
   ],
   "EPID-527": [
     {
+      "section": "001",
       "day": "TR",
       "time": "11-12:30PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "T",
       "time": "9-10:30AM",
       "type": "LAB"
@@ -16160,6 +17633,7 @@ var data17C = {
   ],
   "EPID-542": [
     {
+      "section": "001",
       "day": "R",
       "time": "2-5PM",
       "type": "LEC"
@@ -16167,6 +17641,7 @@ var data17C = {
   ],
   "EPID-580": [
     {
+      "section": "401",
       "day": "R",
       "time": "1-4PM",
       "type": "LEC"
@@ -16174,6 +17649,7 @@ var data17C = {
   ],
   "EPID-582": [
     {
+      "section": "001",
       "day": "WF",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -16181,6 +17657,7 @@ var data17C = {
   ],
   "EPID-600": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -16188,11 +17665,13 @@ var data17C = {
   ],
   "EPID-621": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -16200,6 +17679,7 @@ var data17C = {
   ],
   "EPID-622": [
     {
+      "section": "001",
       "day": "TR",
       "time": "11-12:30PM",
       "type": "LEC"
@@ -16207,6 +17687,7 @@ var data17C = {
   ],
   "EPID-623": [
     {
+      "section": "001",
       "day": "TR",
       "time": "11-12:30PM",
       "type": "LEC"
@@ -16214,6 +17695,7 @@ var data17C = {
   ],
   "EPID-632": [
     {
+      "section": "401",
       "day": "R",
       "time": "4-7PM",
       "type": "LEC"
@@ -16221,6 +17703,7 @@ var data17C = {
   ],
   "EPID-638": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-12NOON",
       "type": "LEC"
@@ -16228,6 +17711,7 @@ var data17C = {
   ],
   "EPID-699": [
     {
+      "section": "555",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -16235,6 +17719,7 @@ var data17C = {
   ],
   "EPID-700": [
     {
+      "section": "301",
       "day": "T",
       "time": "3-5PM",
       "type": "SEM"
@@ -16242,6 +17727,7 @@ var data17C = {
   ],
   "EPID-701": [
     {
+      "section": "001",
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
@@ -16249,6 +17735,7 @@ var data17C = {
   ],
   "EPID-710": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -16256,6 +17743,7 @@ var data17C = {
   ],
   "EPID-801": [
     {
+      "section": "401",
       "day": "W",
       "time": "9-11AM",
       "type": "LEC"
@@ -16263,6 +17751,7 @@ var data17C = {
   ],
   "EPID-803": [
     {
+      "section": "001",
       "day": "R",
       "time": "2-5PM",
       "type": "LEC"
@@ -16270,6 +17759,7 @@ var data17C = {
   ],
   "EPID-805": [
     {
+      "section": "001",
       "day": "T",
       "time": "5-7PM",
       "type": "LEC"
@@ -16277,21 +17767,25 @@ var data17C = {
   ],
   "EPID-899": [
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "026",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "031",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "095",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -16299,6 +17793,7 @@ var data17C = {
   ],
   "EPID-900": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -16306,6 +17801,7 @@ var data17C = {
   ],
   "ESE-099": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -16313,6 +17809,7 @@ var data17C = {
   ],
   "ESE-111": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -16320,11 +17817,13 @@ var data17C = {
   ],
   "ESE-204": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "2-3:30PM",
       "type": "REC"
@@ -16332,6 +17831,7 @@ var data17C = {
   ],
   "ESE-210": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -16339,21 +17839,25 @@ var data17C = {
   ],
   "ESE-215": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "W",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "F",
       "time": "1-4PM",
       "type": "LAB"
@@ -16361,16 +17865,19 @@ var data17C = {
   ],
   "ESE-218": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "M",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "LAB"
@@ -16378,6 +17885,7 @@ var data17C = {
   ],
   "ESE-292": [
     {
+      "section": "001",
       "day": "T",
       "time": "6-7:30PM",
       "type": "LEC"
@@ -16385,6 +17893,7 @@ var data17C = {
   ],
   "ESE-302": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -16392,6 +17901,7 @@ var data17C = {
   ],
   "ESE-303": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -16399,11 +17909,13 @@ var data17C = {
   ],
   "ESE-305": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
@@ -16411,6 +17923,7 @@ var data17C = {
   ],
   "ESE-321": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -16418,6 +17931,7 @@ var data17C = {
   ],
   "ESE-325": [
     {
+      "section": "001",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -16425,6 +17939,7 @@ var data17C = {
   ],
   "ESE-370": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
@@ -16432,6 +17947,7 @@ var data17C = {
   ],
   "ESE-400": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -16439,6 +17955,7 @@ var data17C = {
   ],
   "ESE-407": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -16446,6 +17963,7 @@ var data17C = {
   ],
   "ESE-419": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -16453,6 +17971,7 @@ var data17C = {
   ],
   "ESE-420": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -16460,6 +17979,7 @@ var data17C = {
   ],
   "ESE-444": [
     {
+      "section": "401",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -16467,6 +17987,7 @@ var data17C = {
   ],
   "ESE-450": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -16474,6 +17995,7 @@ var data17C = {
   ],
   "ESE-500": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -16481,57 +18003,33 @@ var data17C = {
   ],
   "ESE-504": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "403",
       "day": "TR",
       "time": "4:30-6PM",
-      "type": "LEC"
-    }
-  ],
-  "OIDD-910": [
-    {
-      "day": "TR",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "4:30-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
   "ESE-505": [
     {
-      "day": "MW",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    }
-  ],
-  "MEAM-513": [
-    {
-      "day": "F",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
+      "section": "401",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "406",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -16539,6 +18037,7 @@ var data17C = {
   ],
   "ESE-507": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -16546,6 +18045,7 @@ var data17C = {
   ],
   "ESE-510": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -16553,6 +18053,7 @@ var data17C = {
   ],
   "ESE-512": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -16560,6 +18061,7 @@ var data17C = {
   ],
   "ESE-518": [
     {
+      "section": "001",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -16567,30 +18069,21 @@ var data17C = {
   ],
   "ESE-519": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "4-7PM",
       "type": "LAB"
-    }
-  ],
-  "IPD-519": [
-    {
-      "day": "F",
-      "time": "4-7PM",
-      "type": "LAB"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
     }
   ],
   "ESE-520": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -16598,6 +18091,7 @@ var data17C = {
   ],
   "ESE-525": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -16605,6 +18099,7 @@ var data17C = {
   ],
   "ESE-530": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -16612,6 +18107,7 @@ var data17C = {
   ],
   "ESE-532": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -16619,6 +18115,7 @@ var data17C = {
   ],
   "ESE-540": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -16626,6 +18123,7 @@ var data17C = {
   ],
   "ESE-544": [
     {
+      "section": "401",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -16633,6 +18131,7 @@ var data17C = {
   ],
   "ESE-545": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -16640,6 +18139,7 @@ var data17C = {
   ],
   "ESE-548": [
     {
+      "section": "401",
       "day": "T",
       "time": "12-3PM",
       "type": "LEC"
@@ -16647,6 +18147,7 @@ var data17C = {
   ],
   "ESE-566": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -16654,6 +18155,7 @@ var data17C = {
   ],
   "ESE-568": [
     {
+      "section": "001",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -16661,6 +18163,7 @@ var data17C = {
   ],
   "ESE-572": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -16668,6 +18171,7 @@ var data17C = {
   ],
   "ESE-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -16675,21 +18179,25 @@ var data17C = {
   ],
   "ESE-680": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "T",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
@@ -16697,6 +18205,7 @@ var data17C = {
   ],
   "ESE-895": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -16704,6 +18213,7 @@ var data17C = {
   ],
   "ESE-899": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -16711,186 +18221,223 @@ var data17C = {
   ],
   "ESE-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "021",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "025",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "026",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "027",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "028",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "029",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "030",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "031",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "032",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "033",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "034",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "035",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "036",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -16898,13 +18445,33 @@ var data17C = {
   ],
   "FNAR-061": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-12NOON",
+      "type": "SEM"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "10-1PM",
+      "type": "SEM"
+    },
+    {
+      "section": "403",
+      "day": "MW",
+      "time": "2-5PM",
+      "type": "SEM"
+    },
+    {
+      "section": "404",
+      "day": "TR",
+      "time": "5-8PM",
       "type": "SEM"
     }
   ],
   "FNAR-063": [
     {
+      "section": "401",
       "day": "W",
       "time": "5-8PM",
       "type": "SEM"
@@ -16912,50 +18479,33 @@ var data17C = {
   ],
   "FNAR-123": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-5PM",
       "type": "STU"
-    }
-  ],
-  "VLST-253": [
+    },
     {
+      "section": "403",
       "day": "MW",
       "time": "10-1PM",
       "type": "STU"
     },
     {
+      "section": "404",
       "day": "TR",
       "time": "9-12NOON",
       "type": "STU"
     },
     {
+      "section": "405",
       "day": "TR",
       "time": "5-8PM",
-      "type": "STU"
-    },
-    {
-      "day": "MW",
-      "time": "10-1PM",
-      "type": "STU"
-    },
-    {
-      "day": "TR",
-      "time": "9-12NOON",
-      "type": "STU"
-    },
-    {
-      "day": "TR",
-      "time": "5-8PM",
-      "type": "STU"
-    },
-    {
-      "day": "MW",
-      "time": "2-5PM",
       "type": "STU"
     }
   ],
   "FNAR-124": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-4:30PM",
       "type": "STU"
@@ -16963,30 +18513,21 @@ var data17C = {
   ],
   "FNAR-145": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-1PM",
       "type": "STU"
-    }
-  ],
-  "VLST-252": [
-    {
-      "day": "TR",
-      "time": "5-8PM",
-      "type": "STU"
     },
     {
+      "section": "402",
       "day": "TR",
       "time": "5-8PM",
-      "type": "STU"
-    },
-    {
-      "day": "MW",
-      "time": "10-1PM",
       "type": "STU"
     }
   ],
   "FNAR-147": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-5PM",
       "type": "STU"
@@ -16994,6 +18535,7 @@ var data17C = {
   ],
   "FNAR-148": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5-8PM",
       "type": "STU"
@@ -17001,6 +18543,7 @@ var data17C = {
   ],
   "FNAR-150": [
     {
+      "section": "401",
       "day": "R",
       "time": "1-4PM",
       "type": "STU"
@@ -17008,6 +18551,7 @@ var data17C = {
   ],
   "FNAR-177": [
     {
+      "section": "HARTT/CORRIGAN",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -17015,6 +18559,7 @@ var data17C = {
   ],
   "FNAR-220": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-12NOON",
       "type": "STU"
@@ -17022,11 +18567,13 @@ var data17C = {
   ],
   "FNAR-222": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "J",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -17034,6 +18581,7 @@ var data17C = {
   ],
   "FNAR-225": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-1PM",
       "type": "STU"
@@ -17041,30 +18589,21 @@ var data17C = {
   ],
   "FNAR-231": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-5PM",
       "type": "STU"
     },
     {
+      "section": "402",
       "day": "TR",
       "time": "1:30-4:30PM",
-      "type": "STU"
-    }
-  ],
-  "FNAR-531": [
-    {
-      "day": "TR",
-      "time": "1:30-4:30PM",
-      "type": "STU"
-    },
-    {
-      "day": "MW",
-      "time": "2-5PM",
       "type": "STU"
     }
   ],
   "FNAR-232": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5-8PM",
       "type": "STU"
@@ -17072,6 +18611,7 @@ var data17C = {
   ],
   "FNAR-234": [
     {
+      "section": "401",
       "day": "MW",
       "time": "6-9PM",
       "type": "STU"
@@ -17079,30 +18619,21 @@ var data17C = {
   ],
   "FNAR-235": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-1PM",
       "type": "STU"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "3-6PM",
-      "type": "STU"
-    }
-  ],
-  "FNAR-635": [
-    {
-      "day": "MW",
-      "time": "3-6PM",
-      "type": "STU"
-    },
-    {
-      "day": "MW",
-      "time": "10-1PM",
       "type": "STU"
     }
   ],
   "FNAR-236": [
     {
+      "section": "401",
       "day": "TR",
       "time": "6-9PM",
       "type": "STU"
@@ -17110,11 +18641,7 @@ var data17C = {
   ],
   "FNAR-238": [
     {
-      "day": "M",
-      "time": "5-8PM",
-      "type": "SEM"
-    },
-    {
+      "section": "401",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
@@ -17122,11 +18649,13 @@ var data17C = {
   ],
   "FNAR-239": [
     {
+      "section": "301",
       "day": "W",
       "time": "5-8PM",
       "type": "SEM"
     },
     {
+      "section": "301",
       "day": "W",
       "time": "5-8PM",
       "type": "SEM"
@@ -17134,6 +18663,7 @@ var data17C = {
   ],
   "FNAR-241": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-12NOON",
       "type": "STU"
@@ -17141,6 +18671,7 @@ var data17C = {
   ],
   "FNAR-250": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5-8PM",
       "type": "STU"
@@ -17148,6 +18679,7 @@ var data17C = {
   ],
   "FNAR-252": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-4:30PM",
       "type": "STU"
@@ -17155,118 +18687,73 @@ var data17C = {
   ],
   "FNAR-258": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-5PM",
       "type": "STU"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "5-8PM",
       "type": "STU"
     },
     {
+      "section": "403",
       "day": "MW",
       "time": "10-1PM",
-      "type": "STU"
-    }
-  ],
-  "FNAR-558": [
-    {
-      "day": "MW",
-      "time": "5-8PM",
-      "type": "STU"
-    },
-    {
-      "day": "MW",
-      "time": "10-1PM",
-      "type": "STU"
-    },
-    {
-      "day": "MW",
-      "time": "2-5PM",
       "type": "STU"
     }
   ],
   "FNAR-264": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-5PM",
       "type": "STU"
-    }
-  ],
-  "VLST-264": [
+    },
     {
+      "section": "402",
       "day": "TR",
       "time": "1:30-4:30PM",
       "type": "STU"
     },
     {
+      "section": "403",
       "day": "MW",
       "time": "5-8PM",
       "type": "STU"
     },
     {
+      "section": "404",
       "day": "TR",
       "time": "9-12NOON",
       "type": "STU"
     },
     {
+      "section": "405",
       "day": "TR",
       "time": "4:30-7:30PM",
-      "type": "STU"
-    },
-    {
-      "day": "TR",
-      "time": "1:30-4:30PM",
-      "type": "STU"
-    },
-    {
-      "day": "MW",
-      "time": "5-8PM",
-      "type": "STU"
-    },
-    {
-      "day": "TR",
-      "time": "9-12NOON",
-      "type": "STU"
-    },
-    {
-      "day": "TR",
-      "time": "4:30-7:30PM",
-      "type": "STU"
-    },
-    {
-      "day": "MW",
-      "time": "2-5PM",
       "type": "STU"
     }
   ],
   "FNAR-266": [
     {
+      "section": "401",
       "day": "T",
       "time": "1-5PM",
       "type": "STU"
     },
     {
+      "section": "402",
       "day": "R",
       "time": "4:30-8:30PM",
-      "type": "STU"
-    }
-  ],
-  "FNAR-566": [
-    {
-      "day": "R",
-      "time": "4:30-8:30PM",
-      "type": "STU"
-    },
-    {
-      "day": "T",
-      "time": "1-5PM",
       "type": "STU"
     }
   ],
   "FNAR-267": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-4:30PM",
       "type": "STU"
@@ -17274,11 +18761,13 @@ var data17C = {
   ],
   "FNAR-268": [
     {
+      "section": "401",
       "day": "M",
       "time": "1-4PM",
       "type": "STU"
     },
     {
+      "section": "O",
       "day": "W",
       "time": "1-4PM",
       "type": "STU"
@@ -17286,6 +18775,7 @@ var data17C = {
   ],
   "FNAR-269": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-1PM",
       "type": "STU"
@@ -17293,50 +18783,33 @@ var data17C = {
   ],
   "FNAR-271": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "STU"
-    }
-  ],
-  "VLST-251": [
+    },
     {
+      "section": "402",
       "day": "M",
       "time": "2-5PM",
       "type": "STU"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "5-8PM",
       "type": "STU"
     },
     {
+      "section": "404",
       "day": "W",
       "time": "2-5PM",
-      "type": "STU"
-    },
-    {
-      "day": "M",
-      "time": "2-5PM",
-      "type": "STU"
-    },
-    {
-      "day": "R",
-      "time": "5-8PM",
-      "type": "STU"
-    },
-    {
-      "day": "W",
-      "time": "2-5PM",
-      "type": "STU"
-    },
-    {
-      "day": "T",
-      "time": "1:30-4:30PM",
       "type": "STU"
     }
   ],
   "FNAR-277": [
     {
+      "section": "401",
       "day": "R",
       "time": "9-12NOON",
       "type": "STU"
@@ -17344,6 +18817,7 @@ var data17C = {
   ],
   "FNAR-280": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5-8PM",
       "type": "STU"
@@ -17351,6 +18825,7 @@ var data17C = {
   ],
   "FNAR-284": [
     {
+      "section": "401",
       "day": "T",
       "time": "5-8PM",
       "type": "STU"
@@ -17358,6 +18833,7 @@ var data17C = {
   ],
   "FNAR-286": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "STU"
@@ -17365,6 +18841,7 @@ var data17C = {
   ],
   "FNAR-305": [
     {
+      "section": "401",
       "day": "M",
       "time": "5-8PM",
       "type": "STU"
@@ -17372,6 +18849,7 @@ var data17C = {
   ],
   "FNAR-306": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -17379,6 +18857,7 @@ var data17C = {
   ],
   "FNAR-313": [
     {
+      "section": "401",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
@@ -17386,6 +18865,7 @@ var data17C = {
   ],
   "FNAR-315": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -17393,6 +18873,7 @@ var data17C = {
   ],
   "FNAR-320": [
     {
+      "section": "401",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -17400,100 +18881,63 @@ var data17C = {
   ],
   "FNAR-340": [
     {
+      "section": "401",
       "day": "M",
       "time": "10-1PM",
       "type": "STU"
-    }
-  ],
-  "VLST-265": [
+    },
     {
+      "section": "402",
       "day": "M",
       "time": "2-5PM",
       "type": "STU"
     },
     {
+      "section": "403",
       "day": "M",
       "time": "5-8PM",
       "type": "STU"
     },
     {
+      "section": "404",
       "day": "T",
       "time": "5-8PM",
       "type": "STU"
     },
     {
+      "section": "405",
       "day": "W",
       "time": "10-1PM",
       "type": "STU"
     },
     {
+      "section": "406",
       "day": "W",
       "time": "2-5PM",
       "type": "STU"
     },
     {
+      "section": "407",
       "day": "W",
       "time": "5-8PM",
       "type": "STU"
     },
     {
+      "section": "408",
       "day": "F",
       "time": "10-1PM",
       "type": "STU"
     },
     {
+      "section": "409",
       "day": "F",
       "time": "1-4PM",
-      "type": "STU"
-    },
-    {
-      "day": "M",
-      "time": "2-5PM",
-      "type": "STU"
-    },
-    {
-      "day": "M",
-      "time": "5-8PM",
-      "type": "STU"
-    },
-    {
-      "day": "T",
-      "time": "5-8PM",
-      "type": "STU"
-    },
-    {
-      "day": "W",
-      "time": "10-1PM",
-      "type": "STU"
-    },
-    {
-      "day": "W",
-      "time": "2-5PM",
-      "type": "STU"
-    },
-    {
-      "day": "W",
-      "time": "5-8PM",
-      "type": "STU"
-    },
-    {
-      "day": "F",
-      "time": "10-1PM",
-      "type": "STU"
-    },
-    {
-      "day": "F",
-      "time": "1-4PM",
-      "type": "STU"
-    },
-    {
-      "day": "M",
-      "time": "10-1PM",
       "type": "STU"
     }
   ],
   "FNAR-370": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-12NOON",
       "type": "STU"
@@ -17501,11 +18945,13 @@ var data17C = {
   ],
   "FNAR-399": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -17513,6 +18959,7 @@ var data17C = {
   ],
   "FNAR-488": [
     {
+      "section": "301",
       "day": "TR",
       "time": "5-8PM",
       "type": "SEM"
@@ -17520,6 +18967,7 @@ var data17C = {
   ],
   "FNAR-501": [
     {
+      "section": "201",
       "day": "R",
       "time": "6-9PM",
       "type": "STU"
@@ -17527,6 +18975,7 @@ var data17C = {
   ],
   "FNAR-506": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -17534,6 +18983,7 @@ var data17C = {
   ],
   "FNAR-508": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5-8PM",
       "type": "STU"
@@ -17541,6 +18991,7 @@ var data17C = {
   ],
   "FNAR-513": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:20PM",
       "type": "SEM"
@@ -17548,21 +18999,25 @@ var data17C = {
   ],
   "FNAR-523": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-5PM",
       "type": "STU"
     },
     {
+      "section": "403",
       "day": "MW",
       "time": "10-1PM",
       "type": "STU"
     },
     {
+      "section": "404",
       "day": "TR",
       "time": "9-12NOON",
       "type": "STU"
     },
     {
+      "section": "405",
       "day": "TR",
       "time": "5-8PM",
       "type": "STU"
@@ -17570,6 +19025,7 @@ var data17C = {
   ],
   "FNAR-524": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-4:30PM",
       "type": "STU"
@@ -17577,13 +19033,29 @@ var data17C = {
   ],
   "FNAR-525": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-1PM",
       "type": "STU"
     }
   ],
+  "FNAR-531": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "2-5PM",
+      "type": "STU"
+    },
+    {
+      "section": "402",
+      "day": "TR",
+      "time": "1:30-4:30PM",
+      "type": "STU"
+    }
+  ],
   "FNAR-532": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5-8PM",
       "type": "STU"
@@ -17591,6 +19063,7 @@ var data17C = {
   ],
   "FNAR-536": [
     {
+      "section": "401",
       "day": "TR",
       "time": "6-9PM",
       "type": "STU"
@@ -17598,11 +19071,7 @@ var data17C = {
   ],
   "FNAR-538": [
     {
-      "day": "M",
-      "time": "5-8PM",
-      "type": "SEM"
-    },
-    {
+      "section": "401",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
@@ -17610,6 +19079,7 @@ var data17C = {
   ],
   "FNAR-541": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-12NOON",
       "type": "STU"
@@ -17617,11 +19087,13 @@ var data17C = {
   ],
   "FNAR-545": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-1PM",
       "type": "STU"
     },
     {
+      "section": "402",
       "day": "TR",
       "time": "5-8PM",
       "type": "STU"
@@ -17629,6 +19101,7 @@ var data17C = {
   ],
   "FNAR-550": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5-8PM",
       "type": "STU"
@@ -17636,13 +19109,49 @@ var data17C = {
   ],
   "FNAR-552": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-4:30PM",
       "type": "STU"
     }
   ],
+  "FNAR-558": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "2-5PM",
+      "type": "STU"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "5-8PM",
+      "type": "STU"
+    },
+    {
+      "section": "403",
+      "day": "MW",
+      "time": "10-1PM",
+      "type": "STU"
+    }
+  ],
+  "FNAR-566": [
+    {
+      "section": "401",
+      "day": "T",
+      "time": "1-5PM",
+      "type": "STU"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "4:30-8:30PM",
+      "type": "STU"
+    }
+  ],
   "FNAR-567": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-4:30PM",
       "type": "STU"
@@ -17650,11 +19159,13 @@ var data17C = {
   ],
   "FNAR-568": [
     {
+      "section": "401",
       "day": "M",
       "time": "1-4PM",
       "type": "STU"
     },
     {
+      "section": "O",
       "day": "W",
       "time": "1-4PM",
       "type": "STU"
@@ -17662,6 +19173,7 @@ var data17C = {
   ],
   "FNAR-569": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-1PM",
       "type": "STU"
@@ -17669,21 +19181,25 @@ var data17C = {
   ],
   "FNAR-571": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "STU"
     },
     {
+      "section": "402",
       "day": "M",
       "time": "2-5PM",
       "type": "STU"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "5-8PM",
       "type": "STU"
     },
     {
+      "section": "404",
       "day": "W",
       "time": "2-5PM",
       "type": "STU"
@@ -17691,6 +19207,7 @@ var data17C = {
   ],
   "FNAR-577": [
     {
+      "section": "401",
       "day": "R",
       "time": "9-12NOON",
       "type": "STU"
@@ -17698,6 +19215,7 @@ var data17C = {
   ],
   "FNAR-580": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5-8PM",
       "type": "STU"
@@ -17705,6 +19223,7 @@ var data17C = {
   ],
   "FNAR-591": [
     {
+      "section": "001",
       "day": "W",
       "time": "5-8PM",
       "type": "SEM"
@@ -17712,6 +19231,7 @@ var data17C = {
   ],
   "FNAR-601": [
     {
+      "section": "201",
       "day": "R",
       "time": "6-9PM",
       "type": "STU"
@@ -17719,6 +19239,7 @@ var data17C = {
   ],
   "FNAR-604": [
     {
+      "section": "401",
       "day": "M",
       "time": "5-8PM",
       "type": "STU"
@@ -17726,6 +19247,7 @@ var data17C = {
   ],
   "FNAR-607": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-5PM",
       "type": "STU"
@@ -17733,6 +19255,7 @@ var data17C = {
   ],
   "FNAR-613": [
     {
+      "section": "401",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
@@ -17740,6 +19263,7 @@ var data17C = {
   ],
   "FNAR-615": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -17747,6 +19271,7 @@ var data17C = {
   ],
   "FNAR-620": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-12NOON",
       "type": "STU"
@@ -17754,11 +19279,13 @@ var data17C = {
   ],
   "FNAR-622": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "J",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -17766,33 +19293,53 @@ var data17C = {
   ],
   "FNAR-634": [
     {
+      "section": "401",
       "day": "MW",
       "time": "6-9PM",
       "type": "STU"
     }
   ],
+  "FNAR-635": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "10-1PM",
+      "type": "STU"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "3-6PM",
+      "type": "STU"
+    }
+  ],
   "FNAR-636": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-5PM",
       "type": "STU"
     },
     {
+      "section": "402",
       "day": "TR",
       "time": "1:30-4:30PM",
       "type": "STU"
     },
     {
+      "section": "403",
       "day": "MW",
       "time": "5-8PM",
       "type": "STU"
     },
     {
+      "section": "404",
       "day": "TR",
       "time": "9-12NOON",
       "type": "STU"
     },
     {
+      "section": "405",
       "day": "TR",
       "time": "4:30-7:30PM",
       "type": "STU"
@@ -17800,63 +19347,81 @@ var data17C = {
   ],
   "FNAR-640": [
     {
+      "section": "401",
       "day": "M",
       "time": "10-1PM",
       "type": "STU"
     },
     {
+      "section": "402",
       "day": "M",
       "time": "2-5PM",
       "type": "STU"
     },
     {
+      "section": "403",
       "day": "M",
       "time": "5-8PM",
       "type": "STU"
     },
     {
+      "section": "404",
       "day": "T",
       "time": "5-8PM",
       "type": "STU"
     },
     {
+      "section": "405",
       "day": "W",
       "time": "10-1PM",
       "type": "STU"
     },
     {
+      "section": "406",
       "day": "W",
       "time": "2-5PM",
       "type": "STU"
     },
     {
+      "section": "407",
       "day": "W",
       "time": "5-8PM",
       "type": "STU"
     },
     {
+      "section": "408",
       "day": "F",
       "time": "10-1PM",
+      "type": "STU"
+    },
+    {
+      "section": "409",
+      "day": "F",
+      "time": "1-4PM",
       "type": "STU"
     }
   ],
   "FNAR-661": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "10-1PM",
       "type": "SEM"
     },
     {
+      "section": "403",
       "day": "MW",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "404",
       "day": "TR",
       "time": "5-8PM",
       "type": "SEM"
@@ -17864,6 +19429,7 @@ var data17C = {
   ],
   "FNAR-663": [
     {
+      "section": "401",
       "day": "W",
       "time": "5-8PM",
       "type": "SEM"
@@ -17871,6 +19437,7 @@ var data17C = {
   ],
   "FNAR-670": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-12NOON",
       "type": "STU"
@@ -17878,6 +19445,7 @@ var data17C = {
   ],
   "FNAR-677": [
     {
+      "section": "HARTT/CORRIGAN",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -17885,6 +19453,7 @@ var data17C = {
   ],
   "FNAR-684": [
     {
+      "section": "401",
       "day": "T",
       "time": "5-8PM",
       "type": "STU"
@@ -17892,6 +19461,7 @@ var data17C = {
   ],
   "FNAR-701": [
     {
+      "section": "401",
       "day": "T",
       "time": "5-8PM",
       "type": "STU"
@@ -17899,6 +19469,7 @@ var data17C = {
   ],
   "FNAR-703": [
     {
+      "section": "401",
       "day": "T",
       "time": "5-8PM",
       "type": "STU"
@@ -17906,11 +19477,13 @@ var data17C = {
   ],
   "FNAR-801": [
     {
+      "section": "401",
       "day": "M",
       "time": "1-4PM",
       "type": "STU"
     },
     {
+      "section": "402",
       "day": "M",
       "time": "10-1PM",
       "type": "STU"
@@ -17918,18 +19491,21 @@ var data17C = {
   ],
   "FNAR-803": [
     {
+      "section": "401",
       "day": "M",
-      "time": "10-1PM",
+      "time": "1-4PM",
       "type": "STU"
     },
     {
+      "section": "402",
       "day": "M",
-      "time": "1-4PM",
+      "time": "10-1PM",
       "type": "STU"
     }
   ],
   "FNAR-999": [
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -17937,36 +19513,43 @@ var data17C = {
   ],
   "FNCE-100": [
     {
+      "section": "A",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "303",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -17974,21 +19557,25 @@ var data17C = {
   ],
   "FNCE-101": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -17996,11 +19583,13 @@ var data17C = {
   ],
   "FNCE-203": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -18008,11 +19597,13 @@ var data17C = {
   ],
   "FNCE-205": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -18020,6 +19611,7 @@ var data17C = {
   ],
   "FNCE-206": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -18027,11 +19619,13 @@ var data17C = {
   ],
   "FNCE-207": [
     {
+      "section": "R",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -18039,11 +19633,13 @@ var data17C = {
   ],
   "FNCE-208": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "401",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -18051,35 +19647,27 @@ var data17C = {
   ],
   "FNCE-209": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "TR",
       "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
-  "REAL-209": [
-    {
-      "day": "TR",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
   "FNCE-219": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -18087,6 +19675,7 @@ var data17C = {
   ],
   "FNCE-230": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -18094,6 +19683,7 @@ var data17C = {
   ],
   "FNCE-235": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -18101,11 +19691,13 @@ var data17C = {
   ],
   "FNCE-238": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -18113,16 +19705,19 @@ var data17C = {
   ],
   "FNCE-250": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -18130,16 +19725,19 @@ var data17C = {
   ],
   "FNCE-251": [
     {
+      "section": "ESMER",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -18147,6 +19745,7 @@ var data17C = {
   ],
   "FNCE-386": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -18154,6 +19753,7 @@ var data17C = {
   ],
   "FNCE-391": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -18161,6 +19761,7 @@ var data17C = {
   ],
   "FNCE-393": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -18168,6 +19769,7 @@ var data17C = {
   ],
   "FNCE-604": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -18175,31 +19777,37 @@ var data17C = {
   ],
   "FNCE-611": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "BINSBERGEN",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -18207,16 +19815,19 @@ var data17C = {
   ],
   "FNCE-612": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -18224,16 +19835,19 @@ var data17C = {
   ],
   "FNCE-613": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -18241,6 +19855,7 @@ var data17C = {
   ],
   "FNCE-717": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -18248,6 +19863,7 @@ var data17C = {
   ],
   "FNCE-719": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -18255,6 +19871,7 @@ var data17C = {
   ],
   "FNCE-720": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -18262,40 +19879,27 @@ var data17C = {
   ],
   "FNCE-721": [
     {
+      "section": "404",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "405",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "406",
       "day": "TR",
       "time": "10:30-12NOON",
-      "type": "LEC"
-    }
-  ],
-  "REAL-721": [
-    {
-      "day": "MW",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
   "FNCE-725": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -18303,16 +19907,19 @@ var data17C = {
   ],
   "FNCE-726": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -18320,6 +19927,7 @@ var data17C = {
   ],
   "FNCE-728": [
     {
+      "section": "001",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -18327,6 +19935,7 @@ var data17C = {
   ],
   "FNCE-731": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -18334,6 +19943,7 @@ var data17C = {
   ],
   "FNCE-738": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -18341,6 +19951,7 @@ var data17C = {
   ],
   "FNCE-750": [
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -18348,23 +19959,21 @@ var data17C = {
   ],
   "FNCE-751": [
     {
+      "section": "YILMAZ/THORBURN",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "YILMAZ/THORBURN",
       "day": "MW",
       "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
   "FNCE-883": [
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -18372,6 +19981,7 @@ var data17C = {
   ],
   "FNCE-886": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -18379,6 +19989,7 @@ var data17C = {
   ],
   "FNCE-891": [
     {
+      "section": "SASSOWER-KAISER",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -18386,6 +19997,7 @@ var data17C = {
   ],
   "FNCE-893": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -18393,6 +20005,7 @@ var data17C = {
   ],
   "FNCE-911": [
     {
+      "section": "001",
       "day": "M",
       "time": "10:30-1:30PM",
       "type": "LEC"
@@ -18400,6 +20013,7 @@ var data17C = {
   ],
   "FNCE-928": [
     {
+      "section": "001",
       "day": "T",
       "time": "8:30-11:30AM",
       "type": "LEC"
@@ -18407,6 +20021,7 @@ var data17C = {
   ],
   "FNCE-934": [
     {
+      "section": "001",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -18414,11 +20029,13 @@ var data17C = {
   ],
   "FNCE-950": [
     {
+      "section": "001",
       "day": "T",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -18426,11 +20043,13 @@ var data17C = {
   ],
   "FOLK-022": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -18438,6 +20057,7 @@ var data17C = {
   ],
   "FOLK-029": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -18445,6 +20065,7 @@ var data17C = {
   ],
   "FOLK-125": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -18452,6 +20073,7 @@ var data17C = {
   ],
   "FOLK-229": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -18459,6 +20081,7 @@ var data17C = {
   ],
   "FOLK-252": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -18466,31 +20089,31 @@ var data17C = {
   ],
   "FREN-110": [
     {
+      "section": "BONNARDEL-KALIM",
       "day": "MTWRF",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "C",
       "day": "TR",
       "time": "9:30-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "BONNARDEL-KALIM",
       "day": "MTWRF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
-      "day": "MTWRF",
-      "time": "12-1PM",
-      "type": "SEM"
-    },
-    {
+      "section": "601",
       "day": "MW",
       "time": "6-8:30PM",
       "type": "SEM"
@@ -18498,11 +20121,13 @@ var data17C = {
   ],
   "FREN-112": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "R",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -18510,6 +20135,7 @@ var data17C = {
   ],
   "FREN-120": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-5:30PM",
       "type": "SEM"
@@ -18517,16 +20143,19 @@ var data17C = {
   ],
   "FREN-121": [
     {
+      "section": "301",
       "day": "MTWRF",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MTWRF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "YAPA",
       "day": "MTWRF",
       "time": "12-1PM",
       "type": "SEM"
@@ -18534,46 +20163,55 @@ var data17C = {
   ],
   "FREN-130": [
     {
+      "section": "301",
       "day": "MTWR",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "L",
       "day": "TR",
       "time": "10:30-11:30AM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MW",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "S",
       "day": "TR",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "306",
       "day": "MTWR",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "307",
       "day": "MTWR",
       "time": "3-4PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "6-8PM",
       "type": "SEM"
@@ -18581,85 +20219,81 @@ var data17C = {
   ],
   "FREN-140": [
     {
+      "section": "301",
       "day": "MW",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "C",
       "day": "TR",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "C",
       "day": "TR",
       "time": "10:30-11:30AM",
       "type": "SEM"
     },
     {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "SEM"
-    },
-    {
+      "section": "L",
       "day": "TR",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MW",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "L",
       "day": "TR",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
-      "day": "MTWR",
-      "time": "12-1PM",
-      "type": "SEM"
-    },
-    {
+      "section": "306",
       "day": "MW",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "A",
       "day": "TR",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "307",
       "day": "MW",
       "time": "2-3PM",
       "type": "SEM"
     },
     {
+      "section": "A",
       "day": "TR",
       "time": "2-3PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "6-8PM",
       "type": "SEM"
     }
   ],
-  "FREN-180": [
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "SEM"
-    }
-  ],
   "FREN-200": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -18667,55 +20301,57 @@ var data17C = {
   ],
   "FREN-202": [
     {
+      "section": "301",
       "day": "MW",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "S",
       "day": "TR",
       "time": "10:30-11:30AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "L",
       "day": "TR",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MW",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "L",
       "day": "TR",
       "time": "1:30-2:30PM",
       "type": "SEM"
     }
   ],
-  "FREN-211": [
-    {
-      "day": "MW",
-      "time": "3:30-5PM",
-      "type": "SEM"
-    }
-  ],
   "FREN-212": [
     {
+      "section": "302",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MWF",
       "time": "12-1PM",
       "type": "SEM"
@@ -18723,11 +20359,13 @@ var data17C = {
   ],
   "FREN-214": [
     {
+      "section": "PHILIPPON-DANIE",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
@@ -18735,6 +20373,7 @@ var data17C = {
   ],
   "FREN-217": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -18742,6 +20381,7 @@ var data17C = {
   ],
   "FREN-225": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -18749,11 +20389,13 @@ var data17C = {
   ],
   "FREN-226": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -18761,13 +20403,49 @@ var data17C = {
   ],
   "FREN-228": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "12-1PM",
       "type": "SEM"
     }
   ],
+  "FREN-230": [
+    {
+      "section": "401",
+      "day": "M",
+      "time": "2-3:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "W",
+      "time": "2-3:30PM",
+      "type": "REC"
+    }
+  ],
+  "FREN-231": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "SEM"
+    },
+    {
+      "section": "402",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "403",
+      "day": "MW",
+      "time": "2-3:30PM",
+      "type": "SEM"
+    }
+  ],
   "FREN-322": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -18775,21 +20453,31 @@ var data17C = {
   ],
   "FREN-360": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
-      "day": "T",
-      "time": "3-6PM",
-      "type": "SEM"
-    },
-    {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "401",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "401",
+      "day": "W",
+      "time": "2-5PM",
+      "type": "SEM"
+    },
+    {
+      "section": "402",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
@@ -18797,6 +20485,7 @@ var data17C = {
   ],
   "FREN-371": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -18804,6 +20493,7 @@ var data17C = {
   ],
   "FREN-398": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -18811,6 +20501,7 @@ var data17C = {
   ],
   "FREN-550": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-4PM",
       "type": "SEM"
@@ -18818,6 +20509,7 @@ var data17C = {
   ],
   "FREN-591": [
     {
+      "section": "401",
       "day": "R",
       "time": "2-4PM",
       "type": "SEM"
@@ -18825,6 +20517,7 @@ var data17C = {
   ],
   "FREN-601": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-4PM",
       "type": "SEM"
@@ -18832,6 +20525,7 @@ var data17C = {
   ],
   "FREN-630": [
     {
+      "section": "401",
       "day": "T",
       "time": "2-5PM",
       "type": "SEM"
@@ -18839,6 +20533,7 @@ var data17C = {
   ],
   "FREN-684": [
     {
+      "section": "401",
       "day": "M",
       "time": "4-6PM",
       "type": "SEM"
@@ -18846,6 +20541,7 @@ var data17C = {
   ],
   "FREN-850": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -18853,6 +20549,7 @@ var data17C = {
   ],
   "FREN-851": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -18860,6 +20557,7 @@ var data17C = {
   ],
   "FREN-997": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -18867,6 +20565,7 @@ var data17C = {
   ],
   "FREN-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -18874,6 +20573,7 @@ var data17C = {
   ],
   "GAS-600": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -18881,6 +20581,7 @@ var data17C = {
   ],
   "GAS-610": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -18888,6 +20589,7 @@ var data17C = {
   ],
   "GCB-534": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -18895,6 +20597,7 @@ var data17C = {
   ],
   "GCB-536": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -18902,6 +20605,7 @@ var data17C = {
   ],
   "GCB-567": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -18909,6 +20613,7 @@ var data17C = {
   ],
   "GCB-585": [
     {
+      "section": "401",
       "day": "R",
       "time": "2-4:30PM",
       "type": "LEC"
@@ -18916,96 +20621,115 @@ var data17C = {
   ],
   "GCB-699": [
     {
+      "section": "033",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "034",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "035",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "036",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "037",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "038",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "039",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "040",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "041",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "042",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "043",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "044",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "045",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "046",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "047",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "048",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "049",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "050",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "051",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -19013,91 +20737,109 @@ var data17C = {
   ],
   "GCB-899": [
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "025",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "026",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "027",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "028",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "029",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "030",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "031",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "032",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "033",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "034",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "035",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "036",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "037",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "038",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "039",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -19105,16 +20847,19 @@ var data17C = {
   ],
   "GCB-995": [
     {
+      "section": "051",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "052",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "053",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -19122,46 +20867,55 @@ var data17C = {
   ],
   "GEOL-100": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
@@ -19169,36 +20923,43 @@ var data17C = {
   ],
   "GEOL-103": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "9-10AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
@@ -19206,11 +20967,13 @@ var data17C = {
   ],
   "GEOL-109": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "M",
       "time": "2:30-5:30PM",
       "type": "LAB"
@@ -19218,6 +20981,7 @@ var data17C = {
   ],
   "GEOL-111": [
     {
+      "section": "101",
       "day": "M",
       "time": "2:30-5:30PM",
       "type": "LAB"
@@ -19225,45 +20989,33 @@ var data17C = {
   ],
   "GEOL-201": [
     {
+      "section": "401",
       "day": "M",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "G",
       "day": "W",
       "time": "1-3PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "W",
       "time": "3:30-6PM",
       "type": "LAB"
-    }
-  ],
-  "GEOL-531": [
-    {
-      "day": "W",
-      "time": "3:30-6PM",
-      "type": "LAB"
-    },
-    {
-      "day": "M",
-      "time": "1-2PM",
-      "type": "LEC"
-    },
-    {
-      "day": "W",
-      "time": "1-3PM",
-      "type": "LEC"
     }
   ],
   "GEOL-204": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "F",
       "time": "3-4PM",
       "type": "LAB"
@@ -19271,6 +21023,7 @@ var data17C = {
   ],
   "GEOL-205": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -19278,6 +21031,7 @@ var data17C = {
   ],
   "GEOL-206": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -19285,6 +21039,7 @@ var data17C = {
   ],
   "GEOL-299": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -19292,6 +21047,7 @@ var data17C = {
   ],
   "GEOL-318": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -19299,6 +21055,7 @@ var data17C = {
   ],
   "GEOL-405": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -19306,6 +21063,7 @@ var data17C = {
   ],
   "GEOL-409": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -19313,6 +21071,7 @@ var data17C = {
   ],
   "GEOL-421": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -19320,13 +21079,23 @@ var data17C = {
   ],
   "GEOL-478": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     }
   ],
+  "GEOL-498": [
+    {
+      "section": "001",
+      "day": "M",
+      "time": "11-12NOON",
+      "type": "SRT"
+    }
+  ],
   "GEOL-500": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "2-3PM",
       "type": "SEM"
@@ -19334,6 +21103,7 @@ var data17C = {
   ],
   "GEOL-506": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -19341,13 +21111,35 @@ var data17C = {
   ],
   "GEOL-509": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     }
   ],
+  "GEOL-531": [
+    {
+      "section": "401",
+      "day": "M",
+      "time": "1-2PM",
+      "type": "LEC"
+    },
+    {
+      "section": "G",
+      "day": "W",
+      "time": "1-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "W",
+      "time": "3:30-6PM",
+      "type": "LAB"
+    }
+  ],
   "GEOL-541": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -19355,6 +21147,7 @@ var data17C = {
   ],
   "GEOL-542": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -19362,6 +21155,7 @@ var data17C = {
   ],
   "GEOL-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -19369,6 +21163,7 @@ var data17C = {
   ],
   "GEOL-666": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -19376,11 +21171,13 @@ var data17C = {
   ],
   "GEOL-750": [
     {
+      "section": "301",
       "day": "W",
       "time": "7-9PM",
       "type": "SEM"
     },
     {
+      "section": "L",
       "day": "F",
       "time": "11-12NOON",
       "type": "SEM"
@@ -19388,6 +21185,7 @@ var data17C = {
   ],
   "GEOL-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -19395,11 +21193,13 @@ var data17C = {
   ],
   "GREK-017": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -19407,6 +21207,7 @@ var data17C = {
   ],
   "GREK-101": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
@@ -19414,11 +21215,7 @@ var data17C = {
   ],
   "GREK-115": [
     {
-      "day": "TR",
-      "time": "4:30-6PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -19426,6 +21223,7 @@ var data17C = {
   ],
   "GREK-203": [
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:20PM",
       "type": "SEM"
@@ -19433,6 +21231,7 @@ var data17C = {
   ],
   "GREK-309": [
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -19440,6 +21239,7 @@ var data17C = {
   ],
   "GREK-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -19447,6 +21247,7 @@ var data17C = {
   ],
   "GREK-609": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -19454,6 +21255,7 @@ var data17C = {
   ],
   "GREK-611": [
     {
+      "section": "401",
       "day": "T",
       "time": "2-5PM",
       "type": "SEM"
@@ -19461,6 +21263,7 @@ var data17C = {
   ],
   "GREK-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -19468,11 +21271,13 @@ var data17C = {
   ],
   "GRMN-011": [
     {
+      "section": "301",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "C",
       "day": "R",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -19480,6 +21285,7 @@ var data17C = {
   ],
   "GRMN-027": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -19487,31 +21293,37 @@ var data17C = {
   ],
   "GRMN-101": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "D",
       "day": "TR",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTWRF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "C",
       "day": "TR",
       "time": "1:30-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "MW",
       "time": "6-8PM",
       "type": "LEC"
@@ -19519,6 +21331,7 @@ var data17C = {
   ],
   "GRMN-102": [
     {
+      "section": "002",
       "day": "MTWRF",
       "time": "12-1PM",
       "type": "LEC"
@@ -19526,16 +21339,19 @@ var data17C = {
   ],
   "GRMN-103": [
     {
+      "section": "001",
       "day": "MTWR",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "MW",
       "time": "6-8PM",
       "type": "LEC"
@@ -19543,11 +21359,13 @@ var data17C = {
   ],
   "GRMN-104": [
     {
+      "section": "001",
       "day": "MTWR",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
@@ -19555,11 +21373,13 @@ var data17C = {
   ],
   "GRMN-106": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "S",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -19567,11 +21387,13 @@ var data17C = {
   ],
   "GRMN-107": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "S",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -19579,6 +21401,7 @@ var data17C = {
   ],
   "GRMN-145": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -19586,6 +21409,7 @@ var data17C = {
   ],
   "GRMN-150": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -19593,6 +21417,7 @@ var data17C = {
   ],
   "GRMN-180": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -19600,11 +21425,13 @@ var data17C = {
   ],
   "GRMN-203": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "C",
       "day": "F",
       "time": "10-11AM",
       "type": "LEC"
@@ -19612,6 +21439,7 @@ var data17C = {
   ],
   "GRMN-219": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -19619,13 +21447,47 @@ var data17C = {
   ],
   "GRMN-232": [
     {
+      "section": "403",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
     }
   ],
+  "GRMN-237": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    }
+  ],
   "GRMN-263": [
     {
+      "section": "402",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -19633,6 +21495,7 @@ var data17C = {
   ],
   "GRMN-302": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "3-4PM",
       "type": "LEC"
@@ -19640,6 +21503,7 @@ var data17C = {
   ],
   "GRMN-363": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -19647,6 +21511,7 @@ var data17C = {
   ],
   "GRMN-381": [
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -19654,6 +21519,7 @@ var data17C = {
   ],
   "GRMN-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -19661,6 +21527,7 @@ var data17C = {
   ],
   "GRMN-401": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -19668,21 +21535,25 @@ var data17C = {
   ],
   "GRMN-501": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "MW",
       "time": "6-8PM",
       "type": "LEC"
@@ -19690,11 +21561,13 @@ var data17C = {
   ],
   "GRMN-502": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -19702,16 +21575,19 @@ var data17C = {
   ],
   "GRMN-503": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "MW",
       "time": "6-8PM",
       "type": "LEC"
@@ -19719,11 +21595,13 @@ var data17C = {
   ],
   "GRMN-504": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -19731,11 +21609,13 @@ var data17C = {
   ],
   "GRMN-505": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "S",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -19743,11 +21623,13 @@ var data17C = {
   ],
   "GRMN-506": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "C",
       "day": "F",
       "time": "10-11AM",
       "type": "LEC"
@@ -19755,11 +21637,13 @@ var data17C = {
   ],
   "GRMN-514": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "S",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -19767,6 +21651,7 @@ var data17C = {
   ],
   "GRMN-527": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-6PM",
       "type": "SEM"
@@ -19774,6 +21659,7 @@ var data17C = {
   ],
   "GRMN-534": [
     {
+      "section": "401",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -19781,6 +21667,7 @@ var data17C = {
   ],
   "GRMN-543": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -19788,6 +21675,7 @@ var data17C = {
   ],
   "GRMN-548": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -19795,6 +21683,7 @@ var data17C = {
   ],
   "GRMN-556": [
     {
+      "section": "301",
       "day": "T",
       "time": "3-5PM",
       "type": "SEM"
@@ -19802,6 +21691,7 @@ var data17C = {
   ],
   "GRMN-560": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
@@ -19809,6 +21699,7 @@ var data17C = {
   ],
   "GRMN-573": [
     {
+      "section": "402",
       "day": "T",
       "time": "1-3PM",
       "type": "SEM"
@@ -19816,6 +21707,7 @@ var data17C = {
   ],
   "GRMN-700": [
     {
+      "section": "301",
       "day": "T",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -19823,6 +21715,7 @@ var data17C = {
   ],
   "GRMN-995": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -19830,6 +21723,7 @@ var data17C = {
   ],
   "GRMN-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -19837,11 +21731,13 @@ var data17C = {
   ],
   "GSWS-002": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "T",
       "time": "6-9PM",
       "type": "LEC"
@@ -19849,6 +21745,7 @@ var data17C = {
   ],
   "GSWS-004": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -19856,6 +21753,7 @@ var data17C = {
   ],
   "GSWS-007": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -19863,6 +21761,7 @@ var data17C = {
   ],
   "GSWS-028": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -19870,6 +21769,7 @@ var data17C = {
   ],
   "GSWS-048": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -19877,6 +21777,7 @@ var data17C = {
   ],
   "GSWS-090": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -19884,6 +21785,7 @@ var data17C = {
   ],
   "GSWS-096": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -19891,6 +21793,7 @@ var data17C = {
   ],
   "GSWS-109": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -19898,6 +21801,7 @@ var data17C = {
   ],
   "GSWS-114": [
     {
+      "section": "401",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -19905,6 +21809,7 @@ var data17C = {
   ],
   "GSWS-119": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -19912,6 +21817,7 @@ var data17C = {
   ],
   "GSWS-122": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -19919,6 +21825,7 @@ var data17C = {
   ],
   "GSWS-149": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -19926,6 +21833,7 @@ var data17C = {
   ],
   "GSWS-160": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -19933,6 +21841,7 @@ var data17C = {
   ],
   "GSWS-199": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -19940,6 +21849,7 @@ var data17C = {
   ],
   "GSWS-216": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -19947,6 +21857,7 @@ var data17C = {
   ],
   "GSWS-233": [
     {
+      "section": "402",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -19954,6 +21865,7 @@ var data17C = {
   ],
   "GSWS-236": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-6PM",
       "type": "SEM"
@@ -19961,11 +21873,7 @@ var data17C = {
   ],
   "GSWS-279": [
     {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    },
-    {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -19973,6 +21881,7 @@ var data17C = {
   ],
   "GSWS-302": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -19980,6 +21889,7 @@ var data17C = {
   ],
   "GSWS-344": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -19987,21 +21897,25 @@ var data17C = {
   ],
   "GSWS-345": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
@@ -20009,6 +21923,7 @@ var data17C = {
   ],
   "GSWS-400": [
     {
+      "section": "301",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -20016,6 +21931,7 @@ var data17C = {
   ],
   "GSWS-499": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -20023,6 +21939,7 @@ var data17C = {
   ],
   "GSWS-538": [
     {
+      "section": "401",
       "day": "T",
       "time": "12-3PM",
       "type": "SEM"
@@ -20030,6 +21947,7 @@ var data17C = {
   ],
   "GSWS-542": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -20037,6 +21955,7 @@ var data17C = {
   ],
   "GSWS-550": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-4PM",
       "type": "SEM"
@@ -20044,6 +21963,7 @@ var data17C = {
   ],
   "GSWS-555": [
     {
+      "section": "401",
       "day": "T",
       "time": "5:30-9PM",
       "type": "LEC"
@@ -20051,6 +21971,7 @@ var data17C = {
   ],
   "GSWS-588": [
     {
+      "section": "401",
       "day": "R",
       "time": "4-7PM",
       "type": "LEC"
@@ -20058,6 +21979,7 @@ var data17C = {
   ],
   "GSWS-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -20065,6 +21987,7 @@ var data17C = {
   ],
   "GSWS-790": [
     {
+      "section": "401",
       "day": "W",
       "time": "6-9PM",
       "type": "SEM"
@@ -20072,23 +21995,39 @@ var data17C = {
   ],
   "GUJR-402": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
-    }
-  ],
-  "GUJR-422": [
+    },
     {
+      "section": "680",
       "day": "MW",
       "time": "7-8:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
+      "day": "MW",
+      "time": "2-3:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "TR",
+      "time": "4:30-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "GUJR-422": [
+    {
+      "section": "680",
       "day": "MW",
       "time": "7-8:30PM",
       "type": "LEC"
@@ -20096,11 +22035,13 @@ var data17C = {
   ],
   "HCIN-600": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
@@ -20108,6 +22049,7 @@ var data17C = {
   ],
   "HCIN-601": [
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
@@ -20115,6 +22057,7 @@ var data17C = {
   ],
   "HCIN-602": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
@@ -20122,6 +22065,7 @@ var data17C = {
   ],
   "HCIN-604": [
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
@@ -20129,6 +22073,7 @@ var data17C = {
   ],
   "HCIN-606": [
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
@@ -20136,6 +22081,7 @@ var data17C = {
   ],
   "HCMG-101": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -20143,6 +22089,7 @@ var data17C = {
   ],
   "HCMG-202": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -20150,6 +22097,7 @@ var data17C = {
   ],
   "HCMG-213": [
     {
+      "section": "KIMBERLY/SWANSO",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -20157,6 +22105,7 @@ var data17C = {
   ],
   "HCMG-250": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -20164,6 +22113,7 @@ var data17C = {
   ],
   "HCMG-841": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -20171,6 +22121,7 @@ var data17C = {
   ],
   "HCMG-849": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -20178,6 +22129,7 @@ var data17C = {
   ],
   "HCMG-850": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -20185,6 +22137,7 @@ var data17C = {
   ],
   "HCMG-853": [
     {
+      "section": "001",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -20192,6 +22145,7 @@ var data17C = {
   ],
   "HCMG-855": [
     {
+      "section": "002",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
@@ -20199,6 +22153,7 @@ var data17C = {
   ],
   "HCMG-867": [
     {
+      "section": "751",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -20206,6 +22161,7 @@ var data17C = {
   ],
   "HCMG-890": [
     {
+      "section": "001",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
@@ -20213,11 +22169,13 @@ var data17C = {
   ],
   "HCMG-995": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -20225,150 +22183,77 @@ var data17C = {
   ],
   "HEBR-051": [
     {
+      "section": "401",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "I",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
-    }
-  ],
-  "JWST-051": [
+    },
     {
+      "section": "402",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "I",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    }
-  ],
-  "HEBR-052": [
-    {
-      "day": "MW",
-      "time": "1-2PM",
-      "type": "LEC"
-    },
-    {
+      "section": "I",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    }
-  ],
-  "HEBR-053": [
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
     },
     {
+      "section": "J",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
-    }
-  ],
-  "JWST-053": [
+    },
     {
+      "section": "402",
       "day": "MW",
       "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
   "HEBR-054": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "R",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
-    }
-  ],
-  "JWST-054": [
+    },
     {
+      "section": "402",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "TR",
       "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "1-2PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
   "HEBR-059": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -20376,6 +22261,7 @@ var data17C = {
   ],
   "HEBR-151": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -20383,6 +22269,7 @@ var data17C = {
   ],
   "HEBR-153": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -20390,6 +22277,7 @@ var data17C = {
   ],
   "HEBR-259": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -20397,6 +22285,7 @@ var data17C = {
   ],
   "HEBR-451": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -20404,6 +22293,7 @@ var data17C = {
   ],
   "HEBR-453": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -20411,6 +22301,7 @@ var data17C = {
   ],
   "HEBR-552": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -20418,6 +22309,7 @@ var data17C = {
   ],
   "HEBR-559": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -20425,77 +22317,69 @@ var data17C = {
   ],
   "HEBR-651": [
     {
+      "section": "401",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "I",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "I",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
-    }
-  ],
-  "HEBR-652": [
-    {
-      "day": "MW",
-      "time": "1-2PM",
-      "type": "LEC"
     },
     {
+      "section": "I",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
-    }
-  ],
-  "HEBR-653": [
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
     },
     {
+      "section": "J",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
   "HEBR-654": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "R",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -20503,16 +22387,19 @@ var data17C = {
   ],
   "HIND-400": [
     {
+      "section": "401",
       "day": "T",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "R",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "216",
       "day": "F",
       "time": "11-12NOON",
       "type": "LEC"
@@ -20520,11 +22407,13 @@ var data17C = {
   ],
   "HIND-420": [
     {
+      "section": "001",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "R",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -20532,6 +22421,7 @@ var data17C = {
   ],
   "HIND-430": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -20539,6 +22429,7 @@ var data17C = {
   ],
   "HIND-500": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -20546,6 +22437,7 @@ var data17C = {
   ],
   "HIND-520": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -20553,6 +22445,7 @@ var data17C = {
   ],
   "HIND-530": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -20560,31 +22453,37 @@ var data17C = {
   ],
   "HIST-012": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-4PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "W",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
@@ -20592,82 +22491,121 @@ var data17C = {
   ],
   "HIST-024": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "R",
       "time": "10:30-11:30AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     }
   ],
-  "HIST-036": [
+  "HIST-026": [
     {
-      "day": "TR",
-      "time": "10:30-12NOON",
+      "section": "401",
+      "day": "MW",
+      "time": "12-1PM",
       "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "9-10AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "R",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "R",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "407",
+      "day": "R",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "408",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "409",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "410",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "411",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
     }
   ],
-  "STSC-002": [
+  "HIST-036": [
     {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "3-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "2-3PM",
+      "type": "REC"
     }
   ],
   "HIST-047": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -20675,138 +22613,157 @@ var data17C = {
   ],
   "HIST-070": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
-  "HIST-081": [
+  "HIST-076": [
     {
+      "section": "401",
       "day": "MW",
-      "time": "1-2PM",
+      "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "402",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
+      "section": "406",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
     }
   ],
-  "NELC-031": [
+  "HIST-081": [
     {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
+      "section": "401",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "section": "407",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
     }
   ],
   "HIST-085": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
-    }
-  ],
-  "SAST-008": [
+    },
     {
+      "section": "402",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
     }
   ],
   "HIST-089": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
+  "HIST-098": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "3-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    }
+  ],
   "HIST-101": [
     {
+      "section": "302",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -20814,11 +22771,13 @@ var data17C = {
   ],
   "HIST-104": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -20826,6 +22785,7 @@ var data17C = {
   ],
   "HIST-106": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -20833,11 +22793,13 @@ var data17C = {
   ],
   "HIST-107": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -20845,6 +22807,7 @@ var data17C = {
   ],
   "HIST-118": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -20852,6 +22815,7 @@ var data17C = {
   ],
   "HIST-126": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -20859,6 +22823,7 @@ var data17C = {
   ],
   "HIST-127": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -20866,6 +22831,7 @@ var data17C = {
   ],
   "HIST-131": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -20873,6 +22839,7 @@ var data17C = {
   ],
   "HIST-133": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -20880,110 +22847,69 @@ var data17C = {
   ],
   "HIST-135": [
     {
+      "section": "401",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
+      "section": "408",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "409",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "410",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
-    }
-  ],
-  "RUSS-135": [
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "5-6PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "4:30-5:30PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
     }
   ],
   "HIST-143": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -20991,6 +22917,7 @@ var data17C = {
   ],
   "HIST-150": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -20998,21 +22925,25 @@ var data17C = {
   ],
   "HIST-163": [
     {
+      "section": "001",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "5-6PM",
       "type": "REC"
@@ -21020,18 +22951,59 @@ var data17C = {
   ],
   "HIST-168": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
-  "HIST-173": [
+  "HIST-170": [
     {
-      "day": "W",
-      "time": "2-5PM",
-      "type": "SEM"
+      "section": "401",
+      "day": "MW",
+      "time": "10-11AM",
+      "type": "LEC"
     },
     {
+      "section": "402",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "G",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "W",
+      "time": "5-6PM",
+      "type": "REC"
+    },
+    {
+      "section": "407",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    }
+  ],
+  "HIST-173": [
+    {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -21039,6 +23011,7 @@ var data17C = {
   ],
   "HIST-174": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -21046,6 +23019,7 @@ var data17C = {
   ],
   "HIST-184": [
     {
+      "section": "050",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -21053,6 +23027,7 @@ var data17C = {
   ],
   "HIST-186": [
     {
+      "section": "050",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -21060,6 +23035,7 @@ var data17C = {
   ],
   "HIST-203": [
     {
+      "section": "301",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -21067,16 +23043,19 @@ var data17C = {
   ],
   "HIST-206": [
     {
+      "section": "301",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
     },
     {
+      "section": "CHASE-LEVENSON",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21084,6 +23063,7 @@ var data17C = {
   ],
   "HIST-209": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21091,23 +23071,27 @@ var data17C = {
   ],
   "HIST-211": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
-      "day": "W",
-      "time": "2-5PM",
+      "section": "402",
+      "day": "T",
+      "time": "3-6PM",
       "type": "SEM"
     }
   ],
   "HIST-216": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21115,18 +23099,27 @@ var data17C = {
   ],
   "HIST-220": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     }
   ],
-  "ITAL-230": [
+  "HIST-230": [
     {
+      "section": "401",
+      "day": "T",
+      "time": "1:30-4:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "402",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "403",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21134,11 +23127,13 @@ var data17C = {
   ],
   "HIST-231": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -21146,40 +23141,27 @@ var data17C = {
   ],
   "HIST-233": [
     {
+      "section": "401",
       "day": "F",
       "time": "1-4PM",
       "type": "SEM"
     },
     {
+      "section": "402",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "1:30-4:30PM",
-      "type": "SEM"
-    }
-  ],
-  "LALS-233": [
-    {
-      "day": "W",
-      "time": "2-5PM",
-      "type": "SEM"
-    },
-    {
-      "day": "R",
-      "time": "1:30-4:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "F",
-      "time": "1-4PM",
       "type": "SEM"
     }
   ],
   "HIST-234": [
     {
+      "section": "302",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -21187,6 +23169,7 @@ var data17C = {
   ],
   "HIST-236": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-6PM",
       "type": "SEM"
@@ -21194,18 +23177,39 @@ var data17C = {
   ],
   "HIST-237": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
       "type": "REC"
     }
   ],
   "HIST-274": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -21213,6 +23217,7 @@ var data17C = {
   ],
   "HIST-275": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -21220,6 +23225,7 @@ var data17C = {
   ],
   "HIST-303": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -21227,6 +23233,7 @@ var data17C = {
   ],
   "HIST-311": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -21234,6 +23241,7 @@ var data17C = {
   ],
   "HIST-331": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -21241,6 +23249,7 @@ var data17C = {
   ],
   "HIST-333": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -21248,13 +23257,41 @@ var data17C = {
   ],
   "HIST-344": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
+  "HIST-345": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    }
+  ],
   "HIST-354": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -21262,13 +23299,59 @@ var data17C = {
   ],
   "HIST-380": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
+  "HIST-395": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "407",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    }
+  ],
   "HIST-400": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -21276,6 +23359,7 @@ var data17C = {
   ],
   "HIST-412": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21283,6 +23367,7 @@ var data17C = {
   ],
   "HIST-440": [
     {
+      "section": "401",
       "day": "W",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -21290,6 +23375,7 @@ var data17C = {
   ],
   "HIST-467": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -21297,6 +23383,7 @@ var data17C = {
   ],
   "HIST-479": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -21304,6 +23391,7 @@ var data17C = {
   ],
   "HIST-512": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21311,11 +23399,13 @@ var data17C = {
   ],
   "HIST-620": [
     {
+      "section": "302",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -21323,6 +23413,7 @@ var data17C = {
   ],
   "HIST-630": [
     {
+      "section": "402",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -21330,6 +23421,7 @@ var data17C = {
   ],
   "HIST-640": [
     {
+      "section": "F",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21337,6 +23429,7 @@ var data17C = {
   ],
   "HIST-668": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21344,16 +23437,19 @@ var data17C = {
   ],
   "HIST-670": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21361,6 +23457,7 @@ var data17C = {
   ],
   "HIST-700": [
     {
+      "section": "301",
       "day": "M",
       "time": "9-12NOON",
       "type": "SEM"
@@ -21368,6 +23465,7 @@ var data17C = {
   ],
   "HIST-710": [
     {
+      "section": "401",
       "day": "W",
       "time": "10-1PM",
       "type": "SEM"
@@ -21375,6 +23473,7 @@ var data17C = {
   ],
   "HIST-951": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -21382,11 +23481,13 @@ var data17C = {
   ],
   "HPR-504": [
     {
+      "section": "401",
       "day": "M",
       "time": "1-4PM",
       "type": "LEC"
     },
     {
+      "section": "J/BURKE",
       "day": "M",
       "time": "2-4PM",
       "type": "LEC"
@@ -21394,6 +23495,7 @@ var data17C = {
   ],
   "HPR-580": [
     {
+      "section": "401",
       "day": "R",
       "time": "1-4PM",
       "type": "LEC"
@@ -21401,6 +23503,7 @@ var data17C = {
   ],
   "HPR-603": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:15AM",
       "type": "LEC"
@@ -21408,6 +23511,7 @@ var data17C = {
   ],
   "HPR-604": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -21415,6 +23519,7 @@ var data17C = {
   ],
   "HPR-606": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -21422,6 +23527,7 @@ var data17C = {
   ],
   "HPR-620": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1-2:30PM",
       "type": "LEC"
@@ -21429,80 +23535,63 @@ var data17C = {
   ],
   "HSOC-001": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
-    }
-  ],
-  "STSC-001": [
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "10-11AM",
-      "type": "LEC"
     }
   ],
   "HSOC-002": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -21510,6 +23599,7 @@ var data17C = {
   ],
   "HSOC-042": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21517,6 +23607,7 @@ var data17C = {
   ],
   "HSOC-059": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -21524,94 +23615,59 @@ var data17C = {
   ],
   "HSOC-100": [
     {
+      "section": "401",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "10:30-11:30AM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
-    }
-  ],
-  "SOCI-100": [
-    {
-      "day": "R",
-      "time": "9:30-10:30AM",
-      "type": "REC"
-    },
-    {
-      "day": "R",
-      "time": "10:30-11:30AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
     }
   ],
   "HSOC-111": [
     {
+      "section": "401",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
-    }
-  ],
-  "SOCI-111": [
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
     }
   ],
   "HSOC-135": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "LEC"
@@ -21619,60 +23675,39 @@ var data17C = {
   ],
   "HSOC-145": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10AM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
-    }
-  ],
-  "STSC-145": [
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "9-10AM",
-      "type": "LEC"
     }
   ],
   "HSOC-150": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -21680,6 +23715,7 @@ var data17C = {
   ],
   "HSOC-206": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -21687,67 +23723,91 @@ var data17C = {
   ],
   "HSOC-212": [
     {
+      "section": "401",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
-    }
-  ],
-  "STSC-212": [
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
     }
   ],
   "HSOC-216": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     }
   ],
+  "HSOC-238": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "1-2PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "W",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "W",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "W",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "407",
+      "day": "M",
+      "time": "3-4PM",
+      "type": "REC"
+    }
+  ],
   "HSOC-241": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -21755,6 +23815,7 @@ var data17C = {
   ],
   "HSOC-271": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -21762,6 +23823,7 @@ var data17C = {
   ],
   "HSOC-277": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -21769,6 +23831,7 @@ var data17C = {
   ],
   "HSOC-379": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -21776,6 +23839,7 @@ var data17C = {
   ],
   "HSOC-382": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -21783,6 +23847,7 @@ var data17C = {
   ],
   "HSOC-421": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21790,6 +23855,7 @@ var data17C = {
   ],
   "HSOC-430": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -21797,6 +23863,7 @@ var data17C = {
   ],
   "HSOC-458": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -21804,6 +23871,7 @@ var data17C = {
   ],
   "HSOC-498": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -21811,6 +23879,7 @@ var data17C = {
   ],
   "HSOC-499": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -21818,6 +23887,7 @@ var data17C = {
   ],
   "HSPV-521": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
@@ -21825,6 +23895,7 @@ var data17C = {
   ],
   "HSPV-538": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-5PM",
       "type": "LEC"
@@ -21832,6 +23903,7 @@ var data17C = {
   ],
   "HSPV-540": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-12NOON",
       "type": "LEC"
@@ -21839,6 +23911,7 @@ var data17C = {
   ],
   "HSPV-552": [
     {
+      "section": "001",
       "day": "F",
       "time": "2-5PM",
       "type": "LEC"
@@ -21846,6 +23919,7 @@ var data17C = {
   ],
   "HSPV-555": [
     {
+      "section": "001",
       "day": "R",
       "time": "2-5PM",
       "type": "SEM"
@@ -21853,6 +23927,7 @@ var data17C = {
   ],
   "HSPV-572": [
     {
+      "section": "001",
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
@@ -21860,6 +23935,7 @@ var data17C = {
   ],
   "HSPV-600": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-12NOON",
       "type": "LEC"
@@ -21867,11 +23943,13 @@ var data17C = {
   ],
   "HSPV-624": [
     {
+      "section": "001",
       "day": "M",
       "time": "9-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "R",
       "time": "6-8PM",
       "type": "LAB"
@@ -21879,6 +23957,7 @@ var data17C = {
   ],
   "HSPV-640": [
     {
+      "section": "301",
       "day": "T",
       "time": "1-4PM",
       "type": "SEM"
@@ -21886,6 +23965,7 @@ var data17C = {
   ],
   "HSPV-660": [
     {
+      "section": "301",
       "day": "R",
       "time": "9-12NOON",
       "type": "LEC"
@@ -21893,21 +23973,25 @@ var data17C = {
   ],
   "HSPV-701": [
     {
+      "section": "201",
       "day": "MR",
       "time": "2-6PM",
       "type": "STU"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "2-6PM",
       "type": "STU"
     },
     {
+      "section": "F",
       "day": "R",
       "time": "2-6PM",
       "type": "STU"
     },
     {
+      "section": "203",
       "day": "MR",
       "time": "2-6PM",
       "type": "STU"
@@ -21915,6 +23999,7 @@ var data17C = {
   ],
   "HSPV-708": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -21922,6 +24007,7 @@ var data17C = {
   ],
   "HSPV-739": [
     {
+      "section": "301",
       "day": "M",
       "time": "6-9PM",
       "type": "SEM"
@@ -21929,6 +24015,7 @@ var data17C = {
   ],
   "HSPV-740": [
     {
+      "section": "301",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -21936,6 +24023,7 @@ var data17C = {
   ],
   "HSPV-999": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -21943,6 +24031,7 @@ var data17C = {
   ],
   "HSSC-505": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -21950,6 +24039,7 @@ var data17C = {
   ],
   "HSSC-506": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -21957,6 +24047,7 @@ var data17C = {
   ],
   "HSSC-518": [
     {
+      "section": "301",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
@@ -21964,6 +24055,7 @@ var data17C = {
   ],
   "HSSC-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -21971,6 +24063,7 @@ var data17C = {
   ],
   "IMUN-609": [
     {
+      "section": "401",
       "day": "WR",
       "time": "3-5PM",
       "type": "LEC"
@@ -21978,46 +24071,55 @@ var data17C = {
   ],
   "IMUN-699": [
     {
+      "section": "032",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "088",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "089",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "090",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "091",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "092",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "093",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "094",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "098",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -22025,16 +24127,19 @@ var data17C = {
   ],
   "IMUN-995": [
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "089",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "093",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -22042,106 +24147,91 @@ var data17C = {
   ],
   "INTG-001": [
     {
+      "section": "KABLE/DETLEFSEN",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "208",
       "day": "T",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "301",
       "day": "F",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "F",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "F",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "F",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "F",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "306",
       "day": "F",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -22149,6 +24239,7 @@ var data17C = {
   ],
   "INTR-101": [
     {
+      "section": "PLANTAN/NISHINO",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -22156,6 +24247,7 @@ var data17C = {
   ],
   "INTR-199": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -22163,6 +24255,7 @@ var data17C = {
   ],
   "INTR-350": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -22170,26 +24263,31 @@ var data17C = {
   ],
   "INTR-390": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -22197,6 +24295,7 @@ var data17C = {
   ],
   "INTR-395": [
     {
+      "section": "001",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -22204,6 +24303,7 @@ var data17C = {
   ],
   "INTR-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -22211,6 +24311,7 @@ var data17C = {
   ],
   "INTS-510": [
     {
+      "section": "301",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -22218,6 +24319,7 @@ var data17C = {
   ],
   "IPD-504": [
     {
+      "section": "401",
       "day": "F",
       "time": "1-4PM",
       "type": "LEC"
@@ -22225,6 +24327,7 @@ var data17C = {
   ],
   "IPD-509": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-12NOON",
       "type": "LEC"
@@ -22232,13 +24335,29 @@ var data17C = {
   ],
   "IPD-515": [
     {
+      "section": "401",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
     }
   ],
+  "IPD-519": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "4-7PM",
+      "type": "LAB"
+    }
+  ],
   "IPD-521": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
@@ -22246,13 +24365,35 @@ var data17C = {
   ],
   "IPD-525": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
     }
   ],
+  "IPD-545": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "403",
+      "day": "TR",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    }
+  ],
   "IPD-551": [
     {
+      "section": "001",
       "day": "M",
       "time": "10-1PM",
       "type": "LEC"
@@ -22260,11 +24401,13 @@ var data17C = {
   ],
   "IPD-568": [
     {
+      "section": "401",
       "day": "M",
       "time": "1-4PM",
       "type": "STU"
     },
     {
+      "section": "O",
       "day": "W",
       "time": "1-4PM",
       "type": "STU"
@@ -22272,6 +24415,7 @@ var data17C = {
   ],
   "IPD-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -22279,6 +24423,7 @@ var data17C = {
   ],
   "IPD-699": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -22286,11 +24431,13 @@ var data17C = {
   ],
   "IPD-799": [
     {
+      "section": "ROTT/BRESS/ALBE",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -22298,6 +24445,7 @@ var data17C = {
   ],
   "ITAL-100": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
@@ -22305,31 +24453,37 @@ var data17C = {
   ],
   "ITAL-110": [
     {
+      "section": "302",
       "day": "MTWRF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MTWRF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MW",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "M",
       "day": "T",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "27",
       "day": "R",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "MW",
       "time": "6-8:30PM",
       "type": "SEM"
@@ -22337,11 +24491,13 @@ var data17C = {
   ],
   "ITAL-112": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "H",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -22349,21 +24505,25 @@ var data17C = {
   ],
   "ITAL-130": [
     {
+      "section": "301",
       "day": "MTWR",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MTWR",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "6-8PM",
       "type": "SEM"
@@ -22371,6 +24531,7 @@ var data17C = {
   ],
   "ITAL-201": [
     {
+      "section": "301",
       "day": "MTWR",
       "time": "1-2PM",
       "type": "SEM"
@@ -22378,6 +24539,7 @@ var data17C = {
   ],
   "ITAL-204": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -22385,28 +24547,41 @@ var data17C = {
   ],
   "ITAL-216": [
     {
+      "section": "050",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
     },
     {
+      "section": "051",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
     },
     {
+      "section": "052",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
     }
   ],
+  "ITAL-230": [
+    {
+      "section": "401",
+      "day": "T",
+      "time": "1:30-4:30PM",
+      "type": "SEM"
+    }
+  ],
   "ITAL-300": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -22414,6 +24589,7 @@ var data17C = {
   ],
   "ITAL-398": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -22421,6 +24597,7 @@ var data17C = {
   ],
   "ITAL-499": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -22428,6 +24605,7 @@ var data17C = {
   ],
   "ITAL-531": [
     {
+      "section": "401",
       "day": "R",
       "time": "2-5PM",
       "type": "SEM"
@@ -22435,6 +24613,7 @@ var data17C = {
   ],
   "ITAL-537": [
     {
+      "section": "401",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
@@ -22442,6 +24621,7 @@ var data17C = {
   ],
   "ITAL-540": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -22449,6 +24629,7 @@ var data17C = {
   ],
   "ITAL-602": [
     {
+      "section": "401",
       "day": "T",
       "time": "3:30-5:30PM",
       "type": "SEM"
@@ -22456,6 +24637,7 @@ var data17C = {
   ],
   "ITAL-690": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-4PM",
       "type": "SEM"
@@ -22463,6 +24645,7 @@ var data17C = {
   ],
   "ITAL-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -22470,41 +24653,43 @@ var data17C = {
   ],
   "JPAN-011": [
     {
+      "section": "001",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "M",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "S",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "S",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "2-3PM",
-      "type": "LEC"
-    },
-    {
+      "section": "N",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -22512,11 +24697,13 @@ var data17C = {
   ],
   "JPAN-021": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-12NOON",
       "type": "LEC"
     },
     {
+      "section": "K",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -22524,60 +24711,57 @@ var data17C = {
   ],
   "JPAN-111": [
     {
+      "section": "001",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "T",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "M",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "M",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
-    }
-  ],
-  "JPAN-211": [
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
     },
     {
+      "section": "N",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "12-1PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
   "JPAN-311": [
     {
+      "section": "001",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
@@ -22585,11 +24769,7 @@ var data17C = {
   ],
   "JPAN-381": [
     {
-      "day": "MW",
-      "time": "2-3:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -22597,6 +24777,7 @@ var data17C = {
   ],
   "JPAN-411": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -22604,11 +24785,7 @@ var data17C = {
   ],
   "JPAN-481": [
     {
-      "day": "TR",
-      "time": "4:30-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -22616,6 +24793,7 @@ var data17C = {
   ],
   "JPAN-511": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -22623,6 +24801,7 @@ var data17C = {
   ],
   "JPAN-515": [
     {
+      "section": "001",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -22630,18 +24809,77 @@ var data17C = {
   ],
   "JWST-031": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
-  "JWST-052": [
+  "JWST-051": [
     {
+      "section": "401",
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "I",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "section": "I",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "I",
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "J",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    }
+  ],
+  "JWST-054": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "section": "R",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -22649,6 +24887,7 @@ var data17C = {
   ],
   "JWST-059": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -22656,6 +24895,7 @@ var data17C = {
   ],
   "JWST-100": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -22663,6 +24903,7 @@ var data17C = {
   ],
   "JWST-122": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -22670,6 +24911,7 @@ var data17C = {
   ],
   "JWST-126": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -22677,6 +24919,7 @@ var data17C = {
   ],
   "JWST-130": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -22684,6 +24927,7 @@ var data17C = {
   ],
   "JWST-132": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -22691,6 +24935,7 @@ var data17C = {
   ],
   "JWST-151": [
     {
+      "section": "401",
       "day": "M",
       "time": "6-9PM",
       "type": "SEM"
@@ -22698,6 +24943,7 @@ var data17C = {
   ],
   "JWST-154": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -22705,6 +24951,7 @@ var data17C = {
   ],
   "JWST-171": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -22712,6 +24959,7 @@ var data17C = {
   ],
   "JWST-173": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -22719,6 +24967,7 @@ var data17C = {
   ],
   "JWST-199": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -22726,11 +24975,7 @@ var data17C = {
   ],
   "JWST-201": [
     {
-      "day": "T",
-      "time": "3-6PM",
-      "type": "SEM"
-    },
-    {
+      "section": "402",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
@@ -22738,6 +24983,7 @@ var data17C = {
   ],
   "JWST-259": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -22745,6 +24991,7 @@ var data17C = {
   ],
   "JWST-261": [
     {
+      "section": "402",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -22752,6 +24999,7 @@ var data17C = {
   ],
   "JWST-262": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -22759,6 +25007,7 @@ var data17C = {
   ],
   "JWST-299": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -22766,6 +25015,7 @@ var data17C = {
   ],
   "JWST-335": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -22773,6 +25023,7 @@ var data17C = {
   ],
   "JWST-380": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -22780,6 +25031,7 @@ var data17C = {
   ],
   "JWST-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -22787,6 +25039,7 @@ var data17C = {
   ],
   "JWST-438": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -22794,6 +25047,7 @@ var data17C = {
   ],
   "JWST-471": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -22801,6 +25055,7 @@ var data17C = {
   ],
   "JWST-473": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -22808,6 +25063,7 @@ var data17C = {
   ],
   "JWST-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -22815,16 +25071,19 @@ var data17C = {
   ],
   "KORN-011": [
     {
+      "section": "001",
       "day": "MTWR",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "3-5PM",
       "type": "LEC"
@@ -22832,21 +25091,25 @@ var data17C = {
   ],
   "KORN-111": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "T",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "723",
       "day": "R",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "3-5PM",
       "type": "LEC"
@@ -22854,6 +25117,7 @@ var data17C = {
   ],
   "KORN-131": [
     {
+      "section": "001",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
@@ -22861,6 +25125,7 @@ var data17C = {
   ],
   "KORN-211": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -22868,11 +25133,7 @@ var data17C = {
   ],
   "KORN-281": [
     {
-      "day": "MW",
-      "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -22880,6 +25141,7 @@ var data17C = {
   ],
   "KORN-311": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -22887,11 +25149,13 @@ var data17C = {
   ],
   "KORN-331": [
     {
+      "section": "680",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -22899,11 +25163,7 @@ var data17C = {
   ],
   "KORN-481": [
     {
-      "day": "MW",
-      "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -22911,6 +25171,7 @@ var data17C = {
   ],
   "LALS-070": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -22918,6 +25179,7 @@ var data17C = {
   ],
   "LALS-174": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -22925,57 +25187,61 @@ var data17C = {
   ],
   "LALS-213": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
-    }
-  ],
-  "PSCI-213": [
-    {
-      "day": "F",
-      "time": "9-10AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "2-3PM",
-      "type": "LEC"
     }
   ],
   "LALS-227": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     }
   ],
+  "LALS-233": [
+    {
+      "section": "401",
+      "day": "F",
+      "time": "1-4PM",
+      "type": "SEM"
+    },
+    {
+      "section": "402",
+      "day": "W",
+      "time": "2-5PM",
+      "type": "SEM"
+    },
+    {
+      "section": "403",
+      "day": "R",
+      "time": "1:30-4:30PM",
+      "type": "SEM"
+    }
+  ],
   "LALS-235": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "LEC"
@@ -22983,11 +25249,13 @@ var data17C = {
   ],
   "LALS-240": [
     {
+      "section": "401",
       "day": "T",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "M",
       "day": "R",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -22995,13 +25263,29 @@ var data17C = {
   ],
   "LALS-254": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     }
   ],
+  "LALS-267": [
+    {
+      "section": "401",
+      "day": "WF",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "404",
+      "day": "M",
+      "time": "11-12NOON",
+      "type": "REC"
+    }
+  ],
   "LALS-394": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
@@ -23009,30 +25293,21 @@ var data17C = {
   ],
   "LALS-397": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "402",
       "day": "TR",
       "time": "12-1:30PM",
-      "type": "SEM"
-    }
-  ],
-  "SPAN-396": [
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
       "type": "SEM"
     }
   ],
   "LALS-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -23040,6 +25315,7 @@ var data17C = {
   ],
   "LALS-417": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -23047,6 +25323,7 @@ var data17C = {
   ],
   "LALS-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -23054,6 +25331,7 @@ var data17C = {
   ],
   "LALS-655": [
     {
+      "section": "401",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -23061,6 +25339,7 @@ var data17C = {
   ],
   "LALS-667": [
     {
+      "section": "401",
       "day": "WF",
       "time": "11-12NOON",
       "type": "LEC"
@@ -23068,6 +25347,7 @@ var data17C = {
   ],
   "LALS-710": [
     {
+      "section": "401",
       "day": "W",
       "time": "10-1PM",
       "type": "SEM"
@@ -23075,11 +25355,13 @@ var data17C = {
   ],
   "LARP-501": [
     {
+      "section": "001",
       "day": "MR",
       "time": "12-6PM",
       "type": "STU"
     },
     {
+      "section": "002",
       "day": "MR",
       "time": "12-6PM",
       "type": "STU"
@@ -23087,11 +25369,13 @@ var data17C = {
   ],
   "LARP-511": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-1PM",
       "type": "LEC"
     },
     {
+      "section": "S",
       "day": "T",
       "time": "2-5PM",
       "type": "LEC"
@@ -23099,6 +25383,7 @@ var data17C = {
   ],
   "LARP-512": [
     {
+      "section": "001",
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
@@ -23106,6 +25391,7 @@ var data17C = {
   ],
   "LARP-533": [
     {
+      "section": "001",
       "day": "F",
       "time": "1-4PM",
       "type": "LEC"
@@ -23113,11 +25399,13 @@ var data17C = {
   ],
   "LARP-535": [
     {
+      "section": "401",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "4-5:30PM",
       "type": "REC"
@@ -23125,16 +25413,19 @@ var data17C = {
   ],
   "LARP-543": [
     {
+      "section": "001",
       "day": "R",
       "time": "12-3PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
@@ -23142,77 +25433,81 @@ var data17C = {
   ],
   "LARP-601": [
     {
+      "section": "001",
       "day": "M",
       "time": "10-6PM",
       "type": "STU"
     },
     {
+      "section": "TBA,",
       "day": "F",
       "time": "1-6PM",
       "type": "STU"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "10-6PM",
       "type": "STU"
     },
     {
+      "section": "T",
       "day": "F",
       "time": "1-6PM",
       "type": "STU"
     },
     {
+      "section": "003",
       "day": "M",
       "time": "10-6PM",
       "type": "STU"
     },
     {
+      "section": "M",
       "day": "F",
       "time": "1-6PM",
       "type": "STU"
     },
     {
+      "section": "004",
       "day": "M",
       "time": "10-6PM",
       "type": "STU"
     },
     {
+      "section": "TBA,",
       "day": "F",
       "time": "1-6PM",
       "type": "STU"
-    }
-  ],
-  "LARP-611": [
+    },
     {
+      "section": "001",
       "day": "T",
       "time": "9-1PM",
       "type": "LEC"
     }
   ],
-  "LARP-612": [
-    {
-      "day": "F",
-      "time": "9-12NOON",
-      "type": "LEC"
-    }
-  ],
   "LARP-701": [
     {
+      "section": "001",
       "day": "MR",
       "time": "12-6PM",
       "type": "STU"
     },
     {
+      "section": "002",
       "day": "MR",
       "time": "12-6PM",
       "type": "STU"
     },
     {
+      "section": "003",
       "day": "MR",
       "time": "12-6PM",
       "type": "STU"
     },
     {
+      "section": "005",
       "day": "MR",
       "time": "12-6PM",
       "type": "STU"
@@ -23220,6 +25515,7 @@ var data17C = {
   ],
   "LARP-720": [
     {
+      "section": "001",
       "day": "T",
       "time": "10-1PM",
       "type": "SEM"
@@ -23227,6 +25523,7 @@ var data17C = {
   ],
   "LARP-730": [
     {
+      "section": "001",
       "day": "W",
       "time": "3-6PM",
       "type": "LEC"
@@ -23234,6 +25531,7 @@ var data17C = {
   ],
   "LARP-740": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-12NOON",
       "type": "LEC"
@@ -23241,6 +25539,7 @@ var data17C = {
   ],
   "LARP-743": [
     {
+      "section": "401",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -23248,6 +25547,7 @@ var data17C = {
   ],
   "LARP-755": [
     {
+      "section": "001",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "LAB"
@@ -23255,6 +25555,7 @@ var data17C = {
   ],
   "LARP-761": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-5PM",
       "type": "LEC"
@@ -23262,16 +25563,19 @@ var data17C = {
   ],
   "LARP-780": [
     {
+      "section": "002",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "4-5:30PM",
       "type": "REC"
@@ -23279,31 +25583,37 @@ var data17C = {
   ],
   "LARP-999": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -23311,16 +25621,19 @@ var data17C = {
   ],
   "LATN-101": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "6:30-8:15PM",
       "type": "SEM"
@@ -23328,16 +25641,19 @@ var data17C = {
   ],
   "LATN-203": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "A",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "SEM"
@@ -23345,6 +25661,7 @@ var data17C = {
   ],
   "LATN-309": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -23352,6 +25669,7 @@ var data17C = {
   ],
   "LATN-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -23359,6 +25677,7 @@ var data17C = {
   ],
   "LATN-401": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -23366,6 +25685,7 @@ var data17C = {
   ],
   "LATN-540": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -23373,6 +25693,7 @@ var data17C = {
   ],
   "LATN-600": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -23380,6 +25701,7 @@ var data17C = {
   ],
   "LATN-998": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -23387,6 +25709,7 @@ var data17C = {
   ],
   "LATN-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -23394,31 +25717,37 @@ var data17C = {
   ],
   "LAW-500": [
     {
+      "section": "001",
       "day": "MTW",
       "time": "10:30-11:45AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTW",
       "time": "10:30-11:45AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MTW",
       "time": "9-10:15AM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "M",
       "time": "10:30-11:45AM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "T",
       "time": "10:30-11:45AM",
       "type": "LEC"
     },
     {
+      "section": "280",
       "day": "W",
       "time": "10:30-11:45AM",
       "type": "LEC"
@@ -23426,41 +25755,49 @@ var data17C = {
   ],
   "LAW-502": [
     {
+      "section": "001",
       "day": "TW",
       "time": "3-4:15PM",
       "type": "LEC"
     },
     {
+      "section": "D",
       "day": "R",
       "time": "10:30-11:45AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TW",
       "time": "3-4:15PM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "R",
       "time": "10:30-11:45AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "T",
       "time": "3-4:15PM",
       "type": "LEC"
     },
     {
+      "section": "WILKINSON-RYAN",
       "day": "WR",
       "time": "10:30-11:45AM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "T",
       "time": "3-4:15PM",
       "type": "LEC"
     },
     {
+      "section": "L",
       "day": "WR",
       "time": "10:30-11:45AM",
       "type": "LEC"
@@ -23468,26 +25805,31 @@ var data17C = {
   ],
   "LAW-504": [
     {
+      "section": "001",
       "day": "MTW",
       "time": "9-10:15AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTW",
       "time": "9-10:15AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MTW",
       "time": "9-10:15AM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "MT",
       "time": "10:30-11:45AM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "W",
       "time": "1:30-2:45PM",
       "type": "LEC"
@@ -23495,6 +25837,7 @@ var data17C = {
   ],
   "LAW-508": [
     {
+      "section": "G",
       "day": "MTW",
       "time": "8:45-10:20AM",
       "type": "LEC"
@@ -23502,6 +25845,7 @@ var data17C = {
   ],
   "LAW-532": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:20PM",
       "type": "LEC"
@@ -23509,6 +25853,7 @@ var data17C = {
   ],
   "LAW-543": [
     {
+      "section": "001",
       "day": "W",
       "time": "1-2:50PM",
       "type": "LEC"
@@ -23516,6 +25861,7 @@ var data17C = {
   ],
   "LAW-544": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -23523,6 +25869,7 @@ var data17C = {
   ],
   "LAW-545": [
     {
+      "section": "001",
       "day": "R",
       "time": "6:30-8:20PM",
       "type": "LEC"
@@ -23530,6 +25877,7 @@ var data17C = {
   ],
   "LAW-547": [
     {
+      "section": "I",
       "day": "MWF",
       "time": "10:30-12:30PM",
       "type": "LEC"
@@ -23537,6 +25885,7 @@ var data17C = {
   ],
   "LAW-550": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -23544,16 +25893,19 @@ var data17C = {
   ],
   "LAW-555": [
     {
+      "section": "001",
       "day": "M",
       "time": "6:30-8:20PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "F",
       "time": "10:30-12:20PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "T",
       "time": "4:30-6:20PM",
       "type": "LEC"
@@ -23561,6 +25913,7 @@ var data17C = {
   ],
   "LAW-578": [
     {
+      "section": "001",
       "day": "M",
       "time": "6:30-8:20PM",
       "type": "LEC"
@@ -23568,6 +25921,7 @@ var data17C = {
   ],
   "LAW-580": [
     {
+      "section": "001",
       "day": "T",
       "time": "1-2:50PM",
       "type": "LEC"
@@ -23575,11 +25929,13 @@ var data17C = {
   ],
   "LAW-582": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-11:50AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -23587,6 +25943,7 @@ var data17C = {
   ],
   "LAW-584": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -23594,6 +25951,7 @@ var data17C = {
   ],
   "LAW-585": [
     {
+      "section": "001",
       "day": "FS",
       "time": "9:30-4:30PM",
       "type": "LEC"
@@ -23601,6 +25959,7 @@ var data17C = {
   ],
   "LAW-588": [
     {
+      "section": "001",
       "day": "W",
       "time": "6:30-8:20PM",
       "type": "LEC"
@@ -23608,6 +25967,7 @@ var data17C = {
   ],
   "LAW-595": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -23615,6 +25975,7 @@ var data17C = {
   ],
   "LAW-596": [
     {
+      "section": "001",
       "day": "T",
       "time": "10:30-12:20PM",
       "type": "LEC"
@@ -23622,6 +25983,7 @@ var data17C = {
   ],
   "LAW-600": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:20PM",
       "type": "LEC"
@@ -23629,6 +25991,7 @@ var data17C = {
   ],
   "LAW-601": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-2:50PM",
       "type": "LEC"
@@ -23636,6 +25999,7 @@ var data17C = {
   ],
   "LAW-602": [
     {
+      "section": "R",
       "day": "R",
       "time": "4:30-6:20PM",
       "type": "LEC"
@@ -23643,6 +26007,7 @@ var data17C = {
   ],
   "LAW-603": [
     {
+      "section": "001",
       "day": "T",
       "time": "6:30-8:20PM",
       "type": "LEC"
@@ -23650,6 +26015,7 @@ var data17C = {
   ],
   "LAW-604": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:20PM",
       "type": "LEC"
@@ -23657,6 +26023,7 @@ var data17C = {
   ],
   "LAW-607": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:20AM",
       "type": "LEC"
@@ -23664,6 +26031,7 @@ var data17C = {
   ],
   "LAW-610": [
     {
+      "section": "001",
       "day": "M",
       "time": "10:30-12:20PM",
       "type": "LEC"
@@ -23671,31 +26039,37 @@ var data17C = {
   ],
   "LAW-612": [
     {
+      "section": "001",
       "day": "M",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "6:30-8:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "W",
       "time": "6:30-8:30PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "T",
       "time": "6:30-8:30PM",
       "type": "LEC"
@@ -23703,6 +26077,7 @@ var data17C = {
   ],
   "LAW-617": [
     {
+      "section": "K",
       "day": "TR",
       "time": "10:30-11:50AM",
       "type": "LEC"
@@ -23710,6 +26085,7 @@ var data17C = {
   ],
   "LAW-619": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-2:50PM",
       "type": "LEC"
@@ -23717,6 +26093,7 @@ var data17C = {
   ],
   "LAW-620": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:20AM",
       "type": "LEC"
@@ -23724,6 +26101,7 @@ var data17C = {
   ],
   "LAW-621": [
     {
+      "section": "S",
       "day": "MW",
       "time": "10:30-11:50AM",
       "type": "LEC"
@@ -23731,16 +26109,19 @@ var data17C = {
   ],
   "LAW-622": [
     {
+      "section": "001",
       "day": "MWR",
       "time": "3-4:15PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TWR",
       "time": "3-4:15PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MTW",
       "time": "10:30-11:45AM",
       "type": "LEC"
@@ -23748,6 +26129,7 @@ var data17C = {
   ],
   "LAW-624": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -23755,6 +26137,7 @@ var data17C = {
   ],
   "LAW-626": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -23762,6 +26145,7 @@ var data17C = {
   ],
   "LAW-628": [
     {
+      "section": "401",
       "day": "W",
       "time": "3-6PM",
       "type": "LEC"
@@ -23769,6 +26153,7 @@ var data17C = {
   ],
   "LAW-631": [
     {
+      "section": "001",
       "day": "TRF",
       "time": "9-10:15AM",
       "type": "LEC"
@@ -23776,6 +26161,7 @@ var data17C = {
   ],
   "LAW-635": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:20AM",
       "type": "LEC"
@@ -23783,6 +26169,7 @@ var data17C = {
   ],
   "LAW-639": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -23790,6 +26177,7 @@ var data17C = {
   ],
   "LAW-640": [
     {
+      "section": "001",
       "day": "MT",
       "time": "4:30-6:20PM",
       "type": "LEC"
@@ -23797,6 +26185,7 @@ var data17C = {
   ],
   "LAW-649": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-2:50PM",
       "type": "CLN"
@@ -23804,6 +26193,7 @@ var data17C = {
   ],
   "LAW-650": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -23811,6 +26201,7 @@ var data17C = {
   ],
   "LAW-651": [
     {
+      "section": "001",
       "day": "F",
       "time": "1-4PM",
       "type": "LEC"
@@ -23818,6 +26209,7 @@ var data17C = {
   ],
   "LAW-652": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-2:50PM",
       "type": "CLN"
@@ -23825,6 +26217,7 @@ var data17C = {
   ],
   "LAW-655": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-2:50PM",
       "type": "CLN"
@@ -23832,11 +26225,13 @@ var data17C = {
   ],
   "LAW-656": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
@@ -23844,6 +26239,7 @@ var data17C = {
   ],
   "LAW-659": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-2:50PM",
       "type": "LEC"
@@ -23851,6 +26247,7 @@ var data17C = {
   ],
   "LAW-662": [
     {
+      "section": "001",
       "day": "TWR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -23858,6 +26255,7 @@ var data17C = {
   ],
   "LAW-667": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:20AM",
       "type": "LEC"
@@ -23865,6 +26263,7 @@ var data17C = {
   ],
   "LAW-669": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-2:50PM",
       "type": "CLN"
@@ -23872,6 +26271,7 @@ var data17C = {
   ],
   "LAW-670": [
     {
+      "section": "G",
       "day": "TW",
       "time": "1:15-2:50PM",
       "type": "LEC"
@@ -23879,6 +26279,7 @@ var data17C = {
   ],
   "LAW-674": [
     {
+      "section": "001",
       "day": "TWR",
       "time": "10:30-11:45AM",
       "type": "LEC"
@@ -23886,6 +26287,7 @@ var data17C = {
   ],
   "LAW-677": [
     {
+      "section": "001",
       "day": "TWR",
       "time": "3-4:15PM",
       "type": "LEC"
@@ -23893,6 +26295,7 @@ var data17C = {
   ],
   "LAW-680": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-2:50PM",
       "type": "CLN"
@@ -23900,6 +26303,7 @@ var data17C = {
   ],
   "LAW-682": [
     {
+      "section": "001",
       "day": "T",
       "time": "6:30-8:20PM",
       "type": "LEC"
@@ -23907,6 +26311,7 @@ var data17C = {
   ],
   "LAW-685": [
     {
+      "section": "001",
       "day": "WF",
       "time": "9-12NOON",
       "type": "CLN"
@@ -23914,6 +26319,7 @@ var data17C = {
   ],
   "LAW-687": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -23921,6 +26327,7 @@ var data17C = {
   ],
   "LAW-695": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:20AM",
       "type": "LEC"
@@ -23928,26 +26335,31 @@ var data17C = {
   ],
   "LAW-702": [
     {
+      "section": "001",
       "day": "M",
       "time": "7-9PM",
       "type": "LEC"
     },
     {
+      "section": "T",
       "day": "M",
       "time": "7-9PM",
       "type": "LEC"
     },
     {
+      "section": "345",
       "day": "M",
       "time": "7-9PM",
       "type": "LEC"
     },
     {
+      "section": "253",
       "day": "M",
       "time": "7-9PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "10:30-12:30PM",
       "type": "LEC"
@@ -23955,6 +26367,7 @@ var data17C = {
   ],
   "LAW-704": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:20PM",
       "type": "LEC"
@@ -23962,6 +26375,7 @@ var data17C = {
   ],
   "LAW-705": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:20AM",
       "type": "LEC"
@@ -23969,6 +26383,7 @@ var data17C = {
   ],
   "LAW-716": [
     {
+      "section": "001",
       "day": "MWR",
       "time": "1:30-2:50PM",
       "type": "CLN"
@@ -23976,6 +26391,7 @@ var data17C = {
   ],
   "LAW-719": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:20PM",
       "type": "LEC"
@@ -23983,6 +26399,7 @@ var data17C = {
   ],
   "LAW-736": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-11:50AM",
       "type": "LEC"
@@ -23990,6 +26407,7 @@ var data17C = {
   ],
   "LAW-737": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -23997,6 +26415,7 @@ var data17C = {
   ],
   "LAW-744": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -24004,6 +26423,7 @@ var data17C = {
   ],
   "LAW-767": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -24011,6 +26431,7 @@ var data17C = {
   ],
   "LAW-780": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -24018,6 +26439,7 @@ var data17C = {
   ],
   "LAW-794": [
     {
+      "section": "001",
       "day": "MT",
       "time": "9-10:20AM",
       "type": "LEC"
@@ -24025,6 +26447,7 @@ var data17C = {
   ],
   "LAW-802": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -24032,6 +26455,7 @@ var data17C = {
   ],
   "LAW-803": [
     {
+      "section": "001",
       "day": "M",
       "time": "12-1:20PM",
       "type": "IND"
@@ -24039,6 +26463,7 @@ var data17C = {
   ],
   "LAW-804": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -24046,6 +26471,7 @@ var data17C = {
   ],
   "LAW-805": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -24053,6 +26479,7 @@ var data17C = {
   ],
   "LAW-806": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -24060,6 +26487,7 @@ var data17C = {
   ],
   "LAW-808": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -24067,6 +26495,7 @@ var data17C = {
   ],
   "LAW-822": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -24074,6 +26503,7 @@ var data17C = {
   ],
   "LAW-824": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -24081,6 +26511,7 @@ var data17C = {
   ],
   "LAW-825": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -24088,6 +26519,7 @@ var data17C = {
   ],
   "LAW-826": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -24095,6 +26527,7 @@ var data17C = {
   ],
   "LAW-828": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -24102,6 +26535,7 @@ var data17C = {
   ],
   "LAW-832": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -24109,66 +26543,79 @@ var data17C = {
   ],
   "LAW-866": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -24176,6 +26623,7 @@ var data17C = {
   ],
   "LAW-875": [
     {
+      "section": "001",
       "day": "R",
       "time": "12-1:20PM",
       "type": "IND"
@@ -24183,6 +26631,7 @@ var data17C = {
   ],
   "LAW-896": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -24190,6 +26639,7 @@ var data17C = {
   ],
   "LAW-901": [
     {
+      "section": "001",
       "day": "M",
       "time": "8:30-10:30AM",
       "type": "SEM"
@@ -24197,6 +26647,7 @@ var data17C = {
   ],
   "LAW-902": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24204,6 +26655,7 @@ var data17C = {
   ],
   "LAW-904": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24211,6 +26663,7 @@ var data17C = {
   ],
   "LAW-908": [
     {
+      "section": "SASSOWER-KAISER",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -24218,6 +26671,7 @@ var data17C = {
   ],
   "LAW-911": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24225,6 +26679,7 @@ var data17C = {
   ],
   "LAW-912": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24232,6 +26687,7 @@ var data17C = {
   ],
   "LAW-913": [
     {
+      "section": "001",
       "day": "T",
       "time": "1-3PM",
       "type": "SEM"
@@ -24239,6 +26695,7 @@ var data17C = {
   ],
   "LAW-915": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24246,6 +26703,7 @@ var data17C = {
   ],
   "LAW-919": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24253,6 +26711,7 @@ var data17C = {
   ],
   "LAW-921": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24260,6 +26719,7 @@ var data17C = {
   ],
   "LAW-922": [
     {
+      "section": "001",
       "day": "R",
       "time": "6:30-8:30PM",
       "type": "SEM"
@@ -24267,6 +26727,7 @@ var data17C = {
   ],
   "LAW-925": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24274,6 +26735,7 @@ var data17C = {
   ],
   "LAW-927": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24281,6 +26743,7 @@ var data17C = {
   ],
   "LAW-929": [
     {
+      "section": "001",
       "day": "M",
       "time": "5-7PM",
       "type": "SEM"
@@ -24288,6 +26751,7 @@ var data17C = {
   ],
   "LAW-930": [
     {
+      "section": "001",
       "day": "R",
       "time": "1-3PM",
       "type": "SEM"
@@ -24295,11 +26759,13 @@ var data17C = {
   ],
   "LAW-931": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24307,11 +26773,13 @@ var data17C = {
   ],
   "LAW-932": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24319,6 +26787,7 @@ var data17C = {
   ],
   "LAW-935": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24326,6 +26795,7 @@ var data17C = {
   ],
   "LAW-936": [
     {
+      "section": "001",
       "day": "M",
       "time": "10:30-12:30PM",
       "type": "SEM"
@@ -24333,6 +26803,7 @@ var data17C = {
   ],
   "LAW-937": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24340,6 +26811,7 @@ var data17C = {
   ],
   "LAW-938": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24347,6 +26819,7 @@ var data17C = {
   ],
   "LAW-940": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24354,6 +26827,7 @@ var data17C = {
   ],
   "LAW-941": [
     {
+      "section": "001",
       "day": "M",
       "time": "6:30-8:30PM",
       "type": "SEM"
@@ -24361,6 +26835,7 @@ var data17C = {
   ],
   "LAW-942": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24368,6 +26843,7 @@ var data17C = {
   ],
   "LAW-944": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24375,11 +26851,13 @@ var data17C = {
   ],
   "LAW-945": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24387,6 +26865,7 @@ var data17C = {
   ],
   "LAW-947": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24394,6 +26873,7 @@ var data17C = {
   ],
   "LAW-948": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24401,6 +26881,7 @@ var data17C = {
   ],
   "LAW-950": [
     {
+      "section": "001",
       "day": "W",
       "time": "2:30-4:30PM",
       "type": "SEM"
@@ -24408,6 +26889,7 @@ var data17C = {
   ],
   "LAW-954": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24415,6 +26897,7 @@ var data17C = {
   ],
   "LAW-956": [
     {
+      "section": "001",
       "day": "T",
       "time": "1:15-3PM",
       "type": "SEM"
@@ -24422,6 +26905,7 @@ var data17C = {
   ],
   "LAW-959": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24429,6 +26913,7 @@ var data17C = {
   ],
   "LAW-962": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24436,6 +26921,7 @@ var data17C = {
   ],
   "LAW-963": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24443,6 +26929,7 @@ var data17C = {
   ],
   "LAW-964": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24450,6 +26937,7 @@ var data17C = {
   ],
   "LAW-967": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24457,6 +26945,7 @@ var data17C = {
   ],
   "LAW-969": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24464,6 +26953,7 @@ var data17C = {
   ],
   "LAW-970": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24471,6 +26961,7 @@ var data17C = {
   ],
   "LAW-975": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24478,6 +26969,7 @@ var data17C = {
   ],
   "LAW-979": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24485,6 +26977,7 @@ var data17C = {
   ],
   "LAW-980": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24492,6 +26985,7 @@ var data17C = {
   ],
   "LAW-981": [
     {
+      "section": "001",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24499,6 +26993,7 @@ var data17C = {
   ],
   "LAW-984": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24506,6 +27001,7 @@ var data17C = {
   ],
   "LAW-985": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24513,6 +27009,7 @@ var data17C = {
   ],
   "LAW-986": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24520,6 +27017,7 @@ var data17C = {
   ],
   "LAW-987": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24527,6 +27025,7 @@ var data17C = {
   ],
   "LAW-988": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24534,6 +27033,7 @@ var data17C = {
   ],
   "LAW-989": [
     {
+      "section": "401",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -24541,6 +27041,7 @@ var data17C = {
   ],
   "LAW-991": [
     {
+      "section": "001",
       "day": "M",
       "time": "6:30-8:30PM",
       "type": "SEM"
@@ -24548,6 +27049,7 @@ var data17C = {
   ],
   "LAW-993": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-6:30PM",
       "type": "SEM"
@@ -24555,6 +27057,7 @@ var data17C = {
   ],
   "LAW-995": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -24562,6 +27065,7 @@ var data17C = {
   ],
   "LAW-998": [
     {
+      "section": "001",
       "day": "R",
       "time": "3:30-5:30PM",
       "type": "SEM"
@@ -24569,6 +27073,7 @@ var data17C = {
   ],
   "LAWM-505": [
     {
+      "section": "301",
       "day": "W",
       "time": "5:30-8:15PM",
       "type": "LEC"
@@ -24576,6 +27081,7 @@ var data17C = {
   ],
   "LAWM-506": [
     {
+      "section": "301",
       "day": "R",
       "time": "5:30-8:15PM",
       "type": "LEC"
@@ -24583,6 +27089,7 @@ var data17C = {
   ],
   "LAWM-511": [
     {
+      "section": "301",
       "day": "R",
       "time": "2-4:45PM",
       "type": "LEC"
@@ -24590,6 +27097,7 @@ var data17C = {
   ],
   "LAWM-528": [
     {
+      "section": "301",
       "day": "W",
       "time": "5:30-8:15PM",
       "type": "LEC"
@@ -24597,6 +27105,7 @@ var data17C = {
   ],
   "LAWM-529": [
     {
+      "section": "301",
       "day": "R",
       "time": "5:30-8:15PM",
       "type": "LEC"
@@ -24604,6 +27113,7 @@ var data17C = {
   ],
   "LAWM-530": [
     {
+      "section": "301",
       "day": "M",
       "time": "5:30-8:15PM",
       "type": "LEC"
@@ -24611,6 +27121,7 @@ var data17C = {
   ],
   "LAWM-536": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
@@ -24618,6 +27129,7 @@ var data17C = {
   ],
   "LGIC-210": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -24625,6 +27137,7 @@ var data17C = {
   ],
   "LGIC-310": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -24632,6 +27145,7 @@ var data17C = {
   ],
   "LGIC-499": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -24639,46 +27153,55 @@ var data17C = {
   ],
   "LGST-100": [
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "301",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "301",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -24686,41 +27209,43 @@ var data17C = {
   ],
   "LGST-101": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
+      "section": "301",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -24728,6 +27253,7 @@ var data17C = {
   ],
   "LGST-204": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -24735,95 +27261,45 @@ var data17C = {
   ],
   "LGST-206": [
     {
+      "section": "406",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
-    }
-  ],
-  "OIDD-291": [
+    },
     {
+      "section": "407",
       "day": "W",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "408",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "409",
       "day": "T",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "410",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "411",
       "day": "MW",
       "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "W",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "M",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "W",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "M",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "3-6PM",
       "type": "LEC"
     }
   ],
   "LGST-207": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -24831,6 +27307,7 @@ var data17C = {
   ],
   "LGST-208": [
     {
+      "section": "401",
       "day": "W",
       "time": "3-6PM",
       "type": "LEC"
@@ -24838,6 +27315,7 @@ var data17C = {
   ],
   "LGST-228": [
     {
+      "section": "001",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -24845,6 +27323,7 @@ var data17C = {
   ],
   "LGST-241": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
       "type": "LEC"
@@ -24852,6 +27331,7 @@ var data17C = {
   ],
   "LGST-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -24859,6 +27339,7 @@ var data17C = {
   ],
   "LGST-611": [
     {
+      "section": "001",
       "day": "W",
       "time": "3-6PM",
       "type": "LEC"
@@ -24866,21 +27347,25 @@ var data17C = {
   ],
   "LGST-612": [
     {
+      "section": "001",
       "day": "T",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
@@ -24888,6 +27373,7 @@ var data17C = {
   ],
   "LGST-641": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
       "type": "LEC"
@@ -24895,40 +27381,27 @@ var data17C = {
   ],
   "LGST-693": [
     {
+      "section": "401",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "404",
       "day": "MW",
       "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
-  "OIDD-693": [
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
       "type": "LEC"
     }
   ],
   "LGST-729": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -24936,6 +27409,7 @@ var data17C = {
   ],
   "LGST-804": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -24943,90 +27417,45 @@ var data17C = {
   ],
   "LGST-806": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
       "type": "LEC"
-    }
-  ],
-  "OIDD-691": [
+    },
     {
+      "section": "402",
       "day": "W",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "406",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "408",
       "day": "T",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "409",
       "day": "R",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "W",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "M",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "R",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "W",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
-      "time": "3-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "T",
       "time": "3-6PM",
       "type": "LEC"
     }
   ],
   "LGST-809": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -25034,11 +27463,13 @@ var data17C = {
   ],
   "LGST-813": [
     {
+      "section": "001",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "751",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -25046,6 +27477,7 @@ var data17C = {
   ],
   "LGST-899": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -25053,6 +27485,7 @@ var data17C = {
   ],
   "LGST-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -25060,51 +27493,61 @@ var data17C = {
   ],
   "LING-001": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "R",
       "time": "10:30-11:30AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "R",
       "time": "10:30-11:30AM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "T",
       "time": "6-9PM",
       "type": "LEC"
@@ -25112,85 +27555,77 @@ var data17C = {
   ],
   "LING-071": [
     {
+      "section": "680",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
     },
     {
+      "section": "681",
       "day": "MW",
       "time": "6:30-8PM",
       "type": "LEC"
     },
     {
+      "section": "682",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
     },
     {
+      "section": "683",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "6:30-8PM",
-      "type": "LEC"
-    },
-    {
+      "section": "682",
       "day": "MW",
       "time": "3:30-5PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
   "LING-072": [
     {
+      "section": "681",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "681",
       "day": "MW",
       "time": "5-6:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "681",
+      "day": "TR",
+      "time": "6-7:30PM",
       "type": "LEC"
     }
   ],
   "LING-073": [
     {
+      "section": "680",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
     },
     {
+      "section": "681",
       "day": "TR",
       "time": "6-7:30PM",
       "type": "LEC"
     },
     {
-      "day": "TR",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "2-3:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "6-7:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "682",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -25198,11 +27633,13 @@ var data17C = {
   ],
   "LING-075": [
     {
+      "section": "680",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -25210,11 +27647,7 @@ var data17C = {
   ],
   "LING-081": [
     {
-      "day": "MW",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
@@ -25222,18 +27655,27 @@ var data17C = {
   ],
   "LING-083": [
     {
+      "section": "680",
       "day": "MW",
       "time": "7-8:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "7-8:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "TR",
+      "time": "6-8PM",
       "type": "LEC"
     }
   ],
   "LING-105": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -25241,16 +27683,19 @@ var data17C = {
   ],
   "LING-115": [
     {
+      "section": "001",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
@@ -25258,6 +27703,7 @@ var data17C = {
   ],
   "LING-152": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -25265,6 +27711,7 @@ var data17C = {
   ],
   "LING-170": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -25272,6 +27719,7 @@ var data17C = {
   ],
   "LING-230": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -25279,6 +27727,7 @@ var data17C = {
   ],
   "LING-242": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -25286,6 +27735,7 @@ var data17C = {
   ],
   "LING-250": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -25293,6 +27743,7 @@ var data17C = {
   ],
   "LING-270": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -25300,6 +27751,7 @@ var data17C = {
   ],
   "LING-300": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -25307,6 +27759,7 @@ var data17C = {
   ],
   "LING-301": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -25314,6 +27767,7 @@ var data17C = {
   ],
   "LING-398": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -25321,6 +27775,7 @@ var data17C = {
   ],
   "LING-411": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -25328,6 +27783,7 @@ var data17C = {
   ],
   "LING-495": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -25335,6 +27791,7 @@ var data17C = {
   ],
   "LING-503": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -25342,6 +27799,7 @@ var data17C = {
   ],
   "LING-505": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -25349,6 +27807,7 @@ var data17C = {
   ],
   "LING-510": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -25356,6 +27815,7 @@ var data17C = {
   ],
   "LING-550": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -25363,6 +27823,7 @@ var data17C = {
   ],
   "LING-595": [
     {
+      "section": "001",
       "day": "M",
       "time": "10-12NOON",
       "type": "LEC"
@@ -25370,6 +27831,7 @@ var data17C = {
   ],
   "LING-603": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-3:30PM",
       "type": "SEM"
@@ -25377,6 +27839,7 @@ var data17C = {
   ],
   "LING-615": [
     {
+      "section": "301",
       "day": "F",
       "time": "12-3PM",
       "type": "SEM"
@@ -25384,6 +27847,7 @@ var data17C = {
   ],
   "LING-650": [
     {
+      "section": "301",
       "day": "M",
       "time": "10-12NOON",
       "type": "SEM"
@@ -25391,6 +27855,7 @@ var data17C = {
   ],
   "LING-653": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-3:30PM",
       "type": "SEM"
@@ -25398,6 +27863,7 @@ var data17C = {
   ],
   "LING-670": [
     {
+      "section": "301",
       "day": "W",
       "time": "1-3PM",
       "type": "SEM"
@@ -25405,6 +27871,7 @@ var data17C = {
   ],
   "LING-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -25412,6 +27879,7 @@ var data17C = {
   ],
   "LSMP-121": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -25419,6 +27887,7 @@ var data17C = {
   ],
   "LSMP-421": [
     {
+      "section": "301",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -25426,86 +27895,103 @@ var data17C = {
   ],
   "MATH-103": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "T",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "R",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "211",
       "day": "M",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "216",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "218",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "6:30-8:45PM",
       "type": "LEC"
@@ -25513,216 +27999,259 @@ var data17C = {
   ],
   "MATH-104": [
     {
+      "section": "R",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "211",
       "day": "M",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "215",
       "day": "M",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "216",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "217",
       "day": "M",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "218",
       "day": "M",
       "time": "7-8PM",
       "type": "REC"
     },
     {
+      "section": "219",
       "day": "W",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "220",
       "day": "W",
       "time": "7-8PM",
       "type": "REC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "221",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "222",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "231",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "232",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "233",
       "day": "F",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "234",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "235",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "236",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "237",
       "day": "F",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "238",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "005",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "241",
       "day": "M",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "242",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "006",
       "day": "MWF",
       "time": "9-10AM",
       "type": "LEC"
     },
     {
+      "section": "251",
       "day": "T",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "252",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "253",
       "day": "R",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "254",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "255",
       "day": "T",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "256",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "007",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "261",
       "day": "T",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "262",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "263",
       "day": "R",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "264",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "265",
       "day": "T",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "266",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "267",
       "day": "R",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "268",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "6:30-8:45PM",
       "type": "LEC"
@@ -25730,31 +28259,37 @@ var data17C = {
   ],
   "MATH-110": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "9-10AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "TR",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "TR",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "TR",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "TR",
       "time": "9-10AM",
       "type": "REC"
@@ -25762,225 +28297,255 @@ var data17C = {
   ],
   "MATH-114": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "T",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "R",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "211",
       "day": "M",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "215",
       "day": "M",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "216",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "217",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "218",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "221",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "222",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "223",
       "day": "F",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "224",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "225",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "226",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "227",
       "day": "F",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "228",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "229",
       "day": "F",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "230",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "004",
       "day": "MWF",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "231",
       "day": "T",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "J",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "233",
       "day": "R",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "J",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
-      "day": "TR",
-      "time": "6:30-8:45PM",
-      "type": "LEC"
-    }
-  ],
-  "MATH-115": [
-    {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
-      "day": "W",
-      "time": "8-9AM",
-      "type": "REC"
-    },
-    {
+      "section": "202",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
-      "day": "F",
-      "time": "9-10AM",
-      "type": "REC"
+      "section": "601",
+      "day": "TR",
+      "time": "6:30-8:45PM",
+      "type": "LEC"
     }
   ],
   "MATH-116": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "6-7:30PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "7:30-9PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "6-7:30PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "M",
       "time": "7:30-9PM",
       "type": "REC"
@@ -25988,6 +28553,7 @@ var data17C = {
   ],
   "MATH-122": [
     {
+      "section": "001",
       "day": "TR",
       "time": "6:15-8:30PM",
       "type": "LEC"
@@ -25995,51 +28561,61 @@ var data17C = {
   ],
   "MATH-170": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "211",
       "day": "T",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "R",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
@@ -26047,16 +28623,19 @@ var data17C = {
   ],
   "MATH-202": [
     {
+      "section": "101",
       "day": "M",
       "time": "6:30-8:30PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "W",
       "time": "6:30-8:30PM",
       "type": "LAB"
     },
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -26064,126 +28643,151 @@ var data17C = {
   ],
   "MATH-240": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "F",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "211",
       "day": "M",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "003",
       "day": "MWF",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "221",
       "day": "T",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "222",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "223",
       "day": "R",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "224",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "231",
       "day": "M",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "232",
       "day": "M",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "233",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "234",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "6:30-8:45PM",
       "type": "LEC"
@@ -26191,81 +28795,97 @@ var data17C = {
   ],
   "MATH-241": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "8:30-9:30AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "211",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "F",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "221",
       "day": "W",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "222",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "223",
       "day": "F",
       "time": "8-9AM",
       "type": "REC"
     },
     {
+      "section": "224",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "6:30-8:45PM",
       "type": "LEC"
@@ -26273,6 +28893,7 @@ var data17C = {
   ],
   "MATH-299": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -26280,11 +28901,13 @@ var data17C = {
   ],
   "MATH-312": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
@@ -26292,23 +28915,21 @@ var data17C = {
   ],
   "MATH-314": [
     {
+      "section": "VACHIRAPRASITH",
       "day": "T",
       "time": "6:30-8:30PM",
       "type": "LAB"
     },
     {
+      "section": "VACHIRAPRASITH",
       "day": "R",
       "time": "6:30-8:30PM",
       "type": "LAB"
-    },
-    {
-      "day": "MF",
-      "time": "10:30-12NOON",
-      "type": "LEC"
     }
   ],
   "MATH-320": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -26316,6 +28937,7 @@ var data17C = {
   ],
   "MATH-340": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -26323,21 +28945,25 @@ var data17C = {
   ],
   "MATH-360": [
     {
+      "section": "001",
       "day": "M",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "D",
       "day": "W",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "T",
       "time": "6:30-8:30PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "R",
       "time": "6:30-8:30PM",
       "type": "LAB"
@@ -26345,16 +28971,19 @@ var data17C = {
   ],
   "MATH-361": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "M",
       "time": "6:30-8:30PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "W",
       "time": "6:30-8:30PM",
       "type": "LAB"
@@ -26362,16 +28991,19 @@ var data17C = {
   ],
   "MATH-370": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "M",
       "time": "6:30-8:30PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "W",
       "time": "6:30-8:30PM",
       "type": "LAB"
@@ -26379,11 +29011,13 @@ var data17C = {
   ],
   "MATH-371": [
     {
+      "section": "001",
       "day": "MF",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "T",
       "time": "6:30-8:30PM",
       "type": "LAB"
@@ -26391,6 +29025,7 @@ var data17C = {
   ],
   "MATH-410": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -26398,6 +29033,7 @@ var data17C = {
   ],
   "MATH-420": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -26405,6 +29041,7 @@ var data17C = {
   ],
   "MATH-432": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -26412,6 +29049,7 @@ var data17C = {
   ],
   "MATH-460": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -26419,6 +29057,7 @@ var data17C = {
   ],
   "MATH-499": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -26426,6 +29065,7 @@ var data17C = {
   ],
   "MATH-500": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -26433,40 +29073,53 @@ var data17C = {
   ],
   "MATH-502": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "SCHAFFER-COHEN",
       "day": "T",
       "time": "6:30-8:30PM",
       "type": "LAB"
     },
     {
+      "section": "SCHAFFER-COHEN",
       "day": "R",
       "time": "6:30-8:30PM",
       "type": "LAB"
-    }
-  ],
-  "MATH-508": [
+    },
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
-      "day": "M",
+      "section": "102",
+      "day": "W",
+      "time": "6:30-8:30PM",
+      "type": "LAB"
+    }
+  ],
+  "MATH-514": [
+    {
+      "section": "VACHIRAPRASITH",
+      "day": "T",
       "time": "6:30-8:30PM",
       "type": "LAB"
     },
     {
-      "day": "W",
+      "section": "VACHIRAPRASITH",
+      "day": "R",
       "time": "6:30-8:30PM",
       "type": "LAB"
     }
   ],
   "MATH-546": [
     {
+      "section": "401",
       "day": "MF",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -26474,6 +29127,7 @@ var data17C = {
   ],
   "MATH-570": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -26481,6 +29135,7 @@ var data17C = {
   ],
   "MATH-580": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -26488,6 +29143,7 @@ var data17C = {
   ],
   "MATH-594": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -26495,6 +29151,7 @@ var data17C = {
   ],
   "MATH-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -26502,6 +29159,7 @@ var data17C = {
   ],
   "MATH-600": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -26509,11 +29167,13 @@ var data17C = {
   ],
   "MATH-602": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "F",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -26521,6 +29181,7 @@ var data17C = {
   ],
   "MATH-608": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -26528,6 +29189,7 @@ var data17C = {
   ],
   "MATH-618": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -26535,6 +29197,7 @@ var data17C = {
   ],
   "MATH-620": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -26542,6 +29205,7 @@ var data17C = {
   ],
   "MATH-622": [
     {
+      "section": "001",
       "day": "MF",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -26549,6 +29213,7 @@ var data17C = {
   ],
   "MATH-644": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -26556,6 +29221,7 @@ var data17C = {
   ],
   "MATH-660": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -26563,6 +29229,7 @@ var data17C = {
   ],
   "MATH-694": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -26570,6 +29237,7 @@ var data17C = {
   ],
   "MATH-752": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -26577,6 +29245,7 @@ var data17C = {
   ],
   "MATH-810": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -26584,11 +29253,13 @@ var data17C = {
   ],
   "MATH-860": [
     {
+      "section": "001",
       "day": "T",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "R",
       "day": "W",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -26596,6 +29267,7 @@ var data17C = {
   ],
   "MATH-878": [
     {
+      "section": "J",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -26603,6 +29275,7 @@ var data17C = {
   ],
   "MATH-995": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -26610,6 +29283,7 @@ var data17C = {
   ],
   "MATH-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -26617,6 +29291,7 @@ var data17C = {
   ],
   "MEAM-099": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -26624,31 +29299,37 @@ var data17C = {
   ],
   "MEAM-101": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "R",
       "time": "10:30-12NOON",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "R",
       "time": "12-1:30PM",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "R",
       "time": "1:30-3PM",
       "type": "LAB"
     },
     {
+      "section": "104",
       "day": "R",
       "time": "3-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "105",
       "day": "R",
       "time": "4:30-6PM",
       "type": "LAB"
@@ -26656,21 +29337,25 @@ var data17C = {
   ],
   "MEAM-110": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "1:30-2:30PM",
       "type": "REC"
@@ -26678,16 +29363,19 @@ var data17C = {
   ],
   "MEAM-147": [
     {
+      "section": "101",
       "day": "R",
       "time": "5-7PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "R",
       "time": "7-9PM",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "F",
       "time": "9-11AM",
       "type": "LAB"
@@ -26695,26 +29383,31 @@ var data17C = {
   ],
   "MEAM-201": [
     {
+      "section": "001",
       "day": "T",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "G",
       "day": "R",
       "time": "10:30-12NOON",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "R",
       "time": "1:30-3PM",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "F",
       "time": "9:30-11AM",
       "type": "LAB"
     },
     {
+      "section": "104",
       "day": "F",
       "time": "1-2:30PM",
       "type": "LAB"
@@ -26722,26 +29415,31 @@ var data17C = {
   ],
   "MEAM-210": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "M",
       "time": "3-4PM",
       "type": "REC"
@@ -26749,6 +29447,7 @@ var data17C = {
   ],
   "MEAM-220": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -26756,26 +29455,31 @@ var data17C = {
   ],
   "MEAM-247": [
     {
+      "section": "001",
       "day": "M",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "T",
       "time": "9-10:30AM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "R",
       "time": "3-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "104",
       "day": "R",
       "time": "4:30-6PM",
       "type": "LAB"
@@ -26783,31 +29487,31 @@ var data17C = {
   ],
   "MEAM-302": [
     {
+      "section": "001",
       "day": "MF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "ARRATIA",
       "day": "W",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "ARRATIA",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
-      "day": "R",
-      "time": "1:30-2:30PM",
-      "type": "REC"
-    },
-    {
+      "section": "204",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
@@ -26815,26 +29519,31 @@ var data17C = {
   ],
   "MEAM-347": [
     {
+      "section": "001",
       "day": "MF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "M",
       "time": "4:30-6PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "T",
       "time": "1:30-3PM",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "T",
       "time": "3-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "104",
       "day": "R",
       "time": "10:30-12NOON",
       "type": "LAB"
@@ -26842,21 +29551,25 @@ var data17C = {
   ],
   "MEAM-354": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "W",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
@@ -26864,6 +29577,7 @@ var data17C = {
   ],
   "MEAM-415": [
     {
+      "section": "401",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -26871,6 +29585,7 @@ var data17C = {
   ],
   "MEAM-445": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -26878,6 +29593,7 @@ var data17C = {
   ],
   "MEAM-502": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -26885,11 +29601,13 @@ var data17C = {
   ],
   "MEAM-503": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "5-6PM",
       "type": "REC"
@@ -26897,6 +29615,7 @@ var data17C = {
   ],
   "MEAM-504": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -26904,6 +29623,7 @@ var data17C = {
   ],
   "MEAM-507": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -26911,18 +29631,35 @@ var data17C = {
   ],
   "MEAM-510": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     }
   ],
+  "MEAM-513": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "406",
+      "day": "F",
+      "time": "2-3PM",
+      "type": "REC"
+    }
+  ],
   "MEAM-519": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -26930,6 +29667,7 @@ var data17C = {
   ],
   "MEAM-520": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -26937,16 +29675,19 @@ var data17C = {
   ],
   "MEAM-527": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -26954,6 +29695,7 @@ var data17C = {
   ],
   "MEAM-530": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -26961,13 +29703,29 @@ var data17C = {
   ],
   "MEAM-543": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
+  "MEAM-555": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "3-4PM",
+      "type": "REC"
+    }
+  ],
   "MEAM-570": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -26975,6 +29733,7 @@ var data17C = {
   ],
   "MEAM-575": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -26982,13 +29741,29 @@ var data17C = {
   ],
   "MEAM-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     }
   ],
+  "MEAM-662": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "1:30-3PM",
+      "type": "REC"
+    }
+  ],
   "MEAM-699": [
     {
+      "section": "301",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -26996,6 +29771,7 @@ var data17C = {
   ],
   "MEAM-895": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -27003,126 +29779,151 @@ var data17C = {
   ],
   "MEAM-899": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "021",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -27130,6 +29931,7 @@ var data17C = {
   ],
   "MEAM-995": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -27137,131 +29939,157 @@ var data17C = {
   ],
   "MEAM-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "021",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "025",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -27269,6 +30097,7 @@ var data17C = {
   ],
   "MED-589": [
     {
+      "section": "001",
       "day": "T",
       "time": "6-8:30PM",
       "type": "LEC"
@@ -27276,61 +30105,73 @@ var data17C = {
   ],
   "MGEC-611": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "C",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "010",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "011",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "012",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -27338,61 +30179,73 @@ var data17C = {
   ],
   "MGEC-612": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "C",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "010",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "012",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -27400,86 +30253,103 @@ var data17C = {
   ],
   "MGMT-101": [
     {
+      "section": "001",
       "day": "M",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "M",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "T",
       "time": "1:30-3PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "T",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "W",
       "time": "10:30-12NOON",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "W",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "W",
       "time": "1:30-3PM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "W",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "R",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "R",
       "time": "10:30-12NOON",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "R",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "R",
       "time": "1:30-3PM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
@@ -27487,16 +30357,19 @@ var data17C = {
   ],
   "MGMT-104": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -27504,6 +30377,7 @@ var data17C = {
   ],
   "MGMT-205": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -27511,6 +30385,7 @@ var data17C = {
   ],
   "MGMT-209": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -27518,6 +30393,7 @@ var data17C = {
   ],
   "MGMT-211": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -27525,6 +30401,7 @@ var data17C = {
   ],
   "MGMT-214": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -27532,11 +30409,13 @@ var data17C = {
   ],
   "MGMT-223": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -27544,6 +30423,7 @@ var data17C = {
   ],
   "MGMT-224": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -27551,6 +30431,7 @@ var data17C = {
   ],
   "MGMT-225": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
       "type": "LEC"
@@ -27558,11 +30439,13 @@ var data17C = {
   ],
   "MGMT-230": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -27570,6 +30453,7 @@ var data17C = {
   ],
   "MGMT-231": [
     {
+      "section": "401",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -27577,6 +30461,7 @@ var data17C = {
   ],
   "MGMT-233": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -27584,6 +30469,7 @@ var data17C = {
   ],
   "MGMT-235": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -27591,6 +30477,7 @@ var data17C = {
   ],
   "MGMT-238": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -27598,6 +30485,7 @@ var data17C = {
   ],
   "MGMT-240": [
     {
+      "section": "001",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -27605,6 +30493,7 @@ var data17C = {
   ],
   "MGMT-247": [
     {
+      "section": "401",
       "day": "W",
       "time": "3-6PM",
       "type": "LEC"
@@ -27612,6 +30501,7 @@ var data17C = {
   ],
   "MGMT-249": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -27619,6 +30509,7 @@ var data17C = {
   ],
   "MGMT-264": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -27626,6 +30517,7 @@ var data17C = {
   ],
   "MGMT-265": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -27633,16 +30525,37 @@ var data17C = {
   ],
   "MGMT-291": [
     {
+      "section": "406",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "407",
+      "day": "W",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "408",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
     },
     {
+      "section": "409",
+      "day": "T",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "410",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "411",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -27650,51 +30563,61 @@ var data17C = {
   ],
   "MGMT-353": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -27702,61 +30625,73 @@ var data17C = {
   ],
   "MGMT-610": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -27764,26 +30699,31 @@ var data17C = {
   ],
   "MGMT-611": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -27791,16 +30731,19 @@ var data17C = {
   ],
   "MGMT-612": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -27808,6 +30751,7 @@ var data17C = {
   ],
   "MGMT-624": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -27815,11 +30759,13 @@ var data17C = {
   ],
   "MGMT-625": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -27827,141 +30773,169 @@ var data17C = {
   ],
   "MGMT-653": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "021",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "026",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "027",
       "day": "T",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "028",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "029",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "030",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "031",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "032",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "033",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "034",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "035",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -27969,11 +30943,13 @@ var data17C = {
   ],
   "MGMT-656": [
     {
+      "section": "004",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "M",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -27981,62 +30957,89 @@ var data17C = {
   ],
   "MGMT-690": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
-  "OIDD-690": [
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
+      "section": "403",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "404",
       "day": "TBA",
       "time": "TBA",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
   "MGMT-691": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "W",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "403",
+      "day": "R",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "406",
+      "day": "M",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "408",
+      "day": "T",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "409",
+      "day": "R",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "751",
+      "day": "TBA",
+      "time": "TBA",
       "type": "LEC"
     }
   ],
   "MGMT-701": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -28044,6 +31047,7 @@ var data17C = {
   ],
   "MGMT-711": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -28051,6 +31055,7 @@ var data17C = {
   ],
   "MGMT-714": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
       "type": "LEC"
@@ -28058,11 +31063,13 @@ var data17C = {
   ],
   "MGMT-720": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -28070,11 +31077,13 @@ var data17C = {
   ],
   "MGMT-721": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -28082,6 +31091,7 @@ var data17C = {
   ],
   "MGMT-729": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -28089,16 +31099,19 @@ var data17C = {
   ],
   "MGMT-731": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -28106,6 +31119,7 @@ var data17C = {
   ],
   "MGMT-740": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -28113,6 +31127,7 @@ var data17C = {
   ],
   "MGMT-784": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -28120,11 +31135,13 @@ var data17C = {
   ],
   "MGMT-794": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -28132,21 +31149,25 @@ var data17C = {
   ],
   "MGMT-801": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -28154,11 +31175,13 @@ var data17C = {
   ],
   "MGMT-804": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -28166,6 +31189,7 @@ var data17C = {
   ],
   "MGMT-806": [
     {
+      "section": "401",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -28173,11 +31197,13 @@ var data17C = {
   ],
   "MGMT-811": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -28185,6 +31211,7 @@ var data17C = {
   ],
   "MGMT-815": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -28192,6 +31219,7 @@ var data17C = {
   ],
   "MGMT-833": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -28199,11 +31227,13 @@ var data17C = {
   ],
   "MGMT-895": [
     {
+      "section": "751",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "752",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -28211,6 +31241,7 @@ var data17C = {
   ],
   "MGMT-900": [
     {
+      "section": "001",
       "day": "W",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -28218,6 +31249,7 @@ var data17C = {
   ],
   "MGMT-918": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-12NOON",
       "type": "SEM"
@@ -28225,6 +31257,7 @@ var data17C = {
   ],
   "MGMT-919": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-12NOON",
       "type": "SEM"
@@ -28232,6 +31265,7 @@ var data17C = {
   ],
   "MGMT-937": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
@@ -28239,6 +31273,7 @@ var data17C = {
   ],
   "MGMT-938": [
     {
+      "section": "002",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
@@ -28246,6 +31281,7 @@ var data17C = {
   ],
   "MGMT-951": [
     {
+      "section": "001",
       "day": "M",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -28253,6 +31289,7 @@ var data17C = {
   ],
   "MGMT-957": [
     {
+      "section": "001",
       "day": "M",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -28260,6 +31297,7 @@ var data17C = {
   ],
   "MGMT-962": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -28267,6 +31305,7 @@ var data17C = {
   ],
   "MGMT-963": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -28274,6 +31313,7 @@ var data17C = {
   ],
   "MGMT-970": [
     {
+      "section": "001",
       "day": "F",
       "time": "9-12NOON",
       "type": "SEM"
@@ -28281,111 +31321,133 @@ var data17C = {
   ],
   "MKTG-101": [
     {
+      "section": "001",
       "day": "M",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "4:30-6PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "T",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "T",
       "time": "1:30-3PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "T",
       "time": "1:30-3PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "T",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "T",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "T",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "T",
       "time": "4:30-6PM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "R",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "R",
       "time": "10:30-12NOON",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "R",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "R",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "215",
       "day": "R",
       "time": "1:30-3PM",
       "type": "REC"
     },
     {
+      "section": "216",
       "day": "R",
       "time": "1:30-3PM",
       "type": "REC"
     },
     {
+      "section": "217",
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "218",
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "219",
       "day": "R",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "220",
       "day": "R",
       "time": "4:30-6PM",
       "type": "REC"
@@ -28393,11 +31455,13 @@ var data17C = {
   ],
   "MKTG-211": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -28405,11 +31469,13 @@ var data17C = {
   ],
   "MKTG-212": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -28417,11 +31483,13 @@ var data17C = {
   ],
   "MKTG-224": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -28429,40 +31497,33 @@ var data17C = {
   ],
   "MKTG-227": [
     {
+      "section": "402",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "404",
       "day": "TR",
       "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
-  "MKTG-727": [
-    {
-      "day": "TR",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
   "MKTG-234": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -28470,6 +31531,7 @@ var data17C = {
   ],
   "MKTG-241": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -28477,6 +31539,7 @@ var data17C = {
   ],
   "MKTG-265": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -28484,11 +31547,13 @@ var data17C = {
   ],
   "MKTG-266": [
     {
+      "section": "DEBORAH",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -28496,6 +31561,7 @@ var data17C = {
   ],
   "MKTG-270": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -28503,6 +31569,7 @@ var data17C = {
   ],
   "MKTG-271": [
     {
+      "section": "J",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -28510,6 +31577,7 @@ var data17C = {
   ],
   "MKTG-277": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -28517,6 +31585,7 @@ var data17C = {
   ],
   "MKTG-306": [
     {
+      "section": "402",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -28524,61 +31593,73 @@ var data17C = {
   ],
   "MKTG-611": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "011",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "013",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "015",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "017",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "019",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "021",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "023",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -28586,21 +31667,25 @@ var data17C = {
   ],
   "MKTG-612": [
     {
+      "section": "002",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -28608,11 +31693,13 @@ var data17C = {
   ],
   "MKTG-613": [
     {
+      "section": "001",
       "day": "WRFSU",
       "time": "9-9PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "WRFSU",
       "time": "9-9PM",
       "type": "LEC"
@@ -28620,23 +31707,41 @@ var data17C = {
   ],
   "MKTG-712": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
-  "MKTG-734": [
+  "MKTG-727": [
     {
+      "section": "402",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "404",
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "MKTG-734": [
+    {
+      "section": "001",
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -28644,11 +31749,13 @@ var data17C = {
   ],
   "MKTG-741": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -28656,6 +31763,7 @@ var data17C = {
   ],
   "MKTG-754": [
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -28663,6 +31771,7 @@ var data17C = {
   ],
   "MKTG-770": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -28670,6 +31779,7 @@ var data17C = {
   ],
   "MKTG-771": [
     {
+      "section": "J",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -28677,11 +31787,13 @@ var data17C = {
   ],
   "MKTG-777": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "751",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -28689,6 +31801,7 @@ var data17C = {
   ],
   "MKTG-806": [
     {
+      "section": "402",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -28696,6 +31809,7 @@ var data17C = {
   ],
   "MKTG-942": [
     {
+      "section": "301",
       "day": "R",
       "time": "3-6PM",
       "type": "SEM"
@@ -28703,6 +31817,7 @@ var data17C = {
   ],
   "MKTG-943": [
     {
+      "section": "302",
       "day": "R",
       "time": "3-6PM",
       "type": "SEM"
@@ -28710,6 +31825,7 @@ var data17C = {
   ],
   "MKTG-950": [
     {
+      "section": "DEBORAH",
       "day": "F",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -28717,6 +31833,7 @@ var data17C = {
   ],
   "MKTG-951": [
     {
+      "section": "302",
       "day": "F",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -28724,6 +31841,7 @@ var data17C = {
   ],
   "MKTG-971": [
     {
+      "section": "301",
       "day": "W",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -28731,6 +31849,7 @@ var data17C = {
   ],
   "MKTG-973": [
     {
+      "section": "301",
       "day": "R",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -28738,11 +31857,7 @@ var data17C = {
   ],
   "MLYM-408": [
     {
-      "day": "TR",
-      "time": "6-8PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "6-8PM",
       "type": "LEC"
@@ -28750,11 +31865,7 @@ var data17C = {
   ],
   "MLYM-428": [
     {
-      "day": "MW",
-      "time": "6-7:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "6-7:30PM",
       "type": "LEC"
@@ -28762,11 +31873,13 @@ var data17C = {
   ],
   "MLYM-438": [
     {
+      "section": "680",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -28774,6 +31887,7 @@ var data17C = {
   ],
   "MMES-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -28781,6 +31895,7 @@ var data17C = {
   ],
   "MMES-498": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -28788,6 +31903,7 @@ var data17C = {
   ],
   "MMP-699": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -28795,11 +31911,13 @@ var data17C = {
   ],
   "MSCI-101": [
     {
+      "section": "001",
       "day": "R",
       "time": "8-11AM",
       "type": "LAB"
     },
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -28807,6 +31925,7 @@ var data17C = {
   ],
   "MSCI-110": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-9:50AM",
       "type": "LEC"
@@ -28814,11 +31933,13 @@ var data17C = {
   ],
   "MSCI-201": [
     {
+      "section": "001",
       "day": "R",
       "time": "8-11AM",
       "type": "LAB"
     },
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -28826,6 +31947,7 @@ var data17C = {
   ],
   "MSCI-210": [
     {
+      "section": "001",
       "day": "T",
       "time": "10-10:50AM",
       "type": "LEC"
@@ -28833,11 +31955,13 @@ var data17C = {
   ],
   "MSCI-301": [
     {
+      "section": "001",
       "day": "R",
       "time": "8-11AM",
       "type": "LAB"
     },
     {
+      "section": "101",
       "day": "S",
       "time": "8-5PM",
       "type": "LAB"
@@ -28845,11 +31969,13 @@ var data17C = {
   ],
   "MSCI-310": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-10:50AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -28857,16 +31983,19 @@ var data17C = {
   ],
   "MSCI-401": [
     {
+      "section": "001",
       "day": "R",
       "time": "8-11AM",
       "type": "LAB"
     },
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "8:30-10:50AM",
       "type": "LEC"
@@ -28874,6 +32003,7 @@ var data17C = {
   ],
   "MSCI-410": [
     {
+      "section": "001",
       "day": "W",
       "time": "8-9:50AM",
       "type": "LEC"
@@ -28881,6 +32011,7 @@ var data17C = {
   ],
   "MSE-099": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -28888,6 +32019,7 @@ var data17C = {
   ],
   "MSE-220": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -28895,6 +32027,7 @@ var data17C = {
   ],
   "MSE-221": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -28902,6 +32035,7 @@ var data17C = {
   ],
   "MSE-330": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -28909,6 +32043,7 @@ var data17C = {
   ],
   "MSE-360": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -28916,6 +32051,7 @@ var data17C = {
   ],
   "MSE-430": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -28923,6 +32059,7 @@ var data17C = {
   ],
   "MSE-455": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -28930,6 +32067,7 @@ var data17C = {
   ],
   "MSE-460": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -28937,6 +32075,7 @@ var data17C = {
   ],
   "MSE-495": [
     {
+      "section": "001",
       "day": "W",
       "time": "3-4PM",
       "type": "LEC"
@@ -28944,21 +32083,25 @@ var data17C = {
   ],
   "MSE-500": [
     {
+      "section": "001",
       "day": "F",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "M",
       "time": "9-1PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "F",
       "time": "9-1PM",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "T",
       "time": "9:30-1:30PM",
       "type": "LAB"
@@ -28966,6 +32109,7 @@ var data17C = {
   ],
   "MSE-507": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -28973,6 +32117,7 @@ var data17C = {
   ],
   "MSE-515": [
     {
+      "section": "001",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -28980,6 +32125,7 @@ var data17C = {
   ],
   "MSE-525": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -28987,6 +32133,7 @@ var data17C = {
   ],
   "MSE-530": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -28994,6 +32141,7 @@ var data17C = {
   ],
   "MSE-545": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -29001,6 +32149,7 @@ var data17C = {
   ],
   "MSE-550": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -29008,6 +32157,7 @@ var data17C = {
   ],
   "MSE-555": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -29015,6 +32165,7 @@ var data17C = {
   ],
   "MSE-570": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -29022,6 +32173,7 @@ var data17C = {
   ],
   "MSE-575": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -29029,6 +32181,7 @@ var data17C = {
   ],
   "MSE-580": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -29036,6 +32189,7 @@ var data17C = {
   ],
   "MSE-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -29043,6 +32197,7 @@ var data17C = {
   ],
   "MSE-610": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -29050,6 +32205,7 @@ var data17C = {
   ],
   "MSE-895": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -29057,126 +32213,151 @@ var data17C = {
   ],
   "MSE-899": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "021",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -29184,6 +32365,7 @@ var data17C = {
   ],
   "MSE-995": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -29191,126 +32373,151 @@ var data17C = {
   ],
   "MSE-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "021",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -29318,6 +32525,7 @@ var data17C = {
   ],
   "MSSP-628": [
     {
+      "section": "001",
       "day": "W",
       "time": "12-2:30PM",
       "type": "LEC"
@@ -29325,6 +32533,7 @@ var data17C = {
   ],
   "MSSP-629": [
     {
+      "section": "001",
       "day": "M",
       "time": "12-2:30PM",
       "type": "LEC"
@@ -29332,21 +32541,25 @@ var data17C = {
   ],
   "MSSP-630": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "T",
       "time": "4-5PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "R",
       "time": "1:30-2:30PM",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "W",
       "time": "4-5PM",
       "type": "LAB"
@@ -29354,6 +32567,7 @@ var data17C = {
   ],
   "MSSP-634": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -29361,6 +32575,7 @@ var data17C = {
   ],
   "MSSP-635": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -29368,6 +32583,7 @@ var data17C = {
   ],
   "MSSP-668": [
     {
+      "section": "001",
       "day": "R",
       "time": "10:30-1PM",
       "type": "LEC"
@@ -29375,6 +32591,7 @@ var data17C = {
   ],
   "MSSP-710": [
     {
+      "section": "001",
       "day": "T",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -29382,6 +32599,7 @@ var data17C = {
   ],
   "MSSP-750": [
     {
+      "section": "001",
       "day": "R",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -29389,6 +32607,7 @@ var data17C = {
   ],
   "MTR-510": [
     {
+      "section": "401",
       "day": "MW",
       "time": "4-5:30PM",
       "type": "LEC"
@@ -29396,11 +32615,13 @@ var data17C = {
   ],
   "MTR-600": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3:30-5PM",
       "type": "LEC"
     },
     {
+      "section": "A",
       "day": "W",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -29408,6 +32629,7 @@ var data17C = {
   ],
   "MTR-602": [
     {
+      "section": "401",
       "day": "MW",
       "time": "8-10AM",
       "type": "SEM"
@@ -29415,6 +32637,7 @@ var data17C = {
   ],
   "MTR-603": [
     {
+      "section": "002",
       "day": "TR",
       "time": "2-3:15PM",
       "type": "SEM"
@@ -29422,6 +32645,7 @@ var data17C = {
   ],
   "MTR-605": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -29429,6 +32653,7 @@ var data17C = {
   ],
   "MTR-606": [
     {
+      "section": "001",
       "day": "M",
       "time": "4-6PM",
       "type": "LEC"
@@ -29436,6 +32661,7 @@ var data17C = {
   ],
   "MTR-622": [
     {
+      "section": "401",
       "day": "T",
       "time": "3:30-6:30PM",
       "type": "LEC"
@@ -29443,13 +32669,29 @@ var data17C = {
   ],
   "MUSA-500": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5:30-7PM",
       "type": "LEC"
     }
   ],
+  "MUSA-503": [
+    {
+      "section": "401",
+      "day": "T",
+      "time": "1:30-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "1:30-4:30PM",
+      "type": "LEC"
+    }
+  ],
   "MUSA-507": [
     {
+      "section": "401",
       "day": "F",
       "time": "9-12NOON",
       "type": "LEC"
@@ -29457,216 +32699,259 @@ var data17C = {
   ],
   "MUSC-005": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "014",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "017",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "021",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "022",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "023",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "025",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "026",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "027",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "028",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "029",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "030",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "031",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "032",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "033",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "034",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "035",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "036",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "037",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "038",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "039",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "040",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "041",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "042",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "043",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
@@ -29674,81 +32959,97 @@ var data17C = {
   ],
   "MUSC-007": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "006",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "007",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "008",
       "day": "M",
       "time": "8-10PM",
       "type": "STU"
     },
     {
+      "section": "009",
       "day": "R",
       "time": "6-7:20PM",
       "type": "STU"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "013",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
     },
     {
+      "section": "014",
       "day": "R",
       "time": "6-7:30PM",
       "type": "STU"
     },
     {
+      "section": "015",
       "day": "R",
       "time": "7:30-8:50PM",
       "type": "STU"
     },
     {
+      "section": "016",
       "day": "R",
       "time": "7:30-9PM",
       "type": "STU"
@@ -29756,6 +33057,7 @@ var data17C = {
   ],
   "MUSC-016": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -29763,6 +33065,7 @@ var data17C = {
   ],
   "MUSC-018": [
     {
+      "section": "402",
       "day": "F",
       "time": "2-4PM",
       "type": "SEM"
@@ -29770,21 +33073,25 @@ var data17C = {
   ],
   "MUSC-030": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "T",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -29792,6 +33099,7 @@ var data17C = {
   ],
   "MUSC-032": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -29799,6 +33107,7 @@ var data17C = {
   ],
   "MUSC-044": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -29806,13 +33115,41 @@ var data17C = {
   ],
   "MUSC-048": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
+  "MUSC-050": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MWF",
+      "time": "10-11AM",
+      "type": "LEC"
+    },
+    {
+      "section": "601",
+      "day": "R",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "602",
+      "day": "R",
+      "time": "7-9PM",
+      "type": "ONL"
+    }
+  ],
   "MUSC-060": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -29820,6 +33157,7 @@ var data17C = {
   ],
   "MUSC-061": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -29827,26 +33165,31 @@ var data17C = {
   ],
   "MUSC-070": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -29854,6 +33197,7 @@ var data17C = {
   ],
   "MUSC-099": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -29861,6 +33205,7 @@ var data17C = {
   ],
   "MUSC-150": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -29868,21 +33213,25 @@ var data17C = {
   ],
   "MUSC-170": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "MW",
       "time": "12-1PM",
       "type": "LAB"
     },
     {
+      "section": "N",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "102",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LAB"
@@ -29890,11 +33239,13 @@ var data17C = {
   ],
   "MUSC-171": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "MW",
       "time": "12-1PM",
       "type": "LAB"
@@ -29902,6 +33253,7 @@ var data17C = {
   ],
   "MUSC-232": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -29909,6 +33261,7 @@ var data17C = {
   ],
   "MUSC-252": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -29916,45 +33269,33 @@ var data17C = {
   ],
   "MUSC-265": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
-    }
-  ],
-  "SAST-005": [
-    {
-      "day": "F",
-      "time": "2-3PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "2-3PM",
-      "type": "LEC"
     }
   ],
   "MUSC-270": [
     {
+      "section": "N",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "MW",
       "time": "12-1PM",
       "type": "LAB"
@@ -29962,6 +33303,7 @@ var data17C = {
   ],
   "MUSC-277": [
     {
+      "section": "301",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -29969,6 +33311,7 @@ var data17C = {
   ],
   "MUSC-278": [
     {
+      "section": "301",
       "day": "F",
       "time": "2-5PM",
       "type": "LEC"
@@ -29976,6 +33319,7 @@ var data17C = {
   ],
   "MUSC-330": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -29983,6 +33327,7 @@ var data17C = {
   ],
   "MUSC-508": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1PM",
       "type": "LEC"
@@ -29990,6 +33335,7 @@ var data17C = {
   ],
   "MUSC-520": [
     {
+      "section": "301",
       "day": "T",
       "time": "2-5PM",
       "type": "LEC"
@@ -29997,6 +33343,7 @@ var data17C = {
   ],
   "MUSC-601": [
     {
+      "section": "301",
       "day": "T",
       "time": "2-5PM",
       "type": "SEM"
@@ -30004,6 +33351,7 @@ var data17C = {
   ],
   "MUSC-700": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -30011,6 +33359,7 @@ var data17C = {
   ],
   "MUSC-730": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -30018,6 +33367,7 @@ var data17C = {
   ],
   "MUSC-780": [
     {
+      "section": "301",
       "day": "R",
       "time": "2-5PM",
       "type": "SEM"
@@ -30025,6 +33375,7 @@ var data17C = {
   ],
   "MUSC-799": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -30032,6 +33383,7 @@ var data17C = {
   ],
   "MUSC-998": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -30039,13 +33391,59 @@ var data17C = {
   ],
   "MUSC-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     }
   ],
+  "NELC-031": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "1-2PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "section": "407",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    }
+  ],
   "NELC-036": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -30053,13 +33451,41 @@ var data17C = {
   ],
   "NELC-068": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
+  "NELC-101": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "10-11AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "10:30-11:30AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "9-10AM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    }
+  ],
   "NELC-103": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -30067,6 +33493,7 @@ var data17C = {
   ],
   "NELC-111": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -30074,6 +33501,7 @@ var data17C = {
   ],
   "NELC-130": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -30081,6 +33509,7 @@ var data17C = {
   ],
   "NELC-156": [
     {
+      "section": "401",
       "day": "M",
       "time": "6-9PM",
       "type": "SEM"
@@ -30088,6 +33517,7 @@ var data17C = {
   ],
   "NELC-159": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -30095,13 +33525,47 @@ var data17C = {
   ],
   "NELC-180": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
     }
   ],
+  "NELC-183": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "1-2PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "R",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    }
+  ],
   "NELC-184": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -30109,6 +33573,7 @@ var data17C = {
   ],
   "NELC-186": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -30116,6 +33581,7 @@ var data17C = {
   ],
   "NELC-187": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -30123,6 +33589,7 @@ var data17C = {
   ],
   "NELC-218": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -30130,6 +33597,7 @@ var data17C = {
   ],
   "NELC-231": [
     {
+      "section": "401",
       "day": "M",
       "time": "10-1PM",
       "type": "LEC"
@@ -30137,6 +33605,7 @@ var data17C = {
   ],
   "NELC-249": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -30144,6 +33613,7 @@ var data17C = {
   ],
   "NELC-252": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -30151,6 +33621,7 @@ var data17C = {
   ],
   "NELC-284": [
     {
+      "section": "DIBBLE/BOILEAU",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -30158,6 +33629,7 @@ var data17C = {
   ],
   "NELC-285": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -30165,6 +33637,7 @@ var data17C = {
   ],
   "NELC-335": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -30172,16 +33645,19 @@ var data17C = {
   ],
   "NELC-401": [
     {
+      "section": "401",
       "day": "T",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "R",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "216",
       "day": "F",
       "time": "11-12NOON",
       "type": "LEC"
@@ -30189,6 +33665,7 @@ var data17C = {
   ],
   "NELC-421": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -30196,6 +33673,7 @@ var data17C = {
   ],
   "NELC-431": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -30203,6 +33681,7 @@ var data17C = {
   ],
   "NELC-456": [
     {
+      "section": "401",
       "day": "M",
       "time": "6-9PM",
       "type": "SEM"
@@ -30210,11 +33689,7 @@ var data17C = {
   ],
   "NELC-481": [
     {
-      "day": "MW",
-      "time": "5:30-7:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "5:30-7:30PM",
       "type": "LEC"
@@ -30222,11 +33697,13 @@ var data17C = {
   ],
   "NELC-483": [
     {
+      "section": "680",
       "day": "MW",
       "time": "7:30-9PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "7:30-9PM",
       "type": "LEC"
@@ -30234,6 +33711,7 @@ var data17C = {
   ],
   "NELC-518": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -30241,6 +33719,7 @@ var data17C = {
   ],
   "NELC-535": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -30248,6 +33727,7 @@ var data17C = {
   ],
   "NELC-552": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -30255,6 +33735,7 @@ var data17C = {
   ],
   "NELC-584": [
     {
+      "section": "DIBBLE/BOILEAU",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -30262,6 +33743,7 @@ var data17C = {
   ],
   "NELC-585": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -30269,6 +33751,7 @@ var data17C = {
   ],
   "NELC-589": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -30276,6 +33759,7 @@ var data17C = {
   ],
   "NELC-631": [
     {
+      "section": "401",
       "day": "M",
       "time": "10-1PM",
       "type": "LEC"
@@ -30283,6 +33767,7 @@ var data17C = {
   ],
   "NELC-638": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -30290,6 +33775,7 @@ var data17C = {
   ],
   "NELC-668": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -30297,6 +33783,7 @@ var data17C = {
   ],
   "NELC-685": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -30304,6 +33791,7 @@ var data17C = {
   ],
   "NELC-686": [
     {
+      "section": "F",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -30311,6 +33799,7 @@ var data17C = {
   ],
   "NETS-112": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -30318,6 +33807,7 @@ var data17C = {
   ],
   "NETS-212": [
     {
+      "section": "001",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -30325,6 +33815,7 @@ var data17C = {
   ],
   "NGG-575": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -30332,6 +33823,7 @@ var data17C = {
   ],
   "NGG-597": [
     {
+      "section": "401",
       "day": "WF",
       "time": "11-12:30PM",
       "type": "LEC"
@@ -30339,6 +33831,7 @@ var data17C = {
   ],
   "NGG-615": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-5PM",
       "type": "LEC"
@@ -30346,36 +33839,43 @@ var data17C = {
   ],
   "NGG-699": [
     {
+      "section": "132",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "135",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "141",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "142",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "144",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "145",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "146",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -30383,66 +33883,79 @@ var data17C = {
   ],
   "NGG-899": [
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "047",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "068",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "076",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "104",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "112",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "114",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "133",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "134",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "135",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "136",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "137",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "143",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -30450,16 +33963,19 @@ var data17C = {
   ],
   "NGG-995": [
     {
+      "section": "136",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "141",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "142",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -30467,6 +33983,7 @@ var data17C = {
   ],
   "NPLD-561": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -30474,6 +33991,7 @@ var data17C = {
   ],
   "NPLD-580": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -30481,6 +33999,7 @@ var data17C = {
   ],
   "NPLD-582": [
     {
+      "section": "001",
       "day": "W",
       "time": "10-12:50PM",
       "type": "LEC"
@@ -30488,6 +34007,7 @@ var data17C = {
   ],
   "NPLD-589": [
     {
+      "section": "001",
       "day": "R",
       "time": "4-7PM",
       "type": "LEC"
@@ -30495,6 +34015,7 @@ var data17C = {
   ],
   "NPLD-590": [
     {
+      "section": "LAMAS/BOYLSTON",
       "day": "T",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -30502,6 +34023,7 @@ var data17C = {
   ],
   "NPLD-782": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -30509,6 +34031,7 @@ var data17C = {
   ],
   "NPLD-783": [
     {
+      "section": "001",
       "day": "R",
       "time": "11-1:50PM",
       "type": "LEC"
@@ -30516,6 +34039,7 @@ var data17C = {
   ],
   "NPLD-784": [
     {
+      "section": "001",
       "day": "M",
       "time": "11:30-2:30PM",
       "type": "LEC"
@@ -30523,6 +34047,7 @@ var data17C = {
   ],
   "NPLD-785": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -30530,6 +34055,7 @@ var data17C = {
   ],
   "NPLD-786": [
     {
+      "section": "001",
       "day": "T",
       "time": "11:30-2:30PM",
       "type": "LEC"
@@ -30537,6 +34063,7 @@ var data17C = {
   ],
   "NPLD-790": [
     {
+      "section": "LAMAS/BOYLSTON",
       "day": "T",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -30544,6 +34071,7 @@ var data17C = {
   ],
   "NPLD-791": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -30551,6 +34079,7 @@ var data17C = {
   ],
   "NSCI-100": [
     {
+      "section": "001",
       "day": "W",
       "time": "7-8:45AM",
       "type": "LEC"
@@ -30558,11 +34087,13 @@ var data17C = {
   ],
   "NSCI-101": [
     {
+      "section": "001",
       "day": "M",
       "time": "8:15-10AM",
       "type": "LEC"
     },
     {
+      "section": "F",
       "day": "W",
       "time": "8:45-10AM",
       "type": "LEC"
@@ -30570,55 +34101,51 @@ var data17C = {
   ],
   "NSCI-201": [
     {
+      "section": "001",
       "day": "M",
       "time": "8:15-10AM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "W",
       "time": "8:45-10AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "8:15-10AM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "W",
       "time": "8:45-10AM",
       "type": "LEC"
-    }
-  ],
-  "NSCI-301": [
+    },
     {
+      "section": "001",
       "day": "M",
       "time": "8:15-10AM",
       "type": "LEC"
     },
     {
-      "day": "W",
-      "time": "8:45-10AM",
-      "type": "LEC"
-    },
-    {
+      "section": "002",
       "day": "M",
       "time": "8:15-10AM",
-      "type": "LEC"
-    },
-    {
-      "day": "W",
-      "time": "8:45-10AM",
       "type": "LEC"
     }
   ],
   "NSCI-401": [
     {
+      "section": "001",
       "day": "M",
       "time": "8:15-10AM",
       "type": "LEC"
     },
     {
+      "section": "R",
       "day": "W",
       "time": "8:45-10AM",
       "type": "LEC"
@@ -30626,6 +34153,7 @@ var data17C = {
   ],
   "NSCI-410": [
     {
+      "section": "001",
       "day": "MW",
       "time": "8:15-10AM",
       "type": "LEC"
@@ -30633,26 +34161,31 @@ var data17C = {
   ],
   "NURS-061": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -30660,26 +34193,31 @@ var data17C = {
   ],
   "NURS-068": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -30687,41 +34225,49 @@ var data17C = {
   ],
   "NURS-101": [
     {
+      "section": "001",
       "day": "T",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "TBA",
       "time": "TBA",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "TBA",
       "time": "TBA",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "TBA",
       "time": "TBA",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "TBA",
       "time": "TBA",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "TBA",
       "time": "TBA",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "TBA",
       "time": "TBA",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "TBA",
       "time": "TBA",
       "type": "REC"
@@ -30729,16 +34275,19 @@ var data17C = {
   ],
   "NURS-103": [
     {
+      "section": "001",
       "day": "T",
       "time": "8:30-10AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "8:30-10AM",
       "type": "REC"
     },
     {
+      "section": "L",
       "day": "R",
       "time": "8:30-10AM",
       "type": "REC"
@@ -30746,6 +34295,7 @@ var data17C = {
   ],
   "NURS-112": [
     {
+      "section": "001",
       "day": "M",
       "time": "4-7PM",
       "type": "LEC"
@@ -30753,36 +34303,43 @@ var data17C = {
   ],
   "NURS-132": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "T",
       "time": "1:30-3PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "T",
       "time": "3-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "W",
       "time": "11-12:30PM",
       "type": "LAB"
     },
     {
+      "section": "104",
       "day": "W",
       "time": "2-3:30PM",
       "type": "LAB"
     },
     {
+      "section": "105",
       "day": "R",
       "time": "1:30-3PM",
       "type": "LAB"
     },
     {
+      "section": "106",
       "day": "R",
       "time": "3-4:30PM",
       "type": "LAB"
@@ -30790,11 +34347,13 @@ var data17C = {
   ],
   "NURS-160": [
     {
+      "section": "001",
       "day": "MTWRF",
       "time": "9-5PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "MT",
       "time": "9-5PM",
       "type": "LAB"
@@ -30802,101 +34361,121 @@ var data17C = {
   ],
   "NURS-164": [
     {
+      "section": "QUIGLEY/SCANGA",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "W",
       "time": "8:30-11AM",
       "type": "CLN"
     },
     {
+      "section": "102",
       "day": "W",
       "time": "8:30-11AM",
       "type": "CLN"
     },
     {
+      "section": "103",
       "day": "W",
       "time": "8:30-11AM",
       "type": "CLN"
     },
     {
+      "section": "104",
       "day": "W",
       "time": "8:30-11AM",
       "type": "CLN"
     },
     {
+      "section": "105",
       "day": "W",
       "time": "11:30-2PM",
       "type": "CLN"
     },
     {
+      "section": "106",
       "day": "W",
       "time": "11:30-2PM",
       "type": "CLN"
     },
     {
+      "section": "107",
       "day": "W",
       "time": "11:30-2PM",
       "type": "CLN"
     },
     {
+      "section": "108",
       "day": "W",
       "time": "11:30-2PM",
       "type": "CLN"
     },
     {
+      "section": "109",
       "day": "W",
       "time": "11:30-2PM",
       "type": "CLN"
     },
     {
+      "section": "110",
       "day": "W",
       "time": "2-4:30PM",
       "type": "CLN"
     },
     {
+      "section": "111",
       "day": "W",
       "time": "2-4:30PM",
       "type": "CLN"
     },
     {
+      "section": "112",
       "day": "W",
       "time": "2-4:30PM",
       "type": "CLN"
     },
     {
+      "section": "113",
       "day": "W",
       "time": "2-4:30PM",
       "type": "CLN"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "1:30-3PM",
       "type": "LAB"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "3-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "11-12:30PM",
       "type": "LAB"
     },
     {
+      "section": "204",
       "day": "W",
       "time": "2-3:30PM",
       "type": "LAB"
     },
     {
+      "section": "205",
       "day": "R",
       "time": "1:30-3PM",
       "type": "LAB"
     },
     {
+      "section": "206",
       "day": "R",
       "time": "3-4:30PM",
       "type": "LAB"
@@ -30904,146 +34483,175 @@ var data17C = {
   ],
   "NURS-215": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "T",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "102",
       "day": "R",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "103",
       "day": "F",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "104",
       "day": "S",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "105",
       "day": "U",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "106",
       "day": "T",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "107",
       "day": "R",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "108",
       "day": "U",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "109",
       "day": "T",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "110",
       "day": "F",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "111",
       "day": "U",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "112",
       "day": "R",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "113",
       "day": "T",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "114",
       "day": "R",
       "time": "7-7PM",
       "type": "CLN"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "204",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "205",
       "day": "W",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "206",
       "day": "W",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "207",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "208",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "209",
       "day": "R",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "210",
       "day": "R",
       "time": "1-4PM",
       "type": "LAB"
     },
     {
+      "section": "211",
       "day": "R",
       "time": "4:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "212",
       "day": "R",
       "time": "4:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "213",
       "day": "R",
       "time": "4:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "215",
       "day": "R",
       "time": "12-2PM",
       "type": "LAB"
@@ -31051,136 +34659,163 @@ var data17C = {
   ],
   "NURS-225": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "9-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "TR",
       "time": "2:30-9PM",
       "type": "CLN"
     },
     {
+      "section": "102",
       "day": "T",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "103",
       "day": "T",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "104",
       "day": "T",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "105",
       "day": "T",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "106",
       "day": "TF",
       "time": "2:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "107",
       "day": "T",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "108",
       "day": "R",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "109",
       "day": "R",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "110",
       "day": "S",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "111",
       "day": "SU",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "112",
       "day": "S",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "113",
       "day": "R",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "114",
       "day": "S",
       "time": "6:30-7PM",
       "type": "CLN"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "12-2PM",
       "type": "LAB"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "12-2PM",
       "type": "LAB"
     },
     {
+      "section": "204",
       "day": "T",
       "time": "2:30-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "205",
       "day": "T",
       "time": "2:30-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "206",
       "day": "T",
       "time": "5-7PM",
       "type": "LAB"
     },
     {
+      "section": "207",
       "day": "T",
       "time": "5-7PM",
       "type": "LAB"
     },
     {
+      "section": "208",
       "day": "R",
       "time": "12-2PM",
       "type": "LAB"
     },
     {
+      "section": "209",
       "day": "R",
       "time": "12-2PM",
       "type": "LAB"
     },
     {
+      "section": "210",
       "day": "R",
       "time": "2:30-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "211",
       "day": "R",
       "time": "2:30-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "212",
       "day": "R",
       "time": "5-7PM",
       "type": "LAB"
     },
     {
+      "section": "213",
       "day": "R",
       "time": "5-7PM",
       "type": "LAB"
@@ -31188,11 +34823,13 @@ var data17C = {
   ],
   "NURS-230": [
     {
+      "section": "001",
       "day": "MF",
       "time": "1-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MF",
       "time": "1-2:30PM",
       "type": "LEC"
@@ -31200,146 +34837,175 @@ var data17C = {
   ],
   "NURS-235": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "9-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "TR",
       "time": "7-1:30PM",
       "type": "CLN"
     },
     {
+      "section": "102",
       "day": "TR",
       "time": "3-9:30PM",
       "type": "CLN"
     },
     {
+      "section": "104",
       "day": "TR",
       "time": "7-1:30PM",
       "type": "CLN"
     },
     {
+      "section": "105",
       "day": "TR",
       "time": "7-1:30PM",
       "type": "CLN"
     },
     {
+      "section": "106",
       "day": "TR",
       "time": "7-1:30PM",
       "type": "CLN"
     },
     {
+      "section": "107",
       "day": "TR",
       "time": "3-9:30PM",
       "type": "CLN"
     },
     {
+      "section": "108",
       "day": "TR",
       "time": "7-1:30PM",
       "type": "CLN"
     },
     {
+      "section": "109",
       "day": "TR",
       "time": "3-9:30PM",
       "type": "CLN"
     },
     {
+      "section": "110",
       "day": "TR",
       "time": "7-1:30PM",
       "type": "CLN"
     },
     {
+      "section": "111",
       "day": "TR",
       "time": "3-9:30PM",
       "type": "CLN"
     },
     {
+      "section": "112",
       "day": "TR",
       "time": "3-9:30PM",
       "type": "CLN"
     },
     {
+      "section": "113",
       "day": "TR",
       "time": "7-1:30PM",
       "type": "CLN"
     },
     {
+      "section": "114",
       "day": "TR",
       "time": "3-9PM",
       "type": "CLN"
     },
     {
+      "section": "115",
       "day": "TR",
       "time": "7-1:30PM",
       "type": "CLN"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "12-2PM",
       "type": "LAB"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "12-2PM",
       "type": "LAB"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "2:30-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "204",
       "day": "T",
       "time": "2:30-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "205",
       "day": "T",
       "time": "5-7PM",
       "type": "LAB"
     },
     {
+      "section": "206",
       "day": "T",
       "time": "5-7PM",
       "type": "LAB"
     },
     {
+      "section": "207",
       "day": "R",
       "time": "12-2PM",
       "type": "LAB"
     },
     {
+      "section": "208",
       "day": "R",
       "time": "12-2PM",
       "type": "LAB"
     },
     {
+      "section": "209",
       "day": "T",
       "time": "9:30-11:30AM",
       "type": "LAB"
     },
     {
+      "section": "210",
       "day": "R",
       "time": "2:30-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "211",
       "day": "R",
       "time": "2:30-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "212",
       "day": "R",
       "time": "5-7PM",
       "type": "LAB"
     },
     {
+      "section": "213",
       "day": "R",
       "time": "5-7PM",
       "type": "LAB"
     },
     {
+      "section": "215",
       "day": "T",
       "time": "9:30-11:30AM",
       "type": "LAB"
@@ -31347,141 +35013,169 @@ var data17C = {
   ],
   "NURS-245": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "102",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "103",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "104",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "105",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "106",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "107",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "108",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "109",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "110",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "111",
       "day": "TR",
       "time": "3-9PM",
       "type": "CLN"
     },
     {
+      "section": "112",
       "day": "TR",
       "time": "3-9PM",
       "type": "CLN"
     },
     {
+      "section": "113",
       "day": "TR",
       "time": "3-9PM",
       "type": "CLN"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "12:30-2:30PM",
       "type": "LAB"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "12:30-2:30PM",
       "type": "LAB"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "204",
       "day": "M",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "205",
       "day": "M",
       "time": "5:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "206",
       "day": "W",
       "time": "12:30-2:30PM",
       "type": "LAB"
     },
     {
+      "section": "207",
       "day": "W",
       "time": "12:30-2:30PM",
       "type": "LAB"
     },
     {
+      "section": "208",
       "day": "W",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "209",
       "day": "W",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "210",
       "day": "W",
       "time": "5:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "211",
       "day": "W",
       "time": "5:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "212",
       "day": "T",
       "time": "2:30-4:30PM",
       "type": "LAB"
     },
     {
+      "section": "213",
       "day": "M",
       "time": "5:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "214",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -31489,141 +35183,169 @@ var data17C = {
   ],
   "NURS-255": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "102",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "103",
       "day": "TR",
       "time": "3-9PM",
       "type": "CLN"
     },
     {
+      "section": "104",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "105",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "106",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "107",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "108",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "109",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "110",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "111",
       "day": "TR",
       "time": "3-9PM",
       "type": "CLN"
     },
     {
+      "section": "112",
       "day": "TR",
       "time": "3-9PM",
       "type": "CLN"
     },
     {
+      "section": "113",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "114",
       "day": "TR",
       "time": "7-1PM",
       "type": "CLN"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "12:30-2:30PM",
       "type": "LAB"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "12:30-2:30PM",
       "type": "LAB"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "204",
       "day": "M",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "205",
       "day": "M",
       "time": "5:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "206",
       "day": "M",
       "time": "5:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "207",
       "day": "W",
       "time": "12:30-2:30PM",
       "type": "LAB"
     },
     {
+      "section": "208",
       "day": "W",
       "time": "12:30-2:30PM",
       "type": "LAB"
     },
     {
+      "section": "209",
       "day": "W",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "210",
       "day": "W",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "211",
       "day": "W",
       "time": "5:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "212",
       "day": "M",
       "time": "5:30-7:30PM",
       "type": "LAB"
     },
     {
+      "section": "213",
       "day": "T",
       "time": "2:30-4:30PM",
       "type": "LAB"
@@ -31631,6 +35353,7 @@ var data17C = {
   ],
   "NURS-297": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
@@ -31638,6 +35361,7 @@ var data17C = {
   ],
   "NURS-299": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -31645,6 +35369,7 @@ var data17C = {
   ],
   "NURS-313": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
@@ -31652,6 +35377,7 @@ var data17C = {
   ],
   "NURS-330": [
     {
+      "section": "001",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
@@ -31659,30 +35385,21 @@ var data17C = {
   ],
   "NURS-331": [
     {
+      "section": "401",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "TBA",
       "time": "TBA",
       "type": "REC"
-    }
-  ],
-  "NURS-531": [
-    {
-      "day": "TBA",
-      "time": "TBA",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "5-8PM",
-      "type": "LEC"
     }
   ],
   "NURS-333": [
     {
+      "section": "401",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -31690,50 +35407,33 @@ var data17C = {
   ],
   "NURS-334": [
     {
+      "section": "401",
       "day": "M",
       "time": "6-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "M",
       "time": "7:30-9PM",
       "type": "REC"
     },
     {
+      "section": "410",
       "day": "W",
       "time": "1-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "411",
       "day": "W",
       "time": "2:30-4PM",
       "type": "REC"
-    }
-  ],
-  "NURS-540": [
-    {
-      "day": "M",
-      "time": "7:30-9PM",
-      "type": "REC"
-    },
-    {
-      "day": "W",
-      "time": "1-2:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "W",
-      "time": "2:30-4PM",
-      "type": "REC"
-    },
-    {
-      "day": "M",
-      "time": "6-7:30PM",
-      "type": "LEC"
     }
   ],
   "NURS-355": [
     {
+      "section": "001",
       "day": "W",
       "time": "1-4PM",
       "type": "LEC"
@@ -31741,6 +35441,7 @@ var data17C = {
   ],
   "NURS-356": [
     {
+      "section": "001",
       "day": "M",
       "time": "4-7PM",
       "type": "LEC"
@@ -31748,6 +35449,7 @@ var data17C = {
   ],
   "NURS-360": [
     {
+      "section": "001",
       "day": "W",
       "time": "3-5PM",
       "type": "LEC"
@@ -31755,6 +35457,7 @@ var data17C = {
   ],
   "NURS-361": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-4PM",
       "type": "LEC"
@@ -31762,6 +35465,7 @@ var data17C = {
   ],
   "NURS-365": [
     {
+      "section": "001",
       "day": "W",
       "time": "1-4PM",
       "type": "LEC"
@@ -31769,6 +35473,7 @@ var data17C = {
   ],
   "NURS-367": [
     {
+      "section": "401",
       "day": "R",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -31776,6 +35481,7 @@ var data17C = {
   ],
   "NURS-368": [
     {
+      "section": "401",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -31783,6 +35489,7 @@ var data17C = {
   ],
   "NURS-375": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -31790,6 +35497,7 @@ var data17C = {
   ],
   "NURS-376": [
     {
+      "section": "001",
       "day": "F",
       "time": "12-3PM",
       "type": "LEC"
@@ -31797,86 +35505,103 @@ var data17C = {
   ],
   "NURS-380": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "TR",
       "time": "8-4PM",
       "type": "CLN"
     },
     {
+      "section": "102",
       "day": "TR",
       "time": "8-4PM",
       "type": "CLN"
     },
     {
+      "section": "103",
       "day": "TR",
       "time": "8-4PM",
       "type": "CLN"
     },
     {
+      "section": "104",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "105",
       "day": "TR",
       "time": "12-8PM",
       "type": "CLN"
     },
     {
+      "section": "106",
       "day": "TR",
       "time": "12-8PM",
       "type": "CLN"
     },
     {
+      "section": "107",
       "day": "TR",
       "time": "8-4PM",
       "type": "CLN"
     },
     {
+      "section": "108",
       "day": "TR",
       "time": "8-4PM",
       "type": "CLN"
     },
     {
+      "section": "109",
       "day": "TR",
       "time": "8-4PM",
       "type": "CLN"
     },
     {
+      "section": "110",
       "day": "TR",
       "time": "8-4PM",
       "type": "CLN"
     },
     {
+      "section": "111",
       "day": "TR",
       "time": "8-4PM",
       "type": "CLN"
     },
     {
+      "section": "112",
       "day": "TR",
       "time": "8-4PM",
       "type": "CLN"
     },
     {
+      "section": "113",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "200",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "201",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "206",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -31884,51 +35609,61 @@ var data17C = {
   ],
   "NURS-381": [
     {
+      "section": "201",
       "day": "T",
       "time": "8:30-9AM",
       "type": "LAB"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "9-9:30AM",
       "type": "LAB"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "9:30-10AM",
       "type": "LAB"
     },
     {
+      "section": "204",
       "day": "T",
       "time": "10-10:30AM",
       "type": "LAB"
     },
     {
+      "section": "205",
       "day": "T",
       "time": "10:30-11AM",
       "type": "LAB"
     },
     {
+      "section": "206",
       "day": "T",
       "time": "12-12:30PM",
       "type": "LAB"
     },
     {
+      "section": "207",
       "day": "T",
       "time": "12:30-1PM",
       "type": "LAB"
     },
     {
+      "section": "208",
       "day": "T",
       "time": "1-1:30PM",
       "type": "LAB"
     },
     {
+      "section": "209",
       "day": "T",
       "time": "2-2:30PM",
       "type": "LAB"
     },
     {
+      "section": "210",
       "day": "T",
       "time": "1:30-2PM",
       "type": "LAB"
@@ -31936,6 +35671,7 @@ var data17C = {
   ],
   "NURS-386": [
     {
+      "section": "301",
       "day": "M",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -31943,11 +35679,13 @@ var data17C = {
   ],
   "NURS-389": [
     {
+      "section": "001",
       "day": "W",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "TBA",
       "time": "TBA",
       "type": "REC"
@@ -31955,161 +35693,193 @@ var data17C = {
   ],
   "NURS-390": [
     {
+      "section": "001",
       "day": "M",
       "time": "9-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "TR",
       "time": "7-3:30PM",
       "type": "CLN"
     },
     {
+      "section": "102",
       "day": "TR",
       "time": "7-3:30PM",
       "type": "CLN"
     },
     {
+      "section": "103",
       "day": "TR",
       "time": "7-3:30PM",
       "type": "CLN"
     },
     {
+      "section": "104",
       "day": "TR",
       "time": "7-3:30PM",
       "type": "CLN"
     },
     {
+      "section": "105",
       "day": "TR",
       "time": "3-11:30PM",
       "type": "CLN"
     },
     {
+      "section": "106",
       "day": "TR",
       "time": "7-3:30PM",
       "type": "CLN"
     },
     {
+      "section": "107",
       "day": "TR",
       "time": "7-3:30PM",
       "type": "CLN"
     },
     {
+      "section": "108",
       "day": "TR",
       "time": "3-11:30PM",
       "type": "CLN"
     },
     {
+      "section": "109",
       "day": "TR",
       "time": "3-11:30PM",
       "type": "CLN"
     },
     {
+      "section": "110",
       "day": "TR",
       "time": "7-3:30PM",
       "type": "CLN"
     },
     {
+      "section": "111",
       "day": "TR",
       "time": "7-3:30PM",
       "type": "CLN"
     },
     {
+      "section": "112",
       "day": "TR",
       "time": "7-3:30PM",
       "type": "CLN"
     },
     {
+      "section": "113",
       "day": "TR",
       "time": "7-3:30PM",
       "type": "CLN"
     },
     {
+      "section": "114",
       "day": "TR",
       "time": "3-11:30PM",
       "type": "CLN"
     },
     {
+      "section": "115",
       "day": "TR",
       "time": "7-3:30PM",
       "type": "CLN"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "204",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "205",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "3:30-5:30PM",
       "type": "LAB"
     },
     {
+      "section": "204",
       "day": "M",
       "time": "3:30-5:30PM",
       "type": "LAB"
     },
     {
+      "section": "205",
       "day": "M",
       "time": "6-8PM",
       "type": "LAB"
     },
     {
+      "section": "206",
       "day": "M",
       "time": "6-8PM",
       "type": "LAB"
     },
     {
+      "section": "207",
       "day": "W",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "208",
       "day": "W",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "209",
       "day": "W",
       "time": "3:30-5:30PM",
       "type": "LAB"
     },
     {
+      "section": "210",
       "day": "W",
       "time": "3:30-5:30PM",
       "type": "LAB"
     },
     {
+      "section": "211",
       "day": "W",
       "time": "6-8PM",
       "type": "LAB"
     },
     {
+      "section": "212",
       "day": "W",
       "time": "6-8PM",
       "type": "LAB"
@@ -32117,6 +35887,7 @@ var data17C = {
   ],
   "NURS-395": [
     {
+      "section": "201",
       "day": "M",
       "time": "1-3PM",
       "type": "LAB"
@@ -32124,6 +35895,7 @@ var data17C = {
   ],
   "NURS-500": [
     {
+      "section": "401",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
@@ -32131,6 +35903,7 @@ var data17C = {
   ],
   "NURS-513": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
@@ -32138,11 +35911,13 @@ var data17C = {
   ],
   "NURS-521": [
     {
+      "section": "301",
       "day": "F",
       "time": "1-4PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "F",
       "time": "1-4PM",
       "type": "SEM"
@@ -32150,13 +35925,29 @@ var data17C = {
   ],
   "NURS-523": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
+  "NURS-531": [
+    {
+      "section": "401",
+      "day": "W",
+      "time": "5-8PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "REC"
+    }
+  ],
   "NURS-533": [
     {
+      "section": "401",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -32164,18 +35955,47 @@ var data17C = {
   ],
   "NURS-535": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-7:30PM",
       "type": "LEC"
     }
   ],
+  "NURS-540": [
+    {
+      "section": "401",
+      "day": "M",
+      "time": "6-7:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "M",
+      "time": "7:30-9PM",
+      "type": "REC"
+    },
+    {
+      "section": "410",
+      "day": "W",
+      "time": "1-2:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "411",
+      "day": "W",
+      "time": "2:30-4PM",
+      "type": "REC"
+    }
+  ],
   "NURS-547": [
     {
+      "section": "001",
       "day": "F",
       "time": "1-4PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
@@ -32183,31 +36003,37 @@ var data17C = {
   ],
   "NURS-548": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "S",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "205",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "207",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "209",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "210",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -32215,6 +36041,7 @@ var data17C = {
   ],
   "NURS-550": [
     {
+      "section": "401",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -32222,6 +36049,7 @@ var data17C = {
   ],
   "NURS-555": [
     {
+      "section": "401",
       "day": "T",
       "time": "5:30-9PM",
       "type": "LEC"
@@ -32229,6 +36057,7 @@ var data17C = {
   ],
   "NURS-557": [
     {
+      "section": "401",
       "day": "R",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -32236,6 +36065,7 @@ var data17C = {
   ],
   "NURS-570": [
     {
+      "section": "401",
       "day": "R",
       "time": "4-7PM",
       "type": "LEC"
@@ -32243,6 +36073,7 @@ var data17C = {
   ],
   "NURS-575": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -32250,6 +36081,7 @@ var data17C = {
   ],
   "NURS-580": [
     {
+      "section": "001",
       "day": "T",
       "time": "1-4PM",
       "type": "LEC"
@@ -32257,6 +36089,7 @@ var data17C = {
   ],
   "NURS-588": [
     {
+      "section": "401",
       "day": "R",
       "time": "4-7PM",
       "type": "LEC"
@@ -32264,6 +36097,7 @@ var data17C = {
   ],
   "NURS-600": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -32271,6 +36105,7 @@ var data17C = {
   ],
   "NURS-603": [
     {
+      "section": "001",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -32278,6 +36113,7 @@ var data17C = {
   ],
   "NURS-606": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
@@ -32285,6 +36121,7 @@ var data17C = {
   ],
   "NURS-607": [
     {
+      "section": "001",
       "day": "F",
       "time": "9-1PM",
       "type": "LEC"
@@ -32292,6 +36129,7 @@ var data17C = {
   ],
   "NURS-608": [
     {
+      "section": "001",
       "day": "M",
       "time": "5-8PM",
       "type": "LEC"
@@ -32299,11 +36137,13 @@ var data17C = {
   ],
   "NURS-612": [
     {
+      "section": "401",
       "day": "M",
       "time": "1-4PM",
       "type": "LEC"
     },
     {
+      "section": "J/BURKE",
       "day": "M",
       "time": "2-4PM",
       "type": "LEC"
@@ -32311,6 +36151,7 @@ var data17C = {
   ],
   "NURS-624": [
     {
+      "section": "001",
       "day": "T",
       "time": "1-4PM",
       "type": "LEC"
@@ -32318,6 +36159,7 @@ var data17C = {
   ],
   "NURS-637": [
     {
+      "section": "001",
       "day": "R",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -32325,6 +36167,7 @@ var data17C = {
   ],
   "NURS-641": [
     {
+      "section": "001",
       "day": "T",
       "time": "5-7:30PM",
       "type": "LEC"
@@ -32332,6 +36175,7 @@ var data17C = {
   ],
   "NURS-646": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
@@ -32339,11 +36183,13 @@ var data17C = {
   ],
   "NURS-647": [
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "1-4PM",
       "type": "REC"
@@ -32351,6 +36197,7 @@ var data17C = {
   ],
   "NURS-655": [
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
@@ -32358,6 +36205,7 @@ var data17C = {
   ],
   "NURS-656": [
     {
+      "section": "001",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -32365,16 +36213,19 @@ var data17C = {
   ],
   "NURS-657": [
     {
+      "section": "001",
       "day": "R",
       "time": "5-9PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "R",
       "time": "5-9PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "M",
       "time": "5-9PM",
       "type": "LAB"
@@ -32382,6 +36233,7 @@ var data17C = {
   ],
   "NURS-658": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-1PM",
       "type": "LEC"
@@ -32389,11 +36241,13 @@ var data17C = {
   ],
   "NURS-659": [
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "1-4PM",
       "type": "REC"
@@ -32401,6 +36255,7 @@ var data17C = {
   ],
   "NURS-664": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
@@ -32408,6 +36263,7 @@ var data17C = {
   ],
   "NURS-670": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
@@ -32415,11 +36271,13 @@ var data17C = {
   ],
   "NURS-673": [
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "301",
       "day": "M",
       "time": "9-4PM",
       "type": "SEM"
@@ -32427,6 +36285,7 @@ var data17C = {
   ],
   "NURS-682": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-12NOON",
       "type": "LEC"
@@ -32434,6 +36293,7 @@ var data17C = {
   ],
   "NURS-685": [
     {
+      "section": "001",
       "day": "M",
       "time": "3-8PM",
       "type": "LEC"
@@ -32441,25 +36301,21 @@ var data17C = {
   ],
   "NURS-686": [
     {
+      "section": "401",
       "day": "F",
       "time": "9-1PM",
       "type": "LEC"
-    }
-  ],
-  "NURS-781": [
+    },
     {
+      "section": "402",
       "day": "F",
       "time": "1-4PM",
       "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "9-1PM",
-      "type": "LEC"
     }
   ],
   "NURS-688": [
     {
+      "section": "001",
       "day": "M",
       "time": "1-4PM",
       "type": "LEC"
@@ -32467,6 +36323,7 @@ var data17C = {
   ],
   "NURS-690": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
@@ -32474,21 +36331,25 @@ var data17C = {
   ],
   "NURS-691": [
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "1-4PM",
       "type": "REC"
     },
     {
+      "section": "STAFF",
       "day": "W",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "1-4PM",
       "type": "REC"
@@ -32496,6 +36357,7 @@ var data17C = {
   ],
   "NURS-693": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -32503,21 +36365,25 @@ var data17C = {
   ],
   "NURS-705": [
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
@@ -32525,6 +36391,7 @@ var data17C = {
   ],
   "NURS-715": [
     {
+      "section": "001",
       "day": "M",
       "time": "9-12NOON",
       "type": "LEC"
@@ -32532,6 +36399,7 @@ var data17C = {
   ],
   "NURS-720": [
     {
+      "section": "001",
       "day": "W",
       "time": "1-4PM",
       "type": "LEC"
@@ -32539,26 +36407,31 @@ var data17C = {
   ],
   "NURS-721": [
     {
+      "section": "001",
       "day": "T",
       "time": "1-4PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "W",
       "time": "9-12NOON",
       "type": "CLN"
     },
     {
+      "section": "102",
       "day": "R",
       "time": "9-12NOON",
       "type": "CLN"
     },
     {
+      "section": "103",
       "day": "R",
       "time": "9-12NOON",
       "type": "CLN"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "5-7PM",
       "type": "LAB"
@@ -32566,11 +36439,13 @@ var data17C = {
   ],
   "NURS-740": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
@@ -32578,11 +36453,13 @@ var data17C = {
   ],
   "NURS-748": [
     {
+      "section": "001",
       "day": "W",
       "time": "1-4PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "1-4PM",
       "type": "LEC"
@@ -32590,6 +36467,7 @@ var data17C = {
   ],
   "NURS-750": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
@@ -32597,11 +36475,13 @@ var data17C = {
   ],
   "NURS-751": [
     {
+      "section": "001",
       "day": "M",
       "time": "8-12NOON",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
@@ -32609,6 +36489,7 @@ var data17C = {
   ],
   "NURS-755": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -32616,11 +36497,13 @@ var data17C = {
   ],
   "NURS-764": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-1PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "8-12NOON",
       "type": "REC"
@@ -32628,23 +36511,35 @@ var data17C = {
   ],
   "NURS-768": [
     {
+      "section": "001",
       "day": "F",
       "time": "1-5PM",
       "type": "LEC"
     }
   ],
+  "NURS-781": [
+    {
+      "section": "401",
+      "day": "F",
+      "time": "9-1PM",
+      "type": "LEC"
+    }
+  ],
   "NURS-782": [
     {
+      "section": "001",
       "day": "F",
       "time": "1-4PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "102",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
@@ -32652,6 +36547,7 @@ var data17C = {
   ],
   "NURS-785": [
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
@@ -32659,6 +36555,7 @@ var data17C = {
   ],
   "NURS-786": [
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
@@ -32666,6 +36563,7 @@ var data17C = {
   ],
   "NURS-796": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -32673,6 +36571,7 @@ var data17C = {
   ],
   "NURS-797": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -32680,46 +36579,55 @@ var data17C = {
   ],
   "NURS-798": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
     },
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "104",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "105",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "106",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "107",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "108",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "109",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
     },
     {
+      "section": "110",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
@@ -32727,6 +36635,7 @@ var data17C = {
   ],
   "NURS-800": [
     {
+      "section": "301",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -32734,11 +36643,13 @@ var data17C = {
   ],
   "NURS-803": [
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -32746,11 +36657,13 @@ var data17C = {
   ],
   "NURS-809": [
     {
+      "section": "301",
       "day": "M",
       "time": "7-9AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -32758,6 +36671,7 @@ var data17C = {
   ],
   "NURS-811": [
     {
+      "section": "301",
       "day": "T",
       "time": "12-2:30PM",
       "type": "SEM"
@@ -32765,6 +36679,7 @@ var data17C = {
   ],
   "NURS-813": [
     {
+      "section": "301",
       "day": "W",
       "time": "1-4PM",
       "type": "SEM"
@@ -32772,6 +36687,7 @@ var data17C = {
   ],
   "NURS-819": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -32779,6 +36695,7 @@ var data17C = {
   ],
   "NURS-824": [
     {
+      "section": "301",
       "day": "F",
       "time": "9-12NOON",
       "type": "SEM"
@@ -32786,6 +36703,7 @@ var data17C = {
   ],
   "NURS-825": [
     {
+      "section": "001",
       "day": "W",
       "time": "6-9PM",
       "type": "SEM"
@@ -32793,6 +36711,7 @@ var data17C = {
   ],
   "NURS-832": [
     {
+      "section": "301",
       "day": "M",
       "time": "1-4PM",
       "type": "SEM"
@@ -32800,6 +36719,7 @@ var data17C = {
   ],
   "NURS-852": [
     {
+      "section": "001",
       "day": "R",
       "time": "1-4PM",
       "type": "LEC"
@@ -32807,6 +36727,7 @@ var data17C = {
   ],
   "NURS-900": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -32814,6 +36735,7 @@ var data17C = {
   ],
   "NURS-995": [
     {
+      "section": "102",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -32821,16 +36743,19 @@ var data17C = {
   ],
   "OIDD-101": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -32838,11 +36763,13 @@ var data17C = {
   ],
   "OIDD-105": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -32850,6 +36777,7 @@ var data17C = {
   ],
   "OIDD-224": [
     {
+      "section": "001",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -32857,38 +36785,83 @@ var data17C = {
   ],
   "OIDD-290": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
+  "OIDD-291": [
+    {
+      "section": "406",
+      "day": "M",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "407",
+      "day": "W",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "408",
+      "day": "R",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "409",
+      "day": "T",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "410",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "411",
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
   "OIDD-299": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -32896,11 +36869,13 @@ var data17C = {
   ],
   "OIDD-314": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -32908,6 +36883,7 @@ var data17C = {
   ],
   "OIDD-380": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -32915,6 +36891,7 @@ var data17C = {
   ],
   "OIDD-399": [
     {
+      "section": "002",
       "day": "T",
       "time": "6-8PM",
       "type": "IND"
@@ -32922,6 +36899,7 @@ var data17C = {
   ],
   "OIDD-415": [
     {
+      "section": "401",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -32929,6 +36907,7 @@ var data17C = {
   ],
   "OIDD-515": [
     {
+      "section": "401",
       "day": "MW",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -32936,11 +36915,13 @@ var data17C = {
   ],
   "OIDD-612": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -32948,11 +36929,13 @@ var data17C = {
   ],
   "OIDD-613": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -32960,41 +36943,43 @@ var data17C = {
   ],
   "OIDD-615": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "S",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "S",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
-      "day": "MW",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
+      "section": "008",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "010",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "012",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -33002,6 +36987,7 @@ var data17C = {
   ],
   "OIDD-662": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -33009,11 +36995,13 @@ var data17C = {
   ],
   "OIDD-673": [
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -33021,13 +37009,93 @@ var data17C = {
   ],
   "OIDD-680": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     }
   ],
+  "OIDD-690": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "403",
+      "day": "MW",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "OIDD-691": [
+    {
+      "section": "401",
+      "day": "T",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "W",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "403",
+      "day": "R",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "406",
+      "day": "M",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "408",
+      "day": "T",
+      "time": "3-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "409",
+      "day": "R",
+      "time": "3-6PM",
+      "type": "LEC"
+    }
+  ],
+  "OIDD-693": [
+    {
+      "section": "401",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "404",
+      "day": "MW",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
   "OIDD-695": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -33035,13 +37103,35 @@ var data17C = {
   ],
   "OIDD-900": [
     {
+      "section": "001",
       "day": "M",
       "time": "1:30-4:30PM",
       "type": "LEC"
     }
   ],
+  "OIDD-910": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "403",
+      "day": "TR",
+      "time": "4:30-6PM",
+      "type": "LEC"
+    }
+  ],
   "OIDD-930": [
     {
+      "section": "002",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -33049,6 +37139,7 @@ var data17C = {
   ],
   "OIDD-940": [
     {
+      "section": "001",
       "day": "W",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -33056,11 +37147,13 @@ var data17C = {
   ],
   "OIDD-995": [
     {
+      "section": "009",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -33068,11 +37161,13 @@ var data17C = {
   ],
   "PERS-011": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "M",
       "day": "W",
       "time": "12-1PM",
       "type": "LEC"
@@ -33080,6 +37175,7 @@ var data17C = {
   ],
   "PERS-013": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -33087,11 +37183,7 @@ var data17C = {
   ],
   "PERS-015": [
     {
-      "day": "TR",
-      "time": "4:30-6PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -33099,11 +37191,13 @@ var data17C = {
   ],
   "PERS-017": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -33111,11 +37205,13 @@ var data17C = {
   ],
   "PERS-611": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "M",
       "day": "W",
       "time": "12-1PM",
       "type": "LEC"
@@ -33123,6 +37219,7 @@ var data17C = {
   ],
   "PERS-613": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -33130,11 +37227,7 @@ var data17C = {
   ],
   "PERS-615": [
     {
-      "day": "TR",
-      "time": "4:30-6PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -33142,11 +37235,13 @@ var data17C = {
   ],
   "PERS-617": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -33154,21 +37249,25 @@ var data17C = {
   ],
   "PHIL-001": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -33176,6 +37275,7 @@ var data17C = {
   ],
   "PHIL-002": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -33183,6 +37283,7 @@ var data17C = {
   ],
   "PHIL-003": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -33190,80 +37291,51 @@ var data17C = {
   ],
   "PHIL-008": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10AM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
-    }
-  ],
-  "PPE-008": [
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "9-10AM",
-      "type": "LEC"
     }
   ],
   "PHIL-010": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -33271,6 +37343,7 @@ var data17C = {
   ],
   "PHIL-026": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
@@ -33278,6 +37351,7 @@ var data17C = {
   ],
   "PHIL-028": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -33285,6 +37359,7 @@ var data17C = {
   ],
   "PHIL-032": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -33292,57 +37367,113 @@ var data17C = {
   ],
   "PHIL-044": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "R",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "R",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "R",
+      "time": "5-6PM",
+      "type": "REC"
+    },
+    {
+      "section": "407",
+      "day": "R",
+      "time": "6-7PM",
+      "type": "REC"
+    },
+    {
+      "section": "408",
+      "day": "F",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "section": "409",
+      "day": "F",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "section": "410",
+      "day": "F",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "section": "411",
+      "day": "F",
+      "time": "5-6PM",
+      "type": "REC"
+    },
+    {
+      "section": "412",
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
     }
   ],
   "PHIL-050": [
     {
+      "section": "401",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
-    }
-  ],
-  "SAST-050": [
+    },
     {
+      "section": "402",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "11-12NOON",
-      "type": "LEC"
     }
   ],
   "PHIL-071": [
     {
+      "section": "001",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
@@ -33350,40 +37481,27 @@ var data17C = {
   ],
   "PHIL-072": [
     {
+      "section": "401",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
-    }
-  ],
-  "PPE-072": [
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "1-2PM",
-      "type": "LEC"
     }
   ],
   "PHIL-074": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -33391,16 +37509,19 @@ var data17C = {
   ],
   "PHIL-205": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
@@ -33408,6 +37529,7 @@ var data17C = {
   ],
   "PHIL-221": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -33415,6 +37537,7 @@ var data17C = {
   ],
   "PHIL-233": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -33422,60 +37545,39 @@ var data17C = {
   ],
   "PHIL-277": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
-    }
-  ],
-  "PPE-277": [
-    {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "12-1PM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "10-11AM",
-      "type": "REC"
-    },
-    {
-      "day": "F",
-      "time": "1-2PM",
-      "type": "REC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1PM",
-      "type": "LEC"
     }
   ],
   "PHIL-291": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -33483,6 +37585,7 @@ var data17C = {
   ],
   "PHIL-299": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -33490,6 +37593,7 @@ var data17C = {
   ],
   "PHIL-301": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -33497,6 +37601,7 @@ var data17C = {
   ],
   "PHIL-325": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -33504,6 +37609,7 @@ var data17C = {
   ],
   "PHIL-362": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -33511,6 +37617,7 @@ var data17C = {
   ],
   "PHIL-410": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -33518,6 +37625,7 @@ var data17C = {
   ],
   "PHIL-412": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -33525,6 +37633,7 @@ var data17C = {
   ],
   "PHIL-448": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -33532,6 +37641,7 @@ var data17C = {
   ],
   "PHIL-479": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -33539,11 +37649,13 @@ var data17C = {
   ],
   "PHIL-525": [
     {
+      "section": "301",
       "day": "M",
       "time": "12-3PM",
       "type": "SEM"
     },
     {
+      "section": "640",
       "day": "W",
       "time": "5-7:40PM",
       "type": "SEM"
@@ -33551,6 +37663,7 @@ var data17C = {
   ],
   "PHIL-526": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-6PM",
       "type": "SEM"
@@ -33558,6 +37671,7 @@ var data17C = {
   ],
   "PHIL-532": [
     {
+      "section": "301",
       "day": "M",
       "time": "3-6PM",
       "type": "SEM"
@@ -33565,6 +37679,7 @@ var data17C = {
   ],
   "PHIL-551": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
@@ -33572,6 +37687,7 @@ var data17C = {
   ],
   "PHIL-600": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -33579,6 +37695,7 @@ var data17C = {
   ],
   "PHIL-601": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -33586,6 +37703,7 @@ var data17C = {
   ],
   "PHIL-612": [
     {
+      "section": "301",
       "day": "M",
       "time": "12-3PM",
       "type": "SEM"
@@ -33593,6 +37711,7 @@ var data17C = {
   ],
   "PHIL-699": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -33600,6 +37719,7 @@ var data17C = {
   ],
   "PHIL-700": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -33607,6 +37727,7 @@ var data17C = {
   ],
   "PHIL-998": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -33614,6 +37735,7 @@ var data17C = {
   ],
   "PHIL-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -33621,6 +37743,7 @@ var data17C = {
   ],
   "PHRM-532": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -33628,13 +37751,29 @@ var data17C = {
   ],
   "PHRM-534": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
+  "PHRM-542": [
+    {
+      "section": "401",
+      "day": "M",
+      "time": "2-3:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "402",
+      "day": "W",
+      "time": "5-7PM",
+      "type": "SEM"
+    }
+  ],
   "PHRM-623": [
     {
+      "section": "401",
       "day": "MTWR",
       "time": "9-10AM",
       "type": "LEC"
@@ -33642,6 +37781,7 @@ var data17C = {
   ],
   "PHRM-624": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-11AM",
       "type": "LEC"
@@ -33649,216 +37789,259 @@ var data17C = {
   ],
   "PHRM-699": [
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "015",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "018",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "026",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "033",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "040",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "042",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "050",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "055",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "061",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "062",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "066",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "076",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "078",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "085",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "090",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "091",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "093",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "095",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "096",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "097",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "098",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "099",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "101",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "104",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "903",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "904",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "905",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "908",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "909",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "911",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "915",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "919",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "920",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "928",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "929",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "930",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "935",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "936",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "938",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "941",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -33866,201 +38049,241 @@ var data17C = {
   ],
   "PHRM-899": [
     {
+      "section": "004",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "008",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "010",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "016",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "020",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "024",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "030",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "040",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "041",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "042",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "048",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "055",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "058",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "062",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "066",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "067",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "068",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "069",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "080",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "085",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "086",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "091",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "100",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "105",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "106",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "902",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "905",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "906",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "908",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "911",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "915",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "916",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "919",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "921",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "925",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "926",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "927",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "928",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
     },
     {
+      "section": "929",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -34068,21 +38291,25 @@ var data17C = {
   ],
   "PHRM-995": [
     {
+      "section": "921",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "925",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "926",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "927",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -34090,6 +38317,7 @@ var data17C = {
   ],
   "PHYS-008": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
@@ -34097,6 +38325,7 @@ var data17C = {
   ],
   "PHYS-016": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -34104,6 +38333,7 @@ var data17C = {
   ],
   "PHYS-050": [
     {
+      "section": "163",
       "day": "M",
       "time": "6-8PM",
       "type": "LAB"
@@ -34111,6 +38341,7 @@ var data17C = {
   ],
   "PHYS-051": [
     {
+      "section": "161",
       "day": "W",
       "time": "6-8PM",
       "type": "LAB"
@@ -34118,116 +38349,139 @@ var data17C = {
   ],
   "PHYS-101": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "R",
       "day": "W",
       "time": "3-4PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "M",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "102",
       "day": "W",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "103",
       "day": "T",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "104",
       "day": "M",
       "time": "6-8PM",
       "type": "LAB"
     },
     {
+      "section": "105",
       "day": "T",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "106",
       "day": "T",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "107",
       "day": "R",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "108",
       "day": "F",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "109",
       "day": "M",
       "time": "6-8PM",
       "type": "LAB"
     },
     {
+      "section": "110",
       "day": "R",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "111",
       "day": "T",
       "time": "6-8PM",
       "type": "LAB"
     },
     {
+      "section": "112",
       "day": "M",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "M",
       "time": "6-8PM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "W",
       "time": "6-8PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "M",
       "time": "4-6PM",
       "type": "LAB"
     },
     {
+      "section": "603",
       "day": "M",
       "time": "8-10PM",
       "type": "LAB"
     },
     {
+      "section": "604",
       "day": "W",
       "time": "4-6PM",
       "type": "LAB"
     },
     {
+      "section": "605",
       "day": "W",
       "time": "8-10PM",
       "type": "LAB"
@@ -34235,36 +38489,43 @@ var data17C = {
   ],
   "PHYS-102": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "M",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "111",
       "day": "M",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "112",
       "day": "M",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "113",
       "day": "T",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "114",
       "day": "T",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "115",
       "day": "F",
       "time": "1-3PM",
       "type": "LAB"
@@ -34272,120 +38533,153 @@ var data17C = {
   ],
   "PHYS-137": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "001",
       "day": "MWF",
       "time": "2-3PM",
       "type": "LEC"
+    },
+    {
+      "section": "301",
+      "day": "MWF",
+      "time": "10-11AM",
+      "type": "SEM"
+    },
+    {
+      "section": "C",
+      "day": "M",
+      "time": "2-3PM",
+      "type": "SEM"
+    },
+    {
+      "section": "302",
+      "day": "T",
+      "time": "3-5PM",
+      "type": "LAB"
+    },
+    {
+      "section": "303",
+      "day": "R",
+      "time": "3-5PM",
+      "type": "LAB"
+    },
+    {
+      "section": "304",
+      "day": "W",
+      "time": "3-5PM",
+      "type": "LAB"
     }
   ],
   "PHYS-140": [
     {
+      "section": "011",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "K",
       "day": "W",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "A2,",
       "day": "T",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "012",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "W",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "A5,",
       "day": "T",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "013",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "W",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "A1,",
       "day": "T",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "014",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "M",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
-      "day": "T",
-      "time": "5-6PM",
-      "type": "LEC"
-    },
-    {
+      "section": "015",
       "day": "MF",
       "time": "2-3:30PM",
       "type": "LEC"
     },
     {
+      "section": "C",
       "day": "M",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "A2,",
       "day": "T",
       "time": "5-6PM",
       "type": "LEC"
-    }
-  ],
-  "PHYS-141": [
+    },
     {
+      "section": "011",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
-      "day": "W",
-      "time": "1-2PM",
-      "type": "LEC"
-    },
-    {
+      "section": "3N1H,",
       "day": "R",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "012",
       "day": "MWF",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
-      "day": "T",
-      "time": "2-3PM",
-      "type": "LEC"
-    },
-    {
+      "section": "A8,",
       "day": "R",
       "time": "5-6PM",
       "type": "LEC"
@@ -34393,181 +38687,205 @@ var data17C = {
   ],
   "PHYS-150": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "K",
       "day": "W",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "A2,",
       "day": "T",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "W",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "A5,",
       "day": "T",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "W",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "A1,",
       "day": "T",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "MWF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "M",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
-      "day": "T",
-      "time": "5-6PM",
-      "type": "LEC"
-    },
-    {
+      "section": "005",
       "day": "MF",
       "time": "2-3:30PM",
       "type": "LEC"
     },
     {
+      "section": "C",
       "day": "M",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "A2,",
       "day": "T",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
-      "day": "M",
-      "time": "1-3PM",
-      "type": "LAB"
-    },
-    {
+      "section": "122",
       "day": "T",
       "time": "6-8PM",
       "type": "LAB"
     },
     {
+      "section": "123",
       "day": "M",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "124",
       "day": "M",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "125",
       "day": "T",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "126",
       "day": "T",
       "time": "6-8PM",
       "type": "LAB"
     },
     {
+      "section": "127",
       "day": "T",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "128",
       "day": "W",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "129",
       "day": "W",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "130",
       "day": "W",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "131",
       "day": "W",
       "time": "6-8PM",
       "type": "LAB"
     },
     {
+      "section": "132",
       "day": "W",
       "time": "6-8PM",
       "type": "LAB"
     },
     {
+      "section": "133",
       "day": "R",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "134",
       "day": "R",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "135",
       "day": "R",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "136",
       "day": "R",
       "time": "6-8PM",
       "type": "LAB"
     },
     {
+      "section": "137",
       "day": "F",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "138",
       "day": "F",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "139",
       "day": "F",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "140",
       "day": "T",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "141",
       "day": "M",
       "time": "6-8PM",
       "type": "LAB"
@@ -34575,61 +38893,73 @@ var data17C = {
   ],
   "PHYS-151": [
     {
+      "section": "001",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "W",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "3N1H,",
       "day": "R",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "M",
       "day": "T",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "A8,",
       "day": "R",
       "time": "5-6PM",
       "type": "LEC"
     },
     {
+      "section": "152",
       "day": "M",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "153",
       "day": "T",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "154",
       "day": "W",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "155",
       "day": "F",
       "time": "1-3PM",
       "type": "LAB"
     },
     {
+      "section": "156",
       "day": "R",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "157",
       "day": "F",
       "time": "3-5PM",
       "type": "LAB"
@@ -34637,63 +38967,45 @@ var data17C = {
   ],
   "PHYS-170": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "C",
       "day": "M",
       "time": "2-3PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "T",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "303",
       "day": "R",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "304",
       "day": "W",
       "time": "3-5PM",
       "type": "LAB"
     },
     {
+      "section": "305",
       "day": "T",
       "time": "6-8PM",
-      "type": "LAB"
-    },
-    {
-      "day": "MWF",
-      "time": "10-11AM",
-      "type": "SEM"
-    },
-    {
-      "day": "M",
-      "time": "2-3PM",
-      "type": "SEM"
-    },
-    {
-      "day": "T",
-      "time": "3-5PM",
-      "type": "LAB"
-    },
-    {
-      "day": "R",
-      "time": "3-5PM",
-      "type": "LAB"
-    },
-    {
-      "day": "W",
-      "time": "3-5PM",
       "type": "LAB"
     }
   ],
   "PHYS-230": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
@@ -34701,6 +39013,7 @@ var data17C = {
   ],
   "PHYS-280": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "2-3PM",
       "type": "LEC"
@@ -34708,6 +39021,7 @@ var data17C = {
   ],
   "PHYS-361": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -34715,30 +39029,21 @@ var data17C = {
   ],
   "PHYS-364": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-5PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "TR",
-      "time": "2-5PM",
-      "type": "LEC"
-    }
-  ],
-  "PHYS-564": [
-    {
-      "day": "TR",
-      "time": "2-5PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
       "time": "2-5PM",
       "type": "LEC"
     }
   ],
   "PHYS-401": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -34746,6 +39051,7 @@ var data17C = {
   ],
   "PHYS-411": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
@@ -34753,6 +39059,7 @@ var data17C = {
   ],
   "PHYS-433": [
     {
+      "section": "001",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -34760,6 +39067,7 @@ var data17C = {
   ],
   "PHYS-500": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -34767,6 +39075,7 @@ var data17C = {
   ],
   "PHYS-501": [
     {
+      "section": "001",
       "day": "T",
       "time": "5-7:30PM",
       "type": "LEC"
@@ -34774,6 +39083,7 @@ var data17C = {
   ],
   "PHYS-503": [
     {
+      "section": "BALASUBRAMANIAN",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -34781,6 +39091,7 @@ var data17C = {
   ],
   "PHYS-511": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
@@ -34788,6 +39099,7 @@ var data17C = {
   ],
   "PHYS-531": [
     {
+      "section": "001",
       "day": "MW",
       "time": "11:30-1PM",
       "type": "LEC"
@@ -34795,13 +39107,29 @@ var data17C = {
   ],
   "PHYS-561": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
+  "PHYS-564": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "2-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "TR",
+      "time": "2-5PM",
+      "type": "LEC"
+    }
+  ],
   "PHYS-581": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -34809,6 +39137,7 @@ var data17C = {
   ],
   "PHYS-582": [
     {
+      "section": "401",
       "day": "MW",
       "time": "8:30-10AM",
       "type": "LEC"
@@ -34816,6 +39145,7 @@ var data17C = {
   ],
   "PHYS-601": [
     {
+      "section": "001",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -34823,6 +39153,7 @@ var data17C = {
   ],
   "PHYS-611": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11:30AM",
       "type": "LEC"
@@ -34830,11 +39161,13 @@ var data17C = {
   ],
   "PHYS-696": [
     {
+      "section": "001",
       "day": "W",
       "time": "5:30-7PM",
       "type": "LEC"
     },
     {
+      "section": "B",
       "day": "R",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -34842,13 +39175,59 @@ var data17C = {
   ],
   "PHYS-995": [
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     }
   ],
+  "PPE-008": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "9-10AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "407",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    }
+  ],
   "PPE-036": [
     {
+      "section": "C",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -34856,68 +39235,101 @@ var data17C = {
   ],
   "PPE-062": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
+  "PPE-072": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "1-2PM",
+      "type": "LEC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    }
+  ],
   "PPE-140": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "406",
       "day": "R",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "407",
       "day": "R",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "408",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "409",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "410",
       "day": "F",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "411",
       "day": "F",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "412",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
@@ -34925,11 +39337,13 @@ var data17C = {
   ],
   "PPE-153": [
     {
+      "section": "401",
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "W",
       "time": "6-9PM",
       "type": "LEC"
@@ -34937,13 +39351,47 @@ var data17C = {
   ],
   "PPE-232": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
+  "PPE-277": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    }
+  ],
   "PPE-311": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -34951,6 +39399,7 @@ var data17C = {
   ],
   "PPE-313": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -34958,6 +39407,7 @@ var data17C = {
   ],
   "PPE-333": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -34965,6 +39415,7 @@ var data17C = {
   ],
   "PPE-401": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -34972,6 +39423,7 @@ var data17C = {
   ],
   "PPE-470": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -34979,6 +39431,7 @@ var data17C = {
   ],
   "PPE-471": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -34986,6 +39439,7 @@ var data17C = {
   ],
   "PPE-473": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -34993,6 +39447,7 @@ var data17C = {
   ],
   "PPE-474": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -35000,6 +39455,7 @@ var data17C = {
   ],
   "PPE-477": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -35007,6 +39463,7 @@ var data17C = {
   ],
   "PPE-498": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -35014,6 +39471,7 @@ var data17C = {
   ],
   "PPE-499": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -35021,6 +39479,7 @@ var data17C = {
   ],
   "PPE-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -35028,6 +39487,7 @@ var data17C = {
   ],
   "PRTG-110": [
     {
+      "section": "301",
       "day": "MTWRF",
       "time": "1-2PM",
       "type": "SEM"
@@ -35035,21 +39495,25 @@ var data17C = {
   ],
   "PRTG-114": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3PM",
       "type": "SEM"
     },
     {
+      "section": "C",
       "day": "TR",
       "time": "2-3PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "3:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "L",
       "day": "TR",
       "time": "3-4PM",
       "type": "SEM"
@@ -35057,6 +39521,7 @@ var data17C = {
   ],
   "PRTG-134": [
     {
+      "section": "301",
       "day": "MTWR",
       "time": "11-12NOON",
       "type": "SEM"
@@ -35064,11 +39529,13 @@ var data17C = {
   ],
   "PRTG-202": [
     {
+      "section": "301",
       "day": "MW",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "M",
       "day": "TR",
       "time": "9:30-10:30AM",
       "type": "SEM"
@@ -35076,6 +39543,7 @@ var data17C = {
   ],
   "PRTG-215": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -35083,11 +39551,13 @@ var data17C = {
   ],
   "PRTG-240": [
     {
+      "section": "401",
       "day": "T",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "M",
       "day": "R",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -35095,21 +39565,25 @@ var data17C = {
   ],
   "PSCI-010": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "R",
       "time": "3-6PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -35117,21 +39591,25 @@ var data17C = {
   ],
   "PSCI-107": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "10:30-11:30AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -35139,51 +39617,61 @@ var data17C = {
   ],
   "PSCI-116": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
@@ -35191,56 +39679,67 @@ var data17C = {
   ],
   "PSCI-130": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "R",
       "time": "10:30-11:30AM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "R",
       "time": "1:30-2:30PM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
@@ -35248,6 +39747,7 @@ var data17C = {
   ],
   "PSCI-135": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "LEC"
@@ -35255,6 +39755,7 @@ var data17C = {
   ],
   "PSCI-136": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -35262,81 +39763,97 @@ var data17C = {
   ],
   "PSCI-150": [
     {
+      "section": "001",
       "day": "MW",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "T",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "T",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "W",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "T",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "T",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "214",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "215",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
@@ -35344,51 +39861,61 @@ var data17C = {
   ],
   "PSCI-152": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "M",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "M",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "W",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
@@ -35396,66 +39923,79 @@ var data17C = {
   ],
   "PSCI-181": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "209",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "210",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -35463,28 +40003,59 @@ var data17C = {
   ],
   "PSCI-199": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     }
   ],
+  "PSCI-213": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "2-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "9-10AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    }
+  ],
   "PSCI-215": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "1:30-2:30PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "REC"
@@ -35492,36 +40063,43 @@ var data17C = {
   ],
   "PSCI-219": [
     {
+      "section": "001",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "W",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
@@ -35529,21 +40107,25 @@ var data17C = {
   ],
   "PSCI-224": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "9-10AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
@@ -35551,6 +40133,7 @@ var data17C = {
   ],
   "PSCI-228": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -35558,28 +40141,77 @@ var data17C = {
   ],
   "PSCI-252": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "1:30-2:30PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "R",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     }
   ],
+  "PSCI-271": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "3-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "W",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "W",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "R",
+      "time": "3:30-4:30PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "407",
+      "day": "W",
+      "time": "5-6PM",
+      "type": "REC"
+    }
+  ],
   "PSCI-298": [
     {
+      "section": "050",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -35587,6 +40219,7 @@ var data17C = {
   ],
   "PSCI-299": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -35594,6 +40227,7 @@ var data17C = {
   ],
   "PSCI-320": [
     {
+      "section": "401",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
@@ -35601,6 +40235,7 @@ var data17C = {
   ],
   "PSCI-330": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -35608,6 +40243,7 @@ var data17C = {
   ],
   "PSCI-332": [
     {
+      "section": "401",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -35615,11 +40251,13 @@ var data17C = {
   ],
   "PSCI-395": [
     {
+      "section": "301",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "301",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -35627,6 +40265,7 @@ var data17C = {
   ],
   "PSCI-396": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -35634,21 +40273,25 @@ var data17C = {
   ],
   "PSCI-398": [
     {
+      "section": "302",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "M",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -35656,6 +40299,7 @@ var data17C = {
   ],
   "PSCI-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -35663,6 +40307,7 @@ var data17C = {
   ],
   "PSCI-412": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -35670,6 +40315,7 @@ var data17C = {
   ],
   "PSCI-413": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -35677,6 +40323,7 @@ var data17C = {
   ],
   "PSCI-496": [
     {
+      "section": "304",
       "day": "M",
       "time": "6-8PM",
       "type": "SEM"
@@ -35684,6 +40331,7 @@ var data17C = {
   ],
   "PSCI-497": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -35691,6 +40339,7 @@ var data17C = {
   ],
   "PSCI-498": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -35698,6 +40347,7 @@ var data17C = {
   ],
   "PSCI-499": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -35705,6 +40355,7 @@ var data17C = {
   ],
   "PSCI-531": [
     {
+      "section": "301",
       "day": "M",
       "time": "8-11AM",
       "type": "SEM"
@@ -35712,6 +40363,7 @@ var data17C = {
   ],
   "PSCI-534": [
     {
+      "section": "401",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -35719,6 +40371,7 @@ var data17C = {
   ],
   "PSCI-545": [
     {
+      "section": "401",
       "day": "T",
       "time": "4-6PM",
       "type": "SEM"
@@ -35726,6 +40379,7 @@ var data17C = {
   ],
   "PSCI-550": [
     {
+      "section": "401",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -35733,6 +40387,7 @@ var data17C = {
   ],
   "PSCI-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -35740,6 +40395,7 @@ var data17C = {
   ],
   "PSCI-600": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -35747,6 +40403,7 @@ var data17C = {
   ],
   "PSCI-614": [
     {
+      "section": "301",
       "day": "F",
       "time": "10-1PM",
       "type": "SEM"
@@ -35754,6 +40411,7 @@ var data17C = {
   ],
   "PSCI-635": [
     {
+      "section": "401",
       "day": "W",
       "time": "4-6PM",
       "type": "SEM"
@@ -35761,6 +40419,7 @@ var data17C = {
   ],
   "PSCI-655": [
     {
+      "section": "401",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -35768,11 +40427,13 @@ var data17C = {
   ],
   "PSCI-692": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "D",
       "day": "F",
       "time": "2:30-3:20PM",
       "type": "SEM"
@@ -35780,6 +40441,7 @@ var data17C = {
   ],
   "PSCI-711": [
     {
+      "section": "401",
       "day": "W",
       "time": "10-1PM",
       "type": "SEM"
@@ -35787,21 +40449,25 @@ var data17C = {
   ],
   "PSCI-798": [
     {
+      "section": "301",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "T",
       "time": "3-6PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "M",
       "time": "4-7PM",
       "type": "SEM"
@@ -35809,6 +40475,7 @@ var data17C = {
   ],
   "PSCI-995": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -35816,6 +40483,7 @@ var data17C = {
   ],
   "PSCI-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -35823,132 +40491,199 @@ var data17C = {
   ],
   "PSYC-001": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "W",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "W",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "R",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "R",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "R",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "R",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "T",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "603",
       "day": "T",
       "time": "6-7PM",
       "type": "REC"
     },
     {
+      "section": "604",
       "day": "W",
       "time": "8-9PM",
       "type": "REC"
     },
     {
+      "section": "605",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     }
   ],
-  "PSYC-111": [
+  "PSYC-109": [
     {
-      "day": "TR",
-      "time": "9-10:30AM",
+      "section": "401",
+      "day": "MWF",
+      "time": "10-11AM",
       "type": "LEC"
     },
     {
-      "day": "M",
-      "time": "4-5PM",
-      "type": "REC"
+      "section": "402",
+      "day": "T",
+      "time": "9-10:30AM",
+      "type": "LAB"
     },
     {
-      "day": "M",
-      "time": "5-6PM",
-      "type": "REC"
+      "section": "403",
+      "day": "T",
+      "time": "10:30-12NOON",
+      "type": "LAB"
     },
     {
+      "section": "404",
+      "day": "T",
+      "time": "1:30-3PM",
+      "type": "LAB"
+    },
+    {
+      "section": "405",
+      "day": "T",
+      "time": "3-4:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "406",
       "day": "R",
-      "time": "2-3PM",
-      "type": "REC"
+      "time": "9-10:30AM",
+      "type": "LAB"
     },
     {
-      "day": "F",
-      "time": "2-3PM",
-      "type": "REC"
+      "section": "HUAMANCAJA",
+      "day": "R",
+      "time": "10:30-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "408",
+      "day": "R",
+      "time": "1:30-3PM",
+      "type": "LAB"
+    },
+    {
+      "section": "409",
+      "day": "R",
+      "time": "3-4:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "601",
+      "day": "MW",
+      "time": "4:30-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "602",
+      "day": "T",
+      "time": "4:30-6PM",
+      "type": "LAB"
+    },
+    {
+      "section": "603",
+      "day": "R",
+      "time": "4:30-6PM",
+      "type": "LAB"
     }
   ],
-  "VLST-211": [
+  "PSYC-111": [
     {
+      "section": "401",
+      "day": "TR",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
       "day": "M",
       "time": "4-5PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "M",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "R",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "405",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
-    },
-    {
-      "day": "TR",
-      "time": "9-10:30AM",
-      "type": "LEC"
     }
   ],
   "PSYC-127": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -35956,11 +40691,13 @@ var data17C = {
   ],
   "PSYC-149": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
@@ -35968,11 +40705,13 @@ var data17C = {
   ],
   "PSYC-170": [
     {
+      "section": "001",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "T",
       "time": "6-9PM",
       "type": "LEC"
@@ -35980,37 +40719,27 @@ var data17C = {
   ],
   "PSYC-181": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
     },
     {
+      "section": "E",
       "day": "W",
       "time": "5:30-8:30PM",
       "type": "LEC"
     }
   ],
-  "PSYC-225": [
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    }
-  ],
-  "PSYC-247": [
-    {
-      "day": "MW",
-      "time": "3:30-5PM",
-      "type": "LEC"
-    }
-  ],
   "PSYC-253": [
     {
+      "section": "401",
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "W",
       "time": "6-9PM",
       "type": "LEC"
@@ -36018,6 +40747,7 @@ var data17C = {
   ],
   "PSYC-265": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -36025,21 +40755,25 @@ var data17C = {
   ],
   "PSYC-266": [
     {
+      "section": "001",
       "day": "M",
       "time": "2-5PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "M",
       "time": "5-6PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "3-4PM",
       "type": "REC"
@@ -36047,11 +40781,13 @@ var data17C = {
   ],
   "PSYC-272": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "601",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
@@ -36059,6 +40795,7 @@ var data17C = {
   ],
   "PSYC-299": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -36066,6 +40803,7 @@ var data17C = {
   ],
   "PSYC-362": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -36073,6 +40811,7 @@ var data17C = {
   ],
   "PSYC-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -36080,6 +40819,7 @@ var data17C = {
   ],
   "PSYC-400": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -36087,6 +40827,7 @@ var data17C = {
   ],
   "PSYC-417": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -36094,6 +40835,7 @@ var data17C = {
   ],
   "PSYC-421": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -36101,6 +40843,7 @@ var data17C = {
   ],
   "PSYC-429": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -36108,6 +40851,7 @@ var data17C = {
   ],
   "PSYC-449": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -36115,6 +40859,7 @@ var data17C = {
   ],
   "PSYC-470": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -36122,6 +40867,7 @@ var data17C = {
   ],
   "PSYC-478": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -36129,6 +40875,7 @@ var data17C = {
   ],
   "PSYC-480": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -36136,6 +40883,7 @@ var data17C = {
   ],
   "PSYC-547": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -36143,6 +40891,7 @@ var data17C = {
   ],
   "PSYC-579": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3:30-5PM",
       "type": "LEC"
@@ -36150,21 +40899,25 @@ var data17C = {
   ],
   "PSYC-600": [
     {
+      "section": "301",
       "day": "M",
       "time": "11-2PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "10:30-12:30PM",
       "type": "SEM"
     },
     {
+      "section": "L",
       "day": "TR",
       "time": "1:30-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "TR",
       "time": "10:30-12:30PM",
       "type": "SEM"
@@ -36172,6 +40925,7 @@ var data17C = {
   ],
   "PSYC-611": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -36179,6 +40933,7 @@ var data17C = {
   ],
   "PSYC-698": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -36186,6 +40941,7 @@ var data17C = {
   ],
   "PSYC-699": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -36193,6 +40949,7 @@ var data17C = {
   ],
   "PSYC-709": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -36200,6 +40957,7 @@ var data17C = {
   ],
   "PSYC-711": [
     {
+      "section": "301",
       "day": "T",
       "time": "6:30-9:30PM",
       "type": "SEM"
@@ -36207,6 +40965,7 @@ var data17C = {
   ],
   "PSYC-747": [
     {
+      "section": "001",
       "day": "W",
       "time": "5-8PM",
       "type": "SEM"
@@ -36214,6 +40973,7 @@ var data17C = {
   ],
   "PSYC-810": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -36221,6 +40981,7 @@ var data17C = {
   ],
   "PSYC-811": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -36228,16 +40989,19 @@ var data17C = {
   ],
   "PSYC-820": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -36245,16 +41009,19 @@ var data17C = {
   ],
   "PSYC-995": [
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
     },
     {
+      "section": "012",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -36262,6 +41029,7 @@ var data17C = {
   ],
   "PSYC-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -36269,6 +41037,7 @@ var data17C = {
   ],
   "PUBH-500": [
     {
+      "section": "401",
       "day": "R",
       "time": "4-7PM",
       "type": "LEC"
@@ -36276,11 +41045,13 @@ var data17C = {
   ],
   "PUBH-501": [
     {
+      "section": "001",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "5-8PM",
       "type": "LEC"
@@ -36288,6 +41059,7 @@ var data17C = {
   ],
   "PUBH-502": [
     {
+      "section": "401",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
@@ -36295,6 +41067,7 @@ var data17C = {
   ],
   "PUBH-503": [
     {
+      "section": "001",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
@@ -36302,6 +41075,7 @@ var data17C = {
   ],
   "PUBH-504": [
     {
+      "section": "001",
       "day": "R",
       "time": "5-8PM",
       "type": "LEC"
@@ -36309,6 +41083,7 @@ var data17C = {
   ],
   "PUBH-505": [
     {
+      "section": "001",
       "day": "T",
       "time": "1-4PM",
       "type": "LEC"
@@ -36316,6 +41091,7 @@ var data17C = {
   ],
   "PUBH-506": [
     {
+      "section": "001",
       "day": "W",
       "time": "1-4PM",
       "type": "LEC"
@@ -36323,6 +41099,7 @@ var data17C = {
   ],
   "PUBH-507": [
     {
+      "section": "001",
       "day": "M",
       "time": "5-8PM",
       "type": "LEC"
@@ -36330,21 +41107,25 @@ var data17C = {
   ],
   "PUBH-508": [
     {
+      "section": "001",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "1-4PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "R",
       "time": "1-4PM",
       "type": "LEC"
@@ -36352,11 +41133,13 @@ var data17C = {
   ],
   "PUBH-509": [
     {
+      "section": "001",
       "day": "M",
       "time": "1-4PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "5-8PM",
       "type": "LEC"
@@ -36364,6 +41147,7 @@ var data17C = {
   ],
   "PUBH-517": [
     {
+      "section": "401",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
@@ -36371,31 +41155,37 @@ var data17C = {
   ],
   "PUBH-519": [
     {
+      "section": "001",
       "day": "T",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "7-8PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "7-8PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "T",
       "time": "7-8PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "T",
       "time": "7-8PM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "T",
       "time": "7-8PM",
       "type": "REC"
@@ -36403,6 +41193,7 @@ var data17C = {
   ],
   "PUBH-525": [
     {
+      "section": "001",
       "day": "R",
       "time": "1-4PM",
       "type": "LEC"
@@ -36410,6 +41201,7 @@ var data17C = {
   ],
   "PUBH-529": [
     {
+      "section": "001",
       "day": "M",
       "time": "1-4PM",
       "type": "LEC"
@@ -36417,6 +41209,7 @@ var data17C = {
   ],
   "PUBH-598": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -36424,6 +41217,7 @@ var data17C = {
   ],
   "PUBH-604": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -36431,6 +41225,7 @@ var data17C = {
   ],
   "PUBH-605": [
     {
+      "section": "001",
       "day": "T",
       "time": "1-4PM",
       "type": "LEC"
@@ -36438,6 +41233,7 @@ var data17C = {
   ],
   "PUBH-607": [
     {
+      "section": "001",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
@@ -36445,11 +41241,7 @@ var data17C = {
   ],
   "PUNJ-424": [
     {
-      "day": "TR",
-      "time": "4:30-6PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -36457,11 +41249,13 @@ var data17C = {
   ],
   "PUNJ-434": [
     {
+      "section": "680",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -36469,13 +41263,29 @@ var data17C = {
   ],
   "REAL-204": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
     }
   ],
+  "REAL-209": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "TR",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
   "REAL-230": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -36483,6 +41293,7 @@ var data17C = {
   ],
   "REAL-321": [
     {
+      "section": "402",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -36490,6 +41301,7 @@ var data17C = {
   ],
   "REAL-390": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-6PM",
       "type": "SEM"
@@ -36497,6 +41309,7 @@ var data17C = {
   ],
   "REAL-396": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
@@ -36504,13 +41317,35 @@ var data17C = {
   ],
   "REAL-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     }
   ],
+  "REAL-721": [
+    {
+      "section": "404",
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "405",
+      "day": "MW",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "406",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    }
+  ],
   "REAL-723": [
     {
+      "section": "751",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -36518,6 +41353,7 @@ var data17C = {
   ],
   "REAL-804": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -36525,6 +41361,7 @@ var data17C = {
   ],
   "REAL-821": [
     {
+      "section": "402",
       "day": "M",
       "time": "3-6PM",
       "type": "LEC"
@@ -36532,6 +41369,7 @@ var data17C = {
   ],
   "REAL-890": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-6PM",
       "type": "SEM"
@@ -36539,6 +41377,7 @@ var data17C = {
   ],
   "REAL-891": [
     {
+      "section": "401",
       "day": "R",
       "time": "3-6PM",
       "type": "LEC"
@@ -36546,6 +41385,7 @@ var data17C = {
   ],
   "REAL-899": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -36553,13 +41393,29 @@ var data17C = {
   ],
   "REAL-946": [
     {
+      "section": "001",
       "day": "T",
       "time": "3-6PM",
       "type": "LEC"
     }
   ],
+  "REAL-962": [
+    {
+      "section": "401",
+      "day": "W",
+      "time": "12-1:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "402",
+      "day": "M",
+      "time": "12-1:30PM",
+      "type": "SEM"
+    }
+  ],
   "REAL-999": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -36567,6 +41423,7 @@ var data17C = {
   ],
   "REG-510": [
     {
+      "section": "401",
       "day": "MW",
       "time": "4-5:30PM",
       "type": "LEC"
@@ -36574,6 +41431,7 @@ var data17C = {
   ],
   "REG-602": [
     {
+      "section": "401",
       "day": "MW",
       "time": "8-10AM",
       "type": "SEM"
@@ -36581,6 +41439,7 @@ var data17C = {
   ],
   "REG-613": [
     {
+      "section": "001",
       "day": "MW",
       "time": "4-5:30PM",
       "type": "LEC"
@@ -36588,6 +41447,7 @@ var data17C = {
   ],
   "REG-622": [
     {
+      "section": "401",
       "day": "T",
       "time": "3:30-6:30PM",
       "type": "LEC"
@@ -36595,6 +41455,7 @@ var data17C = {
   ],
   "REG-623": [
     {
+      "section": "401",
       "day": "MTWR",
       "time": "9-10AM",
       "type": "LEC"
@@ -36602,6 +41463,7 @@ var data17C = {
   ],
   "RELS-002": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -36609,6 +41471,7 @@ var data17C = {
   ],
   "RELS-005": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -36616,6 +41479,7 @@ var data17C = {
   ],
   "RELS-011": [
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -36623,6 +41487,7 @@ var data17C = {
   ],
   "RELS-027": [
     {
+      "section": "401",
       "day": "M",
       "time": "6-9PM",
       "type": "SEM"
@@ -36630,6 +41495,7 @@ var data17C = {
   ],
   "RELS-033": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -36637,21 +41503,25 @@ var data17C = {
   ],
   "RELS-068": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "404",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
@@ -36659,6 +41529,7 @@ var data17C = {
   ],
   "RELS-109": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -36666,6 +41537,7 @@ var data17C = {
   ],
   "RELS-111": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -36673,6 +41545,7 @@ var data17C = {
   ],
   "RELS-126": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -36680,6 +41553,7 @@ var data17C = {
   ],
   "RELS-129": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -36687,6 +41561,7 @@ var data17C = {
   ],
   "RELS-132": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -36694,6 +41569,7 @@ var data17C = {
   ],
   "RELS-140": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -36701,6 +41577,7 @@ var data17C = {
   ],
   "RELS-146": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -36708,16 +41585,19 @@ var data17C = {
   ],
   "RELS-155": [
     {
+      "section": "401",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "403",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
@@ -36725,6 +41605,7 @@ var data17C = {
   ],
   "RELS-163": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -36732,6 +41613,7 @@ var data17C = {
   ],
   "RELS-211": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -36739,6 +41621,7 @@ var data17C = {
   ],
   "RELS-239": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -36746,11 +41629,7 @@ var data17C = {
   ],
   "RELS-256": [
     {
-      "day": "T",
-      "time": "5-11:50PM",
-      "type": "SEM"
-    },
-    {
+      "section": "301",
       "day": "T",
       "time": "5-11:50PM",
       "type": "SEM"
@@ -36758,6 +41637,7 @@ var data17C = {
   ],
   "RELS-309": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -36765,6 +41645,7 @@ var data17C = {
   ],
   "RELS-311": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -36772,6 +41653,7 @@ var data17C = {
   ],
   "RELS-320": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -36779,6 +41661,7 @@ var data17C = {
   ],
   "RELS-332": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -36786,6 +41669,7 @@ var data17C = {
   ],
   "RELS-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -36793,6 +41677,7 @@ var data17C = {
   ],
   "RELS-500": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -36800,6 +41685,7 @@ var data17C = {
   ],
   "RELS-501": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -36807,6 +41693,7 @@ var data17C = {
   ],
   "RELS-541": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -36814,6 +41701,7 @@ var data17C = {
   ],
   "RELS-555": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -36821,6 +41709,7 @@ var data17C = {
   ],
   "RELS-581": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -36828,6 +41717,7 @@ var data17C = {
   ],
   "RELS-620": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -36835,6 +41725,7 @@ var data17C = {
   ],
   "RELS-648": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -36842,6 +41733,7 @@ var data17C = {
   ],
   "RELS-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -36849,11 +41741,7 @@ var data17C = {
   ],
   "ROML-110": [
     {
-      "day": "TR",
-      "time": "5:30-7:30PM",
-      "type": "SEM"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "5:30-7:30PM",
       "type": "SEM"
@@ -36861,11 +41749,13 @@ var data17C = {
   ],
   "ROML-130": [
     {
+      "section": "680",
       "day": "TR",
       "time": "7:30-9PM",
       "type": "SEM"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "7:30-9PM",
       "type": "SEM"
@@ -36873,6 +41763,7 @@ var data17C = {
   ],
   "ROML-690": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-4PM",
       "type": "SEM"
@@ -36880,26 +41771,25 @@ var data17C = {
   ],
   "RUSS-001": [
     {
+      "section": "001",
       "day": "MTWRF",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
     },
     {
+      "section": "STUHR-ROMMEREIM",
       "day": "TR",
       "time": "10:30-11:30AM",
       "type": "LEC"
     },
     {
-      "day": "TR",
-      "time": "6-8:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "6-8:30PM",
       "type": "LEC"
@@ -36907,23 +41797,89 @@ var data17C = {
   ],
   "RUSS-003": [
     {
+      "section": "001",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "M",
       "day": "TR",
       "time": "10:30-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
     }
   ],
+  "RUSS-135": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "W",
+      "time": "5-6PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "407",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "section": "408",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "409",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "410",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    }
+  ],
   "RUSS-136": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -36931,6 +41887,7 @@ var data17C = {
   ],
   "RUSS-160": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -36938,6 +41895,7 @@ var data17C = {
   ],
   "RUSS-164": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -36945,6 +41903,7 @@ var data17C = {
   ],
   "RUSS-189": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -36952,6 +41911,7 @@ var data17C = {
   ],
   "RUSS-191": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -36959,6 +41919,7 @@ var data17C = {
   ],
   "RUSS-196": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -36966,6 +41927,7 @@ var data17C = {
   ],
   "RUSS-199": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -36973,11 +41935,13 @@ var data17C = {
   ],
   "RUSS-201": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -36985,6 +41949,7 @@ var data17C = {
   ],
   "RUSS-220": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -36992,6 +41957,7 @@ var data17C = {
   ],
   "RUSS-240": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -36999,6 +41965,7 @@ var data17C = {
   ],
   "RUSS-311": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -37006,6 +41973,7 @@ var data17C = {
   ],
   "RUSS-360": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -37013,6 +41981,7 @@ var data17C = {
   ],
   "RUSS-416": [
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -37020,6 +41989,7 @@ var data17C = {
   ],
   "RUSS-466": [
     {
+      "section": "301",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "SEM"
@@ -37027,6 +41997,7 @@ var data17C = {
   ],
   "RUSS-511": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -37034,6 +42005,7 @@ var data17C = {
   ],
   "RUSS-618": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -37041,6 +42013,7 @@ var data17C = {
   ],
   "RUSS-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -37048,27 +42021,97 @@ var data17C = {
   ],
   "SAST-001": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
+  "SAST-005": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "2-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    }
+  ],
   "SAST-007": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     }
   ],
+  "SAST-008": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "12-1PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "2-3PM",
+      "type": "REC"
+    }
+  ],
   "SAST-009": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
+  "SAST-050": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    }
+  ],
   "SAST-057": [
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -37076,6 +42119,7 @@ var data17C = {
   ],
   "SAST-104": [
     {
+      "section": "401",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -37083,6 +42127,7 @@ var data17C = {
   ],
   "SAST-106": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -37090,6 +42135,7 @@ var data17C = {
   ],
   "SAST-124": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -37097,6 +42143,7 @@ var data17C = {
   ],
   "SAST-144": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -37104,6 +42151,7 @@ var data17C = {
   ],
   "SAST-146": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -37111,6 +42159,7 @@ var data17C = {
   ],
   "SAST-217": [
     {
+      "section": "407",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "SEM"
@@ -37118,6 +42167,7 @@ var data17C = {
   ],
   "SAST-252": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -37125,6 +42175,7 @@ var data17C = {
   ],
   "SAST-290": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -37132,6 +42183,7 @@ var data17C = {
   ],
   "SAST-300": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -37139,6 +42191,7 @@ var data17C = {
   ],
   "SAST-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -37146,23 +42199,33 @@ var data17C = {
   ],
   "SAST-410": [
     {
+      "section": "680",
       "day": "TR",
       "time": "6-8PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "6-8PM",
       "type": "LEC"
-    }
-  ],
-  "SAST-412": [
+    },
     {
+      "section": "680",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "680",
+      "day": "MW",
+      "time": "6:30-8:30PM",
+      "type": "LEC"
+    }
+  ],
+  "SAST-412": [
+    {
+      "section": "680",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -37170,6 +42233,7 @@ var data17C = {
   ],
   "SAST-517": [
     {
+      "section": "407",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "SEM"
@@ -37177,6 +42241,7 @@ var data17C = {
   ],
   "SAST-541": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -37184,6 +42249,7 @@ var data17C = {
   ],
   "SAST-562": [
     {
+      "section": "301",
       "day": "T",
       "time": "3-6PM",
       "type": "LEC"
@@ -37191,6 +42257,7 @@ var data17C = {
   ],
   "SAST-620": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -37198,6 +42265,7 @@ var data17C = {
   ],
   "SAST-627": [
     {
+      "section": "401",
       "day": "M",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -37205,6 +42273,7 @@ var data17C = {
   ],
   "SAST-711": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -37212,6 +42281,7 @@ var data17C = {
   ],
   "SAST-995": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -37219,6 +42289,7 @@ var data17C = {
   ],
   "SAST-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -37226,6 +42297,7 @@ var data17C = {
   ],
   "SCND-101": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
@@ -37233,6 +42305,7 @@ var data17C = {
   ],
   "SCND-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -37240,6 +42313,7 @@ var data17C = {
   ],
   "SCND-501": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
@@ -37247,6 +42321,7 @@ var data17C = {
   ],
   "SKRT-460": [
     {
+      "section": "001",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
@@ -37254,6 +42329,7 @@ var data17C = {
   ],
   "SKRT-470": [
     {
+      "section": "001",
       "day": "MF",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -37261,6 +42337,7 @@ var data17C = {
   ],
   "SKRT-480": [
     {
+      "section": "001",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -37268,6 +42345,7 @@ var data17C = {
   ],
   "SLAV-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -37275,6 +42353,7 @@ var data17C = {
   ],
   "SLAV-500": [
     {
+      "section": "401",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -37282,11 +42361,7 @@ var data17C = {
   ],
   "SLAV-501": [
     {
-      "day": "MW",
-      "time": "6:30-8:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "6:30-8:30PM",
       "type": "LEC"
@@ -37294,11 +42369,7 @@ var data17C = {
   ],
   "SLAV-503": [
     {
-      "day": "MW",
-      "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -37306,11 +42377,13 @@ var data17C = {
   ],
   "SLAV-592": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -37318,41 +42391,49 @@ var data17C = {
   ],
   "SOCI-001": [
     {
+      "section": "001",
       "day": "MW",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "T",
       "time": "10:30-11:30AM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "R",
       "time": "10:30-11:30AM",
       "type": "REC"
     },
     {
+      "section": "205",
       "day": "F",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "T",
       "time": "5:30-8:40PM",
       "type": "LEC"
@@ -37360,6 +42441,7 @@ var data17C = {
   ],
   "SOCI-002": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -37367,6 +42449,7 @@ var data17C = {
   ],
   "SOCI-004": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -37374,21 +42457,25 @@ var data17C = {
   ],
   "SOCI-005": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "10-11AM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "R",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "R",
       "time": "9-10AM",
       "type": "REC"
@@ -37396,6 +42483,7 @@ var data17C = {
   ],
   "SOCI-006": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -37403,54 +42491,185 @@ var data17C = {
   ],
   "SOCI-007": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
+  "SOCI-012": [
+    {
+      "section": "401",
+      "day": "M",
+      "time": "2-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "W",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "W",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "406",
+      "day": "W",
+      "time": "4-5PM",
+      "type": "REC"
+    }
+  ],
   "SOCI-041": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
     }
   ],
+  "SOCI-100": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "9:30-10:30AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "R",
+      "time": "10:30-11:30AM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    }
+  ],
   "SOCI-103": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
+  "SOCI-111": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    }
+  ],
   "SOCI-112": [
     {
+      "section": "401",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     }
   ],
+  "SOCI-120": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "10-11AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "9:30-10:30AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "R",
+      "time": "10:30-11:30AM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    }
+  ],
   "SOCI-122": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -37458,6 +42677,7 @@ var data17C = {
   ],
   "SOCI-135": [
     {
+      "section": "401",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
@@ -37465,6 +42685,7 @@ var data17C = {
   ],
   "SOCI-152": [
     {
+      "section": "401",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -37472,6 +42693,7 @@ var data17C = {
   ],
   "SOCI-153": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -37479,6 +42701,7 @@ var data17C = {
   ],
   "SOCI-222": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -37486,6 +42709,7 @@ var data17C = {
   ],
   "SOCI-233": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -37493,6 +42717,7 @@ var data17C = {
   ],
   "SOCI-250": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -37500,6 +42725,7 @@ var data17C = {
   ],
   "SOCI-266": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "LEC"
@@ -37507,6 +42733,7 @@ var data17C = {
   ],
   "SOCI-268": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -37514,6 +42741,7 @@ var data17C = {
   ],
   "SOCI-277": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "LEC"
@@ -37521,6 +42749,7 @@ var data17C = {
   ],
   "SOCI-410": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -37528,6 +42757,7 @@ var data17C = {
   ],
   "SOCI-417": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:20PM",
       "type": "LEC"
@@ -37535,6 +42765,7 @@ var data17C = {
   ],
   "SOCI-420": [
     {
+      "section": "401",
       "day": "W",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -37542,6 +42773,7 @@ var data17C = {
   ],
   "SOCI-435": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -37549,13 +42781,41 @@ var data17C = {
   ],
   "SOCI-453": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     }
   ],
+  "SOCI-535": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "W",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "W",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "W",
+      "time": "5-6PM",
+      "type": "REC"
+    }
+  ],
   "SOCI-542": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -37563,6 +42823,7 @@ var data17C = {
   ],
   "SOCI-553": [
     {
+      "section": "301",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
@@ -37570,6 +42831,7 @@ var data17C = {
   ],
   "SOCI-555": [
     {
+      "section": "301",
       "day": "M",
       "time": "9-12NOON",
       "type": "SEM"
@@ -37577,6 +42839,7 @@ var data17C = {
   ],
   "SOCI-562": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -37584,6 +42847,7 @@ var data17C = {
   ],
   "SOCI-596": [
     {
+      "section": "301",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -37591,6 +42855,7 @@ var data17C = {
   ],
   "SOCI-602": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -37598,6 +42863,7 @@ var data17C = {
   ],
   "SOCI-607": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -37605,6 +42871,7 @@ var data17C = {
   ],
   "SOCI-609": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "LEC"
@@ -37612,6 +42879,7 @@ var data17C = {
   ],
   "SOCI-611": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "LEC"
@@ -37619,6 +42887,7 @@ var data17C = {
   ],
   "SOCI-612": [
     {
+      "section": "401",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "LEC"
@@ -37626,6 +42895,7 @@ var data17C = {
   ],
   "SOCI-630": [
     {
+      "section": "401",
       "day": "W",
       "time": "9-12NOON",
       "type": "SEM"
@@ -37633,6 +42903,7 @@ var data17C = {
   ],
   "SOCI-643": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -37640,6 +42911,7 @@ var data17C = {
   ],
   "SOCI-702": [
     {
+      "section": "401",
       "day": "W",
       "time": "10-1PM",
       "type": "SEM"
@@ -37647,6 +42919,7 @@ var data17C = {
   ],
   "SOCI-707": [
     {
+      "section": "401",
       "day": "T",
       "time": "9-12NOON",
       "type": "SEM"
@@ -37654,6 +42927,7 @@ var data17C = {
   ],
   "SOCI-815": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-3:30PM",
       "type": "SEM"
@@ -37661,56 +42935,61 @@ var data17C = {
   ],
   "SPAN-110": [
     {
+      "section": "301",
       "day": "MTWRF",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "L",
       "day": "TR",
       "time": "9:30-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MTWRF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "N",
       "day": "MTWRF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "CARBALL",
       "day": "MTWRF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "306",
       "day": "MTWRF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "307",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "L",
       "day": "TR",
       "time": "1:30-2:30PM",
       "type": "SEM"
     },
     {
-      "day": "MTWRF",
-      "time": "2-3PM",
-      "type": "SEM"
-    },
-    {
+      "section": "601",
       "day": "MW",
       "time": "6-8:30PM",
       "type": "SEM"
@@ -37718,11 +42997,7 @@ var data17C = {
   ],
   "SPAN-115": [
     {
-      "day": "MW",
-      "time": "6-8:30PM",
-      "type": "SEM"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "6-8:30PM",
       "type": "SEM"
@@ -37730,61 +43005,73 @@ var data17C = {
   ],
   "SPAN-121": [
     {
+      "section": "301",
       "day": "MTWRF",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "DELGADI",
       "day": "MTWRF",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "D",
       "day": "TR",
       "time": "9:30-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "N",
       "day": "TR",
       "time": "9:30-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "MTWRF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "306",
       "day": "MTWRF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "307",
       "day": "MTWRF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "308",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "M",
       "day": "TR",
       "time": "1:30-2:30PM",
       "type": "SEM"
     },
     {
+      "section": "309",
       "day": "MTWRF",
       "time": "11-12NOON",
       "type": "SEM"
@@ -37792,106 +43079,121 @@ var data17C = {
   ],
   "SPAN-130": [
     {
+      "section": "301",
       "day": "MWRF",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MWRF",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "M",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "S",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "JIMENEZ-CORRETJ",
       "day": "MWRF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "306",
       "day": "MWRF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "307",
       "day": "MW",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "S",
       "day": "R",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
-      "day": "F",
-      "time": "11-12NOON",
-      "type": "SEM"
-    },
-    {
+      "section": "308",
       "day": "MWRF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "309",
       "day": "MWRF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "310",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "J",
       "day": "R",
       "time": "1:30-2:30PM",
       "type": "SEM"
     },
     {
+      "section": "311",
       "day": "MTWR",
       "time": "2-3PM",
       "type": "SEM"
     },
     {
+      "section": "312",
       "day": "MTWR",
       "time": "2-3PM",
       "type": "SEM"
     },
     {
+      "section": "313",
       "day": "MTWR",
       "time": "3-4PM",
       "type": "SEM"
     },
     {
+      "section": "314",
       "day": "MTWR",
       "time": "3-4PM",
       "type": "SEM"
     },
     {
+      "section": "315",
       "day": "MWRF",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "MW",
       "time": "6-8PM",
       "type": "SEM"
@@ -37899,11 +43201,19 @@ var data17C = {
   ],
   "SPAN-135": [
     {
+      "section": "680",
       "day": "TR",
       "time": "6-8PM",
       "type": "SEM"
     },
     {
+      "section": "680",
+      "day": "TR",
+      "time": "6-8PM",
+      "type": "SEM"
+    },
+    {
+      "section": "680",
       "day": "TR",
       "time": "6-8PM",
       "type": "SEM"
@@ -37911,106 +43221,115 @@ var data17C = {
   ],
   "SPAN-140": [
     {
+      "section": "301",
       "day": "MTWF",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MTWF",
       "time": "9-10AM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "VELASCO-GONZALE",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "O",
       "day": "T",
       "time": "9:30-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "306",
       "day": "MTWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "307",
       "day": "MTWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "VELASCO-GONZALE",
       "day": "MTWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "310",
       "day": "MTWF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "311",
       "day": "MTWF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
-      "day": "MTWF",
-      "time": "12-1PM",
-      "type": "SEM"
-    },
-    {
+      "section": "312",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "VELASCO-GONZALE",
       "day": "T",
       "time": "1:30-2:30PM",
       "type": "SEM"
     },
     {
-      "day": "MWF",
-      "time": "1-2PM",
-      "type": "SEM"
-    },
-    {
+      "section": "A",
       "day": "T",
       "time": "1:30-2:30PM",
       "type": "SEM"
     },
     {
+      "section": "314",
       "day": "MTWR",
       "time": "2-3PM",
       "type": "SEM"
     },
     {
+      "section": "315",
       "day": "MTWR",
       "time": "2-3PM",
       "type": "SEM"
     },
     {
+      "section": "316",
       "day": "MTWR",
       "time": "3-4PM",
       "type": "SEM"
     },
     {
+      "section": "317",
       "day": "MTWR",
       "time": "3-4PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "TR",
       "time": "6-8PM",
       "type": "SEM"
@@ -38018,11 +43337,7 @@ var data17C = {
   ],
   "SPAN-145": [
     {
-      "day": "TR",
-      "time": "6-8PM",
-      "type": "SEM"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "6-8PM",
       "type": "SEM"
@@ -38030,6 +43345,7 @@ var data17C = {
   ],
   "SPAN-180": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -38037,51 +43353,61 @@ var data17C = {
   ],
   "SPAN-202": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "D",
       "day": "R",
       "time": "9:30-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "MULERO",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "741",
       "day": "R",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MWRF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "MWRF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "306",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "F",
       "day": "R",
       "time": "1:30-2:30PM",
       "type": "SEM"
     },
     {
+      "section": "307",
       "day": "MTWR",
       "time": "2-3PM",
       "type": "SEM"
     },
     {
+      "section": "308",
       "day": "MTWR",
       "time": "3-4PM",
       "type": "SEM"
@@ -38089,21 +43415,19 @@ var data17C = {
   ],
   "SPAN-208": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
-      "day": "TR",
-      "time": "6-7:30PM",
-      "type": "SEM"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "6-7:30PM",
       "type": "SEM"
@@ -38111,6 +43435,7 @@ var data17C = {
   ],
   "SPAN-209": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -38118,26 +43443,31 @@ var data17C = {
   ],
   "SPAN-212": [
     {
+      "section": "ARROY",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MWF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MWF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
@@ -38145,6 +43475,7 @@ var data17C = {
   ],
   "SPAN-216": [
     {
+      "section": "050",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -38152,21 +43483,25 @@ var data17C = {
   ],
   "SPAN-219": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MWF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
@@ -38174,21 +43509,25 @@ var data17C = {
   ],
   "SPAN-223": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MWF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
@@ -38196,6 +43535,7 @@ var data17C = {
   ],
   "SPAN-325": [
     {
+      "section": "TRAVIS",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
@@ -38203,6 +43543,7 @@ var data17C = {
   ],
   "SPAN-330": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -38210,6 +43551,7 @@ var data17C = {
   ],
   "SPAN-348": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -38217,11 +43559,13 @@ var data17C = {
   ],
   "SPAN-380": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -38229,16 +43573,19 @@ var data17C = {
   ],
   "SPAN-388": [
     {
+      "section": "001",
       "day": "T",
       "time": "3-4:30PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
@@ -38246,6 +43593,7 @@ var data17C = {
   ],
   "SPAN-394": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "10-11AM",
       "type": "SEM"
@@ -38253,18 +43601,35 @@ var data17C = {
   ],
   "SPAN-395": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
     }
   ],
+  "SPAN-396": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "SEM"
+    },
+    {
+      "section": "402",
+      "day": "TR",
+      "time": "12-1:30PM",
+      "type": "SEM"
+    }
+  ],
   "SPAN-400": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
     },
     {
+      "section": "CABALLO-MARQUEZ",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -38272,6 +43637,7 @@ var data17C = {
   ],
   "SPAN-543": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -38279,6 +43645,7 @@ var data17C = {
   ],
   "SPAN-606": [
     {
+      "section": "301",
       "day": "F",
       "time": "1-4PM",
       "type": "SEM"
@@ -38286,6 +43653,7 @@ var data17C = {
   ],
   "SPAN-686": [
     {
+      "section": "301",
       "day": "R",
       "time": "2-5PM",
       "type": "SEM"
@@ -38293,6 +43661,7 @@ var data17C = {
   ],
   "SPAN-690": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -38300,6 +43669,7 @@ var data17C = {
   ],
   "SPAN-697": [
     {
+      "section": "301",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -38307,6 +43677,7 @@ var data17C = {
   ],
   "SPAN-698": [
     {
+      "section": "301",
       "day": "F",
       "time": "12-3PM",
       "type": "SEM"
@@ -38314,6 +43685,7 @@ var data17C = {
   ],
   "SPAN-800": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -38321,6 +43693,7 @@ var data17C = {
   ],
   "SPAN-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -38328,16 +43701,19 @@ var data17C = {
   ],
   "STAT-101": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -38345,16 +43721,19 @@ var data17C = {
   ],
   "STAT-102": [
     {
+      "section": "001",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -38362,56 +43741,67 @@ var data17C = {
   ],
   "STAT-111": [
     {
+      "section": "001",
       "day": "TR",
       "time": "11-12NOON",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "203",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "204",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "TR",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "205",
       "day": "F",
       "time": "11-12NOON",
       "type": "REC"
     },
     {
+      "section": "206",
       "day": "F",
       "time": "12-1PM",
       "type": "REC"
     },
     {
+      "section": "207",
       "day": "F",
       "time": "1-2PM",
       "type": "REC"
     },
     {
+      "section": "208",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     },
     {
+      "section": "601",
       "day": "W",
       "time": "6:30-9:30PM",
       "type": "LEC"
@@ -38419,6 +43809,7 @@ var data17C = {
   ],
   "STAT-399": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -38426,162 +43817,99 @@ var data17C = {
   ],
   "STAT-405": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "403",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "405",
       "day": "MW",
       "time": "12-1:30PM",
-      "type": "LEC"
-    }
-  ],
-  "STAT-705": [
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
   "STAT-422": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "403",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "404",
       "day": "MW",
       "time": "12-1:30PM",
-      "type": "LEC"
-    }
-  ],
-  "STAT-722": [
-    {
-      "day": "MW",
-      "time": "9-10:30AM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
   "STAT-430": [
     {
+      "section": "401",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "403",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "404",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "405",
       "day": "TR",
       "time": "4:30-6PM",
-      "type": "LEC"
-    }
-  ],
-  "STAT-510": [
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "1:30-3PM",
-      "type": "LEC"
-    },
-    {
-      "day": "TR",
-      "time": "4:30-6PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "9-10:30AM",
       "type": "LEC"
     }
   ],
   "STAT-431": [
     {
+      "section": "401",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "3-4:30PM",
-      "type": "LEC"
-    }
-  ],
-  "STAT-511": [
-    {
-      "day": "MW",
-      "time": "3-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
   "STAT-435": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -38589,6 +43917,7 @@ var data17C = {
   ],
   "STAT-451": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -38596,6 +43925,7 @@ var data17C = {
   ],
   "STAT-453": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -38603,54 +43933,35 @@ var data17C = {
   ],
   "STAT-470": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
-    }
-  ],
-  "STAT-770": [
-    {
-      "day": "MW",
-      "time": "3-4:30PM",
-      "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "3-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
   "STAT-471": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
-    }
-  ],
-  "STAT-701": [
-    {
-      "day": "MW",
-      "time": "3-4:30PM",
-      "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "3-4:30PM",
-      "type": "LEC"
-    },
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
       "type": "LEC"
     }
   ],
   "STAT-500": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -38658,11 +43969,59 @@ var data17C = {
   ],
   "STAT-503": [
     {
+      "section": "401",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "402",
+      "day": "MW",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "STAT-510": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "403",
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "404",
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "405",
+      "day": "TR",
+      "time": "4:30-6PM",
+      "type": "LEC"
+    }
+  ],
+  "STAT-511": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -38670,6 +44029,7 @@ var data17C = {
   ],
   "STAT-520": [
     {
+      "section": "001",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -38677,11 +44037,13 @@ var data17C = {
   ],
   "STAT-571": [
     {
+      "section": "401",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "402",
       "day": "MW",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -38689,31 +44051,37 @@ var data17C = {
   ],
   "STAT-613": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -38721,30 +44089,109 @@ var data17C = {
   ],
   "STAT-621": [
     {
+      "section": "001",
       "day": "MW",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
     }
   ],
+  "STAT-701": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "STAT-705": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "section": "403",
+      "day": "MW",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "405",
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
   "STAT-711": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
     }
   ],
+  "STAT-722": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "section": "403",
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "404",
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "STAT-770": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
   "STAT-851": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -38752,6 +44199,7 @@ var data17C = {
   ],
   "STAT-853": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -38759,6 +44207,7 @@ var data17C = {
   ],
   "STAT-899": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -38766,6 +44215,7 @@ var data17C = {
   ],
   "STAT-930": [
     {
+      "section": "401",
       "day": "MF",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -38773,6 +44223,7 @@ var data17C = {
   ],
   "STAT-961": [
     {
+      "section": "001",
       "day": "F",
       "time": "3-6PM",
       "type": "LEC"
@@ -38780,6 +44231,7 @@ var data17C = {
   ],
   "STAT-970": [
     {
+      "section": "B",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "LEC"
@@ -38787,16 +44239,19 @@ var data17C = {
   ],
   "STAT-991": [
     {
+      "section": "301",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "W",
       "time": "4:30-6PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "F",
       "time": "9:30-12:30PM",
       "type": "SEM"
@@ -38804,6 +44259,7 @@ var data17C = {
   ],
   "STAT-995": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "DIS"
@@ -38811,13 +44267,79 @@ var data17C = {
   ],
   "STAT-999": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
     }
   ],
+  "STSC-001": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "10-11AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    }
+  ],
+  "STSC-002": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "R",
+      "time": "3-4PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "R",
+      "time": "4:30-5:30PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "2-3PM",
+      "type": "REC"
+    }
+  ],
   "STSC-026": [
     {
+      "section": "401",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
@@ -38825,6 +44347,7 @@ var data17C = {
   ],
   "STSC-078": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -38832,30 +44355,99 @@ var data17C = {
   ],
   "STSC-123": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
     }
   ],
+  "STSC-145": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "9-10AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    }
+  ],
   "STSC-168": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "201",
       "day": "F",
       "time": "3-4PM",
       "type": "REC"
     },
     {
+      "section": "202",
       "day": "F",
       "time": "2-3PM",
       "type": "REC"
     }
   ],
+  "STSC-212": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "11-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    }
+  ],
   "STSC-270": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -38863,6 +44455,7 @@ var data17C = {
   ],
   "STSC-379": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -38870,6 +44463,7 @@ var data17C = {
   ],
   "STSC-408": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -38877,36 +44471,43 @@ var data17C = {
   ],
   "SWRK-601": [
     {
+      "section": "001",
       "day": "T",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "4-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "W",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "W",
       "time": "4-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "W",
       "time": "6:45-9:15PM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "T",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "W",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -38914,36 +44515,43 @@ var data17C = {
   ],
   "SWRK-602": [
     {
+      "section": "001",
       "day": "T",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "4-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "W",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "T",
       "time": "6:45-9:15PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "W",
       "time": "4-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "T",
       "time": "4-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "W",
       "time": "12-2:30PM",
       "type": "LEC"
@@ -38951,51 +44559,61 @@ var data17C = {
   ],
   "SWRK-603": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "T",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "T",
       "time": "4-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "W",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "W",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "W",
       "time": "4-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "W",
       "time": "6:45-9:15PM",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "T",
       "time": "4-6:30PM",
       "type": "LEC"
     },
     {
+      "section": "010",
       "day": "W",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -39003,46 +44621,55 @@ var data17C = {
   ],
   "SWRK-604": [
     {
+      "section": "001",
       "day": "T",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "T",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "T",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "T",
       "time": "6:45-9:15PM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "W",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "W",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "T",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "009",
       "day": "W",
       "time": "12-2:30PM",
       "type": "LEC"
@@ -39050,6 +44677,7 @@ var data17C = {
   ],
   "SWRK-703": [
     {
+      "section": "001",
       "day": "W",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -39057,41 +44685,49 @@ var data17C = {
   ],
   "SWRK-704": [
     {
+      "section": "001",
       "day": "W",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "R",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "R",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "R",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "R",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "007",
       "day": "R",
       "time": "6:45-9:15PM",
       "type": "LEC"
     },
     {
+      "section": "008",
       "day": "W",
       "time": "12-2:30PM",
       "type": "LEC"
@@ -39099,16 +44735,19 @@ var data17C = {
   ],
   "SWRK-708": [
     {
+      "section": "001",
       "day": "R",
       "time": "12-2:30PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "R",
       "time": "6:45-9:15PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "R",
       "time": "12-2:30PM",
       "type": "LEC"
@@ -39116,16 +44755,19 @@ var data17C = {
   ],
   "SWRK-710": [
     {
+      "section": "001",
       "day": "T",
       "time": "6-8PM",
       "type": "SEM"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "6:30-8:30PM",
       "type": "SEM"
     },
     {
+      "section": "003",
       "day": "M",
       "time": "6-8PM",
       "type": "SEM"
@@ -39133,6 +44775,7 @@ var data17C = {
   ],
   "SWRK-716": [
     {
+      "section": "401",
       "day": "W",
       "time": "10-1PM",
       "type": "SEM"
@@ -39140,6 +44783,7 @@ var data17C = {
   ],
   "SWRK-721": [
     {
+      "section": "001",
       "day": "W",
       "time": "2:30-4PM",
       "type": "SEM"
@@ -39147,6 +44791,7 @@ var data17C = {
   ],
   "SWRK-726": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -39154,6 +44799,7 @@ var data17C = {
   ],
   "SWRK-729": [
     {
+      "section": "001",
       "day": "R",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -39161,6 +44807,7 @@ var data17C = {
   ],
   "SWRK-731": [
     {
+      "section": "001",
       "day": "R",
       "time": "4-6:30PM",
       "type": "SEM"
@@ -39168,6 +44815,7 @@ var data17C = {
   ],
   "SWRK-736": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -39175,6 +44823,7 @@ var data17C = {
   ],
   "SWRK-738": [
     {
+      "section": "001",
       "day": "R",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -39182,6 +44831,7 @@ var data17C = {
   ],
   "SWRK-739": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -39189,6 +44839,7 @@ var data17C = {
   ],
   "SWRK-740": [
     {
+      "section": "001",
       "day": "R",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -39196,6 +44847,7 @@ var data17C = {
   ],
   "SWRK-742": [
     {
+      "section": "001",
       "day": "W",
       "time": "6:45-9:15PM",
       "type": "LEC"
@@ -39203,11 +44855,13 @@ var data17C = {
   ],
   "SWRK-744": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -39215,6 +44869,7 @@ var data17C = {
   ],
   "SWRK-755": [
     {
+      "section": "001",
       "day": "W",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -39222,16 +44877,19 @@ var data17C = {
   ],
   "SWRK-760": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "W",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "R",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -39239,6 +44897,7 @@ var data17C = {
   ],
   "SWRK-773": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -39246,6 +44905,7 @@ var data17C = {
   ],
   "SWRK-774": [
     {
+      "section": "001",
       "day": "W",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -39253,6 +44913,7 @@ var data17C = {
   ],
   "SWRK-777": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -39260,6 +44921,7 @@ var data17C = {
   ],
   "SWRK-781": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -39267,6 +44929,7 @@ var data17C = {
   ],
   "SWRK-783": [
     {
+      "section": "001",
       "day": "W",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -39274,6 +44937,7 @@ var data17C = {
   ],
   "SWRK-786": [
     {
+      "section": "001",
       "day": "W",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -39281,6 +44945,7 @@ var data17C = {
   ],
   "SWRK-794": [
     {
+      "section": "001",
       "day": "R",
       "time": "4-6:30PM",
       "type": "LEC"
@@ -39288,6 +44953,7 @@ var data17C = {
   ],
   "SWRK-796": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -39295,21 +44961,25 @@ var data17C = {
   ],
   "SWRK-798": [
     {
+      "section": "001",
       "day": "R",
       "time": "9-11:30AM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "W",
       "time": "9-11:30AM",
       "type": "LEC"
@@ -39317,6 +44987,7 @@ var data17C = {
   ],
   "SWRK-803": [
     {
+      "section": "001",
       "day": "T",
       "time": "3-5:30PM",
       "type": "LEC"
@@ -39324,6 +44995,7 @@ var data17C = {
   ],
   "SWRK-804": [
     {
+      "section": "001",
       "day": "R",
       "time": "7-9PM",
       "type": "ONL"
@@ -39331,6 +45003,7 @@ var data17C = {
   ],
   "SWRK-812": [
     {
+      "section": "001",
       "day": "T",
       "time": "7-9PM",
       "type": "ONL"
@@ -39338,6 +45011,7 @@ var data17C = {
   ],
   "SWRK-852": [
     {
+      "section": "001",
       "day": "W",
       "time": "9:15-11:45AM",
       "type": "LEC"
@@ -39345,31 +45019,37 @@ var data17C = {
   ],
   "SWRK-900": [
     {
+      "section": "025",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
     },
     {
+      "section": "102",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
     },
     {
+      "section": "204",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
     },
     {
+      "section": "220",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
     },
     {
+      "section": "240",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
     },
     {
+      "section": "913",
       "day": "TBA",
       "time": "TBA",
       "type": "ONL"
@@ -39377,6 +45057,7 @@ var data17C = {
   ],
   "SWRK-901": [
     {
+      "section": "001",
       "day": "W",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -39384,6 +45065,7 @@ var data17C = {
   ],
   "SWRK-968": [
     {
+      "section": "001",
       "day": "R",
       "time": "10:30-1:25PM",
       "type": "LEC"
@@ -39391,11 +45073,13 @@ var data17C = {
   ],
   "TAML-406": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
@@ -39403,11 +45087,7 @@ var data17C = {
   ],
   "TAML-426": [
     {
-      "day": "TR",
-      "time": "5-6:30PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "TR",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -39415,11 +45095,13 @@ var data17C = {
   ],
   "TAML-446": [
     {
+      "section": "680",
       "day": "TR",
       "time": "6:30-8PM",
       "type": "LEC"
     },
     {
+      "section": "680",
       "day": "TR",
       "time": "6:30-8PM",
       "type": "LEC"
@@ -39427,6 +45109,7 @@ var data17C = {
   ],
   "TAML-489": [
     {
+      "section": "380",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -39434,6 +45117,7 @@ var data17C = {
   ],
   "TELU-409": [
     {
+      "section": "001",
       "day": "MTWR",
       "time": "12-1PM",
       "type": "LEC"
@@ -39441,6 +45125,7 @@ var data17C = {
   ],
   "TELU-429": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
@@ -39448,6 +45133,7 @@ var data17C = {
   ],
   "THAR-076": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -39455,6 +45141,7 @@ var data17C = {
   ],
   "THAR-101": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -39462,26 +45149,31 @@ var data17C = {
   ],
   "THAR-120": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "W",
       "time": "3:30-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -39489,6 +45181,7 @@ var data17C = {
   ],
   "THAR-121": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -39496,6 +45189,7 @@ var data17C = {
   ],
   "THAR-131": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -39503,6 +45197,7 @@ var data17C = {
   ],
   "THAR-170": [
     {
+      "section": "301",
       "day": "M",
       "time": "3:30-6:30PM",
       "type": "SEM"
@@ -39510,6 +45205,7 @@ var data17C = {
   ],
   "THAR-199": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -39517,6 +45213,7 @@ var data17C = {
   ],
   "THAR-236": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -39524,6 +45221,7 @@ var data17C = {
   ],
   "THAR-251": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:20PM",
       "type": "SEM"
@@ -39531,6 +45229,7 @@ var data17C = {
   ],
   "THAR-271": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -39538,11 +45237,7 @@ var data17C = {
   ],
   "THAR-279": [
     {
-      "day": "TR",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    },
-    {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -39550,6 +45245,7 @@ var data17C = {
   ],
   "THAR-280": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -39557,6 +45253,7 @@ var data17C = {
   ],
   "THAR-299": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -39564,6 +45261,7 @@ var data17C = {
   ],
   "THAR-350": [
     {
+      "section": "301",
       "day": "TBA",
       "time": "TBA",
       "type": "STU"
@@ -39571,11 +45269,13 @@ var data17C = {
   ],
   "TURK-021": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "F",
       "day": "R",
       "time": "3-5PM",
       "type": "LEC"
@@ -39583,6 +45283,7 @@ var data17C = {
   ],
   "TURK-023": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -39590,11 +45291,7 @@ var data17C = {
   ],
   "TURK-027": [
     {
-      "day": "T",
-      "time": "5-8PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
@@ -39602,11 +45299,25 @@ var data17C = {
   ],
   "TURK-031": [
     {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
     },
     {
+      "section": "680",
+      "day": "MW",
+      "time": "5-7PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
+      "day": "T",
+      "time": "5-8PM",
+      "type": "LEC"
+    },
+    {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
@@ -39614,6 +45325,7 @@ var data17C = {
   ],
   "TURK-121": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -39621,6 +45333,7 @@ var data17C = {
   ],
   "TURK-521": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -39628,11 +45341,13 @@ var data17C = {
   ],
   "TURK-621": [
     {
+      "section": "401",
       "day": "T",
       "time": "3-5PM",
       "type": "LEC"
     },
     {
+      "section": "F",
       "day": "R",
       "time": "3-5PM",
       "type": "LEC"
@@ -39640,6 +45355,7 @@ var data17C = {
   ],
   "TURK-623": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -39647,11 +45363,7 @@ var data17C = {
   ],
   "TURK-627": [
     {
-      "day": "T",
-      "time": "5-8PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
@@ -39659,11 +45371,7 @@ var data17C = {
   ],
   "TURK-631": [
     {
-      "day": "MW",
-      "time": "5-7PM",
-      "type": "LEC"
-    },
-    {
+      "section": "680",
       "day": "MW",
       "time": "5-7PM",
       "type": "LEC"
@@ -39671,6 +45379,7 @@ var data17C = {
   ],
   "URBS-010": [
     {
+      "section": "401",
       "day": "F",
       "time": "2-5PM",
       "type": "SEM"
@@ -39678,6 +45387,7 @@ var data17C = {
   ],
   "URBS-018": [
     {
+      "section": "402",
       "day": "F",
       "time": "2-4PM",
       "type": "SEM"
@@ -39685,6 +45395,7 @@ var data17C = {
   ],
   "URBS-103": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -39692,6 +45403,7 @@ var data17C = {
   ],
   "URBS-106": [
     {
+      "section": "401",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -39699,6 +45411,7 @@ var data17C = {
   ],
   "URBS-121": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -39706,6 +45419,7 @@ var data17C = {
   ],
   "URBS-160": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -39713,18 +45427,27 @@ var data17C = {
   ],
   "URBS-178": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
+      "type": "SEM"
+    },
+    {
+      "section": "302",
+      "day": "MW",
+      "time": "12-1:30PM",
       "type": "SEM"
     }
   ],
   "URBS-200": [
     {
+      "section": "301",
       "day": "R",
       "time": "5-8PM",
       "type": "SEM"
@@ -39732,6 +45455,7 @@ var data17C = {
   ],
   "URBS-202": [
     {
+      "section": "301",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -39739,13 +45463,47 @@ var data17C = {
   ],
   "URBS-204": [
     {
+      "section": "001",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "LEC"
     }
   ],
+  "URBS-237": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "F",
+      "time": "10-11AM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "F",
+      "time": "11-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "F",
+      "time": "12-1PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "REC"
+    }
+  ],
   "URBS-290": [
     {
+      "section": "301",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -39753,6 +45511,7 @@ var data17C = {
   ],
   "URBS-294": [
     {
+      "section": "401",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -39760,6 +45519,7 @@ var data17C = {
   ],
   "URBS-320": [
     {
+      "section": "401",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
@@ -39767,11 +45527,13 @@ var data17C = {
   ],
   "URBS-322": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
     },
     {
+      "section": "J",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -39779,6 +45541,7 @@ var data17C = {
   ],
   "URBS-326": [
     {
+      "section": "401",
       "day": "R",
       "time": "1-4PM",
       "type": "SEM"
@@ -39786,6 +45549,7 @@ var data17C = {
   ],
   "URBS-330": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -39793,16 +45557,19 @@ var data17C = {
   ],
   "URBS-400": [
     {
+      "section": "301",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
@@ -39810,13 +45577,29 @@ var data17C = {
   ],
   "URBS-420": [
     {
+      "section": "401",
       "day": "W",
       "time": "5:30-8:30PM",
       "type": "SEM"
     }
   ],
+  "URBS-440": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    }
+  ],
   "URBS-450": [
     {
+      "section": "301",
       "day": "T",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -39824,6 +45607,7 @@ var data17C = {
   ],
   "URBS-451": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "LEC"
@@ -39831,6 +45615,7 @@ var data17C = {
   ],
   "URBS-452": [
     {
+      "section": "301",
       "day": "T",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -39838,6 +45623,7 @@ var data17C = {
   ],
   "URBS-453": [
     {
+      "section": "401",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -39845,6 +45631,7 @@ var data17C = {
   ],
   "URBS-457": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -39852,6 +45639,7 @@ var data17C = {
   ],
   "URBS-530": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "SEM"
@@ -39859,16 +45647,19 @@ var data17C = {
   ],
   "URDU-401": [
     {
+      "section": "401",
       "day": "T",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "J",
       "day": "R",
       "time": "9-10:30AM",
       "type": "LEC"
     },
     {
+      "section": "216",
       "day": "F",
       "time": "11-12NOON",
       "type": "LEC"
@@ -39876,6 +45667,7 @@ var data17C = {
   ],
   "URDU-421": [
     {
+      "section": "401",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -39883,6 +45675,7 @@ var data17C = {
   ],
   "URDU-431": [
     {
+      "section": "401",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "LEC"
@@ -39890,6 +45683,7 @@ var data17C = {
   ],
   "URDU-452": [
     {
+      "section": "301",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -39897,6 +45691,7 @@ var data17C = {
   ],
   "VBMS-601": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -39904,6 +45699,7 @@ var data17C = {
   ],
   "VBMS-602": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -39911,6 +45707,7 @@ var data17C = {
   ],
   "VBMS-603": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -39918,6 +45715,7 @@ var data17C = {
   ],
   "VBMS-605": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -39925,6 +45723,7 @@ var data17C = {
   ],
   "VBMS-635": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -39932,6 +45731,7 @@ var data17C = {
   ],
   "VCSN-885": [
     {
+      "section": "011",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -39939,6 +45739,7 @@ var data17C = {
   ],
   "VCSP-658": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -39946,6 +45747,7 @@ var data17C = {
   ],
   "VIPR-121": [
     {
+      "section": "301",
       "day": "T",
       "time": "3:30-4:30PM",
       "type": "SEM"
@@ -39953,6 +45755,7 @@ var data17C = {
   ],
   "VISR-647": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -39960,11 +45763,13 @@ var data17C = {
   ],
   "VISR-699": [
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
     },
     {
+      "section": "019",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -39972,13 +45777,47 @@ var data17C = {
   ],
   "VLST-102": [
     {
+      "section": "001",
       "day": "W",
       "time": "2-6PM",
       "type": "STU"
     }
   ],
+  "VLST-211": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "9-10:30AM",
+      "type": "LEC"
+    },
+    {
+      "section": "402",
+      "day": "M",
+      "time": "4-5PM",
+      "type": "REC"
+    },
+    {
+      "section": "403",
+      "day": "M",
+      "time": "5-6PM",
+      "type": "REC"
+    },
+    {
+      "section": "404",
+      "day": "R",
+      "time": "2-3PM",
+      "type": "REC"
+    },
+    {
+      "section": "405",
+      "day": "F",
+      "time": "2-3PM",
+      "type": "REC"
+    }
+  ],
   "VLST-235": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -39986,20 +45825,197 @@ var data17C = {
   ],
   "VLST-250": [
     {
+      "section": "401",
       "day": "MW",
+      "time": "5-8PM",
+      "type": "STU"
+    }
+  ],
+  "VLST-251": [
+    {
+      "section": "401",
+      "day": "T",
+      "time": "1:30-4:30PM",
+      "type": "STU"
+    },
+    {
+      "section": "402",
+      "day": "M",
+      "time": "2-5PM",
+      "type": "STU"
+    },
+    {
+      "section": "403",
+      "day": "R",
+      "time": "5-8PM",
+      "type": "STU"
+    },
+    {
+      "section": "404",
+      "day": "W",
+      "time": "2-5PM",
+      "type": "STU"
+    }
+  ],
+  "VLST-252": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "10-1PM",
+      "type": "STU"
+    },
+    {
+      "section": "402",
+      "day": "TR",
+      "time": "5-8PM",
+      "type": "STU"
+    }
+  ],
+  "VLST-253": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "2-5PM",
+      "type": "STU"
+    },
+    {
+      "section": "403",
+      "day": "MW",
+      "time": "10-1PM",
+      "type": "STU"
+    },
+    {
+      "section": "404",
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "STU"
+    },
+    {
+      "section": "405",
+      "day": "TR",
       "time": "5-8PM",
       "type": "STU"
     }
   ],
   "VLST-260": [
     {
+      "section": "401",
       "day": "R",
       "time": "1-4PM",
       "type": "STU"
     }
   ],
+  "VLST-261": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "SEM"
+    },
+    {
+      "section": "402",
+      "day": "MW",
+      "time": "10-1PM",
+      "type": "SEM"
+    },
+    {
+      "section": "403",
+      "day": "MW",
+      "time": "2-5PM",
+      "type": "SEM"
+    },
+    {
+      "section": "404",
+      "day": "TR",
+      "time": "5-8PM",
+      "type": "SEM"
+    }
+  ],
+  "VLST-264": [
+    {
+      "section": "401",
+      "day": "MW",
+      "time": "2-5PM",
+      "type": "STU"
+    },
+    {
+      "section": "402",
+      "day": "TR",
+      "time": "1:30-4:30PM",
+      "type": "STU"
+    },
+    {
+      "section": "403",
+      "day": "MW",
+      "time": "5-8PM",
+      "type": "STU"
+    },
+    {
+      "section": "404",
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "STU"
+    },
+    {
+      "section": "405",
+      "day": "TR",
+      "time": "4:30-7:30PM",
+      "type": "STU"
+    }
+  ],
+  "VLST-265": [
+    {
+      "section": "401",
+      "day": "M",
+      "time": "10-1PM",
+      "type": "STU"
+    },
+    {
+      "section": "402",
+      "day": "M",
+      "time": "2-5PM",
+      "type": "STU"
+    },
+    {
+      "section": "403",
+      "day": "M",
+      "time": "5-8PM",
+      "type": "STU"
+    },
+    {
+      "section": "404",
+      "day": "T",
+      "time": "5-8PM",
+      "type": "STU"
+    },
+    {
+      "section": "405",
+      "day": "W",
+      "time": "10-1PM",
+      "type": "STU"
+    },
+    {
+      "section": "406",
+      "day": "W",
+      "time": "2-5PM",
+      "type": "STU"
+    },
+    {
+      "section": "407",
+      "day": "W",
+      "time": "5-8PM",
+      "type": "STU"
+    },
+    {
+      "section": "408",
+      "day": "F",
+      "time": "10-1PM",
+      "type": "STU"
+    }
+  ],
   "VLST-305": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -40007,6 +46023,7 @@ var data17C = {
   ],
   "VLST-395": [
     {
+      "section": "301",
       "day": "T",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -40014,6 +46031,7 @@ var data17C = {
   ],
   "VLST-505": [
     {
+      "section": "401",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "SEM"
@@ -40021,6 +46039,7 @@ var data17C = {
   ],
   "VLST-599": [
     {
+      "section": "000",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -40028,6 +46047,7 @@ var data17C = {
   ],
   "VMED-620": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -40035,76 +46055,91 @@ var data17C = {
   ],
   "WH-101": [
     {
+      "section": "001",
       "day": "M",
       "time": "12-1PM",
       "type": "LEC"
     },
     {
+      "section": "210",
       "day": "T",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "211",
       "day": "T",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "212",
       "day": "R",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "213",
       "day": "R",
       "time": "9-10:30AM",
       "type": "REC"
     },
     {
+      "section": "002",
       "day": "M",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "220",
       "day": "T",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "221",
       "day": "T",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "222",
       "day": "R",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "223",
       "day": "R",
       "time": "12-1:30PM",
       "type": "REC"
     },
     {
+      "section": "003",
       "day": "M",
       "time": "2-3PM",
       "type": "LEC"
     },
     {
+      "section": "230",
       "day": "T",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "231",
       "day": "T",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "232",
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
     },
     {
+      "section": "233",
       "day": "R",
       "time": "3-4:30PM",
       "type": "REC"
@@ -40112,21 +46147,13 @@ var data17C = {
   ],
   "WH-150": [
     {
+      "section": "301",
       "day": "MW",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
-      "day": "MW",
-      "time": "12-1:30PM",
-      "type": "SEM"
-    },
-    {
-      "day": "MW",
-      "time": "10:30-12NOON",
-      "type": "SEM"
-    },
-    {
+      "section": "302",
       "day": "MW",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -40134,31 +46161,37 @@ var data17C = {
   ],
   "WH-201": [
     {
+      "section": "001",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "003",
       "day": "T",
       "time": "1:30-3PM",
       "type": "LEC"
     },
     {
+      "section": "004",
       "day": "W",
       "time": "10:30-12NOON",
       "type": "LEC"
     },
     {
+      "section": "005",
       "day": "W",
       "time": "12-1:30PM",
       "type": "LEC"
     },
     {
+      "section": "006",
       "day": "W",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -40166,6 +46199,7 @@ var data17C = {
   ],
   "WH-297": [
     {
+      "section": "003",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -40173,6 +46207,7 @@ var data17C = {
   ],
   "WH-299": [
     {
+      "section": "301",
       "day": "W",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -40180,6 +46215,7 @@ var data17C = {
   ],
   "WH-398": [
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -40187,6 +46223,7 @@ var data17C = {
   ],
   "WH-399": [
     {
+      "section": "301",
       "day": "W",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -40194,11 +46231,13 @@ var data17C = {
   ],
   "WHCP-620": [
     {
+      "section": "070",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
     },
     {
+      "section": "095",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -40206,6 +46245,7 @@ var data17C = {
   ],
   "WHG-633": [
     {
+      "section": "005",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -40213,6 +46253,7 @@ var data17C = {
   ],
   "WHG-643": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -40220,6 +46261,7 @@ var data17C = {
   ],
   "WHG-644": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -40227,6 +46269,7 @@ var data17C = {
   ],
   "WHG-645": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -40234,6 +46277,7 @@ var data17C = {
   ],
   "WHG-648": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -40241,6 +46285,7 @@ var data17C = {
   ],
   "WHG-700": [
     {
+      "section": "002",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -40248,71 +46293,85 @@ var data17C = {
   ],
   "WRIT-002": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "306",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "307",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "308",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "309",
       "day": "TR",
       "time": "5-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "310",
       "day": "MW",
       "time": "11-12:30PM",
       "type": "SEM"
     },
     {
+      "section": "311",
       "day": "MW",
       "time": "11-12:30PM",
       "type": "SEM"
     },
     {
+      "section": "312",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "313",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
     },
     {
+      "section": "314",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "SEM"
@@ -40320,26 +46379,31 @@ var data17C = {
   ],
   "WRIT-011": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "SEM"
@@ -40347,11 +46411,13 @@ var data17C = {
   ],
   "WRIT-013": [
     {
+      "section": "309",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
     },
     {
+      "section": "311",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -40359,6 +46425,7 @@ var data17C = {
   ],
   "WRIT-015": [
     {
+      "section": "302",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -40366,6 +46433,7 @@ var data17C = {
   ],
   "WRIT-016": [
     {
+      "section": "301",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -40373,6 +46441,7 @@ var data17C = {
   ],
   "WRIT-017": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -40380,6 +46449,7 @@ var data17C = {
   ],
   "WRIT-021": [
     {
+      "section": "302",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -40387,26 +46457,31 @@ var data17C = {
   ],
   "WRIT-022": [
     {
+      "section": "301",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MWF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
     },
     {
+      "section": "A",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -40414,11 +46489,13 @@ var data17C = {
   ],
   "WRIT-025": [
     {
+      "section": "303",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -40426,6 +46503,7 @@ var data17C = {
   ],
   "WRIT-027": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -40433,11 +46511,13 @@ var data17C = {
   ],
   "WRIT-028": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -40445,106 +46525,127 @@ var data17C = {
   ],
   "WRIT-030": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
     },
     {
+      "section": "307",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "308",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
     },
     {
+      "section": "310",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "312",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "314",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "SEM"
     },
     {
+      "section": "315",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "316",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
     },
     {
+      "section": "351",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "352",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
     },
     {
+      "section": "353",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "354",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "355",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "356",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "357",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "358",
       "day": "TR",
       "time": "5-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "601",
       "day": "MW",
       "time": "6-7:30PM",
       "type": "SEM"
     },
     {
+      "section": "603",
       "day": "TR",
       "time": "5:30-7:10PM",
       "type": "SEM"
@@ -40552,11 +46653,13 @@ var data17C = {
   ],
   "WRIT-031": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "M",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -40564,16 +46667,19 @@ var data17C = {
   ],
   "WRIT-034": [
     {
+      "section": "J",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "SEM"
@@ -40581,21 +46687,25 @@ var data17C = {
   ],
   "WRIT-037": [
     {
+      "section": "301",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "SEM"
@@ -40603,6 +46713,7 @@ var data17C = {
   ],
   "WRIT-038": [
     {
+      "section": "301",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "SEM"
@@ -40610,46 +46721,55 @@ var data17C = {
   ],
   "WRIT-039": [
     {
+      "section": "301",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "306",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "307",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
     },
     {
+      "section": "309",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "311",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -40657,16 +46777,19 @@ var data17C = {
   ],
   "WRIT-049": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -40674,6 +46797,7 @@ var data17C = {
   ],
   "WRIT-067": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
@@ -40681,6 +46805,7 @@ var data17C = {
   ],
   "WRIT-068": [
     {
+      "section": "301",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "SEM"
@@ -40688,26 +46813,31 @@ var data17C = {
   ],
   "WRIT-073": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MWF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "305",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -40715,16 +46845,19 @@ var data17C = {
   ],
   "WRIT-074": [
     {
+      "section": "301",
       "day": "MW",
       "time": "5-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "MWF",
       "time": "1-2PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
@@ -40732,6 +46865,7 @@ var data17C = {
   ],
   "WRIT-076": [
     {
+      "section": "301",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "SEM"
@@ -40739,11 +46873,13 @@ var data17C = {
   ],
   "WRIT-077": [
     {
+      "section": "302",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "TR",
       "time": "3-4:30PM",
       "type": "SEM"
@@ -40751,16 +46887,19 @@ var data17C = {
   ],
   "WRIT-083": [
     {
+      "section": "302",
       "day": "MWF",
       "time": "12-1PM",
       "type": "SEM"
     },
     {
+      "section": "303",
       "day": "MW",
       "time": "2-3:30PM",
       "type": "SEM"
     },
     {
+      "section": "304",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
@@ -40768,6 +46907,7 @@ var data17C = {
   ],
   "WRIT-089": [
     {
+      "section": "302",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "SEM"
@@ -40775,11 +46915,13 @@ var data17C = {
   ],
   "WRIT-091": [
     {
+      "section": "301",
       "day": "TR",
       "time": "9-10:30AM",
       "type": "SEM"
     },
     {
+      "section": "302",
       "day": "TR",
       "time": "10:30-12NOON",
       "type": "SEM"
@@ -40787,13 +46929,23 @@ var data17C = {
   ],
   "WRIT-092": [
     {
+      "section": "301",
       "day": "MW",
       "time": "3:30-5PM",
       "type": "SEM"
     }
   ],
+  "WRIT-135": [
+    {
+      "section": "401",
+      "day": "TR",
+      "time": "10:30-12NOON",
+      "type": "SEM"
+    }
+  ],
   "YDSH-101": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -40801,6 +46953,7 @@ var data17C = {
   ],
   "YDSH-108": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -40808,6 +46961,7 @@ var data17C = {
   ],
   "YDSH-501": [
     {
+      "section": "401",
       "day": "TR",
       "time": "12-1:30PM",
       "type": "LEC"
@@ -40815,6 +46969,7 @@ var data17C = {
   ],
   "YDSH-508": [
     {
+      "section": "401",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -40822,6 +46977,7 @@ var data17C = {
   ],
   "AFRC-223": [
     {
+      "section": "601",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -40829,6 +46985,7 @@ var data17C = {
   ],
   "AFRC-235": [
     {
+      "section": "601",
       "day": "T",
       "time": "6:30-9:30PM",
       "type": "LEC"
@@ -40836,6 +46993,7 @@ var data17C = {
   ],
   "AFRC-420": [
     {
+      "section": "601",
       "day": "M",
       "time": "6:30-9:30PM",
       "type": "SEM"
@@ -40843,6 +47001,7 @@ var data17C = {
   ],
   "AFRC-480": [
     {
+      "section": "601",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
@@ -40850,6 +47009,7 @@ var data17C = {
   ],
   "AFST-223": [
     {
+      "section": "601",
       "day": "T",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -40857,6 +47017,7 @@ var data17C = {
   ],
   "ANTH-005": [
     {
+      "section": "601",
       "day": "R",
       "time": "6-9PM",
       "type": "LEC"
@@ -40864,6 +47025,7 @@ var data17C = {
   ],
   "ANTH-122": [
     {
+      "section": "601",
       "day": "W",
       "time": "6-9PM",
       "type": "LEC"
@@ -40871,6 +47033,7 @@ var data17C = {
   ],
   "ANTH-123": [
     {
+      "section": "601",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -40878,6 +47041,7 @@ var data17C = {
   ],
   "ANTH-205": [
     {
+      "section": "601",
       "day": "W",
       "time": "6-9PM",
       "type": "LEC"
@@ -40885,6 +47049,7 @@ var data17C = {
   ],
   "ANTH-248": [
     {
+      "section": "601",
       "day": "T",
       "time": "6-9PM",
       "type": "LEC"
@@ -40892,6 +47057,7 @@ var data17C = {
   ],
   "ANTH-273": [
     {
+      "section": "601",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -40899,6 +47065,7 @@ var data17C = {
   ],
   "ANTH-386": [
     {
+      "section": "DIGGS-THOMPSON",
       "day": "W",
       "time": "5:30-8:40PM",
       "type": "SEM"
@@ -40906,6 +47073,7 @@ var data17C = {
   ],
   "ANTH-478": [
     {
+      "section": "601",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
@@ -40913,6 +47081,7 @@ var data17C = {
   ],
   "ANTH-598": [
     {
+      "section": "640",
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -40920,6 +47089,7 @@ var data17C = {
   ],
   "ARAB-041": [
     {
+      "section": "601",
       "day": "MW",
       "time": "5-7:30PM",
       "type": "LEC"
@@ -40927,6 +47097,7 @@ var data17C = {
   ],
   "ARTH-265": [
     {
+      "section": "601",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -40934,6 +47105,7 @@ var data17C = {
   ],
   "ARTH-338": [
     {
+      "section": "601",
       "day": "M",
       "time": "6-9PM",
       "type": "SEM"
@@ -40941,6 +47113,7 @@ var data17C = {
   ],
   "ARTH-505": [
     {
+      "section": "640",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
@@ -40948,6 +47121,7 @@ var data17C = {
   ],
   "ASAM-200": [
     {
+      "section": "601",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -40955,6 +47129,7 @@ var data17C = {
   ],
   "BDS-501": [
     {
+      "section": "675",
       "day": "T",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -40962,6 +47137,7 @@ var data17C = {
   ],
   "BDS-502": [
     {
+      "section": "675",
       "day": "M",
       "time": "5-8PM",
       "type": "LEC"
@@ -40969,6 +47145,7 @@ var data17C = {
   ],
   "BDS-511": [
     {
+      "section": "675",
       "day": "R",
       "time": "1:30-4:30PM",
       "type": "LEC"
@@ -40976,6 +47153,7 @@ var data17C = {
   ],
   "BDS-516": [
     {
+      "section": "675",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
@@ -40983,6 +47161,7 @@ var data17C = {
   ],
   "BDS-521": [
     {
+      "section": "675",
       "day": "W",
       "time": "9-12NOON",
       "type": "LEC"
@@ -40990,6 +47169,7 @@ var data17C = {
   ],
   "BIBB-470": [
     {
+      "section": "601",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -40997,6 +47177,7 @@ var data17C = {
   ],
   "BIBB-475": [
     {
+      "section": "601",
       "day": "W",
       "time": "5-8PM",
       "type": "SEM"
@@ -41004,6 +47185,7 @@ var data17C = {
   ],
   "BIOL-019": [
     {
+      "section": "601",
       "day": "TW",
       "time": "5:30-7PM",
       "type": "LEC"
@@ -41011,11 +47193,13 @@ var data17C = {
   ],
   "BIOL-201": [
     {
+      "section": "601",
       "day": "TR",
       "time": "4:30-6PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "TR",
       "time": "6:10-6:30PM",
       "type": "REC"
@@ -41023,11 +47207,13 @@ var data17C = {
   ],
   "BIOL-203": [
     {
+      "section": "601",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "W",
       "time": "7:30-8PM",
       "type": "REC"
@@ -41035,11 +47221,13 @@ var data17C = {
   ],
   "BIOL-211": [
     {
+      "section": "601",
       "day": "MW",
       "time": "5-6:20PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "MW",
       "time": "6:30-6:50PM",
       "type": "REC"
@@ -41047,11 +47235,13 @@ var data17C = {
   ],
   "BIOL-213": [
     {
+      "section": "601",
       "day": "TR",
       "time": "6:30-8PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "TR",
       "time": "8-8:20PM",
       "type": "REC"
@@ -41059,16 +47249,19 @@ var data17C = {
   ],
   "BIOL-275": [
     {
+      "section": "601",
       "day": "F",
       "time": "4-5:30PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "F",
       "time": "5:30-8:30PM",
       "type": "LAB"
     },
     {
+      "section": "603",
       "day": "F",
       "time": "5:30-8:30PM",
       "type": "LAB"
@@ -41076,6 +47269,7 @@ var data17C = {
   ],
   "BIOL-306": [
     {
+      "section": "601",
       "day": "R",
       "time": "4:30-7:30PM",
       "type": "LEC"
@@ -41083,6 +47277,7 @@ var data17C = {
   ],
   "BIOL-404": [
     {
+      "section": "601",
       "day": "M",
       "time": "6:30-9:30PM",
       "type": "LEC"
@@ -41090,6 +47285,7 @@ var data17C = {
   ],
   "BIOL-407": [
     {
+      "section": "601",
       "day": "W",
       "time": "6:30-9:30PM",
       "type": "SEM"
@@ -41097,11 +47293,13 @@ var data17C = {
   ],
   "CHEM-001": [
     {
+      "section": "601",
       "day": "T",
       "time": "5-8:20PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "T",
       "time": "8:30-9:20PM",
       "type": "REC"
@@ -41109,6 +47307,7 @@ var data17C = {
   ],
   "CHIN-001": [
     {
+      "section": "601",
       "day": "MW",
       "time": "4:30-6:30PM",
       "type": "LEC"
@@ -41116,6 +47315,7 @@ var data17C = {
   ],
   "CIMS-125": [
     {
+      "section": "601",
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -41123,6 +47323,7 @@ var data17C = {
   ],
   "CIMS-416": [
     {
+      "section": "640",
       "day": "M",
       "time": "6-9PM",
       "type": "ONL"
@@ -41130,6 +47331,7 @@ var data17C = {
   ],
   "CIMS-575": [
     {
+      "section": "640",
       "day": "R",
       "time": "6-8PM",
       "type": "ONL"
@@ -41137,6 +47339,7 @@ var data17C = {
   ],
   "CIMS-595": [
     {
+      "section": "640",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -41144,6 +47347,7 @@ var data17C = {
   ],
   "CLST-402": [
     {
+      "section": "NISHIMURA-JENSE",
       "day": "MWF",
       "time": "11-12NOON",
       "type": "LEC"
@@ -41151,6 +47355,7 @@ var data17C = {
   ],
   "CLST-403": [
     {
+      "section": "601",
       "day": "MWF",
       "time": "1-2PM",
       "type": "LEC"
@@ -41158,6 +47363,7 @@ var data17C = {
   ],
   "COML-127": [
     {
+      "section": "601",
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -41165,6 +47371,7 @@ var data17C = {
   ],
   "DYNM-501": [
     {
+      "section": "001",
       "day": "R",
       "time": "6-9PM",
       "type": "SEM"
@@ -41172,6 +47379,7 @@ var data17C = {
   ],
   "DYNM-602": [
     {
+      "section": "001",
       "day": "S",
       "time": "8:30-5PM",
       "type": "SEM"
@@ -41179,11 +47387,13 @@ var data17C = {
   ],
   "DYNM-607": [
     {
+      "section": "001",
       "day": "R",
       "time": "6-9PM",
       "type": "SEM"
     },
     {
+      "section": "L",
       "day": "S",
       "time": "9-5PM",
       "type": "SEM"
@@ -41191,11 +47401,13 @@ var data17C = {
   ],
   "DYNM-611": [
     {
+      "section": "001",
       "day": "S",
       "time": "9-5PM",
       "type": "SEM"
     },
     {
+      "section": "TBA,",
       "day": "U",
       "time": "9-1PM",
       "type": "SEM"
@@ -41203,6 +47415,7 @@ var data17C = {
   ],
   "DYNM-612": [
     {
+      "section": "001",
       "day": "F",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -41210,6 +47423,7 @@ var data17C = {
   ],
   "DYNM-617": [
     {
+      "section": "001",
       "day": "W",
       "time": "6-9PM",
       "type": "SEM"
@@ -41217,6 +47431,7 @@ var data17C = {
   ],
   "DYNM-619": [
     {
+      "section": "001",
       "day": "S",
       "time": "8:30-12:30PM",
       "type": "SEM"
@@ -41224,6 +47439,7 @@ var data17C = {
   ],
   "DYNM-628": [
     {
+      "section": "001",
       "day": "W",
       "time": "6:30-9:30PM",
       "type": "SEM"
@@ -41231,6 +47447,7 @@ var data17C = {
   ],
   "DYNM-629": [
     {
+      "section": "001",
       "day": "R",
       "time": "6-9PM",
       "type": "SEM"
@@ -41238,6 +47455,7 @@ var data17C = {
   ],
   "DYNM-631": [
     {
+      "section": "001",
       "day": "W",
       "time": "6:30-9:30PM",
       "type": "SEM"
@@ -41245,6 +47463,7 @@ var data17C = {
   ],
   "DYNM-653": [
     {
+      "section": "001",
       "day": "SU",
       "time": "8:30-5PM",
       "type": "SEM"
@@ -41252,6 +47471,7 @@ var data17C = {
   ],
   "DYNM-666": [
     {
+      "section": "001",
       "day": "T",
       "time": "6:30-9:30PM",
       "type": "SEM"
@@ -41259,6 +47479,7 @@ var data17C = {
   ],
   "DYNM-673": [
     {
+      "section": "001",
       "day": "F",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -41266,11 +47487,13 @@ var data17C = {
   ],
   "DYNM-705": [
     {
+      "section": "002",
       "day": "M",
       "time": "6-9PM",
       "type": "ONL"
     },
     {
+      "section": "003",
       "day": "M",
       "time": "6-9PM",
       "type": "ONL"
@@ -41278,6 +47501,7 @@ var data17C = {
   ],
   "DYNM-720": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -41285,6 +47509,7 @@ var data17C = {
   ],
   "DYNM-722": [
     {
+      "section": "001",
       "day": "SU",
       "time": "8:30-5PM",
       "type": "SEM"
@@ -41292,6 +47517,7 @@ var data17C = {
   ],
   "DYNM-728": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -41299,6 +47525,7 @@ var data17C = {
   ],
   "DYNM-729": [
     {
+      "section": "001",
       "day": "S",
       "time": "8:30-5PM",
       "type": "SEM"
@@ -41306,6 +47533,7 @@ var data17C = {
   ],
   "EALC-025": [
     {
+      "section": "601",
       "day": "T",
       "time": "4-7PM",
       "type": "LEC"
@@ -41313,6 +47541,7 @@ var data17C = {
   ],
   "ENGL-101": [
     {
+      "section": "601",
       "day": "R",
       "time": "5-8PM",
       "type": "LEC"
@@ -41320,6 +47549,7 @@ var data17C = {
   ],
   "ENGL-105": [
     {
+      "section": "601",
       "day": "W",
       "time": "6-9PM",
       "type": "LEC"
@@ -41327,6 +47557,7 @@ var data17C = {
   ],
   "ENGL-121": [
     {
+      "section": "601",
       "day": "W",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -41334,6 +47565,7 @@ var data17C = {
   ],
   "ENGL-267": [
     {
+      "section": "601",
       "day": "R",
       "time": "6-9PM",
       "type": "SEM"
@@ -41341,6 +47573,7 @@ var data17C = {
   ],
   "ENGL-416": [
     {
+      "section": "640",
       "day": "M",
       "time": "6-9PM",
       "type": "ONL"
@@ -41348,6 +47581,7 @@ var data17C = {
   ],
   "ENGL-455": [
     {
+      "section": "640",
       "day": "W",
       "time": "6-9PM",
       "type": "SEM"
@@ -41355,6 +47589,7 @@ var data17C = {
   ],
   "ENGL-457": [
     {
+      "section": "640",
       "day": "R",
       "time": "5:30-8:10PM",
       "type": "SEM"
@@ -41362,6 +47597,7 @@ var data17C = {
   ],
   "ENGL-595": [
     {
+      "section": "640",
       "day": "W",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -41369,6 +47605,7 @@ var data17C = {
   ],
   "ENVS-507": [
     {
+      "section": "660",
       "day": "W",
       "time": "5:30-8:10PM",
       "type": "LEC"
@@ -41376,6 +47613,7 @@ var data17C = {
   ],
   "ENVS-541": [
     {
+      "section": "660",
       "day": "T",
       "time": "5:30-8:10PM",
       "type": "LEC"
@@ -41383,6 +47621,7 @@ var data17C = {
   ],
   "ENVS-601": [
     {
+      "section": "660",
       "day": "M",
       "time": "5:30-8:10PM",
       "type": "SEM"
@@ -41390,6 +47629,7 @@ var data17C = {
   ],
   "ENVS-609": [
     {
+      "section": "660",
       "day": "T",
       "time": "5:30-8:10PM",
       "type": "SEM"
@@ -41397,6 +47637,7 @@ var data17C = {
   ],
   "ENVS-622": [
     {
+      "section": "660",
       "day": "W",
       "time": "5:30-8:10PM",
       "type": "SEM"
@@ -41404,6 +47645,7 @@ var data17C = {
   ],
   "ENVS-629": [
     {
+      "section": "660",
       "day": "W",
       "time": "5:30-8:10PM",
       "type": "SEM"
@@ -41411,6 +47653,7 @@ var data17C = {
   ],
   "ENVS-648": [
     {
+      "section": "660",
       "day": "R",
       "time": "5:30-8:10PM",
       "type": "SEM"
@@ -41418,6 +47661,7 @@ var data17C = {
   ],
   "ENVS-667": [
     {
+      "section": "660",
       "day": "R",
       "time": "5:30-8:10PM",
       "type": "SEM"
@@ -41425,6 +47669,7 @@ var data17C = {
   ],
   "ENVS-673": [
     {
+      "section": "660",
       "day": "M",
       "time": "5:30-8:10PM",
       "type": "SEM"
@@ -41432,6 +47677,7 @@ var data17C = {
   ],
   "ENVS-676": [
     {
+      "section": "660",
       "day": "T",
       "time": "5:30-8:10PM",
       "type": "SEM"
@@ -41439,6 +47685,7 @@ var data17C = {
   ],
   "FOLK-201": [
     {
+      "section": "601",
       "day": "W",
       "time": "6-9PM",
       "type": "LEC"
@@ -41446,6 +47693,7 @@ var data17C = {
   ],
   "FOLK-270": [
     {
+      "section": "601",
       "day": "T",
       "time": "6:30-9:30PM",
       "type": "LEC"
@@ -41453,11 +47701,13 @@ var data17C = {
   ],
   "GAFL-502": [
     {
+      "section": "001",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
     },
     {
+      "section": "002",
       "day": "T",
       "time": "6-9PM",
       "type": "LEC"
@@ -41465,6 +47715,7 @@ var data17C = {
   ],
   "GAFL-509": [
     {
+      "section": "401",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
@@ -41472,6 +47723,7 @@ var data17C = {
   ],
   "GAFL-517": [
     {
+      "section": "001",
       "day": "S",
       "time": "2-5PM",
       "type": "SEM"
@@ -41479,6 +47731,7 @@ var data17C = {
   ],
   "GAFL-529": [
     {
+      "section": "001",
       "day": "T",
       "time": "6-9PM",
       "type": "LEC"
@@ -41486,6 +47739,7 @@ var data17C = {
   ],
   "GAFL-530": [
     {
+      "section": "401",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -41493,6 +47747,7 @@ var data17C = {
   ],
   "GAFL-531": [
     {
+      "section": "001",
       "day": "T",
       "time": "2-5PM",
       "type": "SEM"
@@ -41500,6 +47755,7 @@ var data17C = {
   ],
   "GAFL-549": [
     {
+      "section": "001",
       "day": "R",
       "time": "6-9PM",
       "type": "LEC"
@@ -41507,6 +47763,7 @@ var data17C = {
   ],
   "GAFL-551": [
     {
+      "section": "001",
       "day": "R",
       "time": "6-9PM",
       "type": "LEC"
@@ -41514,6 +47771,7 @@ var data17C = {
   ],
   "GAFL-569": [
     {
+      "section": "401",
       "day": "W",
       "time": "2-5PM",
       "type": "LEC"
@@ -41521,6 +47779,7 @@ var data17C = {
   ],
   "GAFL-600": [
     {
+      "section": "001",
       "day": "T",
       "time": "10:30-12NOON",
       "type": "REC"
@@ -41528,11 +47787,13 @@ var data17C = {
   ],
   "GAFL-611": [
     {
+      "section": "001",
       "day": "MW",
       "time": "1-2PM",
       "type": "LEC"
     },
     {
+      "section": "101",
       "day": "W",
       "time": "11-12:30PM",
       "type": "LAB"
@@ -41540,6 +47801,7 @@ var data17C = {
   ],
   "GAFL-621": [
     {
+      "section": "001",
       "day": "TR",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -41547,6 +47809,7 @@ var data17C = {
   ],
   "GAFL-732": [
     {
+      "section": "001",
       "day": "M",
       "time": "2-5PM",
       "type": "SEM"
@@ -41554,6 +47817,7 @@ var data17C = {
   ],
   "GAFL-799": [
     {
+      "section": "001",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -41561,6 +47825,7 @@ var data17C = {
   ],
   "GEOL-130": [
     {
+      "section": "601",
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -41568,6 +47833,7 @@ var data17C = {
   ],
   "GEOL-528": [
     {
+      "section": "690",
       "day": "R",
       "time": "5:30-8:10PM",
       "type": "LEC"
@@ -41575,6 +47841,7 @@ var data17C = {
   ],
   "GEOL-651": [
     {
+      "section": "690",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
@@ -41582,6 +47849,7 @@ var data17C = {
   ],
   "GEOL-653": [
     {
+      "section": "690",
       "day": "W",
       "time": "6-9PM",
       "type": "LEC"
@@ -41589,6 +47857,7 @@ var data17C = {
   ],
   "GEOL-654": [
     {
+      "section": "690",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -41596,6 +47865,7 @@ var data17C = {
   ],
   "GEOL-670": [
     {
+      "section": "690",
       "day": "W",
       "time": "6-9PM",
       "type": "LEC"
@@ -41603,6 +47873,7 @@ var data17C = {
   ],
   "GEOL-696": [
     {
+      "section": "690",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -41610,6 +47881,7 @@ var data17C = {
   ],
   "GSWS-125": [
     {
+      "section": "601",
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -41617,6 +47889,7 @@ var data17C = {
   ],
   "GSWS-270": [
     {
+      "section": "601",
       "day": "T",
       "time": "6:30-9:30PM",
       "type": "LEC"
@@ -41624,6 +47897,7 @@ var data17C = {
   ],
   "HIST-232": [
     {
+      "section": "601",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
@@ -41631,6 +47905,7 @@ var data17C = {
   ],
   "HIST-610": [
     {
+      "section": "640",
       "day": "R",
       "time": "6-8:40PM",
       "type": "SEM"
@@ -41638,6 +47913,7 @@ var data17C = {
   ],
   "HSOC-239": [
     {
+      "section": "601",
       "day": "M",
       "time": "4:30-7:30PM",
       "type": "SEM"
@@ -41645,6 +47921,7 @@ var data17C = {
   ],
   "HSOC-334": [
     {
+      "section": "601",
       "day": "TR",
       "time": "5-6:30PM",
       "type": "SEM"
@@ -41652,6 +47929,7 @@ var data17C = {
   ],
   "INTR-290": [
     {
+      "section": "601",
       "day": "M",
       "time": "6-9PM",
       "type": "LEC"
@@ -41659,6 +47937,7 @@ var data17C = {
   ],
   "ITAL-105": [
     {
+      "section": "601",
       "day": "MW",
       "time": "5-6PM",
       "type": "ONL"
@@ -41666,6 +47945,7 @@ var data17C = {
   ],
   "JPAN-001": [
     {
+      "section": "601",
       "day": "MW",
       "time": "6-8PM",
       "type": "LEC"
@@ -41673,6 +47953,7 @@ var data17C = {
   ],
   "LALS-209": [
     {
+      "section": "601",
       "day": "M",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -41680,6 +47961,7 @@ var data17C = {
   ],
   "LALS-424": [
     {
+      "section": "601",
       "day": "T",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -41687,11 +47969,13 @@ var data17C = {
   ],
   "MCS-540": [
     {
+      "section": "A",
       "day": "T",
       "time": "4:30-6:30PM",
       "type": "SEM"
     },
     {
+      "section": "2000",
       "day": "R",
       "time": "4:30-5:30PM",
       "type": "SEM"
@@ -41699,6 +47983,7 @@ var data17C = {
   ],
   "MCS-598": [
     {
+      "section": "630",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -41706,6 +47991,7 @@ var data17C = {
   ],
   "MCS-599": [
     {
+      "section": "630",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -41713,6 +47999,7 @@ var data17C = {
   ],
   "MCS-698": [
     {
+      "section": "630",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -41720,6 +48007,7 @@ var data17C = {
   ],
   "MCS-699": [
     {
+      "section": "630",
       "day": "TBA",
       "time": "TBA",
       "type": "SEM"
@@ -41727,6 +48015,7 @@ var data17C = {
   ],
   "MLA-541": [
     {
+      "section": "640",
       "day": "M",
       "time": "6:30-8:30PM",
       "type": "ONL"
@@ -41734,11 +48023,13 @@ var data17C = {
   ],
   "MLA-699": [
     {
+      "section": "640",
       "day": "M",
       "time": "6-8PM",
       "type": "SEM"
     },
     {
+      "section": "644",
       "day": "TBA",
       "time": "TBA",
       "type": "IND"
@@ -41746,6 +48037,13 @@ var data17C = {
   ],
   "MMP-507": [
     {
+      "section": "401",
+      "day": "MW",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    },
+    {
+      "section": "695",
       "day": "MW",
       "time": "1:30-3PM",
       "type": "LEC"
@@ -41753,6 +48051,7 @@ var data17C = {
   ],
   "MMP-531": [
     {
+      "section": "696",
       "day": "TBA",
       "time": "TBA",
       "type": "LAB"
@@ -41760,6 +48059,7 @@ var data17C = {
   ],
   "MMP-532": [
     {
+      "section": "696",
       "day": "TBA",
       "time": "TBA",
       "type": "CLN"
@@ -41767,6 +48067,7 @@ var data17C = {
   ],
   "MMP-533": [
     {
+      "section": "696",
       "day": "TBA",
       "time": "TBA",
       "type": "LEC"
@@ -41774,6 +48075,7 @@ var data17C = {
   ],
   "MUSC-035": [
     {
+      "section": "601",
       "day": "W",
       "time": "6:30-9:30PM",
       "type": "LEC"
@@ -41781,6 +48083,7 @@ var data17C = {
   ],
   "NELC-282": [
     {
+      "section": "601",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
@@ -41788,6 +48091,7 @@ var data17C = {
   ],
   "PHIL-004": [
     {
+      "section": "601",
       "day": "TR",
       "time": "6:30-8:30PM",
       "type": "LEC"
@@ -41795,6 +48099,7 @@ var data17C = {
   ],
   "PHIL-025": [
     {
+      "section": "601",
       "day": "W",
       "time": "6-9PM",
       "type": "LEC"
@@ -41802,6 +48107,7 @@ var data17C = {
   ],
   "PHIL-489": [
     {
+      "section": "640",
       "day": "W",
       "time": "6-8:40PM",
       "type": "SEM"
@@ -41809,6 +48115,7 @@ var data17C = {
   ],
   "PSCI-110": [
     {
+      "section": "601",
       "day": "T",
       "time": "6-9PM",
       "type": "LEC"
@@ -41816,6 +48123,7 @@ var data17C = {
   ],
   "PSCI-183": [
     {
+      "section": "601",
       "day": "R",
       "time": "6-9PM",
       "type": "LEC"
@@ -41823,6 +48131,7 @@ var data17C = {
   ],
   "PSCI-202": [
     {
+      "section": "601",
       "day": "M",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -41830,6 +48139,7 @@ var data17C = {
   ],
   "PSCI-250": [
     {
+      "section": "601",
       "day": "MW",
       "time": "6:30-8PM",
       "type": "SEM"
@@ -41837,6 +48147,7 @@ var data17C = {
   ],
   "PSYC-162": [
     {
+      "section": "601",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
@@ -41844,6 +48155,7 @@ var data17C = {
   ],
   "PSYC-460": [
     {
+      "section": "601",
       "day": "W",
       "time": "5:30-8:40PM",
       "type": "SEM"
@@ -41851,6 +48163,7 @@ var data17C = {
   ],
   "PSYC-462": [
     {
+      "section": "601",
       "day": "T",
       "time": "6-9PM",
       "type": "SEM"
@@ -41858,6 +48171,7 @@ var data17C = {
   ],
   "RELS-030": [
     {
+      "section": "601",
       "day": "W",
       "time": "5-8PM",
       "type": "SEM"
@@ -41865,6 +48179,7 @@ var data17C = {
   ],
   "RELS-066": [
     {
+      "section": "601",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
@@ -41872,6 +48187,7 @@ var data17C = {
   ],
   "RUSS-125": [
     {
+      "section": "601",
       "day": "R",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -41879,6 +48195,7 @@ var data17C = {
   ],
   "RUSS-575": [
     {
+      "section": "640",
       "day": "R",
       "time": "6-8PM",
       "type": "ONL"
@@ -41886,6 +48203,7 @@ var data17C = {
   ],
   "SAST-006": [
     {
+      "section": "601",
       "day": "T",
       "time": "5-8PM",
       "type": "LEC"
@@ -41893,6 +48211,7 @@ var data17C = {
   ],
   "SOCI-235": [
     {
+      "section": "601",
       "day": "T",
       "time": "6:30-9:30PM",
       "type": "LEC"
@@ -41900,6 +48219,7 @@ var data17C = {
   ],
   "SOCI-460": [
     {
+      "section": "601",
       "day": "M",
       "time": "6:30-9:30PM",
       "type": "SEM"
@@ -41907,6 +48227,7 @@ var data17C = {
   ],
   "SOCI-473": [
     {
+      "section": "601",
       "day": "T",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -41914,6 +48235,7 @@ var data17C = {
   ],
   "SPAN-528": [
     {
+      "section": "640",
       "day": "W",
       "time": "5:30-8:10PM",
       "type": "SEM"
@@ -41921,6 +48243,7 @@ var data17C = {
   ],
   "THAR-100": [
     {
+      "section": "601",
       "day": "TR",
       "time": "5-6:30PM",
       "type": "LEC"
@@ -41928,6 +48251,7 @@ var data17C = {
   ],
   "URBS-412": [
     {
+      "section": "601",
       "day": "T",
       "time": "5:30-8:30PM",
       "type": "LEC"
@@ -41935,6 +48259,7 @@ var data17C = {
   ],
   "URBS-419": [
     {
+      "section": "601",
       "day": "W",
       "time": "5-8PM",
       "type": "LEC"
@@ -41942,6 +48267,7 @@ var data17C = {
   ],
   "URBS-473": [
     {
+      "section": "601",
       "day": "T",
       "time": "5:30-8:30PM",
       "type": "SEM"
@@ -41949,6 +48275,7 @@ var data17C = {
   ],
   "URBS-480": [
     {
+      "section": "601",
       "day": "M",
       "time": "5-8PM",
       "type": "SEM"
@@ -41956,11 +48283,13 @@ var data17C = {
   ],
   "WRIT-130": [
     {
+      "section": "601",
       "day": "MW",
       "time": "5:30-7PM",
       "type": "LEC"
     },
     {
+      "section": "602",
       "day": "TR",
       "time": "5:30-7PM",
       "type": "LEC"

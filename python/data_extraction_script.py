@@ -1,10 +1,10 @@
 import json
 import os
-from course_data_parser import get_course_info
+from python.course_data_parser import get_course_info
 
-BIN_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/bin/"
-DATA_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/data/"
-MISSING_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/missing/"
+BIN_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../bin/"
+DATA_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../data/"
+MISSING_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../data/"
 
 
 # Parse the given course timetable PDF and identify any courses that are missing time data

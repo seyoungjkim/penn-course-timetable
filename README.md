@@ -3,10 +3,11 @@
 The goal is provide an easy way to see Penn course time data from previous semesters for course planning purposes. 
 This is currently not part of the Penn Registrar API (https://penn-sdk.readthedocs.io/en/latest/registrar.html).
 The data is obtained from parsing PDFs from the course register, which is publicly available at 
-https://www.registrar.upenn.edu/archives/index.html.
+https://www.registrar.upenn.edu/archives/index.html. View at https://www.seyoungkim.com/penn-course-timetable or follow
+setup instructions to run locally.
 
 # Setup
-Run `pip install pdfminer` (Python 2) or `pip install pdfminer.six` (Python 3). 
+Clone the repo. Run `pip install pdfminer` (Python 2) or `pip install pdfminer.six` (Python 3) to install the PDF parsing package.
 
 Download the desired course timetable PDFs and place in the `/bin` folder. 
 Run `data_extraction_script.py` to parse the data (this may take up to 3 minutes per PDF).
@@ -14,7 +15,7 @@ Run `data_extraction_script.py` to parse the data (this may take up to 3 minutes
 Finally, check out `search_course.py` to see how you can search for a particular course (currently prints raw JSON data).
 
 # TODO
-* Create user interface
+* Create better user interface
 * Database design (to support lookup by course over multiple semesters)
     * SQLite
 * Define API and data structures
@@ -65,6 +66,8 @@ Example data (see `/data` folder for more):
 ```
 
 # Solved Issues
+* Duplicate sections
+* Cross-listing
 * Parsing two or three-letter course codes (BE 100 renders as BE -100 in the PDF), and many CIS courses are not being
 properly separated
 * Class types - LEC, REC, LAB, SEM, SRT, STU, CLN, ONL, IND
