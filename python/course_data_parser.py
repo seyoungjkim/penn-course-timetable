@@ -7,7 +7,6 @@ def get_course_info(pdf_path):
     page_text = extract_text(pdf_path)
     tokens = page_text.split()
     time_info = parse_register(tokens)
-
     course_data = associate_time_with_course(time_info)
     return course_data
 
@@ -67,33 +66,41 @@ def associate_time_with_course(course_time_list):
                 if i > 0 and i + 1 < len(course_time_list) and is_class_type(course_time_list[i]) and \
                         course_time_list[i + 1] == "TBA":
                     section = course_time_list[i - 1]
+                    if not is_section(section):
+                        section = ""
                     class_info = {
                         "section": section,
                         "day": "TBA",
                         "time": "TBA",
                         "type": course_time_list[i]
                     }
+                    if not is_section(section):
+                        i = i + 2
+                    else:
+                        i = i + 3
                     for t in times:
                         if t["section"] == section:
-                            i = i + 2
                             break
                     times.append(class_info)
-                    i = i + 2
                 elif i > 0 and i + 2 < len(course_time_list) and is_class_type(course_time_list[i]) and \
                         is_day(course_time_list[i + 1]) and is_time(course_time_list[i + 2]):
                     section = course_time_list[i - 1]
+                    if not is_section(section):
+                        section = ""
                     class_info = {
                         "section": section,
                         "day": course_time_list[i + 1],
                         "time": course_time_list[i + 2],
                         "type": course_time_list[i]
                     }
+                    if not is_section(section):
+                        i = i + 2
+                    else:
+                        i = i + 3
                     for t in times:
                         if t["section"] == section:
-                            i = i + 3
                             break
                     times.append(class_info)
-                    i = i + 3
                 else:
                     i = i + 1
 
@@ -135,6 +142,13 @@ def is_time(token):
     elif re.match('[0-9]{1,2}-[0-9]{1,2}:[0-9]{2}', token):
         return True
     elif re.match('[0-9]{1,2}:[0-9]{2}-[0-9]{1,2}:[0-9]{2}', token):
+        return True
+    else:
+        return False
+
+
+def is_section(token):
+    if re.match('[0-9]{3}', token):
         return True
     else:
         return False
