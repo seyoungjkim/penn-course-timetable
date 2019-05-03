@@ -1,9 +1,12 @@
-function displayFormContents(form) {
+function displayFormContents() {
+    const urlParams = new URLSearchParams(window.location.search);
+    if (!(urlParams.has("course"))) {
+        return;
+    }
+    const courseName = parseInput(urlParams.get("course"));
     const courseDataElement = document.getElementById('course-data');
-    const courseName = parseInput(document.getElementById('course-name').value);
     const courseDataList = [data16C, data17A, data17C, data18A, data18C];
-    const courseData = getCourseData(courseName, courseDataList);
-    courseDataElement.innerHTML = courseData;
+    courseDataElement.innerHTML = getCourseData(courseName, courseDataList);
 }
 
 function getCourseData(courseName, courseDataList) {
@@ -58,3 +61,5 @@ function getSemester(index) {
     }
     return semester
 }
+
+displayFormContents();
