@@ -18,3 +18,9 @@ def extract_text(pdf_path):
     device.close()
     output.close()
     return page_text
+
+
+def extract_text_to_file(pdf_path, txt_path):
+    page_text = extract_text(pdf_path)
+    with open(txt_path, "w+") as file:
+        file.write(page_text)

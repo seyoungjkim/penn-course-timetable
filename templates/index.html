@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Penn Course Timetable</title>
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Penn Course Timetable</h1>
+    <p>Search for a course!</p>
+    <form id="course-search" method="POST">
+        <input id="course-name" type='text' name="course" action="{{ url_for('results_page', course=course) }}" autocomplete="off"/>
+        <input type='submit' value='Search'/>
+    </form>
+
+    <div id="course-data">
+        Results for: {{ course }}
+    </div>
+</body>
+</html>

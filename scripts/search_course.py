@@ -1,7 +1,7 @@
 import os
 import json
 
-DATA_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/data"
+DATA_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../data"
 
 
 def semester(filename):
@@ -24,7 +24,8 @@ def search(course, directory):
 def stringify_course_info(course_info_list):
     text = ""
     for class_time in course_info_list:
-        text = text + class_time["type"] + " offered on " + class_time["day"] + " at " + class_time["time"] + "\n"
+        text = text + class_time["type"] + class_time["section"] + " offered on " + class_time["day"] + " at " + \
+               class_time["time"] + "\n"
     return text[:-1]
 
 
@@ -33,4 +34,4 @@ if __name__ == '__main__':
     print("==============================================================================================")
     search("CIS-380", DATA_DIRECTORY)
     print("==============================================================================================")
-    search("NETS-412", DATA_DIRECTORY)
+    search("PHYS-170", DATA_DIRECTORY)

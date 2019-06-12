@@ -1,0 +1,6186 @@
+{
+  "ACCT-101": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "2-4PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-102": [
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "2-4PM",
+      "type": "LEC"
+    }
+  ],
+  "ACCT-742": [
+    {
+      "section": "751",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "AFRC-999": [
+    {
+      "section": "000",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "IND"
+    },
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "2:40-4:15PM",
+      "type": "LEC"
+    }
+  ],
+  "ANCH-027": [
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "2:40-4:15PM",
+      "type": "LEC"
+    }
+  ],
+  "ANTH-001": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "ANTH-002": [
+    {
+      "section": "920",
+      "day": "MWF",
+      "time": "9-11:30AM",
+      "type": "LEC"
+    }
+  ],
+  "ANTH-003": [
+    {
+      "section": "920",
+      "day": "MWF",
+      "time": "5-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ANTH-144": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "ANTH-386": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "ARAB-131": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "9-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "MW",
+      "time": "8-10PM",
+      "type": "ONL"
+    }
+  ],
+  "ARAB-133": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "1:30-6PM",
+      "type": "LEC"
+    }
+  ],
+  "ARCH-303": [
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "1:30-5PM",
+      "type": "STU"
+    }
+  ],
+  "ARCH-500": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "2-6PM",
+      "type": "STU"
+    }
+  ],
+  "ARCH-782": [
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "STU"
+    },
+    {
+      "section": "902",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "STU"
+    },
+    {
+      "section": "903",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "STU"
+    },
+    {
+      "section": "901",
+      "day": "MTWRFSU",
+      "time": "10-5PM",
+      "type": "STU"
+    }
+  ],
+  "ARCH-792": [
+    {
+      "section": "901",
+      "day": "MTWRF",
+      "time": "10-5PM",
+      "type": "STU"
+    }
+  ],
+  "ARCH-793": [
+    {
+      "section": "901",
+      "day": "MTWRF",
+      "time": "9-11AM",
+      "type": "LEC"
+    }
+  ],
+  "ARCH-794": [
+    {
+      "section": "901",
+      "day": "MWR",
+      "time": "12-1:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ARCH-795": [
+    {
+      "section": "901",
+      "day": "MTWRF",
+      "time": "9-5PM",
+      "type": "STU"
+    }
+  ],
+  "ARTH-101": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "ARTH-102": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "ARTH-108": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "ARTH-109": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "ARTH-203": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "ARTH-301": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "ARTH-384": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    }
+  ],
+  "BIBB-109": [
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "4:30-6:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "F",
+      "time": "4:30-6:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "922",
+      "day": "F",
+      "time": "2:30-4:30PM",
+      "type": "LAB"
+    }
+  ],
+  "BIBB-217": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "4:30-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "BIBB-420": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "BIBB-480": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "BIBB-482": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "BIOE-547": [
+    {
+      "section": "920",
+      "day": "RFSU",
+      "time": "9-5PM",
+      "type": "SEM"
+    }
+  ],
+  "BIOE-548": [
+    {
+      "section": "920",
+      "day": "RFSU",
+      "time": "9-5PM",
+      "type": "SEM"
+    }
+  ],
+  "BIOE-550": [
+    {
+      "section": "900",
+      "day": "R",
+      "time": "4:30-7PM",
+      "type": "LEC"
+    }
+  ],
+  "BIOE-560": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "4:30-7PM",
+      "type": "LEC"
+    }
+  ],
+  "BIOE-570": [
+    {
+      "section": "900",
+      "day": "W",
+      "time": "4:30-7PM",
+      "type": "LEC"
+    }
+  ],
+  "BIOL-101": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "11-12:45PM",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "WF",
+      "time": "1:15-4:15PM",
+      "type": "LAB"
+    },
+    {
+      "section": "912",
+      "day": "WF",
+      "time": "1:15-4:15PM",
+      "type": "LAB"
+    },
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "1:30-3:15PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "TR",
+      "time": "10-1PM",
+      "type": "LAB"
+    }
+  ],
+  "BIOL-102": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "11-12:45PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "WF",
+      "time": "1:15-4:15PM",
+      "type": "LAB"
+    },
+    {
+      "section": "922",
+      "day": "WF",
+      "time": "1:15-4:15PM",
+      "type": "LAB"
+    }
+  ],
+  "BIOL-109": [
+    {
+      "section": "921",
+      "day": "F",
+      "time": "4:30-6:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "922",
+      "day": "F",
+      "time": "2:30-4:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "4:30-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "BIOL-275": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "5-8:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "TR",
+      "time": "1-4:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "912",
+      "day": "TR",
+      "time": "5-8:30PM",
+      "type": "LAB"
+    }
+  ],
+  "BIOM-599": [
+    {
+      "section": "009",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "010",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "011",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    },
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "4-7:50PM",
+      "type": "LEC"
+    }
+  ],
+  "CBE-990": [
+    {
+      "section": "902",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    }
+  ],
+  "CHEM-001": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "8:15-10AM",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "MWF",
+      "time": "10-1PM",
+      "type": "REC"
+    }
+  ],
+  "CHEM-053": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "11-1:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "109",
+      "day": "TR",
+      "time": "10-11AM",
+      "type": "LAB"
+    }
+  ],
+  "CHEM-054": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "11-1:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "109",
+      "day": "TR",
+      "time": "10-11AM",
+      "type": "LAB"
+    }
+  ],
+  "CHEM-101": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "8:15-10AM",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "MWF",
+      "time": "10-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "912",
+      "day": "MWF",
+      "time": "10-12NOON",
+      "type": "REC"
+    }
+  ],
+  "CHEM-102": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "8:15-10AM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "MWF",
+      "time": "10-12NOON",
+      "type": "REC"
+    },
+    {
+      "section": "922",
+      "day": "MWF",
+      "time": "10-12NOON",
+      "type": "REC"
+    }
+  ],
+  "CHEM-245": [
+    {
+      "section": "910",
+      "day": "TWR",
+      "time": "10-1:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "910",
+      "day": "TWR",
+      "time": "10-11AM",
+      "type": "LAB"
+    },
+    {
+      "section": "920",
+      "day": "TWR",
+      "time": "10-1:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "920",
+      "day": "TWR",
+      "time": "10-11AM",
+      "type": "LAB"
+    }
+  ],
+  "CHIN-081": [
+    {
+      "section": "980",
+      "day": "MW",
+      "time": "9-11AM",
+      "type": "ONL"
+    }
+  ],
+  "CINE-039": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "CINE-101": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "CINE-102": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "CINE-125": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "1-4:10PM",
+      "type": "SEM"
+    }
+  ],
+  "CINE-199": [
+    {
+      "section": "000",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "IND"
+    },
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "11-12:45PM",
+      "type": "LEC"
+    }
+  ],
+  "CIS-110": [
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "10-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "CIS-160": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "1-3PM",
+      "type": "LEC"
+    }
+  ],
+  "CIS-502": [
+    {
+      "section": "920",
+      "day": "MF",
+      "time": "9:30-1:20PM",
+      "type": "LEC"
+    }
+  ],
+  "CIS-511": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "1:30-4PM",
+      "type": "LEC"
+    }
+  ],
+  "CIS-564": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "1-4:50PM",
+      "type": "LEC"
+    }
+  ],
+  "CIS-568": [
+    {
+      "section": "920",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "CLST-257": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "COML-124": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "COML-127": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "1-4:10PM",
+      "type": "SEM"
+    }
+  ],
+  "COML-150": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "COML-197": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "5-8:10PM",
+      "type": "LEC"
+    }
+  ],
+  "COML-220": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5-8:10PM",
+      "type": "SEM"
+    }
+  ],
+  "COMM-123": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "COMM-130": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "12-2:30PM",
+      "type": "LEC"
+    }
+  ],
+  "COMM-226": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "COMM-262": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "11-12:45PM",
+      "type": "LEC"
+    }
+  ],
+  "COMM-339": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "SEM"
+    }
+  ],
+  "COMM-990": [
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    },
+    {
+      "section": "901",
+      "day": "MTWR",
+      "time": "11:30-12:30PM",
+      "type": "LEC"
+    }
+  ],
+  "CPLN-792": [
+    {
+      "section": "901",
+      "day": "MTWRF",
+      "time": "8:30-10AM",
+      "type": "LEC"
+    }
+  ],
+  "CPLN-793": [
+    {
+      "section": "901",
+      "day": "MTWR",
+      "time": "4-5:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "902",
+      "day": "MTWR",
+      "time": "4-5:30PM",
+      "type": "LEC"
+    }
+  ],
+  "CPLN-794": [
+    {
+      "section": "901",
+      "day": "MTWR",
+      "time": "10:15-11:15AM",
+      "type": "LEC"
+    }
+  ],
+  "CPLN-795": [
+    {
+      "section": "901",
+      "day": "MTWR",
+      "time": "1:30-3:30PM",
+      "type": "LEC"
+    }
+  ],
+  "CPLN-797": [
+    {
+      "section": "901",
+      "day": "MTWR",
+      "time": "4-5:30PM",
+      "type": "SEM"
+    }
+  ],
+  "CPLN-798": [
+    {
+      "section": "901",
+      "day": "MTWR",
+      "time": "4-5:30PM",
+      "type": "SEM"
+    }
+  ],
+  "DENT-146": [
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "EALC-024": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "EAS-595": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "3:15-6:45PM",
+      "type": "LEC"
+    }
+  ],
+  "EAS-897": [
+    {
+      "section": "915",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "11-12:45PM",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "1-2:45PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "MTWRF",
+      "time": "9-10:45AM",
+      "type": "LEC"
+    }
+  ],
+  "ECON-002": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "1-2:45PM",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "1-2:45PM",
+      "type": "LEC"
+    }
+  ],
+  "ECON-050": [
+    {
+      "section": "920",
+      "day": "MWF",
+      "time": "9-11:30AM",
+      "type": "LEC"
+    }
+  ],
+  "ECON-101": [
+    {
+      "section": "910",
+      "day": "MTWF",
+      "time": "3-4:45PM",
+      "type": "LEC"
+    },
+    {
+      "section": "167-8",
+      "day": "R",
+      "time": "3-4:45PM",
+      "type": "LEC"
+    }
+  ],
+  "ECON-102": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "ECON-103": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "9-10:45AM",
+      "type": "LEC"
+    }
+  ],
+  "ECON-104": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "ECON-212": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-504": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "4-7PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-522": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "2-5PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-528": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "1-3:15PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-533": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-535": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-537": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-540": [
+    {
+      "section": "923",
+      "day": "W",
+      "time": "1-4PM",
+      "type": "SEM"
+    }
+  ],
+  "EDUC-544": [
+    {
+      "section": "925",
+      "day": "TR",
+      "time": "1-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-545": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "10-1PM",
+      "type": "SEM"
+    },
+    {
+      "section": "911",
+      "day": "TR",
+      "time": "12-3PM",
+      "type": "SEM"
+    },
+    {
+      "section": "912",
+      "day": "MW",
+      "time": "4:30-7:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "913",
+      "day": "TR",
+      "time": "12:30-3:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "921",
+      "day": "TR",
+      "time": "4-7PM",
+      "type": "SEM"
+    }
+  ],
+  "EDUC-553": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "10-1PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-558": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "12-3PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-574": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-575": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "12-3PM",
+      "type": "SEM"
+    }
+  ],
+  "EDUC-577": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "12:40-4PM",
+      "type": "SEM"
+    },
+    {
+      "section": "912",
+      "day": "TR",
+      "time": "4:30-7:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "914",
+      "day": "MW",
+      "time": "4:15-7:35PM",
+      "type": "SEM"
+    },
+    {
+      "section": "921",
+      "day": "TR",
+      "time": "6-9PM",
+      "type": "SEM"
+    }
+  ],
+  "EDUC-579": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "1:30-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-581": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-583": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9:30-12:30PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-590": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-594": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "5-8PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-622": [
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9:30-12:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "913",
+      "day": "MW",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-639": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-667": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "4-7PM",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "MW",
+      "time": "4-7PM",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-681": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-682": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-685": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "MW",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-692": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "10-1PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-695": [
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "4-7PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-718": [
+    {
+      "section": "910",
+      "day": "M",
+      "time": "2-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "910",
+      "day": "T",
+      "time": "10-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-724": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-801": [
+    {
+      "section": "399",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "EDUC-980": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "4-7PM",
+      "type": "SEM"
+    }
+  ],
+  "EDUC-995": [
+    {
+      "section": "005",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "026",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "074",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "124",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "ENGL-068": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "ENGL-092": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "ENGL-101": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "ENGL-102": [
+    {
+      "section": "920",
+      "day": "MWF",
+      "time": "6-8:30PM",
+      "type": "LEC"
+    }
+  ],
+  "ENGL-103": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "ENGL-105": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    },
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    },
+    {
+      "section": "900",
+      "day": "M",
+      "time": "4:30-8:20PM",
+      "type": "LEC"
+    },
+    {
+      "section": "910",
+      "day": "R",
+      "time": "6-8PM",
+      "type": "ONL"
+    }
+  ],
+  "ENM-503": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "2-5:50PM",
+      "type": "LEC"
+    }
+  ],
+  "ENVS-181": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "EPID-510": [
+    {
+      "section": "920",
+      "day": "MWRF",
+      "time": "8:30-10:30AM",
+      "type": "LEC"
+    }
+  ],
+  "EPID-526": [
+    {
+      "section": "920",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "EPID-656": [
+    {
+      "section": "910",
+      "day": "MR",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "EPID-672": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "EPID-710": [
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "W",
+      "time": "9-12NOON",
+      "type": "SEM"
+    }
+  ],
+  "EPID-811": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "1-3PM",
+      "type": "LEC"
+    }
+  ],
+  "EPID-812": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "3-4:30PM",
+      "type": "LEC"
+    }
+  ],
+  "EPID-814": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "9-11AM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "MTWRF",
+      "time": "9-11AM",
+      "type": "LEC"
+    }
+  ],
+  "EPID-815": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "8:30-10:30AM",
+      "type": "LEC"
+    }
+  ],
+  "ESE-407": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "12-3:50PM",
+      "type": "LEC"
+    }
+  ],
+  "ESE-507": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "12-3:50PM",
+      "type": "LEC"
+    }
+  ],
+  "ESE-597": [
+    {
+      "section": "902",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    }
+  ],
+  "FNAR-061": [
+    {
+      "section": "910",
+      "day": "MTR",
+      "time": "5-7:30PM",
+      "type": "SEM"
+    }
+  ],
+  "FNAR-123": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "4:30-7:30PM",
+      "type": "STU"
+    }
+  ],
+  "FNAR-250": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "4:30-7:30PM",
+      "type": "STU"
+    }
+  ],
+  "FNAR-258": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "5-8PM",
+      "type": "STU"
+    }
+  ],
+  "FNAR-264": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "4:30-7:30PM",
+      "type": "STU"
+    }
+  ],
+  "FNAR-271": [
+    {
+      "section": "910",
+      "day": "MTW",
+      "time": "5-7:30PM",
+      "type": "STU"
+    }
+  ],
+  "FNAR-340": [
+    {
+      "section": "910",
+      "day": "MTW",
+      "time": "5-7:30PM",
+      "type": "STU"
+    }
+  ],
+  "FNAR-558": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "5-8PM",
+      "type": "STU"
+    }
+  ],
+  "FNAR-571": [
+    {
+      "section": "910",
+      "day": "MTW",
+      "time": "5-7:30PM",
+      "type": "STU"
+    }
+  ],
+  "FNAR-636": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "4:30-7:30PM",
+      "type": "STU"
+    }
+  ],
+  "FNCE-100": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "4:30-8:20PM",
+      "type": "LEC"
+    }
+  ],
+  "FNCE-101": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:30PM",
+      "type": "LEC"
+    }
+  ],
+  "FNCE-206": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "4:30-8:20PM",
+      "type": "LEC"
+    }
+  ],
+  "FNCE-611": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "4:30-8:20PM",
+      "type": "LEC"
+    }
+  ],
+  "FNCE-613": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:30PM",
+      "type": "LEC"
+    }
+  ],
+  "FNCE-717": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "4:30-8:20PM",
+      "type": "LEC"
+    }
+  ],
+  "FOLK-270": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "6-9PM",
+      "type": "LEC"
+    }
+  ],
+  "FREN-110": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "10-12NOON",
+      "type": "SEM"
+    }
+  ],
+  "FREN-120": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "10-12NOON",
+      "type": "SEM"
+    }
+  ],
+  "FREN-134": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "10-12NOON",
+      "type": "SEM"
+    }
+  ],
+  "FREN-216": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "FREN-226": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "FREN-233": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "027",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "028",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    }
+  ],
+  "GEOL-319": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "GREK-112": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "9-12:30PM",
+      "type": "SEM"
+    }
+  ],
+  "GREK-212": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "10-1:30PM",
+      "type": "SEM"
+    }
+  ],
+  "GRMN-181": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "GSWS-002": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "12-2:30PM",
+      "type": "LEC"
+    }
+  ],
+  "GSWS-003": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "GSWS-125": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "1-4:10PM",
+      "type": "SEM"
+    }
+  ],
+  "GSWS-270": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "6-9PM",
+      "type": "LEC"
+    }
+  ],
+  "GSWS-590": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "HIST-005": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "HIST-036": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "12-2:30PM",
+      "type": "LEC"
+    }
+  ],
+  "HIST-040": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "HIST-180": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "HIST-202": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "HIST-220": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5-8:10PM",
+      "type": "SEM"
+    }
+  ],
+  "HIST-367": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "12-2:30PM",
+      "type": "LEC"
+    }
+  ],
+  "HIST-412": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "12-2:30PM",
+      "type": "LEC"
+    }
+  ],
+  "HPR-501": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "HPR-503": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "HPR-600": [
+    {
+      "section": "920",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "920",
+      "day": "R",
+      "time": "1-2:30PM",
+      "type": "SEM"
+    }
+  ],
+  "HPR-602": [
+    {
+      "section": "920",
+      "day": "R",
+      "time": "1-2:30PM",
+      "type": "SEM"
+    }
+  ],
+  "HPR-621": [
+    {
+      "section": "901",
+      "day": "R",
+      "time": "2:30-4PM",
+      "type": "SEM"
+    }
+  ],
+  "HPR-622": [
+    {
+      "section": "901",
+      "day": "R",
+      "time": "2:30-4PM",
+      "type": "SEM"
+    }
+  ],
+  "HPR-951": [
+    {
+      "section": "940",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    },
+    {
+      "section": "948",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    },
+    {
+      "section": "949",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    },
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "HSOC-002": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "12-2:30PM",
+      "type": "LEC"
+    }
+  ],
+  "HSOC-003": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "HSOC-131": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "5-8:50PM",
+      "type": "SEM"
+    }
+  ],
+  "HSPV-750": [
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "STU"
+    }
+  ],
+  "HSPV-760": [
+    {
+      "section": "901",
+      "day": "MTWRF",
+      "time": "9-5PM",
+      "type": "STU"
+    }
+  ],
+  "HSPV-770": [
+    {
+      "section": "901",
+      "day": "MTWRF",
+      "time": "9-5PM",
+      "type": "STU"
+    }
+  ],
+  "HSPV-790": [
+    {
+      "section": "901",
+      "day": "MTWR",
+      "time": "9-5PM",
+      "type": "LEC"
+    }
+  ],
+  "INTR-290": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "12-2:30PM",
+      "type": "LEC"
+    }
+  ],
+  "IPD-500": [
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "9-1PM",
+      "type": "LEC"
+    }
+  ],
+  "IPD-503": [
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "1:30-5PM",
+      "type": "STU"
+    }
+  ],
+  "IPD-515": [
+    {
+      "section": "910",
+      "day": "T",
+      "time": "1:30-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "213",
+      "day": "W",
+      "time": "1:30-5PM",
+      "type": "LEC"
+    }
+  ],
+  "ITAL-110": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "6-8:35PM",
+      "type": "ONL"
+    }
+  ],
+  "ITAL-297": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "ITAL-300": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "KORN-011": [
+    {
+      "section": "980",
+      "day": "MTWR",
+      "time": "7-8:30PM",
+      "type": "ONL"
+    }
+  ],
+  "LARP-790": [
+    {
+      "section": "901",
+      "day": "MTWRF",
+      "time": "9-5PM",
+      "type": "STU"
+    }
+  ],
+  "LARP-791": [
+    {
+      "section": "901",
+      "day": "MTWRF",
+      "time": "9-5PM",
+      "type": "STU"
+    }
+  ],
+  "LARP-792": [
+    {
+      "section": "901",
+      "day": "MTWR",
+      "time": "9-5PM",
+      "type": "LEC"
+    }
+  ],
+  "LARP-793": [
+    {
+      "section": "901",
+      "day": "MTWRF",
+      "time": "9-5PM",
+      "type": "LEC"
+    }
+  ],
+  "LARP-794": [
+    {
+      "section": "901",
+      "day": "MTWRF",
+      "time": "9-5PM",
+      "type": "LEC"
+    }
+  ],
+  "LARP-795": [
+    {
+      "section": "901",
+      "day": "MTWR",
+      "time": "9-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "LATN-112": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "9-12:30PM",
+      "type": "SEM"
+    }
+  ],
+  "LATN-212": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "9-12:30PM",
+      "type": "SEM"
+    }
+  ],
+  "LAW-511": [
+    {
+      "section": "301",
+      "day": "TR",
+      "time": "5:30-8PM",
+      "type": "LEC"
+    }
+  ],
+  "LAW-516": [
+    {
+      "section": "921",
+      "day": "MTWR",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "LGST-101": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "LGST-210": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "11-1PM",
+      "type": "LEC"
+    }
+  ],
+  "LGST-399": [
+    {
+      "section": "000",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "IND"
+    },
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9:50-1PM",
+      "type": "LEC"
+    }
+  ],
+  "LING-071": [
+    {
+      "section": "980",
+      "day": "TR",
+      "time": "4:30-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "LING-072": [
+    {
+      "section": "981",
+      "day": "TR",
+      "time": "4:30-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "LING-102": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "10-1:10PM",
+      "type": "LEC"
+    }
+  ],
+  "MATH-103": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "1-3:10PM",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "10-12:10PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "MTWR",
+      "time": "5:30-7:30PM",
+      "type": "ONL"
+    }
+  ],
+  "MATH-104": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "1-3:10PM",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "10-12:10PM",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "MTWR",
+      "time": "5:30-7:30PM",
+      "type": "ONL"
+    }
+  ],
+  "MATH-114": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "1-3:10PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "MTWR",
+      "time": "5:30-7:30PM",
+      "type": "ONL"
+    }
+  ],
+  "MATH-170": [
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "1-3:10PM",
+      "type": "LEC"
+    },
+    {
+      "section": "900",
+      "day": "TR",
+      "time": "4:30-6:20PM",
+      "type": "LEC"
+    }
+  ],
+  "MATH-240": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "1-3:10PM",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "1-3:10PM",
+      "type": "LEC"
+    }
+  ],
+  "MATH-241": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "1-3:10PM",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "1-3:10PM",
+      "type": "LEC"
+    }
+  ],
+  "MATH-312": [
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "10-12:10PM",
+      "type": "LEC"
+    }
+  ],
+  "MATH-420": [
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "1-3:10PM",
+      "type": "LEC"
+    }
+  ],
+  "MATH-995": [
+    {
+      "section": "025",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "910",
+      "day": "T",
+      "time": "1:30-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "213",
+      "day": "W",
+      "time": "1:30-5PM",
+      "type": "LEC"
+    }
+  ],
+  "MEAM-699": [
+    {
+      "section": "901",
+      "day": "T",
+      "time": "10:45-11:45AM",
+      "type": "SEM"
+    }
+  ],
+  "MED-600": [
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "9-11AM",
+      "type": "LEC"
+    }
+  ],
+  "MGMT-611": [
+    {
+      "section": "920",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "MTWRF",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "MGMT-612": [
+    {
+      "section": "921",
+      "day": "MTWR",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "MGMT-653": [
+    {
+      "section": "751",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "752",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "MGMT-806": [
+    {
+      "section": "752",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "MSSP-633": [
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "MTR-601": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "2-3:15PM",
+      "type": "SEM"
+    }
+  ],
+  "MTR-602": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "3:30-5PM",
+      "type": "SEM"
+    }
+  ],
+  "MTR-605": [
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "MTR-640": [
+    {
+      "section": "920",
+      "day": "W",
+      "time": "12-1:30PM",
+      "type": "SEM"
+    }
+  ],
+  "MUSC-030": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "MUSC-050": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "MUSC-056": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "NANO-597": [
+    {
+      "section": "902",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    },
+    {
+      "section": "073",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "094",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "910",
+      "day": "SU",
+      "time": "10-5PM",
+      "type": "LEC"
+    }
+  ],
+  "NPLD-593": [
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "NPLD-595": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "5:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-103": [
+    {
+      "section": "920",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "922",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "REC"
+    },
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "REC"
+    }
+  ],
+  "NURS-160": [
+    {
+      "section": "920",
+      "day": "M",
+      "time": "7:30-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "M",
+      "time": "7:30-6PM",
+      "type": "LEC"
+    },
+    {
+      "section": "922",
+      "day": "TR",
+      "time": "7-11AM",
+      "type": "LAB"
+    },
+    {
+      "section": "923",
+      "day": "TR",
+      "time": "12-4PM",
+      "type": "LAB"
+    },
+    {
+      "section": "924",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "REC"
+    },
+    {
+      "section": "940",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "F",
+      "time": "8-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "F",
+      "time": "8-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "931",
+      "day": "WR",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "932",
+      "day": "WR",
+      "time": "1-4PM",
+      "type": "LAB"
+    },
+    {
+      "section": "933",
+      "day": "WR",
+      "time": "5-8PM",
+      "type": "LAB"
+    },
+    {
+      "section": "941",
+      "day": "W",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "941",
+      "day": "R",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "942",
+      "day": "W",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "942",
+      "day": "R",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "943",
+      "day": "W",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "943",
+      "day": "R",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "944",
+      "day": "W",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "944",
+      "day": "R",
+      "time": "9-12NOON",
+      "type": "LAB"
+    },
+    {
+      "section": "945",
+      "day": "W",
+      "time": "1-4PM",
+      "type": "LAB"
+    },
+    {
+      "section": "945",
+      "day": "R",
+      "time": "1-4PM",
+      "type": "LAB"
+    },
+    {
+      "section": "946",
+      "day": "W",
+      "time": "1-4PM",
+      "type": "LAB"
+    },
+    {
+      "section": "946",
+      "day": "R",
+      "time": "1-4PM",
+      "type": "LAB"
+    },
+    {
+      "section": "947",
+      "day": "W",
+      "time": "1-4PM",
+      "type": "LAB"
+    },
+    {
+      "section": "947",
+      "day": "R",
+      "time": "1-4PM",
+      "type": "LAB"
+    },
+    {
+      "section": "948",
+      "day": "W",
+      "time": "1-4PM",
+      "type": "LAB"
+    },
+    {
+      "section": "948",
+      "day": "R",
+      "time": "1-4PM",
+      "type": "LAB"
+    },
+    {
+      "section": "949",
+      "day": "W",
+      "time": "5-8PM",
+      "type": "LAB"
+    },
+    {
+      "section": "949",
+      "day": "R",
+      "time": "5-8PM",
+      "type": "LAB"
+    },
+    {
+      "section": "950",
+      "day": "W",
+      "time": "5-8PM",
+      "type": "LAB"
+    },
+    {
+      "section": "950",
+      "day": "R",
+      "time": "5-8PM",
+      "type": "LAB"
+    },
+    {
+      "section": "951",
+      "day": "W",
+      "time": "5-8PM",
+      "type": "LAB"
+    },
+    {
+      "section": "951",
+      "day": "R",
+      "time": "5-8PM",
+      "type": "LAB"
+    },
+    {
+      "section": "952",
+      "day": "W",
+      "time": "5-8PM",
+      "type": "LAB"
+    },
+    {
+      "section": "952",
+      "day": "R",
+      "time": "5-8PM",
+      "type": "LAB"
+    },
+    {
+      "section": "953",
+      "day": "W",
+      "time": "5-8PM",
+      "type": "LAB"
+    },
+    {
+      "section": "953",
+      "day": "R",
+      "time": "5-8PM",
+      "type": "LAB"
+    }
+  ],
+  "NURS-380": [
+    {
+      "section": "900",
+      "day": "MW",
+      "time": "9-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "MW",
+      "time": "9-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "903",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "904",
+      "day": "T",
+      "time": "2-10PM",
+      "type": "CLN"
+    },
+    {
+      "section": "904",
+      "day": "S",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "905",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "906",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "907",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "908",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "909",
+      "day": "TR",
+      "time": "12-8PM",
+      "type": "CLN"
+    },
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "12-8PM",
+      "type": "CLN"
+    },
+    {
+      "section": "911",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "912",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "913",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "914",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "915",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "916",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "917",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "918",
+      "day": "TR",
+      "time": "8-4PM",
+      "type": "CLN"
+    },
+    {
+      "section": "919",
+      "day": "TR",
+      "time": "7-3PM",
+      "type": "CLN"
+    },
+    {
+      "section": "920",
+      "day": "W",
+      "time": "1-5PM",
+      "type": "LAB"
+    },
+    {
+      "section": "921",
+      "day": "F",
+      "time": "7-11AM",
+      "type": "LAB"
+    },
+    {
+      "section": "922",
+      "day": "F",
+      "time": "12-4PM",
+      "type": "LAB"
+    }
+  ],
+  "NURS-500": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-509": [
+    {
+      "section": "920",
+      "day": "W",
+      "time": "9-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "W",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-511": [
+    {
+      "section": "920",
+      "day": "R",
+      "time": "9-4PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-540": [
+    {
+      "section": "900",
+      "day": "M",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-549": [
+    {
+      "section": "900",
+      "day": "S",
+      "time": "9-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "219",
+      "day": "S",
+      "time": "9-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "210",
+      "day": "S",
+      "time": "9-5PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-607": [
+    {
+      "section": "900",
+      "day": "F",
+      "time": "9-1PM",
+      "type": "LEC"
+    },
+    {
+      "section": "118",
+      "day": "F",
+      "time": "1-2PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-610": [
+    {
+      "section": "910",
+      "day": "R",
+      "time": "5-8PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-619": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-625": [
+    {
+      "section": "920",
+      "day": "T",
+      "time": "9-5PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-626": [
+    {
+      "section": "910",
+      "day": "R",
+      "time": "9-4PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-637": [
+    {
+      "section": "910",
+      "day": "WR",
+      "time": "1-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "W",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-643": [
+    {
+      "section": "910",
+      "day": "W",
+      "time": "5-8PM",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    }
+  ],
+  "NURS-651": [
+    {
+      "section": "900",
+      "day": "R",
+      "time": "5-8PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-655": [
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    }
+  ],
+  "NURS-657": [
+    {
+      "section": "900",
+      "day": "W",
+      "time": "5-9PM",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "M",
+      "time": "5-9PM",
+      "type": "LAB"
+    },
+    {
+      "section": "902",
+      "day": "T",
+      "time": "5-9PM",
+      "type": "LAB"
+    },
+    {
+      "section": "902",
+      "day": "T",
+      "time": "5-6PM",
+      "type": "LAB"
+    },
+    {
+      "section": "903",
+      "day": "W",
+      "time": "5-9PM",
+      "type": "LAB"
+    },
+    {
+      "section": "903",
+      "day": "W",
+      "time": "5-6PM",
+      "type": "LAB"
+    },
+    {
+      "section": "904",
+      "day": "R",
+      "time": "5-9PM",
+      "type": "LAB"
+    },
+    {
+      "section": "904",
+      "day": "R",
+      "time": "5-6PM",
+      "type": "LAB"
+    }
+  ],
+  "NURS-660": [
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "911",
+      "day": "W",
+      "time": "9-1PM",
+      "type": "SEM"
+    },
+    {
+      "section": "912",
+      "day": "W",
+      "time": "9-1PM",
+      "type": "SEM"
+    }
+  ],
+  "NURS-661": [
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "911",
+      "day": "W",
+      "time": "9-1PM",
+      "type": "SEM"
+    },
+    {
+      "section": "912",
+      "day": "W",
+      "time": "9-1PM",
+      "type": "SEM"
+    }
+  ],
+  "NURS-663": [
+    {
+      "section": "920",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "921",
+      "day": "W",
+      "time": "9-1PM",
+      "type": "SEM"
+    },
+    {
+      "section": "922",
+      "day": "W",
+      "time": "9-1PM",
+      "type": "SEM"
+    },
+    {
+      "section": "923",
+      "day": "W",
+      "time": "9-1PM",
+      "type": "SEM"
+    }
+  ],
+  "NURS-667": [
+    {
+      "section": "900",
+      "day": "W",
+      "time": "6:30-8:30PM",
+      "type": "ONL"
+    },
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "910",
+      "day": "M",
+      "time": "9-4PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-675": [
+    {
+      "section": "900",
+      "day": "TWR",
+      "time": "8-4:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "912",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    }
+  ],
+  "NURS-681": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "NURS-699": [
+    {
+      "section": "900",
+      "day": "R",
+      "time": "9-5PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-707": [
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "911",
+      "day": "T",
+      "time": "9-12NOON",
+      "type": "SEM"
+    },
+    {
+      "section": "912",
+      "day": "T",
+      "time": "9-12NOON",
+      "type": "SEM"
+    },
+    {
+      "section": "913",
+      "day": "T",
+      "time": "9-12NOON",
+      "type": "SEM"
+    }
+  ],
+  "NURS-714": [
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "M",
+      "time": "8-12NOON",
+      "type": "CLN"
+    },
+    {
+      "section": "220",
+      "day": "M",
+      "time": "1-5PM",
+      "type": "CLN"
+    }
+  ],
+  "NURS-736": [
+    {
+      "section": "910",
+      "day": "W",
+      "time": "8-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "W",
+      "time": "8-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "912",
+      "day": "MWRF",
+      "time": "8-5PM",
+      "type": "REC"
+    }
+  ],
+  "NURS-737": [
+    {
+      "section": "910",
+      "day": "T",
+      "time": "8-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "T",
+      "time": "8-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "922",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "923",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "924",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "920",
+      "day": "M",
+      "time": "8-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "214",
+      "day": "M",
+      "time": "1-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "924",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "925",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "926",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "900",
+      "day": "M",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-770": [
+    {
+      "section": "900",
+      "day": "R",
+      "time": "8-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "RF",
+      "time": "8-5PM",
+      "type": "CLN"
+    },
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "902",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "MTWRF",
+      "time": "9-5PM",
+      "type": "CLN"
+    }
+  ],
+  "NURS-778": [
+    {
+      "section": "900",
+      "day": "M",
+      "time": "9-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "WR",
+      "time": "12-5PM",
+      "type": "CLN"
+    }
+  ],
+  "NURS-780": [
+    {
+      "section": "900",
+      "day": "R",
+      "time": "1-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    }
+  ],
+  "NURS-785": [
+    {
+      "section": "910",
+      "day": "MT",
+      "time": "9-5PM",
+      "type": "CLN"
+    }
+  ],
+  "NURS-787": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "9-1PM",
+      "type": "LEC"
+    }
+  ],
+  "NURS-788": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "1-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "900",
+      "day": "T",
+      "time": "9-1PM",
+      "type": "SEM"
+    },
+    {
+      "section": "901",
+      "day": "MWRF",
+      "time": "5:30-4:30PM",
+      "type": "CLN"
+    }
+  ],
+  "NURS-796": [
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "901",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CLN"
+    },
+    {
+      "section": "007",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "008",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "011",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "013",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "015",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "019",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "021",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "026",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "031",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "036",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "043",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "DIS"
+    },
+    {
+      "section": "911",
+      "day": "TR",
+      "time": "5:15-9:05PM",
+      "type": "LEC"
+    }
+  ],
+  "OIDD-415": [
+    {
+      "section": "910",
+      "day": "T",
+      "time": "1:30-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "213",
+      "day": "W",
+      "time": "1:30-5PM",
+      "type": "LEC"
+    }
+  ],
+  "OIDD-652": [
+    {
+      "section": "751",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "OIDD-691": [
+    {
+      "section": "911",
+      "day": "TR",
+      "time": "5:15-9:05PM",
+      "type": "LEC"
+    }
+  ],
+  "OIDD-693": [
+    {
+      "section": "701",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "PHIL-002": [
+    {
+      "section": "920",
+      "day": "MR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "PHRM-699": [
+    {
+      "section": "089",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "106",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "905",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "906",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "907",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "908",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "918",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "905",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    }
+  ],
+  "PHYS-101": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "10-1PM",
+      "type": "LEC"
+    },
+    {
+      "section": "910",
+      "day": "F",
+      "time": "10-1PM",
+      "type": "LEC"
+    },
+    {
+      "section": "911",
+      "day": "MW",
+      "time": "1:30-4PM",
+      "type": "LAB"
+    }
+  ],
+  "PHYS-102": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "10-12:45PM",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "F",
+      "time": "10-12:45PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "MW",
+      "time": "1:30-4PM",
+      "type": "LAB"
+    },
+    {
+      "section": "923",
+      "day": "TR",
+      "time": "1:30-4PM",
+      "type": "LAB"
+    }
+  ],
+  "PHYS-141": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "PHYS-151": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "9-12NOON",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "MW",
+      "time": "1:30-4PM",
+      "type": "LAB"
+    }
+  ],
+  "PPE-222": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "SEM"
+    }
+  ],
+  "PPE-260": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "SEM"
+    }
+  ],
+  "PPE-299": [
+    {
+      "section": "000",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "IND"
+    },
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "PSCI-113": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    },
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "PSCI-130": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "PSCI-150": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "PSCI-186": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "PSCI-232": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "PSCI-358": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "PSGI-100": [
+    {
+      "section": "920",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "5-7:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "PSYC-109": [
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "4:30-6:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "F",
+      "time": "4:30-6:30PM",
+      "type": "LAB"
+    },
+    {
+      "section": "922",
+      "day": "F",
+      "time": "2:30-4:30PM",
+      "type": "LAB"
+    }
+  ],
+  "PSYC-160": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "1-2:45PM",
+      "type": "LEC"
+    }
+  ],
+  "PSYC-170": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "PSYC-225": [
+    {
+      "section": "900",
+      "day": "MW",
+      "time": "4:30-6:25PM",
+      "type": "LEC"
+    }
+  ],
+  "PSYC-251": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    },
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "PSYC-253": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "PSYC-280": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "PSYC-462": [
+    {
+      "section": "920",
+      "day": "MWF",
+      "time": "6-8:30PM",
+      "type": "SEM"
+    }
+  ],
+  "PUBH-501": [
+    {
+      "section": "900",
+      "day": "W",
+      "time": "5-8PM",
+      "type": "LEC"
+    }
+  ],
+  "PUBH-502": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "PUBH-504": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "PUBH-505": [
+    {
+      "section": "900",
+      "day": "R",
+      "time": "4:30-7:30PM",
+      "type": "LEC"
+    }
+  ],
+  "PUBH-506": [
+    {
+      "section": "900",
+      "day": "W",
+      "time": "5-8PM",
+      "type": "LEC"
+    }
+  ],
+  "PUBH-508": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "5-8PM",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "T",
+      "time": "5-8PM",
+      "type": "LEC"
+    }
+  ],
+  "PUBH-509": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "5-8PM",
+      "type": "LEC"
+    }
+  ],
+  "PUBH-517": [
+    {
+      "section": "900",
+      "day": "W",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "PUBH-531": [
+    {
+      "section": "900",
+      "day": "M",
+      "time": "5-8PM",
+      "type": "LEC"
+    }
+  ],
+  "PUBH-538": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "9-12NOON",
+      "type": "LEC"
+    }
+  ],
+  "PUBH-541": [
+    {
+      "section": "900",
+      "day": "R",
+      "time": "1-4PM",
+      "type": "LEC"
+    }
+  ],
+  "REAL-399": [
+    {
+      "section": "000",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "IND"
+    },
+    {
+      "section": "000",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "IND"
+    },
+    {
+      "section": "909",
+      "day": "T",
+      "time": "4-7PM",
+      "type": "LEC"
+    }
+  ],
+  "RUSS-125": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "1-4:10PM",
+      "type": "SEM"
+    }
+  ],
+  "RUSS-193": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "RUSS-197": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "5-8:10PM",
+      "type": "LEC"
+    }
+  ],
+  "RUSS-220": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "5-8:10PM",
+      "type": "SEM"
+    }
+  ],
+  "SOCI-004": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "SOCI-010": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "LEC"
+    }
+  ],
+  "SOCI-135": [
+    {
+      "section": "920",
+      "day": "MW",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "SOCI-235": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "SOCI-450": [
+    {
+      "section": "900",
+      "day": "TR",
+      "time": "6-7:20PM",
+      "type": "ONL"
+    }
+  ],
+  "SOCI-530": [
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "9:30-2:30PM",
+      "type": "SEM"
+    },
+    {
+      "section": "955",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "956",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "910",
+      "day": "MTWR",
+      "time": "6-8:30PM",
+      "type": "SEM"
+    }
+  ],
+  "SPAN-212": [
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "SPAN-224": [
+    {
+      "section": "955",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "951",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "SPAN-229": [
+    {
+      "section": "955",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "951",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "951",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "951",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "9-10:45AM",
+      "type": "LEC"
+    }
+  ],
+  "STAT-111": [
+    {
+      "section": "910",
+      "day": "MTWRF",
+      "time": "11-12:45PM",
+      "type": "LEC"
+    }
+  ],
+  "STAT-399": [
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "IND"
+    },
+    {
+      "section": "910",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "IND"
+    },
+    {
+      "section": "920",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "IND"
+    },
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "STSC-002": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "12-2:30PM",
+      "type": "LEC"
+    }
+  ],
+  "STSC-003": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "STSC-123": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1:15-5:05PM",
+      "type": "SEM"
+    }
+  ],
+  "SWRK-620": [
+    {
+      "section": "920",
+      "day": "R",
+      "time": "9:30-12NOON",
+      "type": "SEM"
+    },
+    {
+      "section": "921",
+      "day": "R",
+      "time": "9:30-12NOON",
+      "type": "SEM"
+    }
+  ],
+  "SWRK-711": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1-3:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "TR",
+      "time": "1-3:30PM",
+      "type": "LEC"
+    }
+  ],
+  "SWRK-729": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "4-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "SWRK-738": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "6:45-9:15PM",
+      "type": "LEC"
+    }
+  ],
+  "SWRK-743": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "4-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "SWRK-744": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "6:45-9:15PM",
+      "type": "ONL"
+    },
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "4-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "SWRK-749": [
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "SWRK-760": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "6:45-9:15PM",
+      "type": "LEC"
+    }
+  ],
+  "SWRK-765": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "4-6:30PM",
+      "type": "LEC"
+    }
+  ],
+  "SWRK-772": [
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "SWRK-774": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "6:45-9:15PM",
+      "type": "LEC"
+    }
+  ],
+  "SWRK-781": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "6:45-9:15PM",
+      "type": "LEC"
+    }
+  ],
+  "SWRK-786": [
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "6:45-9:15PM",
+      "type": "LEC"
+    }
+  ],
+  "SWRK-788": [
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "300",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "308",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "400",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "ONL"
+    },
+    {
+      "section": "950",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "LEC"
+    }
+  ],
+  "TURK-021": [
+    {
+      "section": "980",
+      "day": "MTWR",
+      "time": "6-7:15PM",
+      "type": "LEC"
+    }
+  ],
+  "TURK-621": [
+    {
+      "section": "980",
+      "day": "MTWR",
+      "time": "6-7:15PM",
+      "type": "LEC"
+    }
+  ],
+  "URBS-367": [
+    {
+      "section": "910",
+      "day": "MWF",
+      "time": "12-2:30PM",
+      "type": "LEC"
+    }
+  ],
+  "URBS-390": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "9-12:50PM",
+      "type": "SEM"
+    }
+  ],
+  "URBS-450": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "VCSN-774": [
+    {
+      "section": "006",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "007",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "008",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    }
+  ],
+  "VCSN-812": [
+    {
+      "section": "402",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "404",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "406",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "408",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "404",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "402",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "404",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "406",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "408",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "404",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "005",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "008",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "006",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "002",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "003",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "004",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "006",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "007",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    }
+  ],
+  "VCSP-714": [
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "401",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "402",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "403",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "404",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "405",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "406",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "407",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "408",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "401",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "402",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "403",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "404",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "405",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "406",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "407",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "408",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "401",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "402",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "403",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "404",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "405",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "406",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "407",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "408",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    }
+  ],
+  "VCSP-770": [
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "003",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "005",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "007",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "008",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    }
+  ],
+  "VCSP-777": [
+    {
+      "section": "401",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "402",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "403",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "404",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "405",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "406",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "407",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "408",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "401",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "402",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "403",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "404",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "405",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "406",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "407",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "408",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "401",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "402",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "403",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "404",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "405",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "406",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "407",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "408",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    }
+  ],
+  "VCSP-879": [
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "002",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "003",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "004",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "005",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "006",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "007",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "008",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    }
+  ],
+  "VISR-648": [
+    {
+      "section": "002",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "047",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "050",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "051",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "061",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "065",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "090",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "091",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "092",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "093",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "047",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "048",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "049",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "052",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "053",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "060",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "061",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "002",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "003",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "004",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "005",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "006",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "007",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "008",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "008",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "CRT"
+    },
+    {
+      "section": "007",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "124",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "161",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "001",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "922",
+      "day": "MWF",
+      "time": "12-2:30PM",
+      "type": "SEM"
+    }
+  ],
+  "AFRC-487": [
+    {
+      "section": "941",
+      "day": "TR",
+      "time": "5-8PM",
+      "type": "SEM"
+    }
+  ],
+  "ANTH-123": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "5:30-8:30PM",
+      "type": "ONL"
+    }
+  ],
+  "ANTH-238": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "9-12:50PM",
+      "type": "LEC"
+    }
+  ],
+  "ANTH-518": [
+    {
+      "section": "940",
+      "day": "W",
+      "time": "4:30-8:20PM",
+      "type": "SEM"
+    }
+  ],
+  "ARAB-431": [
+    {
+      "section": "921",
+      "day": "MW",
+      "time": "8-10PM",
+      "type": "ONL"
+    }
+  ],
+  "BIBB-270": [
+    {
+      "section": "900",
+      "day": "MW",
+      "time": "4:30-6:25PM",
+      "type": "LEC"
+    }
+  ],
+  "BIBB-350": [
+    {
+      "section": "910",
+      "day": "TR",
+      "time": "6-8PM",
+      "type": "ONL"
+    }
+  ],
+  "BIBB-469": [
+    {
+      "section": "900",
+      "day": "M",
+      "time": "4:30-8:20PM",
+      "type": "SEM"
+    }
+  ],
+  "BIOL-201": [
+    {
+      "section": "900",
+      "day": "TR",
+      "time": "5:30-7:25PM",
+      "type": "LEC"
+    },
+    {
+      "section": "901",
+      "day": "TR",
+      "time": "7:25-7:50PM",
+      "type": "REC"
+    }
+  ],
+  "BIOL-203": [
+    {
+      "section": "900",
+      "day": "TR",
+      "time": "8-10AM",
+      "type": "LEC"
+    }
+  ],
+  "BIOL-404": [
+    {
+      "section": "900",
+      "day": "W",
+      "time": "5-8:50PM",
+      "type": "LEC"
+    }
+  ],
+  "BIOL-407": [
+    {
+      "section": "900",
+      "day": "W",
+      "time": "6:30-9:30PM",
+      "type": "SEM"
+    }
+  ],
+  "CINE-116": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "4:30-6:30PM",
+      "type": "ONL"
+    }
+  ],
+  "CLST-100": [
+    {
+      "section": "910",
+      "day": "W",
+      "time": "4:30-6PM",
+      "type": "ONL"
+    }
+  ],
+  "CLST-337": [
+    {
+      "section": "910",
+      "day": "R",
+      "time": "4:30-6PM",
+      "type": "ONL"
+    }
+  ],
+  "COML-507": [
+    {
+      "section": "940",
+      "day": "W",
+      "time": "5-8:50PM",
+      "type": "SEM"
+    }
+  ],
+  "COMM-491": [
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "DYNM-542": [
+    {
+      "section": "900",
+      "day": "SU",
+      "time": "8:45-5PM",
+      "type": "SEM"
+    }
+  ],
+  "DYNM-551": [
+    {
+      "section": "910",
+      "day": "T",
+      "time": "5-9PM",
+      "type": "SEM"
+    },
+    {
+      "section": "910",
+      "day": "F",
+      "time": "4:30-8:30PM",
+      "type": "SEM"
+    }
+  ],
+  "DYNM-603": [
+    {
+      "section": "900",
+      "day": "FS",
+      "time": "9-5PM",
+      "type": "SEM"
+    },
+    {
+      "section": "900",
+      "day": "U",
+      "time": "8-12NOON",
+      "type": "SEM"
+    }
+  ],
+  "DYNM-625": [
+    {
+      "section": "900",
+      "day": "S",
+      "time": "9-5PM",
+      "type": "SEM"
+    }
+  ],
+  "DYNM-635": [
+    {
+      "section": "900",
+      "day": "S",
+      "time": "9-5:30PM",
+      "type": "SEM"
+    }
+  ],
+  "DYNM-637": [
+    {
+      "section": "920",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "DYNM-675": [
+    {
+      "section": "910",
+      "day": "FS",
+      "time": "9-5:30PM",
+      "type": "SEM"
+    }
+  ],
+  "DYNM-676": [
+    {
+      "section": "900",
+      "day": "R",
+      "time": "5-8PM",
+      "type": "SEM"
+    }
+  ],
+  "DYNM-756": [
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    }
+  ],
+  "DYNM-786": [
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    },
+    {
+      "section": "910",
+      "day": "TW",
+      "time": "10-11AM",
+      "type": "ONL"
+    }
+  ],
+  "EALC-121": [
+    {
+      "section": "910",
+      "day": "T",
+      "time": "6:30-8:30PM",
+      "type": "ONL"
+    }
+  ],
+  "ECON-001": [
+    {
+      "section": "922",
+      "day": "TR",
+      "time": "5:30-7:30PM",
+      "type": "ONL"
+    }
+  ],
+  "ENGL-010": [
+    {
+      "section": "900",
+      "day": "R",
+      "time": "5-8:50PM",
+      "type": "SEM"
+    }
+  ],
+  "ENGL-116": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "4:30-6:30PM",
+      "type": "ONL"
+    }
+  ],
+  "ENGL-132": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "4:30-8:30PM",
+      "type": "SEM"
+    }
+  ],
+  "ENGL-410": [
+    {
+      "section": "941",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "ENGL-415": [
+    {
+      "section": "942",
+      "day": "TR",
+      "time": "4:30-8PM",
+      "type": "SEM"
+    }
+  ],
+  "ENGL-461": [
+    {
+      "section": "940",
+      "day": "W",
+      "time": "5:30-8:30PM",
+      "type": "SEM"
+    }
+  ],
+  "ENGL-488": [
+    {
+      "section": "941",
+      "day": "TR",
+      "time": "5-8PM",
+      "type": "SEM"
+    }
+  ],
+  "ENVS-604": [
+    {
+      "section": "960",
+      "day": "M",
+      "time": "6-9PM",
+      "type": "LEC"
+    }
+  ],
+  "ENVS-610": [
+    {
+      "section": "960",
+      "day": "W",
+      "time": "5:30-8:10PM",
+      "type": "LEC"
+    }
+  ],
+  "ENVS-626": [
+    {
+      "section": "960",
+      "day": "T",
+      "time": "6-8PM",
+      "type": "ONL"
+    }
+  ],
+  "ENVS-655": [
+    {
+      "section": "990",
+      "day": "R",
+      "time": "6-8PM",
+      "type": "ONL"
+    }
+  ],
+  "ENVS-699": [
+    {
+      "section": "960",
+      "day": "R",
+      "time": "6-8PM",
+      "type": "ONL"
+    }
+  ],
+  "FOLK-101": [
+    {
+      "section": "900",
+      "day": "W",
+      "time": "7-8:55PM",
+      "type": "ONL"
+    }
+  ],
+  "GAFL-502": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "6-9PM",
+      "type": "SEM"
+    }
+  ],
+  "GAFL-517": [
+    {
+      "section": "900",
+      "day": "S",
+      "time": "9:30-1PM",
+      "type": "SEM"
+    }
+  ],
+  "GAFL-548": [
+    {
+      "section": "900",
+      "day": "M",
+      "time": "7:45-8:45PM",
+      "type": "ONL"
+    }
+  ],
+  "GAFL-550": [
+    {
+      "section": "900",
+      "day": "T",
+      "time": "6:15-7:15PM",
+      "type": "ONL"
+    }
+  ],
+  "GAFL-561": [
+    {
+      "section": "900",
+      "day": "M",
+      "time": "7:45-8:45PM",
+      "type": "ONL"
+    }
+  ],
+  "GAFL-641": [
+    {
+      "section": "900",
+      "day": "M",
+      "time": "6:30-7:30PM",
+      "type": "ONL"
+    }
+  ],
+  "GAFL-799": [
+    {
+      "section": "900",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "ONL"
+    },
+    {
+      "section": "900",
+      "day": "W",
+      "time": "5-8:50PM",
+      "type": "LEC"
+    }
+  ],
+  "GEOL-663": [
+    {
+      "section": "990",
+      "day": "M",
+      "time": "6-9PM",
+      "type": "LEC"
+    }
+  ],
+  "GEOL-699": [
+    {
+      "section": "990",
+      "day": "R",
+      "time": "6-8PM",
+      "type": "ONL"
+    }
+  ],
+  "GEOL-990": [
+    {
+      "section": "990",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    }
+  ],
+  "GSWS-423": [
+    {
+      "section": "900",
+      "day": "M",
+      "time": "6-9PM",
+      "type": "ONL"
+    }
+  ],
+  "HIND-400": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "6-8PM",
+      "type": "ONL"
+    }
+  ],
+  "HIST-455": [
+    {
+      "section": "900",
+      "day": "TR",
+      "time": "6-7:20PM",
+      "type": "ONL"
+    }
+  ],
+  "HSOC-111": [
+    {
+      "section": "900",
+      "day": "TR",
+      "time": "5:30-7:25PM",
+      "type": "LEC"
+    }
+  ],
+  "ITAL-120": [
+    {
+      "section": "920",
+      "day": "MTWR",
+      "time": "6-8:30PM",
+      "type": "ONL"
+    }
+  ],
+  "MATH-101": [
+    {
+      "section": "920",
+      "day": "MTR",
+      "time": "12-2:30PM",
+      "type": "ONL"
+    }
+  ],
+  "MCS-990": [
+    {
+      "section": "930",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "MST"
+    },
+    {
+      "section": "941",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "996",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "997",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LAB"
+    },
+    {
+      "section": "911",
+      "day": "MW",
+      "time": "5-7PM",
+      "type": "ONL"
+    }
+  ],
+  "MUSC-051": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "7-9PM",
+      "type": "ONL"
+    }
+  ],
+  "PHIL-001": [
+    {
+      "section": "910",
+      "day": "MW",
+      "time": "6:30-9:30PM",
+      "type": "ONL"
+    }
+  ],
+  "PHIL-003": [
+    {
+      "section": "900",
+      "day": "TR",
+      "time": "7-8:30PM",
+      "type": "ONL"
+    }
+  ],
+  "PHIL-072": [
+    {
+      "section": "910",
+      "day": "W",
+      "time": "5-8PM",
+      "type": "ONL"
+    }
+  ],
+  "PPE-475": [
+    {
+      "section": "900",
+      "day": "TR",
+      "time": "6-7:20PM",
+      "type": "ONL"
+    }
+  ],
+  "PSAB-011": [
+    {
+      "section": "959",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "959",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "959",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "959",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "959",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "959",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "900",
+      "day": "MW",
+      "time": "5:30-7:25PM",
+      "type": "LEC"
+    }
+  ],
+  "PSCI-598": [
+    {
+      "section": "941",
+      "day": "MW",
+      "time": "5-8PM",
+      "type": "SEM"
+    }
+  ],
+  "PSHA-001": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "9-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "286-7",
+      "day": "MTWRF",
+      "time": "9-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "110",
+      "day": "MTWRF",
+      "time": "9-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "311A",
+      "day": "MTWRF",
+      "time": "9-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "311F",
+      "day": "MTWRF",
+      "time": "9-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "315A",
+      "day": "MTWRF",
+      "time": "9-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "MTWR",
+      "time": "9-5PM",
+      "type": "LEC"
+    }
+  ],
+  "PSHS-001": [
+    {
+      "section": "930",
+      "day": "MTWRF",
+      "time": "9-4PM",
+      "type": "LEC"
+    },
+    {
+      "section": "931",
+      "day": "MTWRF",
+      "time": "6-8PM",
+      "type": "LEC"
+    }
+  ],
+  "PSHS-004": [
+    {
+      "section": "926",
+      "day": "TR",
+      "time": "1:30-3PM",
+      "type": "LEC"
+    }
+  ],
+  "PSMA-001": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "9-5PM",
+      "type": "SEM"
+    },
+    {
+      "section": "921",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "SEM"
+    },
+    {
+      "section": "920",
+      "day": "MWF",
+      "time": "9-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "9-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "920",
+      "day": "TR",
+      "time": "1:30-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "MWF",
+      "time": "9-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "TR",
+      "time": "9-1:30PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "TR",
+      "time": "1:30-5PM",
+      "type": "LEC"
+    }
+  ],
+  "PSSA-006": [
+    {
+      "section": "920",
+      "day": "MTWRF",
+      "time": "9-5PM",
+      "type": "LEC"
+    },
+    {
+      "section": "921",
+      "day": "TBA",
+      "time": "TBA",
+      "type": "LEC"
+    },
+    {
+      "section": "900",
+      "day": "MW",
+      "time": "7-8PM",
+      "type": "ONL"
+    }
+  ],
+  "PSYC-440": [
+    {
+      "section": "900",
+      "day": "W",
+      "time": "5-7PM",
+      "type": "ONL"
+    }
+  ],
+  "PSYC-474": [
+    {
+      "section": "941",
+      "day": "TR",
+      "time": "5:30-9:20PM",
+      "type": "SEM"
+    }
+  ],
+  "RELS-013": [
+    {
+      "section": "910",
+      "day": "TW",
+      "time": "10-11AM",
+      "type": "ONL"
+    }
+  ],
+  "SAST-480": [
+    {
+      "section": "940",
+      "day": "W",
+      "time": "5-8:50PM",
+      "type": "SEM"
+    }
+  ],
+  "SOCI-001": [
+    {
+      "section": "900",
+      "day": "MW",
+      "time": "5:30-7:25PM",
+      "type": "LEC"
+    }
+  ],
+  "SOCI-111": [
+    {
+      "section": "900",
+      "day": "TR",
+      "time": "5:30-7:25PM",
+      "type": "LEC"
+    }
+  ],
+  "SPAN-130": [
+    {
+      "section": "900",
+      "day": "TR",
+      "time": "6-8:30PM",
+      "type": "SEM"
+    }
+  ],
+  "URBS-414": [
+    {
+      "section": "942",
+      "day": "MW",
+      "time": "5:30-9PM",
+      "type": "SEM"
+    }
+  ],
+  "WRIT-030": [
+    {
+      "section": "900",
+      "day": "MW",
+      "time": "5:30-7:25PM",
+      "type": "SEM"
+    },
+    {
+      "section": "901",
+      "day": "MW",
+      "time": "5:30-7:25PM",
+      "type": "SEM"
+    },
+    {
+      "section": "902",
+      "day": "TR",
+      "time": "5:30-7:25PM",
+      "type": "SEM"
+    },
+    {
+      "section": "903",
+      "day": "TR",
+      "time": "5:30-7:25PM",
+      "type": "SEM"
+    }
+  ],
+  "WRIT-130": [
+    {
+      "section": "900",
+      "day": "TR",
+      "time": "5:30-7:25PM",
+      "type": "LEC"
+    }
+  ]
+}

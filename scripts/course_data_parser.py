@@ -1,10 +1,10 @@
 import re
-from python.pdf_parser import extract_text
 
 
 # Returns JSON representation of course time info
-def get_course_info(pdf_path):
-    page_text = extract_text(pdf_path)
+def get_course_info(txt_path):
+    with open(txt_path, "r") as file:
+        page_text = file.read()
     tokens = page_text.split()
     time_info = parse_register(tokens)
     course_data = associate_time_with_course(time_info)
@@ -23,19 +23,24 @@ def parse_register(tokens):
             time_info.append((tokens[i - 1] + tokens[i]))
             i = i + 1
         elif is_class_type(tokens[i]) and i > 0:
-            # check for cross-listing
-            listed = False
-            time_info.append(tokens[i - 1])
-            time_info.append(tokens[i])
+            cross_listed = False
+            j = 1
+            section = tokens[i - j]
+            while not is_section(section):
+                j += 1
+                section = tokens[i - j]
+            time_info.append(section)  # section info
+            time_info.append(tokens[i])  # class type
             i = i + 1
             while i < len(tokens):
                 if tokens[i] == "LISTED:":
-                    listed = True
+                    cross_listed = True
                 if tokens[i] == "LIST:":
-                    listed = False
+                    cross_listed = False
                 if is_class_type(tokens[i]):
                     break
-                if (is_course_code(tokens[i]) or is_dangling_course_number(tokens[i])) and not listed:
+                # check for cross-listing
+                if (is_course_code(tokens[i]) or is_dangling_course_number(tokens[i])) and not cross_listed:
                     break
                 if is_day(tokens[i]) or is_time(tokens[i]):
                     time_info.append(tokens[i])
@@ -67,7 +72,7 @@ def associate_time_with_course(course_time_list):
                         course_time_list[i + 1] == "TBA":
                     section = course_time_list[i - 1]
                     if not is_section(section):
-                        section = ""
+                        section = times[-1]["section"]
                     class_info = {
                         "section": section,
                         "day": "TBA",
@@ -78,29 +83,33 @@ def associate_time_with_course(course_time_list):
                         i = i + 2
                     else:
                         i = i + 3
-                    for t in times:
-                        if t["section"] == section:
-                            break
                     times.append(class_info)
                 elif i > 0 and i + 2 < len(course_time_list) and is_class_type(course_time_list[i]) and \
                         is_day(course_time_list[i + 1]) and is_time(course_time_list[i + 2]):
                     section = course_time_list[i - 1]
                     if not is_section(section):
-                        section = ""
+                        print(key)
+                        print(course_time_list[i])
+                        section = times[-1]["section"]
+                    day = course_time_list[i + 1]
+                    time = course_time_list[i + 2]
+                    course_type = course_time_list[i]
                     class_info = {
                         "section": section,
-                        "day": course_time_list[i + 1],
-                        "time": course_time_list[i + 2],
-                        "type": course_time_list[i]
+                        "day": day,
+                        "time": time,
+                        "type": course_type
                     }
                     if not is_section(section):
                         i = i + 2
                     else:
                         i = i + 3
+                    is_duplicate_time = False
                     for t in times:
-                        if t["section"] == section:
+                        if t["day"] == day and t["time"] == time and t["section"] == section:
+                            is_duplicate_time = True
                             break
-                    times.append(class_info)
+                    if not is_duplicate_time: times.append(class_info)
                 else:
                     i = i + 1
 
@@ -155,7 +164,7 @@ def is_section(token):
 
 
 def is_class_type(token):
-    types = {"LEC", "REC", "LAB", "SEM", "SRT", "STU", "CLN", "ONL", "IND", "DIS"}
+    types = {"LEC", "REC", "LAB", "SEM", "SRT", "STU", "CLN", "ONL", "IND", "DIS", "MST", "CRT"}
     if token in types:
         return True
     else:
