@@ -6,19 +6,37 @@ DATA_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../data"
 
 def semester(filename):
     year = 2000 + int(filename[:2])
-    season = "Fall" if filename[2] == "C" else "Spring"
+    if filename[2] == "A":
+        season = "Spring"
+    elif filename[2] == "B":
+        season = "Summer"
+    else:
+        season = "Fall"
     return season + " " + str(year)
 
 
 # Search a given data directory for course time info
 def search(course, directory):
     print("Beginning search for " + course)
+    results = ""
     for filename in os.listdir(directory):
         with open(directory + "/" + filename, 'r') as file:
             course_data = json.load(file)
             if course in course_data:
-                print("Results from " + semester(filename) + ":")
-                print(stringify_course_info(course_data[course]))
+                results += print("Results from " + semester(filename) + ":")
+                results += print(stringify_course_info(course_data[course]))
+    return results
+
+
+def search_json(course):
+    directory = DATA_DIRECTORY
+    results = {}
+    for filename in os.listdir(directory):
+        with open(directory + "/" + filename, 'r') as file:
+            course_data = json.load(file)
+            if course in course_data:
+                results[semester(filename)] = course_data[course]
+    return json.dumps(results)
 
 
 def stringify_course_info(course_info_list):
