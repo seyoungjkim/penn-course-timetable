@@ -13,7 +13,6 @@ Jinja2==2.10.1
 Mako==1.0.14
 MarkupSafe==1.1.1
 pdfminer.six==20181108
--e git+git@github.com:seyoungjkim/penn-course-timetable.git@9d926d1384931101d74d30a2e8ad0a911f7efca5#egg=penn_course_timetable
 psycopg2-binary==2.8.3
 pycryptodome==3.8.2
 python-dateutil==2.8.0
