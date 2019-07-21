@@ -29,10 +29,12 @@ def results_page(course):
 def display_results(raw_results):
     text = ""
     for semesterData in raw_results:
-        text += "<h3>" + semesterData["semester"] +":</h3>";
-        courseData = semesterData["data"];
+        text += "<h3>" + semesterData["semester"] + ":</h3>"
+        courseData = semesterData["data"]
         for classData in courseData:
-            text += "<p>" + classData["type"] + " " + classData["section"] + " offered " + classData["day"] + " at " + classData["time"] + "</p>"
+            text += "<p>" + classData["type"] + " " + classData["section"] + \
+                " offered " + classData["day"] + \
+                    " at " + classData["time"] + "</p>"
     return Markup(text)
 
 
