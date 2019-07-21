@@ -3,7 +3,7 @@
 The goal is provide an easy way to see Penn course time data from previous semesters for course planning purposes. 
 This is currently not part of the Penn Registrar API (https://penn-sdk.readthedocs.io/en/latest/registrar.html).
 The data is obtained from parsing PDFs from the course register, which is publicly available at 
-https://www.registrar.upenn.edu/archives/index.html. View at https://www.seyoungkim.com/penn-course-timetable or follow
+https://www.registrar.upenn.edu/archives/index.html. View at https://penn-course-timetable.herokuapp.com/ or follow
 setup instructions to run locally.
 
 # Setup
