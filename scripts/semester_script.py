@@ -1,6 +1,5 @@
 import psycopg2
 import os
-import urllib.parse
 
 
 TEXT_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../raw-text/"
@@ -9,9 +8,7 @@ DATABASE_URL = os.environ['DATABASE_URL']
 
 def add_all_semesters():
     try:
-        url = urllib.parse.urlparse(DATABASE_URL)
-        dbname = url.path[1:]
-        connection = psycopg2.connect(dbname=dbname)
+        connection = psycopg2.connect(DATABASE_URL)
         cursor = connection.cursor()
         directory = TEXT_DIRECTORY
         results = []
