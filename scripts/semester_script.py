@@ -2,7 +2,7 @@ import psycopg2
 import os
 
 
-TEXT_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../raw-text"
+TEXT_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../raw-text/"
     
 
 def add_all_semesters():
@@ -17,8 +17,9 @@ def add_all_semesters():
             season, year = parse_semester(filename)
             add_semester(cursor, season, year)
         connection.commit()
+        print("Successfully inserted records into semesters table.")
     except psycopg2.Error as error:
-        print("Failed to insert record into mobile table.", error)
+        print("Failed to insert records into semesters table.", error)
     finally:
         if(connection):
             cursor.close()
@@ -38,7 +39,7 @@ def parse_semester(filename):
 
 
 def add_semester(cursor, season, year):
-    query = "INSERT INTO semesters (SEASON, YEAR) VALUES (%s, %s)"
+    query = "INSERT INTO semesters (SEASON, YEAR) VALUES (%s, %s) ON CONFLICT DO NOTHING"
     record = (season, year)
     cursor.execute(query, record)
 
