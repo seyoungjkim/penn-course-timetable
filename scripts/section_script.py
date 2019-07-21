@@ -4,12 +4,13 @@ import json
 
 
 DATA_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../data/"
+DATABASE = os.environ['DATABASE_URL'].rsplit('/', 1)[-1]
     
 
 # TODO: would likely be cleaner as a class or split into utils
 def add_all_sections():
     try:
-        connection = psycopg2.connect(database="penn_course_timetable_store")
+        connection = psycopg2.connect(database=DATABASE)
         cursor = connection.cursor()
         directory = DATA_DIRECTORY
         results = []

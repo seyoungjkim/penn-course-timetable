@@ -3,6 +3,7 @@ import os
 
 
 TEXT_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../raw-text/"
+DATABASE = os.environ['DATABASE_URL'].rsplit('/', 1)[-1]
     
 
 def add_all_semesters():
