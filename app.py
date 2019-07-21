@@ -1,11 +1,10 @@
 import os
 import re
-from scripts.search_course import search_json
-from flask import Flask, render_template, redirect, request, url_for
+from lib.search_course import search_json, parse_input
+from flask import Flask, render_template, redirect, request, url_for, Markup
 
 
 app = Flask(__name__)
-# app.config.from_object(os.environ['APP_SETTINGS'])
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -22,17 +21,19 @@ def results_page(course):
         course = request.form["course"]
         return redirect(url_for('results_page', course=course))
     parsed_course = parse_input(course)
-    results = search_json(parsed_course)
-    return render_template('index.html', course=parsed_course, results=results)
+    raw_results = search_json(parsed_course)
+    rendered_results = display_results(raw_results)
+    return render_template('index.html', course=parsed_course, results=rendered_results)
 
 
-def parse_input(user_input):
-    if re.match('^[A-Za-z]{2,4}-[0-9]{3}$', user_input):
-        return user_input.upper()
-    elif re.match('^[A-Za-z]{2,4} [0-9]{3}$', user_input):
-        return user_input[:-4].upper() + '-' + user_input[-3:]
-    else:
-        return "NotFound"
+def display_results(raw_results):
+    text = ""
+    for semesterData in raw_results:
+        text += "<h3>" + semesterData["semester"] +":</h3>";
+        courseData = semesterData["data"];
+        for classData in courseData:
+            text += "<p>" + classData["type"] + " " + classData["section"] + " offered " + classData["day"] + " at " + classData["time"] + "</p>"
+    return Markup(text)
 
 
 if __name__ == '__main__':

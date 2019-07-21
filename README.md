@@ -7,20 +7,20 @@ https://www.registrar.upenn.edu/archives/index.html. View at https://www.seyoung
 setup instructions to run locally.
 
 # Setup
-Clone the repo. Run `pip install pdfminer` (Python 2) or `pip install pdfminer.six` (Python 3) to install the PDF parsing package.
+Clone the repo. Run `pip install -r requirements.txt` to install requirements for the app.
 
 Download the desired course timetable PDFs and place in the `/bin` folder. 
-Run `data_extraction_script.py` to parse the data (this may take up to 3 minutes per PDF).
+Run `pip install .`, `python scripts/extract_text_pdf_script.py` (can take quite a while), and `python scripts/data_extraction_script.py` to parse the data.
 
-Finally, check out `search_course.py` to see how you can search for a particular course (currently prints raw JSON data).
+Run `python app.py` to start the app.
 
 # TODO
-* Create better user interface
-* Database design (to support lookup by course over multiple semesters)
-    * SQLite
+* Testing!
+* Create better user interface and prettier design (with autocomplete, etc.)
+* Add database (currently uses JSON files)
 * Define API and data structures
 * Make parsing more efficient (perhaps look into PDFMiner utils or replace tokenization with another parsing process)
-* Fetch and parse older PDFs from Penn Course Register
+* Refactor code
 
 # Course Data
 Example data (see `/data` folder for more):

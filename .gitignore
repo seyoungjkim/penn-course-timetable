@@ -1,2 +1,5 @@
 .idea
 __pycache__
+.DS_Store
+env
+penn_course_timetable.egg-info

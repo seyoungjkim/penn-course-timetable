@@ -8,15 +8,16 @@
 </head>
 <body>
     <h1>Penn Course Timetable</h1>
-    <p>Search for a course!</p>
-    <form id="course-search" method="POST">
-        <input id="course-name" type='text' name="course" action="{{ url_for('results_page', course=course) }}" autocomplete="off"/>
-        <input type='submit' value='Search'/>
-    </form>
-    <div id ="course-results-title">
-        Results for: {{course}}
+    <div class="wrapper">
+        <p>Search for a course!</p>
+        <form id="course-search" method="POST">
+            <input id="course-name" type='text' name="course" action="{{ url_for('results_page', course=course) }}" autocomplete="off"/>
+            <input type='submit' value='Search'/>
+        </form>
+        <div id ="course-results-title">
+            Results for: {{course}}
+        </div>
+        <div id="course-data">{{ results }}</div>
     </div>
-    <div id="course-data">{{ results }}</div>
-    <script type="text/javascript" src="{{ url_for('static', filename='search.js') }}"></script>
 </body>
 </html>

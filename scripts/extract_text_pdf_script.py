@@ -1,4 +1,4 @@
-from scripts.pdf_parser import extract_text_to_file
+from lib.pdf_parser import extract_text_to_file
 import os
 
 PDF_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../pdf/"

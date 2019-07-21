@@ -1,6 +1,6 @@
 import json
 import os
-from scripts.course_data_parser import get_course_info
+from lib.course_data_parser import get_course_info
 
 TEXT_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../raw-text/"
 DATA_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../data/"
