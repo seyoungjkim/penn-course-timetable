@@ -10,6 +10,7 @@ DATABASE = os.environ['DATABASE_URL'].rsplit('/', 1)[-1]
 # TODO: would likely be cleaner as a class or split into utils
 def add_all_sections():
     try:
+        print(DATABASE)
         connection = psycopg2.connect(database=DATABASE)
         cursor = connection.cursor()
         directory = DATA_DIRECTORY
