@@ -2,9 +2,16 @@ import os
 import re
 from lib.search_course import search_json, parse_input
 from flask import Flask, render_template, redirect, request, url_for, Markup
+from flask_sqlalchemy import SQLAlchemy
 
 
 app = Flask(__name__)
+app.config.from_object(os.environ['APP_SETTINGS'])
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+db = SQLAlchemy(app)
+
+
+from models import Semester, Course, Section
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -39,4 +46,4 @@ def display_results(raw_results):
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
