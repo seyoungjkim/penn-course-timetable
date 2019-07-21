@@ -19,6 +19,13 @@ class Course(db.Model):
     def __repr__(self):
         return '<id {}>'.format(self.id)
 
+    def serialize(self):
+        return {
+            'id': self.id,
+            'department': self.department, 
+            'number': self.number,
+        }
+
 
 class Semester(db.Model):
     __tablename__ = 'semesters'
@@ -40,6 +47,7 @@ class Semester(db.Model):
     
     def serialize(self):
         return {
+            'id': self.id,
             'season': self.season, 
             'year': self.year,
         }
@@ -70,3 +78,12 @@ class Section(db.Model):
 
     def __repr__(self):
         return '<id {}>'.format(self.id)
+
+    def serialize(self):
+        return {
+            'id': self.id,
+            'number': self.number,
+            'day': self.day,
+            'time': self.time,
+            'class_format': self.class_format,
+        }

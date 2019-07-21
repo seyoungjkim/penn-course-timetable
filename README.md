@@ -17,7 +17,6 @@ Run `python app.py` to start the app.
 # TODO
 * Testing!
 * Create better user interface and prettier design (with autocomplete, etc.)
-* Add database (currently uses JSON files)
 * Define API and data structures
 * Make parsing more efficient (perhaps look into PDFMiner utils or replace tokenization with another parsing process)
 * Refactor code
