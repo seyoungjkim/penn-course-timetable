@@ -1,14 +1,17 @@
 import psycopg2
 import os
+import urllib.parse
 
 
 TEXT_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../raw-text/"
-DATABASE = os.environ['DATABASE_URL'].rsplit('/', 1)[-1]
+DATABASE_URL = os.environ['DATABASE_URL']
     
 
 def add_all_semesters():
     try:
-        connection = psycopg2.connect(database="penn_course_timetable_store")
+        url = urllib.parse.urlparse(DATABASE_URL)
+        dbname = url.path[1:]
+        connection = psycopg2.connect(dbname=dbname)
         cursor = connection.cursor()
         directory = TEXT_DIRECTORY
         results = []

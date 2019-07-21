@@ -1,17 +1,19 @@
 import psycopg2
 import os
 import json
+import urllib.parse
 
 
 DATA_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + "/../data/"
-DATABASE = os.environ['DATABASE_URL'].rsplit('/', 1)[-1]
+DATABASE_URL = os.environ['DATABASE_URL']
     
 
 # TODO: would likely be cleaner as a class or split into utils
 def add_all_sections():
     try:
-        print(DATABASE)
-        connection = psycopg2.connect(database=DATABASE)
+        url = urllib.parse.urlparse(DATABASE_URL)
+        dbname = url.path[1:]
+        connection = psycopg2.connect(dbname=dbname)
         cursor = connection.cursor()
         directory = DATA_DIRECTORY
         results = []
